@@ -4,7 +4,7 @@ title: HDFC Smartbuy 10X rewards extended till end of May 2019
 date: 2019-05-01 09:35 +0530
 categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-smartbuy-10X-rewards.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 HDFC 10X Reward Points program on [Smartbuy](https://offers.smartbuy.hdfcbank.com) portal has been further extended till 31 May 2019. This is undoubtedly one of the best credit card reward program providing up to 33% back if you hold HDFC Infinia or Diners Club Black credit card.
