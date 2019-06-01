@@ -4,7 +4,7 @@ title: Yes Bank Credit Card spend based offers - May 2019
 date: 2019-05-15 19:11 +0530
 categories: [Yes Bank, Card Offers]
 image: /assets/images/yes-bank-spend-based-amazon-voucher-offer.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 Yes Bank is back with their spend based targeted offers wherein you'll get Amazon vouchers on meeting the target. It seems, many people stopped using Yes Bank credit cards after [Yes Bank devalued their cards](/yes-bank-credit-cards-rewards-reduced/) last month. Hence Yes Bank is trying to increase the volume of transactions using these kind of spend based offers.
