@@ -28,7 +28,7 @@ Yes Bank launched a compare a buy portal, [Yes Cart](https://yescart.yesbank.in)
 
 ### How to avail the offer?
 
-To avail this offer, you need to visit [Yes Cart](https://yescart.yesbank.in) and click on partner merchant logo on which you want to do the shopping. Once you click, you will be prompted with a modal asking for first six and last 4 digits of your credit card along with registered mobile number. Then you need to click on "Submit" and then "Proceed" button (pretty bad user experience in my opinion) to be redirected to partner merchant website. Once you land on partner merchant website, add products to your cart and checkout using Yes Bank credit card. Note that you will get bonus reward points or cash back only on products that are added in the cart after being redirected from Yes Cart.
+To avail this offer, you need to visit [Yes Cart](https://yescart.yesbank.in) and click on partner merchant logo where you want to do the shopping. Once you click, you will be prompted with a modal asking for first six and last four digits of your card along with registered mobile number. Then you need to click on "Submit" and then "Proceed" button (pretty bad user experience in my opinion) to be redirected to partner merchant website. Once you land on partner merchant website, add products to your cart and checkout using Yes Bank credit card. Note that you will get bonus reward points or cash back only on products that are added in the cart after being redirected from Yes Cart.
 
 ### Fulfillment
 
