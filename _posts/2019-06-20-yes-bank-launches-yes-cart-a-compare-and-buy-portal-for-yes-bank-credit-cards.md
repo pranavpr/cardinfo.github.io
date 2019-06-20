@@ -36,7 +36,7 @@ Bonus Reward Points or cash back will be credited within 90 working days from th
 
 ### Bottomline
 
-It seems, the volume of transactions on Yes Bank credit cards has reduced drastically after they [devalued their cards significantly](/yes-bank-credit-cards-rewards-reduced/). Hence they are desperately trying to increase the same by sending [spend based offers](/yes-bank-credit-card-spend-based-offers-may-2019/) and bonus reward points. However, they are not doing enough to lure customers. When compared with [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com/) portal, which provides 10X reward points and 5% cash back, this offers stands no where.
+It seems, the volume of transactions on Yes Bank credit cards has reduced drastically after they [devalued their cards significantly](/yes-bank-credit-cards-rewards-reduced/). Hence they are desperately trying to increase the same by sending [spend based offers](/yes-bank-credit-card-spend-based-offers-may-2019/) and bonus reward points. However, they are not doing enough to lure customers. When compared with [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com/) portal, which provides [10X reward points and 5% cash back](/hdfc-smartbuy-10x-program-revamped-and-extended-till-june-2019/), this offers stands no where.
 
 Also their super premium credit card, Yes Private, has a maximum cap of 7,500 reward points per month which is significantly less than many lower variants. I am not sure what's the strategy of Yes Bank here. Maybe the holders of these super premium credit cards don't care about rewards and are more interested in other facilities offered on the card.
 
