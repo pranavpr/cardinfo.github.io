@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yes Bank launches Yes Cart, a compare and buy portal for Yes Bank Credit Cards
+title: Yes Bank launches Yes Cart, a compare and buy portal for Yes Bank Cards
 date: 2019-06-20 12:07 +0530
 categories: [Yes Bank, Card Offers]
 image: /assets/images/yes-cart.jpg
