@@ -4,7 +4,7 @@ title: HDFC Smartbuy 10X program revamped and extended till June 2019
 date: 2019-06-01 11:15 +0530
 categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-smart-buy-program-revamped.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 HDFC 10X Reward Points program on [Smartbuy](https://offers.smartbuy.hdfcbank.com) portal has been revamped and further extended till 30 June 2019. The most noticeable change is 10X reward point is valid only on HDFC Infinia, Diners Club and Regalia Credit Cards with new maximum caps. Other HDFC credit and debit cards will earn only 5% cash back up to maximum Rs. 1,000 per calendar month.
