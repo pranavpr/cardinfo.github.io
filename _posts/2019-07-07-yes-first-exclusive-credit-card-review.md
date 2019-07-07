@@ -4,6 +4,7 @@ title: Yes First Exclusive Credit Card Review
 date: 2019-07-07 15:49 +0530
 categories: [Yes Bank, Reviews]
 image: /assets/images/yes-first-exclusive-credit-card-review.jpg
+product: Yes First Exclusive Credit Card
 ---
 
 Yes First Exclusive is a super premium credit card offering from Yes Bank. This card provides some of the unparalleled benefits which sets it apart from other super premium credit cards. Unlimited domestic and international airport lounge access to both primary and add-on card members, reward points that never expire, low foreign currency markup of 1.75% are to name a few.
