@@ -9,7 +9,7 @@ product: Amazon Pay ICICI Bank Credit Card
 
 Amazon in collaboration with ICICI Bank launched Amazon Pay ICICI Bank Credit Card in October 2018. This card makes your shopping on Amazon more rewarding by providing a reward rate of up to 5% if you are a Amazon Prime member.
 
-#### Eligibility Criteria
+### Eligibility Criteria
 
 At this point of time, this card is invite only. I'm not sure what algorithm Amazon uses for invites. However a healthy relationship with ICICI bank and an existing credit card from ICICI certainly increases the chance for invitation.
 
@@ -17,11 +17,11 @@ At this point of time, this card is invite only. I'm not sure what algorithm Ama
 
 You can check the eligibility by visiting [this](https://www.amazon.in/cbcc/marketpage) page. If eligible, you can apply for the card by providing details of your existing ICICI Credit Card. If everything goes smooth, you would be issued a digital version of the card instantly. The physical card would be delivered to your mailing address within 7 working days. The credit limit of this card would be equal to your existing ICICI credit card.
 
-#### Fees
+### Fees
 
 There is no joining or renewal fee for this card and this card is issued life time free.
 
-#### Rewards
+### Rewards
 
 ![Amazon Pay ICICI Bank Credit Card Rewards](/assets/images/amazon-pay-icici-bank-credit-card-rewards.jpg#center)
 
@@ -35,7 +35,7 @@ The different reward rates for this card are outlined below:
 
 The best part about this card is absence of upper cap on rewards. The rewards are credited as Amazon Pay balance in Amazon account each month after statement generation.
 
-#### Features
+### Features
 
 Given that it's Amazon co-branded card, it's features are pretty much limited to shopping on Amazon. Below are few of them:
 
@@ -43,7 +43,7 @@ Given that it's Amazon co-branded card, it's features are pretty much limited to
 - Surcharge waiver of 1% on fuel transactions
 - 15% discount when dining at restaurants participating in [Culinary Treats](https://www.icicibank.com/offers/brands/culinary-treats.page)
 
-#### Drawbacks
+### Drawbacks
 
 Given that this card has no joining and renewal fee, I don't have great expectations from it. However I would still like to highlight some drawbacks as below:
 
@@ -53,7 +53,7 @@ Given that this card has no joining and renewal fee, I don't have great expectat
 - Amazon Prime membership (Rs. 999 annually) required for maximum benefit
 - No clarity on eligibility/invitation criteria
 
-#### Verdict
+### Verdict
 
 5% cash-back on Amazon and 1% elsewhere is really a good offer and no other card in this segment provides equivalent benefits. The simple and seamless integration of rewards with Amazon Pay is another highlight. If you are invited for this card, don't give a second thought and go for it.
 

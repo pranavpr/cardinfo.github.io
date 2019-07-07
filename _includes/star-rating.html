@@ -144,7 +144,7 @@ features_stars | append: '<i class="far fa-star star"></i>' %} {% endfor %}
     },
     "author": {
       "@type": "Person",
-      "name":"{{ page.author }}"
+      "name":"{{ site.authors[page.author].name }}"
     },
     "reviewRating": {
       "@type": "Rating",
