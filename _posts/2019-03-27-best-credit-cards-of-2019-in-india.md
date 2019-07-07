@@ -252,6 +252,8 @@ Yes First Exclusive is one level higher than Yes First Preferred Credit Card. It
 - Other benefits: Golf, TAJ InnerCircle Epicure Membership, Concierge Assistance, Automobile Assistance, Travel & Air Accident insurance cover etc.
 - Apply [here](https://apply.yesbank.in/credit-card/first-exclusive-credit-card)
 
+Read the detailed review [here](/yes-first-exclusive-credit-card-review/).
+
 ## Bottomline
 
 As you can see, there is no one credit card to rule them all. Each card comes with their unique benefits and are suited for a particular spending pattern. Analyse your life style and get the card which can give maximum reward rate. You can have multiple cards too, but make sure you have a strategy to reap the maximum benefits out of them.
