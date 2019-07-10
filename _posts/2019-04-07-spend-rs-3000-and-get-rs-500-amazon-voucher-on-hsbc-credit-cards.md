@@ -3,7 +3,7 @@ layout: post
 title: 'Spend Rs. 3,000 and get Rs. 500 Amazon vouchers on HSBC Credit Cards'
 categories: [HSBC, Card Offers]
 image: /assets/images/hsbc-amazon-offer.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 HSBC has come up with a spend based offer for targeted segment of customers. This offer entitles card holders to get Amazon voucher of Rs. 500 on spending Rs. 3,000 on dining, telecom and fuel.
