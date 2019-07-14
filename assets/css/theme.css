@@ -873,3 +873,27 @@ img[src*='#cc-center'] {
 .quote p {
   margin-bottom: 1rem;
 }
+@media (min-width: 1920px) {
+  html {
+    font-size: 17px;
+  }
+  .container,
+  .container-lg {
+    width: 1522px;
+    max-width: 1522px;
+  }
+  h6,
+  .h6 {
+    font-size: 1.1rem;
+  }
+  article {
+    font-size: 1.24rem;
+  }
+  .topfirstimage {
+    height: 280px !important;
+  }
+  .modal-dialog {
+    max-width: 1000px;
+    margin: 1.75rem auto;
+  }
+}
