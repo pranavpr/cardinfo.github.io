@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Save more using credit card offers at Duty Free shops
+title: Save more using credit card offers at Duty Free Stores
 date: 2019-07-14 13:38 +0530
 categories: [Card Offers, HDFC, Citi, ICICI, RuPay]
-image: /assets/images/credit-card-offers-at-duty-free-shops.jpg
+image: /assets/images/credit-card-offers-at-duty-free-stores.jpg
 tags: [card-offers]
 ---
 
@@ -122,6 +122,6 @@ Citi Bank is offering up to 15% cashback on duty free shopping with Citi Credit 
 
 ### Bottomline
 
-With more people traveling internationally now, card companies don't want to lose on heavy volume of transactions on duty free shops. Hence they are trying to tap this opportunity aggressively. I foresee an increase in number of such offers by card companies in future. Also I couldn't find any card offer for Bangalore Duty Free Shops which is quite strange.
+With more people traveling internationally now, card companies don't want to lose on heavy volume of transactions on duty free stores. Hence they are trying to tap this opportunity aggressively. I foresee an increase in number of such offers by card companies in future. Also I couldn't find any card offer for Bangalore Duty Free Stores which is quite strange.
 
 _What do you think of these offers? Are you aware of more such offers? Let me know in comments below._
