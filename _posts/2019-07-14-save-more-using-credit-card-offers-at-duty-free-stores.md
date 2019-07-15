@@ -120,6 +120,18 @@ Citi Bank is offering up to 15% cashback on duty free shopping with Citi Credit 
 - Add on cards will be treated as separate cards
 - [Source](https://www.online.citibank.co.in/special-offers/offer/index.html?cat=New_Offers&id=3)
 
+### American Express Credit Cards
+
+Amex is offering bonus reward points on shopping at Delhi Duty Free Stores using their credit and charge cards.
+
+- Offer: 1000 bonus reward points
+- Available at: Delhi Duty Free Stores
+- Offer Period: 12 July 2019 to 12 September 2019
+- Min. Transaction: Rs. 9,500
+- Bonus reward points would be credited within 5 working days from date of transaction
+- Not valid on co-branded and corporate cards
+- [Source](https://www.americanexpress.com/in/network/content/delhi-duty-free.html)
+
 ### Bottomline
 
 With more people traveling internationally now, card companies don't want to lose on heavy volume of transactions on duty free stores. Hence they are trying to tap this opportunity aggressively. I foresee an increase in number of such offers by card companies in future. Also I couldn't find any card offer for Bangalore Duty Free Stores which is quite strange.
