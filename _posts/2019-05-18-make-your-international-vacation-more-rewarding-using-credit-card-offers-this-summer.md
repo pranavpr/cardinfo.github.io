@@ -28,8 +28,7 @@ This offer translates to 10% reward rate which is quite good. Note that Amex cha
 
 **PS:** If you don't have Amex, you can apply via my referral link below. Signing up using this link will give you card **free** for first year and **2000** extra referral bonus reward points in addition to **2000** bonus reward points which is not available otherwise.
 
-<a href="http://amex.in/refer/pranap9yzB?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2"><i class="fas fa-pen"></i> Apply Now</a>
-
+<a href="http://amex.in/refer/pranap9yzB?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="fas fa-pen"></i> Apply Now</a>
 
 ### HDFC Bank Credit Cards
 
@@ -189,6 +188,5 @@ Note that is not a international spend offer and hence you can use this for dome
 ### Bottomline
 
 Well it's raining offers on international spends using credit and debit cards. Given that the trend for international vacation is increasing day by day, card companies are trying to tap this opportunity aggressively. I foresee an increase in number of such offers by card companies in future.
-
 
 _Let me know if you received or are aware of other offers on international spends in comments below._

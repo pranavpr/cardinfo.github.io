@@ -21,6 +21,6 @@ Amex, in it's latest promotion, is providing 2X reward points on all educational
 
 **PS:** If you don't have Amex, you can apply via my referral link below. Signing up using this link will give you card **free** for first year and **2000** extra referral bonus reward points in addition to **2000** bonus reward points which is not available otherwise.
 
-<a href="http://amex.in/refer/pranap9yzB?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2"><i class="fas fa-pen"></i> Apply Now</a>
+<a href="http://amex.in/refer/pranap9yzB?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="fas fa-pen"></i> Apply Now</a>
 
 _I personally feel Amex should have provided more rewards with this offer. What do you think?_

@@ -41,7 +41,7 @@ Ola Money SBI credit card comes with no joining fees. However from second year o
 
 Right now, you can just express your interest of joining this card on landing page hosted on Ola website.
 
-<a href="https://om.olacabs.com/credit-app/cc-express-interest" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2"><i class="fas fa-pen"></i> Express Interest</a>
+<a href="https://om.olacabs.com/credit-app/cc-express-interest" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="fas fa-pen"></i> Express Interest</a>
 
 Most probably, they will check your CIBIL score and based on that, they will invite you for this card. In future, you should be able to apply for this card via Ola app too. Also they are running an early bird offer wherein if you join before 30 June 2019, you'll get following extra benefits:
 
