@@ -5,5 +5,5 @@ layout: null
     "id": {{ counter }},
     "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
     "title": "{{ page.title }}",
-    "body":  "{{page.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}"{% assign counter = counter | plus: 1 %}
+    "body":  "{{ page.date | date: "%d/%m/%Y" }} - {{page.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}"{% assign counter = counter | plus: 1 %}
     }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}]}
