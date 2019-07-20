@@ -8,21 +8,22 @@
     });
   });
 
-  var idx, documents;
+  var idx;
+  if (!sessionStorage.getItem('lunrIndex')) {
+    $.getJSON('/content.json').done(function(data) {
+      sessionStorage.setItem('actualData', JSON.stringify(data.documents));
+      idx = lunr(function() {
+        this.ref('id');
+        this.field('title');
+        this.field('body');
 
-  $.getJSON('/content.json').done(function(data) {
-    documents = data.documents;
-    idx = lunr(function() {
-      this.ref('id');
-      this.field('title');
-      this.field('body');
-
-      documents.forEach(function(doc) {
-        this.add(doc);
-      }, this);
+        data.documents.forEach(function(doc) {
+          this.add(doc);
+        }, this);
+      });
+      sessionStorage.setItem('lunrIndex', JSON.stringify(idx));
     });
-  });
-
+  }
   function lunr_search(term) {
     event.preventDefault();
     $('#lunrsearchresults').show(1000);
@@ -36,8 +37,10 @@
         term +
         "'</h5>" +
         document.getElementById('modtit').innerHTML;
-      //put results on the screen.
-      var results = idx.search(term);
+      // Display results on the screen.
+      var savedIndexData = JSON.parse(sessionStorage.getItem('lunrIndex'));
+      var documents = JSON.parse(sessionStorage.getItem('actualData'));
+      var results = lunr.Index.load(savedIndexData).search(term);
       if (results.length > 0) {
         for (var i = 0; i < results.length; i++) {
           // more statements
