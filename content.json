@@ -1,0 +1,9 @@
+---
+layout: null
+---
+{"documents": {% assign counter = 0 %}[{% for page in site.posts %}{
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
+    "title": "{{ page.title }}",
+    "body":  "{{page.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}"{% assign counter = counter | plus: 1 %}
+    }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}]}
