@@ -10,7 +10,7 @@ tags: [card-offers]
 HDFC has extended the 10X reward points on Diners Club Credit Cards till 31 July 2019. However there are two small changes:
 
 - Rewards points would be capped per calendar month instead of statement cycle
-- BookMyShow has been removed from 10X partners
+- SOTC has been removed from 10X partners
 
 ## Offer Details
 
