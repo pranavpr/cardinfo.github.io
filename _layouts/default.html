@@ -20,7 +20,8 @@
 
     <!-- Bootstrap Modified -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
-    <link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css" />
+    <link rel="preload" href="https://unpkg.com/applause-button/dist/applause-button.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css"></noscript>
 
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
@@ -30,7 +31,7 @@
     src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
+    <script defer src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
 
     {% include tracking-header.html %}
 
