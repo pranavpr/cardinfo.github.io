@@ -829,16 +829,20 @@ i.a2a_i,
 div.a2a_full_footer {
   display: none;
 }
+.img-left,
 img[src*='#left'] {
   float: left;
 }
+.img-right,
 img[src*='#right'] {
   float: right;
 }
+.img-center,
 img[src*='#center'] {
   display: block;
   margin: auto;
 }
+.cc-center,
 img[src*='#cc-center'] {
   display: block;
   margin: auto;

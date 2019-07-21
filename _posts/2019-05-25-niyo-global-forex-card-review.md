@@ -9,7 +9,7 @@ product: NiYO Global Forex Card
 
 NiYO Global Card is a next generation forex card which eliminates the many pain points of current generation forex cards. To start with, it's an INR card, which can be used globally (150+ countries), including in India and card can be loaded via any bank account using IMPS/NEFT without any charges. The card comes with NiYO Global app which lets you manage your card on the move and offers bunch of other useful features.
 
-![NiYO Global Card](/assets/images/niyo-global-card-zero-forex-markup.jpg#center)
+{% include image.html image="niyo-global-card-zero-forex-markup.jpg" alt="NiYO Global Card" class="img-center" %}
 
 ### Features
 
@@ -92,7 +92,7 @@ I feel these spending limits are pretty generous and will suffice most of the tr
 
 This card is currently being issued to Indian Citizens holding a valid PAN card and address proof (Aadhaar, Passport etc.).
 
-![NiYO Global Card Process](/assets/images/niyo-global-card-process.jpg#center)
+{% include image.html image="niyo-global-card-process.jpg" alt="NiYO Global Card Process" class="img-center" %}
 
 You can apply online by clicking below:
 

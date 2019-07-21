@@ -15,7 +15,7 @@ Citi and Paytm have jointly developed a selection tool which will identify the p
 
 Customers should be able to apply for the card in Paytm app once they become eligible. Hence at this point of time, all you can do is to wait patiently for the invitation.
 
-![Stephen Bird & Vijay Shekhar Sharma at Paytm First Credit Card Launch Event](/assets/images/stephen-bird-and-vijay-shekhar-sharma-at-paytm-first-credit-card-launch-event.jpg#center)
+{% include image.html image="stephen-bird-and-vijay-shekhar-sharma-at-paytm-first-credit-card-launch-event.jpg" alt="Stephen Bird & Vijay Shekhar Sharma at Paytm First Credit Card Launch Event" class="img-center" %}
 
 #### Fees
 

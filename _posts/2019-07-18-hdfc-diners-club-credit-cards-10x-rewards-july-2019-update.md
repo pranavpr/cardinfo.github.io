@@ -25,7 +25,7 @@ HDFC has extended the 10X reward points on Diners Club Credit Cards till 31 July
 - **Fulfillment**: Regular reward points (1X) will be posted in the same statement as the transaction, incremental reward points (9X) will be posted by 31 October 2019.
 - **Source**: [Website](https://www.hdfcbankdinersclub.com/privilege)
 
-![HDFC Diners Club Credit Card 10X partners]({{ site.baseurl }}/assets/images/hdfc-diners-club-credit-card-10x-partners-july-2019.jpg#center)
+{% include image.html image="hdfc-diners-club-credit-card-10x-partners-july-2019.jpg" alt="HDFC Diners Club Credit Card 10X partners" class="img-center" %}
 
 HDFC has renewed the program from 1 July 2019 and hence all purchases in July till now on partner merchants will qualify for this offer. This is a welcome move by HDFC as last time they renewed the program from the day they communicated. Also, according to update on their website, they are working on new edition of 10X program with new partners starting August 2019. Hence, it seems, 10X rewards on Diners Club Credit Cards is going to continue for some more time.
 

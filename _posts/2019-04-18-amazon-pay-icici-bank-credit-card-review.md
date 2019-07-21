@@ -23,7 +23,7 @@ There is no joining or renewal fee for this card and this card is issued life ti
 
 ### Rewards
 
-![Amazon Pay ICICI Bank Credit Card Rewards](/assets/images/amazon-pay-icici-bank-credit-card-rewards.jpg#center)
+{% include image.html image="amazon-pay-icici-bank-credit-card-rewards.jpg" alt="Amazon Pay ICICI Bank Credit Card Rewards" class="img-center" %}
 
 The different reward rates for this card are outlined below:
 

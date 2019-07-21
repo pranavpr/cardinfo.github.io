@@ -77,7 +77,7 @@ After three days, I called the bank again and asked for status of the transactio
 
 The evidence document outlined more details about the transaction e.g. shipping address, billing address, seller name, seller email address, IP address etc. I reviewed the entire evidence document carefully and found multiple irregularities in that. Below is the evidence document, with sensitive information redacted, for your reference:
 
-![Evidence Document](/assets/images/chargeback-evidence.jpg#center)
+{% include image.html image="chargeback-evidence.jpg" alt="Evidence Document" class="img-center" %}
 
 After reviewing this, I drafted following response:
 
@@ -127,7 +127,12 @@ xxxx xxxxx xxxxx, India</p>
   </li>
 </ol>
 
-<p><img src="/assets/images/ip-details.jpg#center" alt="IP Details"></p>
+<p>
+<picture>
+  <source srcset="/assets/images/ip-details.webp" type="image/webp">
+  <img class="img-center" src="/assets/images/ip-details.jpg" alt="IP Details">
+</picture>
+</p>
 
 <p>In light of reasons/facts mentioned above, I would like to dispute the transaction again. Please let me know if you need more details regarding the same.</p>
 </div>

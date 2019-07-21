@@ -9,13 +9,13 @@ tags: []
 
 Ola in association with SBI Card launched Visa powered Ola Money SBI credit card in India today. This launch comes just a day after [Paytm launched their credit card in association with Citi Bank](/paytm-launches-paytm-first-credit-card-in-india/). This is an entry level lifestyle card with low annual fees and slightly better rewards than some of the existing cards.
 
-![Ola Money SBI Credit Card Launched](/assets/images/ola-money-sbi-credit-card-launched.jpg#center)
+{% include image.html image="ola-money-sbi-credit-card-launched.jpg" alt="Ola Money SBI Credit Card Launched" class="img-center" %}
 
 #### Rewards
 
 Ola Money SBI credit card has multi-tiered reward rate based on merchants. Rewards are posted as Ola Money credit to Ola Money wallet within 3 days of transaction. This credit has no expiry date.
 
-![Ola Money SBI Credit Card Benefits](/assets/images/ola-money-sbi-credit-card-benifits.jpg#center)
+{% include image.html image="ola-money-sbi-credit-card-benifits.jpg" alt="Ola Money SBI Credit Card Benefits" class="img-center" %}
 
 - 7% on Ola rides up to Rs. 500 per month
 - 5% on flight booking through Cleartrip, up to Rs. 5,000 for domestic and Rs. 15,000 for international

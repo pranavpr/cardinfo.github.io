@@ -8,7 +8,7 @@ image: /assets/images/flipkart-axis-bank-credit-card-launched.jpg
 
 Flipkart in partnership with Axis Bank launched a co-branded credit card, Flipkart Axis Bank Credit Card, on 11th July 2019. This is the second attempt of both Flipkart and Axis Bank for a co-branded credit card. Their earlier attempt, Axis Bank Buzz Credit Card, has been a failure as this card never gained popularity due to low rewards and limited features.
 
-![Flipkart Axis Bank Credit Card launched](/assets/images/flipkart-axis-bank-credit-card-launch-event.jpg#center)
+{% include image.html image="flipkart-axis-bank-credit-card-launch-event.jpg" alt="Flipkart Axis Bank Credit Card launched" class="img-center" %}
 
 ### Rewards
 
