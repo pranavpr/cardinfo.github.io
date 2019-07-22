@@ -290,6 +290,12 @@ a.text-dark:hover {
   background-size: cover;
   padding: 7rem 1rem;
 }
+.jumbotron-home h1 {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
 @media (min-width: 992px) {
   .jumbotron-lg-withnav {
     padding-bottom: calc(10rem - 69.75px);
@@ -309,12 +315,6 @@ a.text-dark:hover {
     margin: auto;
     left: 0;
     right: 0;
-  }
-  .jumbotron-home h1 {
-    font-family: Georgia, Times, 'Times New Roman', serif;
-    font-size: 2.4rem;
-    font-weight: 700;
-    line-height: 1.1;
   }
 }
 .bg-black {
