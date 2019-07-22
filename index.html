@@ -54,8 +54,8 @@ image: /assets/images/best-credit-card-india-2019.jpg
                 <a href="{{site.baseurl}}{{second_post.url}}">
                 {% assign image_name = second_post.image | split: "." %}
                 <picture>
-                 <source srcset="{{ image_name.first }}.webp" type="image/webp">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
+                 <source data-srcset="{{ image_name.first }}.webp" type="image/webp">
+                 <img class="w-100 lazy" data-src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
                 </picture>
                 </a>
                 </div>
@@ -85,8 +85,8 @@ image: /assets/images/best-credit-card-india-2019.jpg
                 <a href="{{site.baseurl}}{{third_post.url}}">
                 {% assign image_name = third_post.image | split: "." %}
                 <picture>
-                <source srcset="{{ image_name.first }}.webp" type="image/webp">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                <source data-srcset="{{ image_name.first }}.webp" type="image/webp">
+                 <img class="w-100 lazy" data-src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
                  </picture>
                 </a>
                 </div>
@@ -116,8 +116,8 @@ image: /assets/images/best-credit-card-india-2019.jpg
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
                 {% assign image_name = fourth_post.image | split: "." %}
                 <picture>
-                <source srcset="{{ image_name.first }}.webp" type="image/webp">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                <source data-srcset="{{ image_name.first }}.webp" type="image/webp">
+                <img class="w-100 lazy" data-src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </picture>
                 </a>
                 </div>

@@ -67,6 +67,15 @@
 
 
     <!-- Scripts: popper, bootstrap, theme, lunr -->
+    <script>	
+        // Set the options to make LazyLoad self-initialize	
+        window.lazyLoadOptions = {	
+            elements_selector: ".lazy"
+        };
+    </script>
+
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/12.0.0/lazyload.min.js"></script>	
+
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
 
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.min.js"></script>

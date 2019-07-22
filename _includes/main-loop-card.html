@@ -31,8 +31,8 @@
     <a href="{{ site.baseurl }}{{ post.url }}">
       {% assign image_name = post.image | split: "." %}
       <picture>
-        <source srcset="{{ image_name.first }}.webp" type="image/webp" />
-        <img class="w-100" src="{% if post.image contains "://" %}{{
+        <source data-srcset="{{ image_name.first }}.webp" type="image/webp" />
+        <img class="w-100 lazy" data-src="{% if post.image contains "://" %}{{
           post.image
         }}{% else %}{{ post.image }}{% endif %}" alt="{{ post.title }}">
       </picture>
