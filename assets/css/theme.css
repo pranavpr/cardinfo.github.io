@@ -901,3 +901,6 @@ img[src*='#cc-center'] {
     margin: 1.75rem auto;
   }
 }
+html {
+  overflow-x: hidden;
+}
