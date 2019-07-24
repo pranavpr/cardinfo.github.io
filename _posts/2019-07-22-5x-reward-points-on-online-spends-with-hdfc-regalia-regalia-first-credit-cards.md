@@ -25,4 +25,6 @@ HDFC in order to push online usage of Regalia and Regalia First credit cars is o
 
 There is no mention of maximum cap on bonus reward points under this offer in T&C which seems little unbelievable to me. Anyways this is a fantastic opportunity for Regalia and Regalia First card members to accumulate some extra reward points.
 
+**Update**: HDFC has changed the offer now and it's not as lucrative as before. Additional 4X reward points would be given only on incremental online spends after minimum spends. Till minimum spends, card members continue to earn normal rewards. Also to earn additional rewards in a month, minimum spend criteria has to be met in that particular month. No additional reward point would be credited for a month if you fail to meet the monthly minimum spend criteria.
+
 _Let me know your thoughts on this offer in comments below._
