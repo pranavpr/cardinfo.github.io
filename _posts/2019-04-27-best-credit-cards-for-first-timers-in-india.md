@@ -9,8 +9,8 @@ tags: [featured]
 
 Many a times I have been asked which credit card is best for someone who has just started his/her career? The main problem for beginners is that they lack credit history and hence banks have very strict norms for issuing them credit cards. Hence I have compiled a list of credit cards which are issued very easily and have minimal joining or renewal fees.
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 ### Standard Chartered Manhattan Credit Card
 
