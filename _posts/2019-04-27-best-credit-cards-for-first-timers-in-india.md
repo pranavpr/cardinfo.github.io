@@ -45,7 +45,7 @@ If you love cashback then this card is for you. Citi Cashback Credit Card provid
 
 ### SBI Simply Click Credit Card
 
-{% include image.html image="sbi-smmply-click-credit-card.jpg" alt="SBI Simply Click Credit Card" class="cc-center" %}
+{% include image.html image="sbi-simply-click-credit-card.jpg" alt="SBI Simply Click Credit Card" class="cc-center" %}
 
 SBI Simply Click provides 2.5% back on online spends with their exclusive partners and 1.25% on other online spends. This is a very good card if you spend a lot online.
 
