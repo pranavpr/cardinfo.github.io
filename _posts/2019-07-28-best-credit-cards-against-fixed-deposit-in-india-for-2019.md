@@ -14,7 +14,7 @@ For getting these credit cards, one needn't to show any stable monthly income pr
 * TOC
 {:toc}
 
-### HDFC Bharat Credit Card
+### 1. HDFC Bharat Credit Card
 
 {% include image.html image="hdfc-bharat-credit-card.jpg" alt="HDFC Bharat Credit Card" class="cc-center" %}
 
@@ -32,7 +32,7 @@ HDFC Bharat Credit Card is an feature packed entry level credit card from HDFC B
 
 HDFC is known to issue their other premium credit cards like Regalia, Diners Club variants too against fixed deposit and the FD amount varies upwards of Rs. 4 Lakhs. HDFC is currently top player of credit card market in India and having an early relationship with them will help you secure one of their premium and super premium credit cards in future.
 
-### ICICI Coral Credit Card
+### 2. ICICI Coral Credit Card
 
 {% include image.html image="icici-bank-coral-credit-card.jpg" alt="ICICI Coral Credit Card" class="cc-center" %}
 
@@ -52,7 +52,7 @@ ICICI Coral Credit Card is a life style credit card with multiple benefits acros
 
 This card will make you eligible for [Amazon Pay ICICI Bank credit card](/amazon-pay-icici-bank-credit-card-review/) which has fantastic reward rate and benefits. Hence I would suggest to get Coral card first and then later switch to Amazon Pay card.
 
-### Bank of Baroda Prime Credit Card
+### 3. Bank of Baroda Prime Credit Card
 
 {% include image.html image="bob-prime-credit-card.jpg" alt="Bank of Baroda Prime Credit Card" class="cc-center" %}
 
@@ -68,7 +68,7 @@ Bank of Baroda is another reliable banking name in India, however they are not k
 
 1% reward rate and no annual and joining fee make this card really attractive. Go for this card if you want a simplified reward program and guaranteed issuance.
 
-### Andhra Bank RuPay Select Credit Card
+### 4. Andhra Bank RuPay Select Credit Card
 
 {% include image.html image="andhra-bank-rupay-select-credit-card.jpg" alt="Andhra Bank RuPay Select Credit Card" class="cc-center" %}
 
@@ -87,7 +87,7 @@ Andhra Bank recently in partnership with RuPay has launched Andhra Bank RuPay Se
 
 Complimentary access to international lounge sets this card apart from others in this category. If you travel internationally a lot, getting this card is a no brainer.
 
-### Axis Insta Easy Credit Card
+### 5. Axis Insta Easy Credit Card
 
 {% include image.html image="axis-insta-easy-credit-card.jpg" alt="Axis Insta Easy Credit Card" class="cc-center" %}
 
@@ -105,7 +105,7 @@ Axis is known for it's generous credit limit on it's credit cards. Axis Insta Ea
 
 This card can be your gateway for [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-launched/) which has excellent reward rate on Flipkart and has other benefits too.
 
-### Yes Prosperity Rewards Plus Credit Card
+### 6. Yes Prosperity Rewards Plus Credit Card
 
 {% include image.html image="yes-prosperity-rewards-plus-credit-card.jpg" alt="Yes Prosperity Rewards Plus Credit Card" class="cc-center" %}
 
@@ -124,7 +124,7 @@ Yes Bank has recently entered in credit card market and is giving lucrative bene
 
 Yes Prosperity Rewards Plus Credit Card, though has high joining and renewal fees, comes with no maximum capping on cashback for retail spends which is quite good.
 
-### SBI Unnati Credit Card
+### 7. SBI Unnati Credit Card
 
 {% include image.html image="sbi-unnati-credit-card.jpg" alt="SBI Unnati Credit Card" class="cc-center" %}
 
@@ -141,7 +141,7 @@ SBI Unnati Credit Card is a no-fuss credit card from SBI featuring zero fee for 
 
 SBI is one of the oldest brand in India and if you have an account with them, you can easily start a FD and get this card.
 
-### Central Bank of India Aspire Credit Card
+### 8. Central Bank of India Aspire Credit Card
 
 {% include image.html image="central-bank-of-india-aspire-credit-card.jpg" alt="Central Bank of India Aspire Credit Card" class="cc-center" %}
 
@@ -157,7 +157,7 @@ Central Bank of India issues Aspire Credit Card with credit limit up to 100% of 
 
 One should go for Aspire Credit Card blindly if they are looking for simplified reward program and generous credit limit.
 
-### Kotak Aqua Gold Credit Card
+### 9. Kotak Aqua Gold Credit Card
 
 {% include image.html image="kotak-aqua-gold-credit-card.jpg" alt="Kotak Aqua Gold Credit Card" class="cc-center" %}
 
@@ -174,7 +174,7 @@ Kotak Mahindra Banks is another trusted brand in India and if you already have a
 
 As evident, this is a very basic card with very limited rewards and benefits. Go for this card only if you're not able to secure any of the above credit cards.
 
-### DCB PayLess Credit Card
+### 10. DCB PayLess Credit Card
 
 {% include image.html image="dcb-payless-credit-card.jpg" alt="DCB PayLess Credit Card" class="cc-center" %}
 
