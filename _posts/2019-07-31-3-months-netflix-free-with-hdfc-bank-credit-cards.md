@@ -23,7 +23,7 @@ HDFC is providing free Netflix subscription for 3 months using HDFC Credit Cards
   - Valid only on new Netflix subscriptions, not valid on existing one
 - **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/13092)
 
-As per illustration on [offer page](https://offers.smartbuy.hdfcbank.com/offer_details/13092), it seems you need to have active subscription for at least 4 months to get cashback for 3 months. Hence it translates to a reward rate of 75% (3 Months Cashback for 4 Months subscription), which is quite good.
+As per illustration on [offer page](https://offers.smartbuy.hdfcbank.com/offer_details/13092), it seems one needs to have active subscription for at least 4 months to get cashback for 3 months. Hence it translates to a reward rate of 75% (3 Months Cashback for 4 Months subscription), which is quite good.
 
 Netflix is trying hard to increase it's subscriber base in India since it's launch. Given that HDFC is biggest player for credit cards in India, partnering with them for this offer will certainly boost their clientele. I personally feel this is a fantastic offer and if you were thinking to subscribe for Netflix in the past, this is the best time to pull that trigger.
 
