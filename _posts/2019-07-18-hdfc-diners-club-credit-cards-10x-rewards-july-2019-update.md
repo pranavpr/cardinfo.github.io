@@ -4,7 +4,7 @@ title: 'HDFC Diners Club Credit Cards 10X rewards: July 2019 update'
 date: 2019-07-18 18:36 +0530
 categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-diners-club-10x-july-2019.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 HDFC has extended the 10X reward points on Diners Club Credit Cards till 31 July 2019. However there are two small changes:

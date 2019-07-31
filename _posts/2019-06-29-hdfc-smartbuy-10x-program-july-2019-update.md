@@ -7,7 +7,7 @@ image: /assets/images/hdfc-smart-buy-program-revamped.jpg
 tags: [card-offers]
 ---
 
-HDFC 10X Reward Points program on [Smartbuy](https://offers.smartbuy.hdfcbank.com) portal has been further extended till 31 July 2019. HDFC has silently updated the last date of this offer in their [Terms & Conditions](https://offers.smartbuy.hdfcbank.com/offer_details/12768) to 31 July 2019 keeping rest everything same.
+HDFC 10X Reward Points program on [Smartbuy](https://offers.smartbuy.hdfcbank.com) portal has been further extended till ~~31 July 2019~~ 31 August 2019. HDFC has silently updated the last date of this offer in their [Terms & Conditions](https://offers.smartbuy.hdfcbank.com/offer_details/12768) to ~~31 July 2019~~ 31 August 2019 keeping rest everything same.
 
 ### Offer Details
 
