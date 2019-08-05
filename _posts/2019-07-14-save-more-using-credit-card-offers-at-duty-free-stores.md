@@ -4,7 +4,7 @@ title: Save more using credit card offers at Duty Free Stores
 date: 2019-07-14 13:38 +0530
 categories: [Card Offers, HDFC, Citi, ICICI, RuPay]
 image: /assets/images/credit-card-offers-at-duty-free-stores.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 Who doesn't like to save money by shopping at duty free stores? And what if you can sweeten the deal further using your credit cards? Currently there are multiple offers running on different cards which will help you save further. Read on to find those offers.
