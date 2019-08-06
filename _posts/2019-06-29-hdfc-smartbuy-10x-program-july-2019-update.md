@@ -4,7 +4,7 @@ title: 'HDFC Smartbuy 10X Program: July 2019 Update'
 date: 2019-06-29 12:35 +0530
 categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-smart-buy-program-revamped.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 HDFC 10X Reward Points program on [Smartbuy](https://offers.smartbuy.hdfcbank.com) portal has been further extended till ~~31 July 2019~~ 31 August 2019. HDFC has silently updated the last date of this offer in their [Terms & Conditions](https://offers.smartbuy.hdfcbank.com/offer_details/12768) to ~~31 July 2019~~ 31 August 2019 keeping rest everything same.
