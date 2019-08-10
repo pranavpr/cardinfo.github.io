@@ -28,7 +28,7 @@ This offer translates to 10% reward rate which is quite good. Note that Amex cha
 
 **PS:** If you don't have Amex, you can apply via my referral link below. Signing up using this link will give you card **free** for first year and **2000** extra referral bonus reward points in addition to **2000** bonus reward points which is not available otherwise.
 
-<a href="http://amex.in/refer/pranap9yzB?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="fas fa-pen"></i> Apply Now</a>
+<a href="http://amex.in/refer/pranap9yzB?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
 
 ### HDFC Bank Credit Cards
 
@@ -116,7 +116,7 @@ For debit card, this offer translates in to meager 1%.
 <div class="alert alert-primary post-element" role="alert">
   <span
     class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
-    ><i class="fas fa-info"></i>
+    ><i class="ci-info"></i>
   </span>
   There are many more offers running on HDFC Forex cards, don't forget to check them <a style="color: #fff; text-decoration: underline" href="https://www.hdfcbank.com/personal/products/cards/forex-cards/multicurrency-forexplus-card/offers">here</a>.
 </div>

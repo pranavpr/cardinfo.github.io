@@ -68,7 +68,7 @@ The eligibility criteria for this credit card is very generic on Axis Bank websi
 
 Currently, there is no streamlined online application process for this card. You can request a call back for this credit card by clicking the button below:
 
-<a href="https://www.axisbank.com/retail/cards/credit-card/flipkart-axis-bank" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="fas fa-pen"></i> Request Callback</a>
+<a href="https://www.axisbank.com/retail/cards/credit-card/flipkart-axis-bank" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Request Callback</a>
 
 They will call you back within 2 hours and ask your salary details to confirm the eligibility of this card. Afterwards they will send their executive to collect the KYC documents. The process is mostly offline and I wish they would have made it as seamless as [Amazon Pay ICICI Credit Card](/amazon-pay-icici-bank-credit-card-review/).
 

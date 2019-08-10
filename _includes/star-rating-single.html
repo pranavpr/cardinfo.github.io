@@ -3,19 +3,19 @@ include.rating | minus: num_full_stars %}{% if temp >= 0.5 %} {% assign
 num_half_stars = 1 %} {% else %} {% assign num_half_stars = 0 %} {% endif %} {%
 assign num_empty_stars = 5 | minus: num_full_stars | minus: num_half_stars %} {%
 for i in (1..num_full_stars) %} {% assign stars = stars | append: '<i
-  class="fas fa-star star"
+  class="ci-star star"
 ></i
 >' %} {% endfor %} {% for i in (1..num_half_stars) %} {% assign stars = stars |
-append: '<i class="fas fa-star-half-alt star"></i>' %} {% endfor %} {% for i in
+append: '<i class="ci-star-half-alt star"></i>' %} {% endfor %} {% for i in
 (1..num_empty_stars) %} {% assign stars = stars | append: '<i
-  class="far fa-star star"
+  class="ci-star-regular star"
 ></i
 >' %} {% endfor %}
 <div class="star-rating bg-lightblue">
   <div>
     <span
       class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
-      ><i class="fas fa-bullhorn"></i>
+      ><i class="ci-bullhorn"></i>
     </span>
     <strong>Overall </strong>
     <span class="ml-2 float-right"

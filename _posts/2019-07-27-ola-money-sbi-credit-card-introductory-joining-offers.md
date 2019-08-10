@@ -41,7 +41,7 @@ For all above offers, cashback will be credited into the users Ola Money account
 
 You can apply for Ola Money SBI Credit Card by expressing interest below:
 
-<a href="https://om.olacabs.com/credit-app/cc-express-interest" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="fas fa-pen"></i> Express Interest</a>
+<a href="https://om.olacabs.com/credit-app/cc-express-interest" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Express Interest</a>
 
 I believe these are decent introductory benefits and if you're planning to get this card, there no better time than now.
 

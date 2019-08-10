@@ -45,7 +45,7 @@ There is no specific eligibility criteria mentioned for this credit card and it 
 
 You can apply for Practo Plus Credit Card online on Practo website.
 
-<a href="https://www.practo.com/plus/cards/rbl" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="fas fa-pen"></i> Apply Now</a>
+<a href="https://www.practo.com/plus/cards/rbl" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
 
 ### Bottomline
 
