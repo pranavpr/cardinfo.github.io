@@ -9,7 +9,7 @@ tags: [card-offers]
 
 Citi Bank, in their latest spend based targeted offer for August 2019 on Citi Credit Cards, is providing Amazon vouchers on meeting spend criteria. To qualify for this offer, card members, who are communicated by Citi Bank, need to spend a cumulative of Rs. 5,000 to receive an Amazon voucher of Rs. 500.
 
-## Offer Details
+### Offer Details
 
 - **Offer**: Rs. 500 Amazon voucher
 - **Period**: 1 August 2019 to 31 August 2019
