@@ -43,7 +43,7 @@ Below are some notable features of this card:
 
 - 4 complementary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
 - 1% fuel surcharge waiver on transactions between Rs. 400 and Rs. 4000
-- 20% off at restaurants participating in Dining Delights program
+- 20% off at restaurants participating in [Dining Delights](https://diningdelights.axisbank.com/) program
 
 Airport lounge access on this entry level card is certainly a welcome move.
 
@@ -58,7 +58,7 @@ The joining fee is compensated by Rs. 500 Flipkart voucher which they are offeri
 
 ### Eligibility
 
-The eligibility criteria for this credit card is very generic on Axis Bank website. However based on my conversation to their representative, below is the eligibility criteria for this card:
+The eligibility criteria for this credit card is very generic on Axis Bank website. However based on my conversation with their representative, below is the eligibility criteria for this card:
 
 - Age should be between 18 to 70 years
 - Salaried: Net Monthly income > Rs. 25,000
