@@ -4,7 +4,7 @@ title: 'SBI Card targeted spend based offer: July 2019'
 date: 2019-07-26 19:26 +0530
 categories: [SBI Card, Card Offers]
 image: /assets/images/sbi-card-bbq-nation-offer.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 SBI, in order to push for online transactions, if offering Rs. 1,000 Barbeque Nation voucher to a targeted set of card members. To qualify for this offer, card members need to complete minimum four online transactions of Rs. 1,000 or more during the offer period.

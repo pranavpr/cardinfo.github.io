@@ -4,7 +4,7 @@ title: 'HDFC Credit Cards spend based targeted offer: August 2019'
 date: 2019-08-06 17:27 +0530
 categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-credit-cards-spend-based-targeted-offer-august-2019.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 It's raining spend based targeted offers this monsoon and after [HSBC's](/hsbc-credit-cards-spend-based-targeted-offer-august-2019/), [Citi's](/citi-credit-cards-spend-based-targeted-offer-august-2019/) & [SBI's](/sbi-card-targeted-spend-based-offer-july-2019/), it's turn of HDFC. HDFC running couple of offers this month wherein its providing bonus reward points or Amazon voucher on meeting the spend target.
