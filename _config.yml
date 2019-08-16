@@ -2,7 +2,7 @@
 name: 'CardInfo'
 url: 'https://cardinfo.in'
 description: 'Best site in India for real and unbiased credit card reviews. Save in tunes of lakhs each year using information, offers, tips & tricks shared on CardInfo.'
-logo: ''
+logo: 'assets/images/cardinfo-logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'cardinfo'
