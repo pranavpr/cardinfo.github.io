@@ -205,6 +205,8 @@ HDFC Diners Club Black Credit Card with it's [10X reward point](https://www.hdfc
 - Other benefits: Exclusive 24/7 Concierge Services, Golf Program, Insurance Cover etc.
 - Apply [here](https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Diners/index.aspx)
 
+Read the detailed review [here](/hdfc-diners-club-black-credit-card-review/).
+
 #### 3. Citi Prestige Credit Card
 
 {% include image.html image="citi-prestige-credit-card.jpg" alt="Citi Prestige Credit Card" class="cc-center" %}
