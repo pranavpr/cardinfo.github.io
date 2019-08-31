@@ -12,7 +12,7 @@ HDFC is providing free Netflix subscription for 3 months using HDFC Credit Cards
 ### Offer Details
 
 - **Offer**: 3 months cash back on new monthly subscription of Netflix
-- **Period**: 1st August 2019 to 31st Oct 2019
+- **Period**: ~~1st August 2019 to 31st Oct 2019~~ Expired
 - **Maximum Cashback**: Rs. 499 per month
 - **Eligible Credit Cards**: HDFC Bank Infinia/Regalia/Regalia First/Business Regalia/Business Regalia First/Jet Co-brand/Diners Club miles/Diners Jet/Diners Black Credit Cards
 - **Eligible Plans**: All plans of Netflix (Basic, Standard, Premium & Mobile)

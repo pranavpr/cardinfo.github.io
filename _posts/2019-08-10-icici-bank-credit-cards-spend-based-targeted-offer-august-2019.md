@@ -4,7 +4,7 @@ title: 'ICICI Bank Credit Cards spend based targeted offer: August 2019'
 date: 2019-08-09 22:40 +0530
 categories: [ICICI, Card Offers]
 image: /assets/images/icici-bank-credit-cards-spend-based-targeted-offer-august-2019.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 The spend based targeted offers have not stopped yet and after [HDFC](/hdfc-credit-cards-spend-based-targeted-offer-august-2019/), [HSBC](/hsbc-credit-cards-spend-based-targeted-offer-august-2019/), [Citi](/citi-credit-cards-spend-based-targeted-offer-august-2019/) & [SBI](/sbi-card-targeted-spend-based-offer-july-2019/), ICICI has also jumped on the bandwagon and is providing BookMyShow vouchers on achieving the spend criteria.

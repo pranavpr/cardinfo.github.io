@@ -4,7 +4,7 @@ title: 'Amex: 10X Reward Points on Domestic Travel'
 date: 2019-07-19 16:04 +0530
 categories: [Amex, Card Offers]
 image: /assets/images/amex-10x-rewards-on-domestic-travel.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 Amex is offering up to 10X membership reward points on booking domestic hotels and flights at [American Express Travel Online](https://www.amexindiatravel.com/) website. Yet again, this is a fantastic opportunity to hoard those extra reward points.
