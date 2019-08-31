@@ -4,7 +4,7 @@ title: 3 Months Netflix free with HDFC Bank Credit Cards
 date: 2019-07-31 23:27 +0530
 categories: [HDFC, Card Offers]
 image: /assets/images/3-months-netflix-free-with-hdfc-credit-cards.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 HDFC is providing free Netflix subscription for 3 months using HDFC Credit Cards. This offer is valid only on new sign-up with Netflix and is not applicable for existing subscriptions.
