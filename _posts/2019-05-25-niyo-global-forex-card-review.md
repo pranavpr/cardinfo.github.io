@@ -96,7 +96,7 @@ This card is currently being issued to Indian Citizens holding a valid PAN card 
 
 You can apply online by clicking below:
 
-<a href="https://campaigns.goniyo.com/LP/?utm_source=cardinfo.in" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
+<a href="https://glbl.page.link/RZWS" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
 
 Once you fill up the form, you will be contacted by their executive for fixing an appointment. Their executive will visit your place to scan the documents using their mobile app. Hence you need to keep the original documents with yourself during the appointment. Once document collection is done, executive will handover you the card kit which contains following:
 
