@@ -979,6 +979,7 @@ html {
 }
 @font-face {
   font-family: 'cardinfo';
+  font-display: auto;
   src: url('../fonts/cardinfo.eot?49p5bi');
   src: url('../fonts/cardinfo.eot?49p5bi#iefix') format('embedded-opentype'),
     url('../fonts/cardinfo.ttf?49p5bi') format('truetype'),
