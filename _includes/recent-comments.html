@@ -1,0 +1,199 @@
+<div id="recent-comments"></div>
+<script>
+  /**
+   * https://github.com/SaneMethod/jquery-ajax-localstorage-cache
+   */
+  (function($, window) {
+    'use strict';
+    var genCacheKey = function(options) {
+      var url;
+      if (options.cacheKey) {
+        return typeof options.cacheKey === 'function'
+          ? options.cacheKey(options)
+          : options.cacheKey;
+      }
+
+      url = options.url.replace(/jQuery.*/, '');
+
+      if (options.cache === false) {
+        url = url.replace(/([?&])_=[^&]*/, '');
+      }
+
+      return url + options.type + (options.data || '');
+    };
+
+    var getStorage = function(storage) {
+      if (!storage) return false;
+      if (storage === true) return window.localStorage;
+      if (
+        typeof storage === 'object' &&
+        'getItem' in storage &&
+        'removeItem' in storage &&
+        'setItem' in storage
+      ) {
+        return storage;
+      }
+      throw new TypeError(
+        'localCache must either be a boolean value, ' +
+          'or an object which implements the Storage interface.'
+      );
+    };
+    var removeFromStorage = function(storage, cacheKey) {
+      storage.removeItem(cacheKey);
+      storage.removeItem(cacheKey + 'cachettl');
+      storage.removeItem(cacheKey + 'dataType');
+    };
+
+    $.ajaxPrefilter(function(options, originalOptions, jqXHR) {
+      var storage = getStorage(options.localCache),
+        hourstl = options.cacheTTL || 5,
+        cacheKey = (options.cacheKey = genCacheKey(options)),
+        cacheValid = options.isCacheValid,
+        responseValid = options.isResponseValid,
+        thenResponse = options.thenResponse || null,
+        ttl,
+        value;
+
+      if (!storage) return;
+      ttl = storage.getItem(cacheKey + 'cachettl');
+
+      if (cacheValid && typeof cacheValid === 'function' && !cacheValid()) {
+        removeFromStorage(storage, cacheKey);
+        ttl = 0;
+      }
+
+      if (ttl && ttl < +new Date()) {
+        removeFromStorage(storage, cacheKey);
+        ttl = 0;
+      }
+
+      value = storage.getItem(cacheKey);
+      if (!value) {
+        jqXHR.then(thenResponse).then(function(data, status, jqXHR) {
+          var strdata = data,
+            dataType =
+              options.dataType ||
+              jqXHR.getResponseHeader('Content-Type') ||
+              'text/plain';
+
+          if (
+            !(
+              responseValid &&
+              typeof responseValid === 'function' &&
+              !responseValid(data, status, jqXHR)
+            )
+          ) {
+            if (dataType.toLowerCase().indexOf('json') !== -1)
+              strdata = JSON.stringify(data);
+
+            try {
+              storage.setItem(cacheKey, strdata);
+              storage.setItem(
+                cacheKey + 'cachettl',
+                +new Date() + 1000 * 60 * 60 * hourstl
+              );
+              storage.setItem(cacheKey + 'dataType', dataType);
+            } catch (e) {
+              removeFromStorage(storage, cacheKey);
+              console.log('Cache Error:' + e, cacheKey, strdata);
+            }
+          }
+        });
+      }
+    });
+
+    $.ajaxTransport('+*', function(options) {
+      if (options.localCache) {
+        var cacheKey = options.cacheKey,
+          storage = getStorage(options.localCache),
+          dataType =
+            options.dataType ||
+            storage.getItem(cacheKey + 'dataType') ||
+            'text',
+          value = storage ? storage.getItem(cacheKey) : false;
+
+        if (value) {
+          if (dataType.toLowerCase().indexOf('json') !== -1)
+            value = JSON.parse(value);
+          return {
+            send: function(headers, completeCallback) {
+              var response = {};
+              response[dataType] = value;
+              completeCallback(200, 'success', response, '');
+            },
+            abort: function() {
+              console.log('Aborted ajax transport for json cache.');
+            }
+          };
+        }
+      }
+    });
+  })(jQuery, window);
+</script>
+<script>
+  var commentsHTML = '';
+  var threadIds = [];
+  var latestPosts = [];
+  var threadMap = {};
+  var disqusPublicKey = '{{site.disqus_public_key}}';
+  var disqusShortname = '{{site.disqus}}';
+  $.ajax({
+    type: 'GET',
+    url: 'https://disqus.com/api/3.0/posts/list.json',
+    localCache: true,
+    cacheTTL: 1,
+    cacheKey: 'posts',
+    data: { api_key: disqusPublicKey, forum: disqusShortname, limit: 10 },
+    cache: false,
+    dataType: 'json',
+    success: function(data) {
+      latestPosts = data.response;
+      latestPosts.forEach(function(post) {
+        if (threadIds.indexOf(post.thread) === -1) {
+          threadIds.push(post.thread);
+        }
+      });
+      $.ajax({
+        type: 'GET',
+        url: 'https://disqus.com/api/3.0/threads/list.json',
+        localCache: true,
+        cacheTTL: 0.9,
+        cacheKey: 'threads',
+        data: {
+          api_key: disqusPublicKey,
+          forum: disqusShortname,
+          thread: threadIds
+        },
+        cache: false,
+        dataType: 'json',
+        success: function(data) {
+          data.response.forEach(function(thread) {
+            threadMap[thread.id] = {
+              title: thread.title,
+              link: thread.link
+            };
+          });
+          latestPosts.forEach(function(post) {
+            commentsHTML +=
+              '<div class="row p-1"><div class="col-3"><img class="rounded" src="' +
+              post.author.avatar.permalink +
+              '"</img></div><div class="col-9 p-0"> ' +
+              post.author.name +
+              ' on <a href="' +
+              threadMap[post.thread].link +
+              '#comment-' +
+              post.id +
+              '">' +
+              threadMap[post.thread].title +
+              '</a></div></div>';
+          });
+          var finalCommentsHTML =
+            '<h4 class="font-weight-bold spanborder"><span>Recent Comments</span></h4><div class="comments text-muted">' +
+            commentsHTML +
+            '</div>';
+          $('#recent-comments').html(finalCommentsHTML);
+        }
+      });
+    }
+  });
+</script>

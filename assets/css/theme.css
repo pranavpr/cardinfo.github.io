@@ -1031,3 +1031,6 @@ i {
 .ci-info:before {
   content: '\e906';
 }
+.comments {
+  font-size: 0.9rem;
+}
