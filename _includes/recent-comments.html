@@ -175,9 +175,9 @@
           });
           latestPosts.forEach(function(post) {
             commentsHTML +=
-              '<div class="row p-1"><div class="col-3"><img class="rounded" src="' +
+              '<div class="row p-1"><div class="col-2 col-md-4 col-lg-3 avatar"><img class="rounded" src="' +
               post.author.avatar.permalink +
-              '"</img></div><div class="col-9 p-0"> ' +
+              '"</img></div><div class="col-10 col-md-8 col-lg-9 p-0"> ' +
               post.author.name +
               ' on <a href="' +
               threadMap[post.thread].link +

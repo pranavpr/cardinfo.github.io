@@ -899,6 +899,9 @@ img[src*='#cc-center'] {
     max-width: 1000px;
     margin: 1.75rem auto;
   }
+  .avatar {
+    max-width: 18%;
+  }
 }
 html {
   overflow-x: hidden;
