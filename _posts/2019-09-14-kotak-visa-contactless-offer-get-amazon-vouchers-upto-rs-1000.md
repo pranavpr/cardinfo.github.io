@@ -6,7 +6,7 @@ categories: [Kotak, Card Offers]
 image: /assets/images/kotak-visa-contactless-offer.jpg
 ---
 
-Visa is promoting contactless transactions aggressively these days and it has partnered with Kotak to provide Amazon vouchers on credit and debit cards. Visa has brought the contactless offers in partnership with [HDFC](/earn-2x-reward-points-5-cashback-on-hdfc-visa-contactless-transactions/) & [SBI](/10-cashback-on-contactless-transactions-with-visa-sbi-credit-cards/) in the past. Those who are not aware, a transaction of up to Rs. 2,000 can be made by tapping on contactless enabled POS terminals without entering the PIN.
+Visa is promoting contactless transactions aggressively these days and it has partnered with Kotak to offer Amazon vouchers on credit and debit card spends. Visa has brought the contactless offers in partnership with [HDFC](/earn-2x-reward-points-5-cashback-on-hdfc-visa-contactless-transactions/) & [SBI](/10-cashback-on-contactless-transactions-with-visa-sbi-credit-cards/) in the past too. Those who are not aware, a transaction of up to Rs. 2,000 can be made by tapping on contactless enabled POS terminals without entering the PIN.
 
 ### Offer Details
 
