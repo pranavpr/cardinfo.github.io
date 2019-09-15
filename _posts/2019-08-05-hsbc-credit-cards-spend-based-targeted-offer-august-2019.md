@@ -19,7 +19,7 @@ HSBC has come up with spend based targeted offer on it's credit cards wherein ca
 - **Exclusions**: Transactions that are cancelled or reversed during the Offer Period
 - **Type**: Targeted, not valid if communication not received
 - **Fulfillment**: Cashback will be credited to the cardholder’s account by 30 November 2019
-- **Source**: Email, [Website](http://mail.hsbc.com.hk/in/cc_drmnt_segc2_0819/tnc.htm)
+- **Source**: [Email](http://mail.hsbc.com.hk/in/cc_drmnt_segc2_0819/offer.htm)
 
 This offer provides a reward rate of 10% which is quite awesome. However the maximum cap of Rs. 500 is little disappointing.
 
