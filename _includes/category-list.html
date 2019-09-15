@@ -1,0 +1,23 @@
+<h4 class="font-weight-bold spanborder"><span>Categories</span></h4>
+{% assign categories_list = site.categories | sort %} {% if
+categories_list.first[0] == null %} {% for category in categories_list %}
+<h2 class="mb-2 h6 font-weight-bold">
+  <a
+    class="text-dark"
+    href="{{
+      site.baseurl
+    }}/categories#{{ category | downcase | url_escape | strip | replace: ' ', '-' }}"
+    >{{ category | camelcase }}</a
+  >
+</h2>
+{% endfor %} {% else %} {% for category in categories_list %}
+<h2 class="mb-2 h6 font-weight-bold">
+  <a
+    class="text-dark"
+    href="{{
+      site.baseurl
+    }}/categories#{{ category[0] | downcase |  url_escape | strip | replace: ' ', '-' }}"
+    >{{ category[0] | camelcase }}</a
+  >
+</h2>
+{% endfor %} {% endif %} {% assign categories_list = nil %}
