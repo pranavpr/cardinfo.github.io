@@ -2,7 +2,7 @@
 layout: post
 title: Amazon Pay ICICI Bank Credit Card vs Flipkart Axis Bank Credit Card
 date: 2019-07-20 12:23 +0530
-categories: [ICICI, Axis Bank, Reviews]
+categories: [ICICI, Axis, Reviews]
 image: /assets/images/amazon-pay-icici-bank-credit-card-vs-flipkart-axis-bank-credit-card.jpg
 ---
 

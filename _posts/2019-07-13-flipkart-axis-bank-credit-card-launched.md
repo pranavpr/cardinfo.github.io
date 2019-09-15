@@ -2,7 +2,7 @@
 layout: post
 title: Flipkart Axis Bank Credit Card launched
 date: 2019-07-13 11:13 +0530
-categories: [Axis Bank, News]
+categories: [Axis, News]
 image: /assets/images/flipkart-axis-bank-credit-card-launched.jpg
 ---
 

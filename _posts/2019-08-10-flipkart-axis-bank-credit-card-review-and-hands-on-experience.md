@@ -2,7 +2,7 @@
 layout: post
 title: Flipkart Axis Bank Credit Card review and hands on experience
 date: 2019-08-10 12:09 +0530
-categories: [Axis Bank, Reviews]
+categories: [Axis, Reviews]
 image: /assets/images/flipkart-axis-bank-credit-card-review.jpg
 product: Flipkart Axis Bank Credit Card
 ---
