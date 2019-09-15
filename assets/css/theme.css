@@ -903,7 +903,7 @@ img[src*='#cc-center'] {
     max-width: 18%;
   }
 }
-.overflow-hidden {
+body {
   overflow-x: hidden;
 }
 .transpdark {
