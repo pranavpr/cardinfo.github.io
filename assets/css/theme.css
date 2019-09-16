@@ -903,9 +903,6 @@ img[src*='#cc-center'] {
     max-width: 18%;
   }
 }
-body {
-  overflow-x: hidden;
-}
 .transpdark {
   background: rgba(0, 0, 0, 0.75);
   color: #fff;

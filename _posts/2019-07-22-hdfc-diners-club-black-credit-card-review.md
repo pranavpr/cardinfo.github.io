@@ -7,7 +7,7 @@ image: /assets/images/hdfc-diners-club-black-review.jpg
 product: HDFC Diners Club Black Credit Card
 ---
 
-HDFC Diners Club Black credit card is a super premium offering from HDFC Bank. This card provides the default reward rate of 3.3% which beats any credit card in Indian market. Also their [10X program](/hdfc-diners-club-credit-cards-10x-rewards-july-2019-update/) accelerates the reward rate to a whooping 33% on select partner merchants. I believe there is no better reward rate for credit cards in whole world than this. Apart from fantastic reward rate, this card offers all other features a super premium credit card is supposed to.
+HDFC Diners Club Black credit card is a super premium offering from HDFC Bank. This card provides the default reward rate of 3.3% which beats any credit card in Indian market. Also their [10X program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) accelerates the reward rate to a whooping 33% on select partner merchants. I believe there is no better reward rate for credit cards in whole world than this. Apart from fantastic reward rate, this card offers all other features a super premium credit card is supposed to.
 
 ### Eligibility Criteria
 
