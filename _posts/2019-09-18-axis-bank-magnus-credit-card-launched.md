@@ -10,7 +10,7 @@ Axis Bank launched Magnus Credit Card today. This is a super premium credit card
 
 {% include image.html image="axis-bank-magnus-credit-card-design-and-features.jpg" alt="Axis Bank Magnus Credit Card Design & Features" class="img-center" %}
 
-The card looks stunning and vertical clean layout adds to the aesthetics of the card.
+The card looks stunning and vertical clean layout adds to the aesthetics of the card. The minimal design with black background gives it a premium look.
 
 ### Eligibility Criteria
 
