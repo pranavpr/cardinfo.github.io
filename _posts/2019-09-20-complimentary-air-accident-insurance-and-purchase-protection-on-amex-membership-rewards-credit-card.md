@@ -20,8 +20,8 @@ Amex in it's latest offer on Membership Rewards Credit Card is providing complim
 - **Type**: Valid only after enrolling [here](https://iforms.americanexpress.com/iFormsSecure/un/iforms.do?cuid=enrollment_en_IN&evtsrc=link&evttype=0&campaignId=Insurance%20Offer%20on%20Membership%20Rewards%20Credit%20Card&TermsCondition=%20http://amex.co/ins1)
 - **Fulfillment**: Insurance cover will be available in next month on meeting the spend criteria in previous month
 - **Other T&C**:
-  - The offer will be valid from 1 October 1 2019 to 31 August 2020.
-  - Insurance Cover is valid from 1 November 1 2019 to 30 September 2020.
+  - The offer will be valid from 1 October 2019 to 31 August 2020.
+  - Insurance Cover is valid from 1 November 2019 to 30 September 2020.
 - **Source**: [Email](https://ebm.email.americanexpress.com/c/tag/hBdg0OZAQB6DpB9zok$NwLcPhfP/doc.html)
 
 Tying insurance coverage with monthly spends is something new and novel. Though most premium credit cards provide similar insurance feature complimentary, making it available to an entry level credit card by Amex is really applausable. I would strongly recommend you to enroll for this offer if you hold Membership Rewards Credit Card from Amex.
