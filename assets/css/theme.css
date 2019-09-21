@@ -943,6 +943,9 @@ img[src*='#cc-center'] {
   .jumbotron.fortags {
     margin-bottom: 0 !important;
   }
+  html {
+    overflow-x: hidden;
+  }
 }
 .jumbotron.fortags {
   margin-top: 3rem;
