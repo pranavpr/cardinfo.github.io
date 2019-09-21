@@ -64,6 +64,6 @@ This is really a good offer and would come in handy in case of domestic and inte
 
 ### Bottomline
 
-NPCI's RuPay is trying to catch up with premium offerings from Visa and MasterCard and introduction of RuPay Select is a step in right direction. These benefits will surely attract the premium segment of card users, however I don't see much value for super premium segment. I believe NPCI is trying bottom to top approach of acquiring segments and has offerings for lifestyle and premium segment set up now. I anticipate a launch of new tier equivalent to Visa Infinte and MasterCard World Elite in coming future.
+NPCI's RuPay is trying to catch up with premium offerings from Visa and MasterCard and introduction of RuPay Select is a step in right direction. These benefits will surely attract the premium segment of card users, however I don't see much value for super premium segment. I believe NPCI is trying bottom to top approach of acquiring segments and has offerings for lifestyle and premium segment set up now. I anticipate a launch of new tier equivalent to Visa Infinite and MasterCard World Elite in coming future.
 
 _What's your take on RuPay Select cards? Let me know in comments below._
