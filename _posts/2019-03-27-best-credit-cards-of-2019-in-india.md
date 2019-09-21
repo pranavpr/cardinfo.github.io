@@ -118,13 +118,15 @@ HDFC Regalia is upgraded version of HDFC Regalia First. It comes with a host of 
 
 - Joining Fee: Rs 2,500, generally free
 - Renewal Fee: Rs 2,500, usually waived off
-- Reward Rate: 1.2% (normal spends) - 12% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
+- Reward Rate: 1.3% (normal spends) - 13% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
 - Lounge Access:
   - International: 6 international lounge access per year using Priority Pass (including add-on card member)
   - Domestic: 12 domestic lounge access per year using Visa/MasterCard Lounge program
 - Lower foreign currency markup of 2%
 - Other benefits: Club Vistara Silver membership, Zomato Gold membership, travel concierge, insurance cover etc.
 - Apply [here](https://leads.hdfcbank.com/applications/new_webforms/apply/mobile/Credit-Card_TU.aspx)
+
+Read the detailed review [here](/hdfc-bank-regalia-credit-card-review/).
 
 #### 3. Indusind Iconia Credit Card (Amex variant)
 
