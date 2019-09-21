@@ -6,7 +6,7 @@ categories: [RuPay, News]
 image: /assets/images/rupay-select-credit-and-debit-card-launched.jpg
 ---
 
-NPCI launched new tier for credit and debit cards named RuPay Select in TXN NXT event in Dubai yesterday. RuPay Select is a premium tier equivalent to Visa Signature and Mastercard World and comes with host of premium features & benefits.
+NPCI launched new tier for credit and debit cards named RuPay Select in TXN NXT event in Dubai today. RuPay Select is a premium tier equivalent to Visa Signature and Mastercard World and comes with host of premium features & benefits.
 
 {% include image.html image="hdfc-bank-rupay-select-debit-card-and-credit-card-launch-event.jpg" alt="HDFC Bank Rupay Select Debit & Credit Card Launch Event" class="img-center" %}
 
