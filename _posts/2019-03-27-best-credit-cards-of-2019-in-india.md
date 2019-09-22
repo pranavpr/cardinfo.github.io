@@ -51,6 +51,8 @@ American Express Membership Rewards Credit Card is an entry level card from Amex
   - 24 Karat Gold Collection: 24000 points can be redeemed for statement credit worth Rs. 10,000, American Express Domestic Travel Online voucher worth Rs. 11,000 or Bose Sound Link Color II Bluetooth Speaker
 - Apply [here](http://amex.in/refer/pranap9yzB?CPID=999999544)
 
+Read the detailed review [here](/american-express-membership-rewards-credit-card-mrcc-review/).
+
 #### 3. HDFC Regalia First Credit Card
 
 {% include image.html image="hdfc-regalia-first-credit-card.jpg" alt="HDFC Regalia First Credit Card" class="cc-center" %}
