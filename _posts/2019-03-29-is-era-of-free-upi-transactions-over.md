@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Is era of free UPI transactions over?'
-categories: [UPI, Kotak]
+categories: [News, Kotak]
 image: /assets/images/upi.jpg
 ---
 
