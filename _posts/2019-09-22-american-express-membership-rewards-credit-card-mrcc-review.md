@@ -76,10 +76,16 @@ Though acceptability of Amex is increasing day by day in India, still it's not a
 
 ### Verdict
 
-The 12% reward rate on American Express Membership Rewards Credit Card just blows away any competition in this segment. Their world class customer support is a delight to talk to. The network offers run by Amex are way better than competitors. If you are still contemplating on wether to get this card or not, don't think much and just go for it.
+The 12% reward rate on American Express Membership Rewards Credit Card just blows away any competition in this segment. Their world class customer support is a delight to talk to. The network offers run by Amex are way better than competitors.
 
 {% include star-rating.html rating=3.7 rewards=5 fees=3 features=3 %}
 
 I got this card as a companion card with my American Express Gold Card. Amex is currently running an [offer](/amex-offering-complimentary-membership-rewards-credit-card-to-existing-gold-card-holders/) wherein it's offering complimentary Amex Membership Rewards Credit Card to existing Amex Gold Card holders.
+
+If you are still contemplating on wether to get this card or not, don't think much and just go for it.
+
+<a href="http://amex.in/refer/pranap9yzB?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
+
+Signing up using above referral link will give you card **free** for first year and **2000** extra referral bonus reward points in addition to **2000** bonus reward points which is not available otherwise.
 
 _How has been your experience with Amex in general? Let me know in comments below._
