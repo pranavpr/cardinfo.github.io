@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple introduces Apple Card'
-categories: [Apple]
+categories: [News]
 image: /assets/images/apple-credit-card.jpg
 ---
 
