@@ -140,4 +140,6 @@ The offers are unique for each partner merchant and hence let's look in to detai
 
 These offers on partner merchants are somewhat underwhelming and I feel HDFC should have come up with better cashback and discounts. Most of these offers have been running for long time and there is nothing special about them.
 
+**Update**: HDFC Bank has added few more online merchants to Festive Treats offer. Read about them [here](/hdfc-bank-festive-treats-online-offers/).
+
 _What do you think of these Festive Treats offers on partner merchants from HDFC Bank? Let me know in comments below._
