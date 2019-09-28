@@ -39,4 +39,6 @@ HDFC Bank, in order to tap festive spends, has introduced Festive Treats offer o
 
 This offer translates to a reward rate of 16.5% for Infinia and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/) which is quite awesome. On other hand, for Regalia and Diners Clubmiles, this translates to a decent reward rate of 6.5%. This offer would be beneficial for almost all HDFC card holders as spends on Grocery, Supermarkets, Departmental stores are covered too.
 
+**Update**: HDFC has rolled out another set of offers on partner merchants under HDFC Festive Treats offer. Read the the details about the same [here](/hdfc-bank-festive-treats-partner-merchant-offers/).
+
 _What do you think of Festive Treats offer from HDFC Bank? Let me know in comments below._
