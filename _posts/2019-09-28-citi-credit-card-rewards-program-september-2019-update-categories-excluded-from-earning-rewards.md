@@ -2,7 +2,7 @@
 layout: post
 title:
   'Citi Credit Card rewards program September 2019 update: Categories excluded
-  from rewards earning'
+  from earning rewards'
 date: 2019-09-28 10:30 +0530
 categories: [Citi]
 image: /assets/images/citi-bank-credit-cards-rewards-program-update-september-2019.jpg
