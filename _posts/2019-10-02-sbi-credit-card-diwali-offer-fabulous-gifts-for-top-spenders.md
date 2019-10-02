@@ -10,6 +10,8 @@ SBI Card announced the "India Ka Diwali Offer" today on their credit cards. Unde
 
 ### Offer Details
 
+{% include youtube.html id="LMt6OWYm9hU" %}
+
 - **Offer**: Gifts for top spenders on SBI Credit Cards
     <table class="table">
     <thead class="thead-dark">
