@@ -2,7 +2,7 @@
 layout: post
 title: 'SBI Credit Card Diwali Offer: Fabulous gifts for top spenders'
 date: 2019-10-02 14:07 +0530
-categories: [SBI, Card Offers]
+categories: [SBI Card, Card Offers]
 image: /assets/images/sbi-credit-card-diwali-offer-2019.jpg
 ---
 
