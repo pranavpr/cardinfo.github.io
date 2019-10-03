@@ -1,12 +1,12 @@
 ---
 layout: post
-title: SBI Card launches Shaurya Credit Cards for Indian Defense Personnels
+title: SBI Card launches Shaurya Credit Cards for Indian Defense Personnel
 date: 2019-10-03 07:29 +0530
 categories: [SBI Card, News]
 image: /assets/images/shaurya-sbi-card-launched.jpg
 ---
 
-SBI Card launched Shaurya series of Credit Cards especially for Indian Defense Personnels. The Shaurya Credit Card is available on Rupay platform in Select and Platinum variants and would be issued to personnels working in Indian Army, Navy, Airforce and Paramilitary.
+SBI Card launched Shaurya series of Credit Cards especially for Indian Defense Personnel. The Shaurya Credit Card is available on Rupay platform in Select and Platinum variants and would be issued to personnel working in Indian Army, Navy, Airforce and Paramilitary.
 
 {% include image.html image="shaurya-sbi-card-variants.jpg" alt="Shaurya SBI Card variants" class="img-center" %}
 
@@ -69,6 +69,6 @@ Shaurya Platinum SBI Card is available on RuPay Platinum platform and is one lev
 
 ### Bottomline
 
-Shaurya SBI Cards are entry level lifestyle credit cards suitable for low spenders. I don't see any striking difference between this and other credit card already in market. In fact, Shaurya Select SBI Card provides rewards similar to SBI SimplySave card. I wish SBI Card should have given something extra from their normal credit cards as these are meant for defense personnels who save our nation from external threats. I am utterly disappointed with these cards and I see no value in them.
+Shaurya SBI Cards are entry level lifestyle credit cards suitable for low spenders. I don't see any striking difference between this and other credit card already in market. In fact, Shaurya Select SBI Card provides rewards similar to SBI SimplySave card. I wish SBI Card should have given something extra from their normal credit cards as these are meant for defense personnel who save our nation from external threats. I am utterly disappointed with these cards and I see no value in them.
 
 _Let me know your thoughts on Shaurya SBI Cards in comments below._
