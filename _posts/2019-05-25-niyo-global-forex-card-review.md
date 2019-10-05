@@ -94,9 +94,11 @@ This card is currently being issued to Indian Citizens holding a valid PAN card 
 
 {% include image.html image="niyo-global-card-process.jpg" alt="NiYO Global Card Process" class="img-center" %}
 
-You can apply online by clicking below:
+You can apply online for this card using my referral link below:
 
 <a href="https://glbl.page.link/RZWS" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
+
+Using above link, both of us will get Rs. 300 on doing first international POS transaction of Rs. 1,000, which is not available otherwise.
 
 Once you fill up the form, you will be contacted by their executive for fixing an appointment. Their executive will visit your place to scan the documents using their mobile app. Hence you need to keep the original documents with yourself during the appointment. Once document collection is done, executive will handover you the card kit which contains following:
 
