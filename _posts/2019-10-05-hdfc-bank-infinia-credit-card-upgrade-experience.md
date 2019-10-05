@@ -16,7 +16,7 @@ I started my relationship with HDFC Bank 11 years back when I opened my salary a
 
 {% include image.html image="journey-from-visa-gold-to-infinia-credit-card.jpg" alt="Journey from HDFC Visa Gold to Infinia Credit Card" class="img-center mb-3" %}
 
-I moved through Visa Gold, Visa Platinum Plus, Visa Signature, Regalia to finally reach Infinia during a span of 11 years. During initial years I was automatically upgraded and my credit limit was enhanced as HDFC credit card was my primary driver. However in 2017, I got hold of [Yes First Exclusive Credit Card](/yes-first-exclusive-credit-card-review/) along with American Express Gold card and shifted my spends there. I believe it was a mistake as if I would have continued using my Regalia, I would have gotten an upgrade to Infinia sooner. Eventually at the start of this year, I started the pursue of Infinia and shifted some of my spends to Regalia. And in 10 months, I got an upgrade to Infinia.
+I moved through Visa Gold, Visa Platinum Plus, Visa Signature, Regalia to finally reach Infinia during a span of 11 years. During initial years I was automatically upgraded and my credit limit was enhanced as HDFC credit card was my primary driver. However in 2017, I got hold of [Yes First Exclusive Credit Card](/yes-first-exclusive-credit-card-review/) along with American Express Gold card and shifted my spends there. I believe it was a mistake as if I would have continued using my Regalia, I would have gotten an upgrade to Infinia sooner. Eventually at the start of this year, I started the pursue of Infinia and shifted some of my spends to Regalia. And in 9 months, I got an upgrade to Infinia.
 
 ### Upgrade Process
 
