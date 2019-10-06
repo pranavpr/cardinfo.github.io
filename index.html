@@ -182,7 +182,7 @@ image: /assets/images/best-credit-card-india-2019.jpg
             {% include main-loop-card.html %}
         
         {% endfor %}
-        
+        {% include advertisement-bottom.html %}
         <div class="mt-5">
          <!-- Pagination links -->
             {% if paginator.total_pages > 1 %}
@@ -195,7 +195,7 @@ image: /assets/images/best-credit-card-india-2019.jpg
 
               {% for page in (1..paginator.total_pages) %}
                 {% if page == paginator.page %}
-                <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
+                <li class="page-item disabled"><span class="page-link">{{ page }}</span></li>
                 {% elsif page == 1 %}
                 <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
                 {% else %}
