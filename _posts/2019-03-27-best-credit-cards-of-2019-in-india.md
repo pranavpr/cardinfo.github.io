@@ -19,7 +19,7 @@ Lifestyle cards are general purpose cards suitable for all types of spends e.g. 
 
 #### 1. Amazon Pay ICICI Bank Credit Card
 
-{% include image.html image="amazon-pay-icici-bank-credit-card.jpg" alt="Amazon Pay ICICI Bank Credit Card" class="cc-center" %}
+{% include image.html image="amazon-pay-icici-bank-credit-card.jpg" alt="Amazon Pay ICICI Bank Credit Card" class="cc-center mb-3" %}
 
 Amazon Pay ICICI Bank Credit Card gives 5% cashback on Amazon if you're a prime member which is a sweet deal if you spend a lot on Amazon. However at this point of time, this card is available by invitation only. Your chance for invitation increases if you hold an existing credit card from ICICI. Below are the main highlights of this card:
 
@@ -36,7 +36,7 @@ Read the detailed review [here](/amazon-pay-icici-bank-credit-card-review/).
 
 #### 2. American Express Membership Rewards Credit Card
 
-{% include image.html image="american-express-membership-rewards-credit-card.jpg" alt="American Express Membership Rewards Credit Card" class="cc-center" %}
+{% include image.html image="american-express-membership-rewards-credit-card.jpg" alt="American Express Membership Rewards Credit Card" class="cc-center mb-3" %}
 
 American Express Membership Rewards Credit Card is an entry level card from Amex with low joining and renewal fees unlike other cards. Though acceptability of Amex is increasing day by day in India, still it's not as good as Visa/MasterCard. The best thing about Amex is their world class customer service and when you talk to them, they make you feel really special. Below are the main highlights of this card:
 
@@ -55,7 +55,7 @@ Read the detailed review [here](/american-express-membership-rewards-credit-card
 
 #### 3. HDFC Regalia First Credit Card
 
-{% include image.html image="hdfc-regalia-first-credit-card.jpg" alt="HDFC Regalia First Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-regalia-first-credit-card.jpg" alt="HDFC Regalia First Credit Card" class="cc-center mb-3" %}
 
 HDFC Regalia First Credit Card is an entry level premium card from HDFC. Mostly it's issued for free if your salary account is with HDFC and gross monthly income is greater than Rs. 40,000 per month. Below are the main highlights of this card:
 
@@ -69,7 +69,7 @@ HDFC Regalia First Credit Card is an entry level premium card from HDFC. Mostly 
 
 #### 4. Standard Chartered Manhattan Credit Card
 
-{% include image.html image="standard-chartered-manhattan.jpg" alt="Standard Chartered Manhattan Credit Card" class="cc-center" %}
+{% include image.html image="standard-chartered-manhattan.jpg" alt="Standard Chartered Manhattan Credit Card" class="cc-center mb-3" %}
 
 Standard Chartered Manhattan Credit Card provides 5% cashback on grocery spends at supermarkets like DMart, Big Bazaar, More etc. Below are the main highlights of this card:
 
@@ -83,7 +83,7 @@ Standard Chartered Manhattan Credit Card provides 5% cashback on grocery spends 
 
 #### 5. Citi Cashback Credit Card
 
-{% include image.html image="citi-cashback-credit-card-new.jpg" alt="Citi Cashback Credit Card" class="cc-center" %}
+{% include image.html image="citi-cashback-credit-card-new.jpg" alt="Citi Cashback Credit Card" class="cc-center mb-3" %}
 
 If you love cashback then this card is for you. Citi Cashback Credit Card provides cashback for all spends which are automatically credited to your statement. Below are the main highlights of this card:
 
@@ -102,7 +102,7 @@ Premium cards are a notch above life style cards. These cards, not only have hig
 
 #### 1. HDFC Diners Club Clubmiles Credit Card
 
-{% include image.html image="hdfc-diners-clubmiles.jpg" alt="HDFC Diners Club Clubmiles Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-diners-clubmiles.jpg" alt="HDFC Diners Club Clubmiles Credit Card" class="cc-center mb-3" %}
 
 HDFC Diners Club Clubmiles Credit Card has decent reward rate of 1.3% and with [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) 10X program it peaks to 13%. Income criteria for this card is Rs. 30,000 per month (net income) which is pretty low. Below are the main highlights of this card:
 
@@ -114,7 +114,7 @@ HDFC Diners Club Clubmiles Credit Card has decent reward rate of 1.3% and with [
 
 #### 2. HDFC Regalia Credit Card
 
-{% include image.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" class="cc-center mb-3" %}
 
 HDFC Regalia is upgraded version of HDFC Regalia First. It comes with a host of benefits like lower foreign currency markup, Priority Pass membership etc. You need to have a monthly income more than Rs. 1,20,000 to get this card. Below are the main highlights of this card:
 
@@ -132,7 +132,7 @@ Read the detailed review [here](/hdfc-bank-regalia-credit-card-review/).
 
 #### 3. Indusind Iconia Credit Card (Amex variant)
 
-{% include image.html image="indusind-iconia-amex-credit-card.jpg" alt="SIndusind Iconia Credit Card" class="cc-center" %}
+{% include image.html image="indusind-iconia-amex-credit-card.jpg" alt="SIndusind Iconia Credit Card" class="cc-center mb-3" %}
 
 If you spend a lot in weekends, this is the card for you. It provides accelerated rewards during weekends which you can redeem for statement credit. This card also gives you access to access to domestic lounge. Below are the main highlights of this card:
 
@@ -145,7 +145,7 @@ If you spend a lot in weekends, this is the card for you. It provides accelerate
 
 #### 4. SBI Prime Credit Card
 
-{% include image.html image="sbi-prime-credit-card.jpg" alt="SBI Prime Credit Card" class="cc-center" %}
+{% include image.html image="sbi-prime-credit-card.jpg" alt="SBI Prime Credit Card" class="cc-center mb-3" %}
 
 SBI Prime Credit Card gives you 5% back on standing instructions of Utility Bills payments. It also provides access to lounge, both in India and abroad. Below are the main highlights of this card:
 
@@ -163,7 +163,7 @@ SBI Prime Credit Card gives you 5% back on standing instructions of Utility Bill
 
 #### 5. Yes First Preferred Credit Card
 
-{% include image.html image="yes-first-preferred-credit-card.jpg" alt="Yes First Preferred Credit Card" class="cc-center" %}
+{% include image.html image="yes-first-preferred-credit-card.jpg" alt="Yes First Preferred Credit Card" class="cc-center mb-3" %}
 
 Yes Bank is relatively new player in credit card market at initially they were very aggressive in issuing cards. Lately they have become dormant and even [reduced the reward rate](/yes-bank-credit-cards-rewards-reduced/). However this is still a good card owing to decent reward rate and access to domestic and international lounges. Easiest way to get this card is to get it on Card-to-Card basis with limit on existing card above Rs. 3,00,000. You can get this card and later on (after 6 months) upgrade to Yes First Exclusive Credit Card. Below are the main highlights of this card:
 
@@ -182,7 +182,7 @@ Super Premium cards are hard to get and require really high NRV with issuing ban
 
 #### 1. HDFC Infinia Credit Card
 
-{% include image.html image="hdfc-bank-infinia-credit-card.jpg" alt="HDFC Infinia Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-bank-infinia-credit-card.jpg" alt="HDFC Infinia Credit Card" class="cc-center mb-3" %}
 
 HDFC Infinia Credit Card is for the elitist and is invite only card. This card comes with unique No Pre-set spending limit feature and best reward rate of 3.3% on all spends. Below are the main highlights of this card:
 
@@ -197,7 +197,7 @@ HDFC Infinia Credit Card is for the elitist and is invite only card. This card c
 
 #### 2. HDFC Diners Club Black Credit Card
 
-{% include image.html image="hdfc-diners-club-black-credit-card.png" alt="HDFC Diners Club Black Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-diners-club-black-credit-card.png" alt="HDFC Diners Club Black Credit Card" class="cc-center mb-3" %}
 
 HDFC Diners Club Black Credit Card with it's [10X reward point](https://www.hdfcbankdinersclub.com/privilege) is certainly one the best credit cards in India at this point of time. Even without 10X reward point, it has reward rate of 3.3% on all spends which is quite good. To get this card you need to have net monthly income more than Rs. 1,75,000 per month. Below are the main highlights of this card:
 
@@ -213,7 +213,7 @@ Read the detailed review [here](/hdfc-diners-club-black-credit-card-review/).
 
 #### 3. Citi Prestige Credit Card
 
-{% include image.html image="citi-prestige-credit-card.jpg" alt="Citi Prestige Credit Card" class="cc-center" %}
+{% include image.html image="citi-prestige-credit-card.jpg" alt="Citi Prestige Credit Card" class="cc-center mb-3" %}
 
 Citi Prestige Credit Card is best for those who travel a lot. This card entitles you for airport lounge access, luxury airport transfers, extra hotel nights, meet and assist services and accelerated air miles program. To get this card, you need to have very good relationship with Citi Bank and holding a Citigold/Citigold Private account will go a long way. Below are the main highlights of this card:
 
@@ -228,7 +228,7 @@ Citi Prestige Credit Card is best for those who travel a lot. This card entitles
 
 #### 4. Standard Chartered Ultimate Credit Card
 
-{% include image.html image="standard-chartered-ultimate-credit-card.jpg" alt="Standard Chartered Ultimate" class="cc-center" %}
+{% include image.html image="standard-chartered-ultimate-credit-card.jpg" alt="Standard Chartered Ultimate" class="cc-center mb-3" %}
 
 Standard Chartered Ultimate Credit Card is the latest offering from Standard Chartered. With a lucrative reward rate of 3.3% with option to redeem for Amazon vouchers, this is certainly best for not-so-frequent travellers. To get this card, you should have annual income of more than Rs. 24,00,000 or if you have an existing SC credit card then the limit should be more than Rs. 3,00,000. Below are the main highlights of this card:
 
@@ -245,7 +245,7 @@ Standard Chartered Ultimate Credit Card is the latest offering from Standard Cha
 
 #### 5. Yes First Exclusive Credit Card
 
-{% include image.html image="yes-first-exclusive-credit-card.jpg" alt="Yes First Exclusive Credit Card" class="cc-center" %}
+{% include image.html image="yes-first-exclusive-credit-card.jpg" alt="Yes First Exclusive Credit Card" class="cc-center mb-3" %}
 
 Yes First Exclusive is one level higher than Yes First Preferred Credit Card. It comes with a reward rate of 1.5%-3% depending on spend categories and provides unlimited domestic and international lounge access to both primary and secondary card holders. Below are the main highlights of this card:
 
