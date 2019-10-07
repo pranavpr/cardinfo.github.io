@@ -125,4 +125,6 @@ This is a fantastic card which simplifies the forex transactions to a great exte
 
 {% include star-rating-single.html rating=5 %}
 
+**PS**: You can save even more using a combination of NiYO Global Card and credit card. Read about most rewarding credit cards with low forex markup fee for foreign travel & spends [here](/best-credit-cards-in-india-with-low-forex-currency-markup-for-international-travel-spends/).
+
 _What do you think of this card? Share your experience of using this card in comments below._
