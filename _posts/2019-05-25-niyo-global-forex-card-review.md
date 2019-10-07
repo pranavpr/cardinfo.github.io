@@ -9,7 +9,7 @@ product: NiYO Global Forex Card
 
 NiYO Global Card is a next generation forex card which eliminates the many pain points of current generation forex cards. To start with, it's an INR card, which can be used globally (150+ countries), including in India and card can be loaded via any bank account using IMPS/NEFT without any charges. The card comes with NiYO Global app which lets you manage your card on the move and offers bunch of other useful features.
 
-{% include image.html image="niyo-global-card-zero-forex-markup.jpg" alt="NiYO Global Card" class="img-center" %}
+{% include image.html image="niyo-global-card-zero-forex-markup.jpg" alt="NiYO Global Card" class="img-center mb-3" %}
 
 ### Features
 
@@ -92,7 +92,7 @@ I feel these spending limits are pretty generous and will suffice most of the tr
 
 This card is currently being issued to Indian Citizens holding a valid PAN card and address proof (Aadhaar, Passport etc.).
 
-{% include image.html image="niyo-global-card-process.jpg" alt="NiYO Global Card Process" class="img-center" %}
+{% include image.html image="niyo-global-card-process.jpg" alt="NiYO Global Card Process" class="img-center mb-3" %}
 
 You can apply online for this card using my referral link below:
 
@@ -108,6 +108,16 @@ Once you fill up the form, you will be contacted by their executive for fixing a
 - Most important terms and conditions
 
 You should be able to login to NiYO Global app post KYC approval and card activation which happens same day in the night. Post that you can transfer funds to your card using Account Number and IFSC code displayed in the app.
+
+### Experience
+
+I used this card extensively in Europe and England and I didn't face any issue. Loading money was hassle free and I just used to IMPS the amount to card account and it used to get credit instantly. The card was accepted by all merchants across Europe and England without any glitches. As soon as transaction was done, it used to show up in the NiYO Global app with amount in both foreign currency as well as approximate INR. The transactions used to get settled in 2-3 days and hence exchange rate of that time was applicable. Hence, due to fluctuation in currency exchange rates, there used to be some debit or credit of amount.
+
+{% include image.html image="niyo-global-app-transactions-history.jpg" alt="NiYO Global App Transaction History" class="img-center mb-3" %}
+
+I also used it for withdrawing money in ATMs and it worked seamlessly. There were no extra charges for ATM cash withdrawals and I was able to get Visa exchange rates for this too.
+
+{% include tip.html tip="Always opt to get charged in local currency instead of INR at POS terminals and ATM machines to avoid foreign currency markup fee." %}
 
 ### Verdict
 
