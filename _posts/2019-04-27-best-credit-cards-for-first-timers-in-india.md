@@ -14,7 +14,7 @@ Many a times I have been asked which credit card is best for someone who has jus
 
 ### Standard Chartered Manhattan Credit Card
 
-{% include image.html image="standard-chartered-manhattan.jpg" alt="Standard Chartered Manhattan Credit Card" class="cc-center" %}
+{% include image.html image="standard-chartered-manhattan.jpg" alt="Standard Chartered Manhattan Credit Card" class="cc-center mb-3" %}
 
 Standard Chartered Manhattan Credit Card provides 5% cashback on grocery spends at supermarkets like DMart, Big Bazaar, More etc.
 
@@ -29,7 +29,7 @@ Standard Chartered Manhattan Credit Card provides 5% cashback on grocery spends 
 
 ### Citi Cashback Credit Card
 
-{% include image.html image="citi-cashback-credit-card-new.jpg" alt="Citi Cashback Credit Card" class="cc-center" %}
+{% include image.html image="citi-cashback-credit-card-new.jpg" alt="Citi Cashback Credit Card" class="cc-center mb-3" %}
 
 If you love cashback then this card is for you. Citi Cashback Credit Card provides cashback for all spends which are automatically credited to your statement.
 
@@ -45,7 +45,7 @@ If you love cashback then this card is for you. Citi Cashback Credit Card provid
 
 ### SBI Simply Click Credit Card
 
-{% include image.html image="sbi-simply-click-credit-card.jpg" alt="SBI Simply Click Credit Card" class="cc-center" %}
+{% include image.html image="sbi-simply-click-credit-card.jpg" alt="SBI Simply Click Credit Card" class="cc-center mb-3" %}
 
 SBI Simply Click provides 2.5% back on online spends with their exclusive partners and 1.25% on other online spends. This is a very good card if you spend a lot online.
 
@@ -61,7 +61,7 @@ SBI Simply Click provides 2.5% back on online spends with their exclusive partne
 
 ### HSBC Platinum Credit Card
 
-{% include image.html image="hsbc-visa-plantinum-credit-card.jpg" alt="HSBC Platinum Credit Card" class="cc-center" %}
+{% include image.html image="hsbc-visa-plantinum-credit-card.jpg" alt="HSBC Platinum Credit Card" class="cc-center mb-3" %}
 
 HSBC though very strict about issuing credit cards, issues cards life-time free with great introductory benefits. They have partnered with BookMyShow, Bigbasket, Flipkart, Makemytrip etc. for [fabulous offers](https://www.hsbc.co.in/credit-cards/offers/).
 
@@ -82,7 +82,7 @@ HSBC though very strict about issuing credit cards, issues cards life-time free 
 
 ### HDFC MoneyBack Credit Card
 
-{% include image.html image="hdfc-money-back-credit-card.jpg" alt="HDFC MoneyBack Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-money-back-credit-card.jpg" alt="HDFC MoneyBack Credit Card" class="cc-center mb-3" %}
 
 HDFC MoneyBack Credit Card provides 0.26% cash back on online spends and 0.13% on offline. However main attracting of this card is [10X rewards on SmartBuy portal](/hdfc-smartbuy-10x-rewads-extended-till-30-april-2019/) which pushes up the reward rate to 2.6%. If you have a salary account with HDFC, you'll surely get this card life time free.
 
@@ -98,7 +98,7 @@ HDFC MoneyBack Credit Card provides 0.26% cash back on online spends and 0.13% o
 
 ### ICICI Platinum Credit Card
 
-{% include image.html image="icici-platinum-credit-card.jpg" alt="ICICI Platinum Credit Card" class="cc-center" %}
+{% include image.html image="icici-platinum-credit-card.jpg" alt="ICICI Platinum Credit Card" class="cc-center mb-3" %}
 
 ICICI Platinum Credit Card, though not very good at rewards, is easiest to get issued. ICICI keeps on running [great promotions](https://www.icicibank.com/offers/categories/credit-card.page) every month with huge number of online and offline partners. This card can also be your stepping step for getting [Amazon Pay ICICI Bank credit card](/amazon-pay-icici-bank-credit-card-review/) which is invite only as of now.
 
