@@ -16,7 +16,7 @@ Those who are not aware, if you spend in currency other than Indian Rupees, bank
 
 ### 1. HDFC Bank Infinia Credit Card
 
-{% include image.html image="hdfc-bank-infinia-credit-card.jpg" alt="HDFC Infinia Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-bank-infinia-credit-card.jpg" alt="HDFC Infinia Credit Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 2% + GST (2.36%)
 - Reward Rate: 3.3%
@@ -31,7 +31,7 @@ HDFC Bank Infinia Credit Card is for the elitist and is invite only card. You ne
 
 ### 2. HDFC Diners Club Black Credit Card
 
-{% include image.html image="hdfc-diners-club-black-credit-card.png" alt="HDFC Diners Club Black Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-diners-club-black-credit-card.png" alt="HDFC Diners Club Black Credit Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 2% + GST (2.36%)
 - Reward Rate: 3.3%
@@ -45,7 +45,7 @@ HDFC Bank Infinia Credit Card is for the elitist and is invite only card. You ne
 
 ### 3. Yes First Exclusive Credit Card
 
-{% include image.html image="yes-first-exclusive-credit-card.jpg" alt="Yes First Exclusive Credit Card" class="cc-center" %}
+{% include image.html image="yes-first-exclusive-credit-card.jpg" alt="Yes First Exclusive Credit Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 1.75% + GST (2%)
 - Reward Rate: 1.5% to 3%
@@ -58,7 +58,7 @@ HDFC Bank Infinia Credit Card is for the elitist and is invite only card. You ne
 
 ### 4. Citi Prestige Credit Card
 
-{% include image.html image="citi-prestige-credit-card.jpg" alt="Citi Prestige Credit Card" class="cc-center" %}
+{% include image.html image="citi-prestige-credit-card.jpg" alt="Citi Prestige Credit Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 3.5% + GST (4.13%)
 - Reward Rate: 4% to 8%
@@ -73,7 +73,7 @@ Citi Prestige Credit Card is advisable only for those who can maximize the value
 
 ### 5. ICICI Bank Emeralde Credit Card (Amex)
 
-{% include image.html image="icici-bank-emeralde-credit-card.jpg" alt="ICICI Bank Emeralde Credit Card" class="cc-center" %}
+{% include image.html image="icici-bank-emeralde-credit-card.jpg" alt="ICICI Bank Emeralde Credit Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 1.5% + GST (1.77%)
 - Reward Rate: 1%
@@ -88,7 +88,7 @@ Though ICICI Bank Emeralde Credit Card has poor reward rate, other benefits outw
 
 ### 6. HDFC Regalia Credit Card
 
-{% include image.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 2% + GST (2.36%)
 - Reward Rate: 1.3%
@@ -101,7 +101,7 @@ Though ICICI Bank Emeralde Credit Card has poor reward rate, other benefits outw
 
 ### 7. HDFC Diners Club Clubmiles Credit Card
 
-{% include image.html image="hdfc-diners-clubmiles.jpg" alt="HDFC Diners Club Clubmiles Credit Card" class="cc-center" %}
+{% include image.html image="hdfc-diners-clubmiles.jpg" alt="HDFC Diners Club Clubmiles Credit Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 2% + GST (2.36%)
 - Reward Rate: 1.3%
@@ -114,7 +114,7 @@ HDFC Diners Club Clubmiles Credit Card is similar to HDFC Regalia Credit Card, h
 
 ### 8. Standard Chartered Ultimate Credit Card
 
-{% include image.html image="standard-chartered-ultimate-credit-card.jpg" alt="Standard Chartered Ultimate" class="cc-center" %}
+{% include image.html image="standard-chartered-ultimate-credit-card.jpg" alt="Standard Chartered Ultimate" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 3.5% + GST (4.13%)
 - Reward Rate: 3.3%
@@ -128,7 +128,7 @@ Though Standard Chartered Ultimate Credit Card has this weird clause of monthly 
 
 ### 9. American Express Platinum Card
 
-{% include image.html image="american-express-platinum-card.jpg" alt="American Express Platinum Card" class="cc-center" %}
+{% include image.html image="american-express-platinum-card.jpg" alt="American Express Platinum Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 3.5% + GST (4.13%)
 - Reward Rate: 3.75% (on foreign spends)
@@ -143,7 +143,7 @@ American Express Platinum Card comes with host of perks and benefits and is a mu
 
 ### Bonus: Niyo Global Card
 
-{% include image.html image="niyo-global-card-face.jpg" alt="Niyo Global Card" class="cc-center" %}
+{% include image.html image="niyo-global-card-face.jpg" alt="Niyo Global Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 0%
 - Reward Rate: 0%
