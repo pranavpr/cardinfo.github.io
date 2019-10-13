@@ -16,8 +16,8 @@ I have been enjoying the benefits of Gourmet Passport program for close to 10 Mo
 The Gourmet Passport is a membership program that offers complimentary dishes, drinks & buffets at 2000+ restaurants across top cities in the country. This includes all major popular restaurants, including over 150 5-star hotels. As part of program, members receive 3 coupons per restaurant might consist of any of the following offers depending on the restaurant:
 
 - Complimentary dishes
-- Complimentary Drinks
-- Complimentary Buffet
+- Complimentary drinks
+- Complimentary buffet
 
 You can view the offer available beforehand in Dineout App or [website](http://getgourmetpassport.com/). Currently the membership is available in Delhi NCR, Mumbai, Bangalore, Hyderabad, Ahmedabad, Pune, Kolkata, Chennai, Jaipur and Chandigarh. The membership comes in form of different packs and each pack is priced according to it's benefits. Generally a pack starts from Rs. 499 and goes till Rs. 2,499.
 
@@ -32,15 +32,15 @@ You can view the offer available beforehand in Dineout App or [website](http://g
 
 ### Experience
 
-I booked a table for two at Sheraton Grand Whitefield, Bangalore for buffet dinner using Dineout App. The restaurant confirmed the booking promptly within an hour. I reached restaurant promptly on time and showed my booking id to the attender to be seated. I was informed that my table is ready and was promptly taken there. After seating, I confirmed if I can use Gourmet Passport and the attender confirmed in affirmative.
+I booked a table for two at Sheraton Grand Whitefield, Bangalore for buffet dinner using Dineout App. The restaurant confirmed the booking promptly within an hour. I reached restaurant on time and showed my booking id to the attender. The attender informed me that my table was ready and he guided us to our table. At the table, I enquired if I can use Gourmet Passport and the attender confirmed in affirmative.
 
-At the end of our stupendous buffet dinner, before generation of bill, I told the waiter that I want to use Gourmet Passport. Waiter asked me to redeem the coupon and share the transaction ID. When I tried to redeem the coupon in Dineout App, it asked for the restaurant PIN which waiter entered on my mobile. Once the PIN was entered, I was presented with a confirmation screen showing successful redemption of coupon. The waiter took the photo of confirmation screen with his phone for the record. As promised, the final bill contained amount only for one buffet and no extra charges. I wanted to pay by Dineout Pay to get extra discount of 5% and utilize by Dineout pay wallet balance. However it was not accepted there and hence I paid via my credit card.
+At the end of our stupendous buffet dinner, before generation of bill, I told waiter that I want to use Gourmet Passport. Waiter asked me to redeem the coupon and share the transaction id with him. When I tried to redeem the coupon in Dineout App, it asked for the restaurant PIN which waiter entered on my mobile. Once the PIN was entered, I was presented with a confirmation screen showing successful redemption of coupon. The waiter took the photo of confirmation screen with his mobile for the record. As promised, the final bill contained amount only for one buffet and no extra charges. I wanted to pay by Dineout Pay to get extra discount of 5% and utilize by Dineout pay wallet balance. However it was not accepted there and hence I paid via my credit card.
 
 Overall it was a smooth and hassle free experience and I really liked the way it worked.
 
 ### Drawbacks
 
-Though this program provides excellent value, there are certain drawbacks too. First and foremost being availability is limited cities. Dineout should work aggressively on making this available in other Indian cities too. Also the number of tie-up restaurants is little less when compared to other programs. Though they have some really good restaurants in their kitty, they should also try to expand this program to more restaurants.
+Though this program provides excellent value, there are certain drawbacks too. First and foremost being availability is limited cities. Dineout should work aggressively on making this available in other Indian cities too. Also the number of tie-up restaurants is little less when compared to other programs. Though they have some really good restaurants in their kitty, they should try to expand this program to more and more restaurants.
 
 ### Bottomline
 
