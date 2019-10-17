@@ -138,21 +138,22 @@ assign num_half_stars = 1 %} {% else %} {% assign num_half_stars = 0 %} {% endif
 {% if page.product %}
 <script type="application/ld+json">
   {
-    "@context": "http://schema.org/",
-    "@type": "Review",
-    "itemReviewed": {
-      "@type": "Product",
-      "name": "{{ page.product }}"
-    },
-    "author": {
-      "@type": "Person",
-      "name":"{{ site.authors[page.author].name }}"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": {{ include.rating }},
-      "worstRating": 1,
-      "bestRating": 5
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "{{ page.product }}",
+    "review": {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.authors[page.author].name }}"
+      },
+      "datePublished": "{{ page.date }}",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "{{ include.rating }}",
+        "worstRating": "1"
+      }
     }
   }
 </script>
