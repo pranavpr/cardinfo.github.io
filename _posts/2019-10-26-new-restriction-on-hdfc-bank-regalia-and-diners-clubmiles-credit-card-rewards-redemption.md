@@ -52,11 +52,11 @@ To take an example, consider the flight of Mumbai to Delhi on 8 November 2019 by
 
 {% include image.html image="vistara-fare-for-bom-del-8-nov-2019.jpg" alt="Vistara fare from Mumbai to Delhi on 8 Novemner 2019" class="img-center mb-3" %}
 
-The fare is around Rs. 4,663 for economy and Rs. 8,317 for premium economy. Now let's take a look at Club Vistara points required for same itinerary.
+The fare is Rs. 5,345 for economy and Rs. 8,368 for premium economy. Now let's take a look at Club Vistara points required for same itinerary.
 
 {% include image.html image="club-vistara-points-for-bom-del-8-nov-2019.jpg" alt="Club Vistara points required for Mumbai to Delhi on 8 Novemner 2019" class="img-center mb-3" %}
 
-It's 5,000 for economy and 8,5000 for premium economy. If you hold Diners ClubMiles and use Smartbuy portal to buy this ticket, you need to burn 9,326 reward points for economy and and 16,634 reward points for premium economy as 1 RP = Rs. 0.50. However if you convert them to Club Vistara points, you will just need 5,000 reward points for economy and and 8,500 reward points for premium economy. It's quite evident that converting reward points to air miles is beneficial as you get almost double value.
+It's 5,000 for economy and 8,5000 for premium economy. If you hold Diners ClubMiles and use Smartbuy portal to buy this ticket, you need to burn 10,690 reward points for economy and and 16,736 reward points for premium economy as 1 RP = Rs. 0.50. However if you convert them to Club Vistara points, you will just need 5,000 reward points for economy and and 8,500 reward points for premium economy. It's quite evident that converting reward points to air miles is beneficial as you get almost double value.
 
 ### How to convert reward points to Air Miles?
 
