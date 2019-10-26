@@ -55,7 +55,7 @@ Given that this card has no joining and renewal fee, I don't have great expectat
 
 ### Verdict
 
-5% cash-back on Amazon and 1% elsewhere is really a good offer and no other card in this segment provides equivalent benefits. The simple and seamless integration of rewards with Amazon Pay is another highlight. If you are invited for this card, don't give a second thought and go for it.
+5% cash-back on Amazon and 1% elsewhere is really a good offer and no other card in this segment provides equivalent benefits. This is the sole reason that this card features in my list of [best credit cards in India for 2019](/best-credit-cards-of-2019-in-india/). The simple and seamless integration of rewards with Amazon Pay is another highlight. If you are invited for this card, don't give a second thought and go for it.
 
 {% include star-rating.html rating=3.5 rewards=4.5 fees=5 features=1 %}
 
