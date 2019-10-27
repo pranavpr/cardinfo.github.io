@@ -22,7 +22,7 @@ HDFC Bank has extended the 10X rewards program for purchasing instant gift vouch
 - **Maximum Capping Reset**: Every calendar month
 - **Fulfillment**: Reward Points or cash back will be posted within 90 working days from the last date of transaction month
 - Offer applicable only for PayZapp KYC registered customers
-- **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/12768)
+- **Source**: [Website](https://www.gyftr.com/hdfcsmartbuy/terms-and-conditions)
 
 ### Bottomline
 
