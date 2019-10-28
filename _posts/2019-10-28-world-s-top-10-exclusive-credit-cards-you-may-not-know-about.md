@@ -92,6 +92,6 @@ Apart from unlimited airport lounge access worldwide, this card gives you the ab
 
 ### Bottomline
 
-The biggest question is: are these elite credit cards worth it? Well it all depends on your lifestyle and aspirations. If you are able to extract value from these cards or your lifestyle matches the spend patterns for these cards, then why not?
+The biggest question is: are these exclusive credit cards worth it? Well it all depends on your lifestyle and aspirations. If you are able to extract value from these cards or your lifestyle matches the spend patterns for these cards, then why not?
 
-_Let me know in comments below if you know of any other elite credit cards apart from the one mentioned in this article._
+_Let me know in comments below if you know of any other exclusive credit cards apart from the one mentioned in this article._
