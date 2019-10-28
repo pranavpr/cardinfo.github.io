@@ -63,8 +63,8 @@ layout: default
         <div class="col-md-6 pr-0 align-self-center">
           {% assign image_name = page.image | split: "." %}
             <picture>
-              <source srcset="{{ image_name.first }}.webp" type="image/webp">
-              <img class="rounded" src="{% if page.image contains "://" %}{{
+              <source srcset="{{ site.url }}{{ image_name.first }}.webp" type="image/webp">
+              <img class="rounded" src="{{ site.url }}{% if page.image contains "://" %}{{
             page.image
           }}{% else %}{{ page.image }}{% endif %}" alt="{{
             page.title
