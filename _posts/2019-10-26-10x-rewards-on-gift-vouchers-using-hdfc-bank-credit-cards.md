@@ -26,6 +26,6 @@ HDFC Bank has extended the 10X rewards program for purchasing instant gift vouch
 
 ### Bottomline
 
-This is a fantastic move my HDFC as it enables 10X rewards on many more brands which were not available before. Now [HDFC Infinia](/hdfc-bank-infinia-credit-card-upgrade-experience/) and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/) card holders can get a reward rate of whooping 33% on many more brands and categories. Also one can buy vouchers if they are not able to exhaust quota for a particular month and use later on as required.
+This is a fantastic move my HDFC as it enables 10X rewards on many more brands which were not available [before](/hdfc-bank-credit-card-10x-rewards-september-2019-update/). Now [HDFC Infinia](/hdfc-bank-infinia-credit-card-upgrade-experience/) and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/) card holders can get a reward rate of whooping 33% on many more brands and categories. Also one can buy vouchers if they are not able to exhaust quota for a particular month and use later on as required.
 
 _What do you think about addition of instant vouchers to 10X rewards program? Let me know in comments below._
