@@ -89,7 +89,7 @@ This card provides unlimited access to over 1,000 airport lounges worldwide usin
 
 {% include image.html image="uob-reserve-card.jpg" alt="UOB Reserve Card" class="cc-center mb-3" %}
 
-UOB Reserve Card is a invite only card from UOB Bank of Singapore. You need to have at least S\$2 million in your reserves parked with UOB to get an invitation for this card. The card comes with hefty annual fee of S\$3,852 including GST.
+UOB Reserve Card is a invite only card from UOB Bank of Singapore. You need to have at least S\$2 million in your reserves parked with UOB to get an invitation for this card. You can also get a limited edition diamond-embellished card if you charge your UOB Reserve Card for S$1 Million in first membership year. UOB Reserve Card comes with hefty annual fee of S\$3,852 including GST.
 
 Apart from unlimited airport lounge access worldwide, this card gives you the ability to purchase unlimited discounted miles from UOB. This card also provides Club Hyatt membership and Hilton Honors Gold membership along with access to some of the prestigious clubs. Supposedly with UOB Reserve Concierge, you can have someone queue for you, book restaurants or reserve tickets at the most popular concerts.
 
