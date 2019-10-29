@@ -13,7 +13,7 @@ Beyond the horizon of regular credit cards, which are available to masses, there
 
 ### 1. American Express Centurion Card
 
-{% include image.html image="american-express-centurion-card.jpg" alt="American Express Centurion Card" class="cc-center mb-3" %}
+{% include image.html image="american-express-centurion-black-card.jpg" alt="American Express Centurion Card" class="cc-center mb-3" %}
 
 American Express Centurion Card, popularly know as the "Black Card" is most fabled card of this era. The card itself is made of anodized titanium with the information and numbers laser etched into the metal. This card is not available to public and Amex will invite you once you become eligible. It’s rumored that only those who spend (and pay off) at least Rs. 2 Crores in a year across all of their American Express accounts are invited to become Centurion Cardholders.
 
