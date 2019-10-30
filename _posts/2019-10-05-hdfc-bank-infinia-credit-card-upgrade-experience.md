@@ -49,7 +49,7 @@ Getting approved is the most tricky part for Infinia. I have a preferred account
 - Long relationship with HDFC Bank
 - Existing credit card with limit in range of 8 to 10 Lakhs
 - Regular and high spends on existing credit card (I spent around 6 Lakhs on my Regalia in 9 Months)
-- ITR > 45 Lakhs
+- ITR > 40 Lakhs
 - High NRV (investments in Fixed Deposits, Life Insurance, Home Loan, Mutual Funds etc., though I don't have any of these with HDFC)
 
 ### Bottomline
