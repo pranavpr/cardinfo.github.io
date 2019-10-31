@@ -117,8 +117,8 @@ HDFC Diners Club Clubmiles Credit Card is similar to HDFC Regalia Credit Card, h
 {% include image.html image="standard-chartered-ultimate-credit-card.jpg" alt="Standard Chartered Ultimate" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 3.5% + GST (4.13%)
-- Reward Rate: 3.3%
-- Net Gains: -0.83%
+- Reward Rate: 3.3% (normal) + 1.5% (cashback) = 4.8%
+- Net Gains: 0.67%
 - Joining/Annual Fee: Rs. 5,000 + GST
 - Other Benefits:
   - 1 international airport lounge access free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
