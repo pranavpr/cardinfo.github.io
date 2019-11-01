@@ -37,7 +37,7 @@ Renewal fee is waived off if spend in previous year is more than Rs. 3 Lakhs.
 
 ### Features
 
-HDFC Diners Club Privilege Credit Card packs a nice set of features including, but not limited to, Annual Memberships, Golf Program, Airport lounge access, Concierge etc. Let look in to details of each of those features.
+HDFC Diners Club Privilege Credit Card packs a nice set of features including, but not limited to, Annual Memberships, Golf Program, Airport lounge access, Concierge etc. Let's look in to the details of each of those features.
 
 #### Welcome & Annual Benefits
 
@@ -169,4 +169,4 @@ HDFC Bank Diners Club Privilege Credit Card bridges the gap between Diners Club 
 
 {% include star-rating.html rating=4.5 rewards=4.5 fees=4 features=5 %}
 
-_What do you think of this new HDFC Bank Diners Club Privilege Credit Card? Let me know in comments below._
+_What do you think of new HDFC Bank Diners Club Privilege Credit Card? Let me know in comments below._
