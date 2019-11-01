@@ -31,7 +31,7 @@ Following new memberships have been introduced with HDFC Bank Diners Club Black 
 - MakeMyTrip Double Black
 - Times Prime
 
-Above annual memberships are part of welcome benefits can be availed upon completing the first transaction on HDFC Bank Diners Club Black Credit Card for cards issued from 1st November 2019. Existing HDFC Bank Diners Club Black customers can avail complimentary annual membership benefits by:
+Above annual memberships are part of welcome benefits and can be availed upon completing the first transaction on HDFC Bank Diners Club Black Credit Card for cards issued from 1st November 2019. Existing HDFC Bank Diners Club Black customers can avail complimentary annual membership benefits by:
 
 - Upgrading to a new HDFC Bank Diners Club Black Credit Card with joining/renewal fees of Rs. 5,000, or
 - On achieving annual spend milestone of Rs. 8 Lakhs at the time of card anniversary on their existing Diners Black card
@@ -71,7 +71,7 @@ Earlier the lounge access was available only for primary card member, but with t
   </thead>
   <tbody>
   <tr>
-    <td> Spa / Salon </td>
+    <td> Spa/Salon </td>
   	<td> Tattva Spa, Enrich Salons & Academy, VLCC, O2 Spa, Four Fountains De-Stress Spa, Jean Claude Biguine </td>
   </tr>
     <tr>

@@ -37,36 +37,55 @@ Renewal fee is waived off if spend in previous year is more than 5 Lakhs. Also f
 
 HDFC Diners Club Black Credit Card is feature packed and comes with multiple lifestyle and travel benefits.
 
-#### Welcome & Renewal benefits
+#### Welcome & Annual Benefits
 
-- 5,000 welcome reward points equivalent to Rs. 5,000
-- 5,000 renewal reward points equivalent to Rs. 5,000
+HDFC Diners Club Black Credit Card comes with following complimentary annual memberships:
 
-It's evident that this card compensates both joining and renewal fees by equivalent amount of reward points.
+- Club Marriott
+- Forbes Digital subscription
+- Zomato Gold
+- Amazon Prime
+- MakeMyTrip Double Black
+- Times Prime
+
+Above annual memberships are part of welcome benefits and can be availed upon completing the first transaction on the card. These memberships would be renewed for card members who achieve an annual spend milestone of Rs. 8 Lakhs at the time of Card Anniversary.
+
+It's quite evident that HDFC Bank is luring the cardmembers for spending more by keeping the spending criteria for complimentary annual memberships higher than renewal fee waiver.
 
 #### Reward Points
 
-- 1 reward point = Rs. 1 if used for booking hotels and air tickets at [dedicated portal](https://www.hdfcbankdinersclub.in/)
+- 1 reward point = Rs. 1 if used for booking hotels and air tickets at [dedicated portal](https://offers.smartbuy.hdfcbank.com/diners)
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
-- 10X rewards on [Smartbuy](https://offers.smartbuy.hdfcbank.com) (Amazon, Flipkart, Hotels & Flights) and partner brands (Tata CLiQ, Swiggy, BigBasket, Uber, BookMyShow, Furlenco & Treebo Hotels), 33% reward rate
+- [10X rewards](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
 - Monthly cap on reward points
   - 15000 bonus reward points on Smartbuy
   - 25000 bonus reward points on partner brands
 - Reward points can be converted to AirMiles across British Airways Executive Club (Avios), Jet Airways (JPMiles), Singapore Airlines (KrisFlyer Miles) or Club Vistara in 1:1 ratio
+- Rewards Points are valid only for 3 years from the date of accumulation.
 
 10X rewards, though temporary, keeps on getting extended every month. 33% reward rate is unbeatable and this alone makes this card stand out from the crowd.
 
+#### Monthly Benefits
+
+Card members can select two of following vouchers on achieving a monthly spend of Rs. 80,000:
+
+- Ola Select membership
+- BookMyShow voucher worth Rs. 500
+- TataCLiQ voucher worth Rs. 500
+
+That's additional 1.25% reward rate in addition to 3.3% regular reward rate making overall reward rate of 4.55% which is simply amazing. This reward rate is even better than HDFC Bank's most premium card, [HDFC Bank Infinia Credit Card](/hdfc-bank-infinia-credit-card-upgrade-experience/).
+
 #### Airport Lounge Access
 
-- Unlimited Airport lounge access to 700+ Lounges in India and worldwide
-- Lounge access is limited to primary card member only
+- Unlimited Airport lounge access to 800+ Lounges in India and worldwide
+- Lounge access is complimentary for both primary and add-on card holders
 
 Unlike other cards, you can just swipe your HDFC Diners Club Black Credit Card for international lounge access. No need to carry those extra Priority Pass/ Dreamfolks DragonPass.
 
 #### Golf Program
 
-- 6 Complimentary Golf games (Green fee waiver) per quarter around 20 golf courses in India and 40 golf courses around world
+- 6 Complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around world
 - 24-hour Golf Concierge Assistance services
 
 #### Concierge
@@ -90,8 +109,46 @@ Unlike other cards, you can just swipe your HDFC Diners Club Black Credit Card f
 
 #### Finance Charges
 
-- Low Foreign Currency Markup of 2%
+- Low Foreign Currency Markup of 1.99%
 - Revolving credit at low interest rate of 1.99% per month
+- Convenience fee waiver of 1% on all fuel transactions.
+
+### Wellness Benefits
+
+- Exclusive discounts at Spa, Salon, Gym, Resorts etc.
+
+<table class="table">
+  <thead class="thead-dark">
+  <tr>
+    <th scope="col"> Category</th>
+  	<th scope="col"> Partners</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td> Spa/Salon </td>
+  	<td> Tattva Spa, Enrich Salons & Academy, VLCC, O2 Spa, Four Fountains De-Stress Spa, Jean Claude Biguine </td>
+  </tr>
+    <tr>
+    <td> Spa Resort </td>
+  	<td> RedEarth Kabini, Tree of Life, Kairali- The Ayurvedic Healing Village, Shreyas Retreat Bangalore, Neemrana Fort Palace Rajastan, Tijara Fort Palace Rajastan, NaturOville Vedic Retreat Rishikesh </td>
+  </tr>
+  <tr>
+    <td> Fitness </td>
+  	<td> Cult.fit, Anytime Fitness, Kris Gethin, Golds Gym </td>
+  </tr>
+  <tr>
+    <td> Nutrition </td>
+  	<td> Calorie Care, Gympik, Healthie, Grow Fit </td>
+  </tr>
+  <tr>
+    <td> Doctor Consultation </td>
+  	<td> DocsApp </td>
+  </tr>
+  </tbody>
+</table>
+
+The discount and benefits varies across partners and more information can be found at <a href="https://hdfcbankdinersclubwellness.poshvine.com/" target="_blank" rel="noopener">official website</a>.
 
 #### Other benefits
 
@@ -102,16 +159,15 @@ Unlike other cards, you can just swipe your HDFC Diners Club Black Credit Card f
 
 Though HDFC Diners Club Black credit card provides unparalleled benefits, it has some downsides also:
 
-- Limited acceptability: Though coverage of Diners Club is expanding day by day, it's not as good as Visa/ Mastercard. You need to keep a backup card handy always.
-- Lounge access limited to primary card member: Wish they should have extended it to add-on members too like many other super premium credit cards.
-- No fuel surcharge waiver: Every other credit card provides this, not sure why this doesn't.
+- Limited acceptability: Though coverage of Diners Club is expanding day by day, it's not as good as Visa/Mastercard. You need to keep a backup card handy always, especially outside India.
+- No renewal benefits: There are no renewal benefits if your spend is less than Rs. 5 Lakhs. Earlier HDFC Bank used to compensate for renewal fee by providing reward points of equivalent value, which is not the case now.
 
 ### Verdict
 
-The 33% reward rate beats down any other super premium credit card in world. I won't be wrong if I say 10X program is best reward program on credit card in the whole world. If you're being offered this card, go for it without giving a second thought.
+The 33% reward rate beats down any other super premium credit card in world. I won't be wrong if I say [10X program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) is best reward program on credit card in the whole world. The annual memberships, golf privileges and unlimited airport lounge access for both primary and add-on card members is cherry on the top. If you're being offered this card, go for it without giving a second thought.
 
 {% include star-rating.html rating=5 rewards=5 fees=5 features=5 %}
 
-**Update**: Starting 1st November 2019, HDFC Bank has introduced new benefits on Diners Club Black Credit Card making it even better. Read details about the new benefits [here](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/).
+**Update**: Starting 1st November 2019, HDFC Bank has introduced [new benefits](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/) on Diners Club Black Credit Card making it even better. This article has been updated to reflect those new benefits.
 
 _How has been your experience with HDFC Diners Club Black credit card? Let me know in comments below._
