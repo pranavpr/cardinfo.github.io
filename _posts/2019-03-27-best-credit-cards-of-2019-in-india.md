@@ -197,7 +197,7 @@ HDFC Infinia Credit Card is for the elitist and is invite only card. This card c
 
 #### 2. HDFC Diners Club Black Credit Card
 
-{% include image.html image="hdfc-diners-club-black-credit-card.png" alt="HDFC Diners Club Black Credit Card" class="cc-center mb-3" %}
+{% include image.html image="hdfc-bank-diners-club-black-new-design.jpg" alt="HDFC Diners Club Black Credit Card" class="cc-center mb-3" %}
 
 HDFC Diners Club Black Credit Card with it's [10X reward point](https://www.hdfcbankdinersclub.com/privilege) is certainly one the best credit cards in India at this point of time. Even without 10X reward point, it has reward rate of 3.3% on all spends which is quite good. To get this card you need to have net monthly income more than Rs. 1,75,000 per month. Below are the main highlights of this card:
 
