@@ -113,7 +113,7 @@ Unlike other cards, you can just swipe your HDFC Diners Club Black Credit Card f
 - Revolving credit at low interest rate of 1.99% per month
 - Convenience fee waiver of 1% on all fuel transactions.
 
-### Wellness Benefits
+#### Wellness Benefits
 
 - Exclusive discounts at Spa, Salon, Gym, Resorts etc.
 
