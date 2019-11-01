@@ -109,4 +109,6 @@ The 33% reward rate beats down any other super premium credit card in world. I w
 
 {% include star-rating.html rating=5 rewards=5 fees=5 features=5 %}
 
+**Update**: Starting 1st November 2019, HDFC Bank has introduced new benefits on Diners Club Black Credit Card making it even better. Read details about the new benefits [here](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/).
+
 _How has been your experience with HDFC Diners Club Black credit card? Let me know in comments below._
