@@ -9,6 +9,9 @@ product: Flipkart Axis Bank Credit Card
 
 Flipkart Axis Bank Credit Card is a lifestyle co-branded credit card which provides accelerated cashback on Flipkart, Myntra and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which gets credited to card account 3 days before statement generation.
 
+* TOC
+{:toc}
+
 ### Eligibility Criteria
 
 The eligibility criteria for this credit card is very generic on Axis Bank website. However based on my conversation with their representative, below is the eligibility criteria for this card:

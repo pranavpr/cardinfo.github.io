@@ -10,10 +10,15 @@ HDFC Bank [Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-re
 
 Starting 1st November 2019, HDFC Bank has introduced new benefits on Diners Club Black Credit Card making it even better. New benefits include memberships to Club Marriott, Zomato Gold, Amazon Prime, MakeMyTrip Double Black, Times Prime, BBStar etc. Apart from memberships, new annual and monthly benefits have also been introduced. Let's delve into details about all new changes introduced by HDFC Bank in this article.
 
+* TOC
+{:toc}
+
 ### Design
 
 {% include image.html image="hdfc-bank-diners-club-black-new-design.jpg" alt="HDFC Bank Diners Club Black Credit Card new design" class="cc-center mb-3" %}
 First and foremost, HDFC Bank has refreshed the design of the card with a prominent marking of "Black" at the front. The new design is aesthetically pleasing to eyes and overall adds to the premium look of the card.
+
+Also HDFC Bank has enabled contactless payments on this card which was not available earlier. This certainly adds to the convenience in paying for transactions less than Rs. 2,000.
 
 ### Annual Memberships
 

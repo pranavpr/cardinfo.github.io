@@ -9,6 +9,9 @@ product: Standard Chartered Manhattan Credit Card
 
 Standard Chartered Manhattan Credit Card is an entry level lifestyle credit card which provides attractive cashback on grocery spends. This card also provides accelerated rewards on normal spends which can be redeemed from it's rewards catalogue. Apart from providing cashback and rewards, this card also sports a stunning design, probably one the best among credit cards in India at the moment.
 
+* TOC
+{:toc}
+
 ### Eligibility Criteria
 
 Standard Chartered has not explicitly disclosed the salary criteria for this card, however they don't accept the online application if monthly take home salary is mentioned less than Rs. 50,000. Other criteria for this credit card are mentioned below:

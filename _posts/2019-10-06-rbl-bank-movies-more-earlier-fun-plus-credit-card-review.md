@@ -11,6 +11,9 @@ RBL Bank Movies & More Credit Card is an entry level lifestyle credit card focus
 
 Earlier this card was known as RBL Bank Fun Plus Credit Card, however later RBL Bank rebranded it as Movies & More Credit Card, changing the criteria for earning movie vouchers and annual fees.
 
+* TOC
+{:toc}
+
 ### Eligibility Criteria
 
 RBL Bank has not disclosed any specific eligibility criteria for this credit card and it seems it’s open for all individuals with age between 21 to 65 years. Obviously a good credit score and stable monthly income is required for easy approval of the card.

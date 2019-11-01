@@ -11,6 +11,9 @@ Gourmet Passport is a membership program by Dineout which provides access to com
 
 I have been enjoying the benefits of Gourmet Passport program for close to 10 Months as part of complimentary Times Prime membership from ET Money App. In this article, I am documenting my real world experience with Gourmet Passport & Dineout App.
 
+* TOC
+{:toc}
+
 ### Features
 
 The Gourmet Passport is a membership program that offers complimentary dishes, drinks & buffets at 2000+ restaurants across top cities in the country. This includes all major popular restaurants, including over 150 5-star hotels. As part of program, members receive 3 coupons per restaurant might consist of any of the following offers depending on the restaurant:

@@ -9,6 +9,9 @@ product: DCB Elite Savings Account
 
 DCB Elite Savings Account is a premium offering from DCB Bank which provides flat cashback of 1.6% on all expenditures (including CRED and Mutual Fund transactions) using DCB Platinum Debit Card. Apart from cashback, it also lets you choose your lucky number, or any number of your choice as last 8 digits of 14 digit bank account number. The ability to earn 1.6% cashback on all transactions using debit card sets this account apart from it's peers in market.
 
+* TOC
+{:toc}
+
 ### Eligibility Criteria & Documents Required
 
 To open the DCB Elite Savings account, you need to furnish following documents:

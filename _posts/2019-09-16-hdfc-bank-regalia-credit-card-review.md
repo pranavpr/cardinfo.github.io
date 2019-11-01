@@ -9,6 +9,9 @@ product: HDFC Bank Regalia Credit Card
 
 HDFC Bank Regalia Credit Card is a premium offering from HDFC Bank and is probably the most popular one. This card comes with some of the exciting features like lower foreign currency markup, Priority Pass membership, access to international and domestic airport lounges, Zomato Gold membership, travel concierge, insurance cover etc. The default reward rate on this credit card is 1.3% which accelerates to 13% with [SmartBuy 10X program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/).
 
+* TOC
+{:toc}
+
 ### Eligibility Criteria
 
 Regalia is a premium credit card and hence eligibility criteria is also suited for premium segment.

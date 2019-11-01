@@ -9,6 +9,9 @@ product: American Express Membership Rewards Credit Card
 
 American Express Membership Rewards Credit Card (MRCC) is an entry level lifestyle credit card from Amex. This card targets the lower segment of credit card users with low income criteria, joining & renewal fees. This credit card is counter part of American Express Gold Charge Card and unlike latter it has a preset credit limit and allows you to convert purchases in to EMI.
 
+* TOC
+{:toc}
+
 ### Eligibility Criteria
 
 Amex is very strict about eligibility criteria and hence a good credit (CIBIL) score is mandatory along with other criteria for acquiring this card.

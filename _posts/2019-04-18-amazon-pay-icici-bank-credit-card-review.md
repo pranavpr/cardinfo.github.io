@@ -9,6 +9,9 @@ product: Amazon Pay ICICI Bank Credit Card
 
 Amazon in collaboration with ICICI Bank launched Amazon Pay ICICI Bank Credit Card in October 2018. This card makes your shopping on Amazon more rewarding by providing a reward rate of up to 5% if you are a Amazon Prime member.
 
+* TOC
+{:toc}
+
 ### Eligibility Criteria
 
 At this point of time, this card is invite only. I'm not sure what algorithm Amazon uses for invites. However a healthy relationship with ICICI bank and an existing credit card from ICICI certainly increases the chance for invitation.
