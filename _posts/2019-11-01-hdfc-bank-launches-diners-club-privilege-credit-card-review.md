@@ -172,4 +172,6 @@ HDFC Bank Diners Club Privilege Credit Card bridges the gap between Diners Club 
 
 {% include star-rating.html rating=4.5 rewards=4.5 fees=4 features=5 %}
 
+**PS**: HDFC Bank has introduced new benefits on Diners Club Black Credit Card making it even better. Read about the new benefits [here](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/).
+
 _What do you think of new HDFC Bank Diners Club Privilege Credit Card? Let me know in comments below._
