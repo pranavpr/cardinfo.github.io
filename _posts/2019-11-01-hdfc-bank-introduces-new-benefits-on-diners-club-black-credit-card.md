@@ -52,6 +52,12 @@ Card members can select two of following vouchers on achieving a monthly spend o
 
 That's additional 1.25% reward rate in addition to 3.3% regular reward rate making overall reward rate of 4.55% which is simply amazing. This reward rate is even better than HDFC Bank's most premium card, [HDFC Bank Infinia Credit Card](/hdfc-bank-infinia-credit-card-upgrade-experience/).
 
+### Dining Benefits
+
+- 2X rewards on dining
+
+This an awesome benefit and pushes the reward rate to 6.6% similar to Infinia. It's rumored that this benefit is applicable only on weekends, however there is no mention of this clause on [HDFC Bank Diners Club website](https://www.hdfcbankdinersclub.com/international-credit-cards).
+
 ### Lounge Access
 
 - Unlimited domestic and international airport lounge access for both, primary and add-on, card members

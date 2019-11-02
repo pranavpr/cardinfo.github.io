@@ -58,9 +58,10 @@ It's quite evident that HDFC Bank is luring the cardmembers for spending more by
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
 - [10X rewards](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
-- Monthly cap on reward points
+- Monthly cap on bonus reward points
   - 15000 bonus reward points on Smartbuy
   - 25000 bonus reward points on partner brands
+- 2X rewards on dining, 6.6% reward rate
 - Reward points can be converted to AirMiles across British Airways Executive Club (Avios), Jet Airways (JPMiles), Singapore Airlines (KrisFlyer Miles) or Club Vistara in 1:1 ratio
 - Rewards Points are valid only for 3 years from the date of accumulation.
 

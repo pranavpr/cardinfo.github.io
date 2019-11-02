@@ -51,15 +51,18 @@ HDFC Diners Club Privilege Credit Card comes with following complimentary annual
 
 Above annual memberships are part of welcome benefits and can be availed upon completing the first transaction on the card. These memberships would be renewed for card members who achieve an annual spend milestone of Rs. 5 Lakhs at the time of Card Anniversary.
 
-It's quite evident that HDFC Bank is luring the cardmembers for spending more by keeping the spending criteria for complimentary annual memberships higher than renewal fee waiver.
+It's quite evident that HDFC Bank is luring the card members for spending more by keeping the spending criteria for complimentary annual memberships higher than renewal fee waiver.
 
 #### Reward Points
 
 - 1 reward point = Rs. 0.50 if used for booking hotels and air tickets at [dedicated portal](https://offers.smartbuy.hdfcbank.com/diners)
 - 1 reward point ~ Rs. 0.20 if used for redeeming from reward catalogue or cash
 - 4 reward points per Rs. 150 spent, 1.3% reward rate
-- [10X rewards](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights), 13% reward rate
-- Monthly cap on reward points: 5000 bonus reward points on Smartbuy
+- [10X rewards](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
+- Monthly cap on bonus reward points
+  - 5000 bonus reward points on Smartbuy
+  - 5000 bonus reward points on partner brands
+- 2X rewards on dining, 2.6% reward rate
 - Reward points can be converted to AirMiles across British Airways Executive Club (Avios), Jet Airways (JPMiles), Singapore Airlines (KrisFlyer Miles) or Club Vistara in 2:1 ratio (2 Reward Points = 1 Air Mile)
 - Rewards Points are valid only for 2 years from the date of accumulation
 
