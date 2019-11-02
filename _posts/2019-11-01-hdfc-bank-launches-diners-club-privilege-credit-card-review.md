@@ -24,7 +24,7 @@ Since Diners Club Privilege is placed a level below Diners Club Black, the incom
 - Salaried: Net Monthly Income > Rs. 1 Lakh per month
 - Self Employed: ITR > Rs. 12 Lakhs per annum
 
-{% include tip.html tip="You have fair chance of upgrade to HDFC Diners Club Privilege Credit Card if existing credit card limit is ~ 3 Lakhs." %}
+{% include tip.html tip="You have a fair chance of upgrade to HDFC Diners Club Privilege Credit Card if existing credit card limit is ~ 3 Lakhs." %}
 
 ### Fees
 
