@@ -56,7 +56,7 @@ That's additional 1.25% reward rate in addition to 3.3% regular reward rate maki
 
 - 2X rewards on dining
 
-This an awesome benefit and pushes the reward rate to 6.6% similar to Infinia. It's rumored that this benefit is applicable only on weekends, however there is no mention of this clause on [HDFC Bank Diners Club website](https://www.hdfcbankdinersclub.com/international-credit-cards).
+This an awesome benefit and pushes the reward rate to 6.6% similar to Infinia. It's rumored that this benefit is applicable only on weekends, however there is no mention of this clause on <a href="https://www.hdfcbankdinersclub.com/international-credit-cards" target="_blank" rel="noopener">HDFC Bank Diners Club website</a>.
 
 _Thanks [Chintan](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/#comment-4674444233) for providing the source of this information._
 
