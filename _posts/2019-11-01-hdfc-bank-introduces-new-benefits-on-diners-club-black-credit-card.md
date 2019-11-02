@@ -8,7 +8,7 @@ image: /assets/images/new-benefits-on-hdfc-bank-diners-club-black-credit-card.jp
 
 HDFC Bank [Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) is one of the [best credit cards in India](/best-credit-cards-of-2019-in-india/) today. With 3.3% of default reward rate and 33% of accelerated reward rate using [10X program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/), Diners Club Black beats any other card in the market.
 
-Starting 1st November 2019, HDFC Bank has introduced new benefits on Diners Club Black Credit Card making it even better. New benefits include memberships to Club Marriott, Zomato Gold, Amazon Prime, MakeMyTrip Double Black, Times Prime, BBStar etc. Apart from memberships, new annual and monthly benefits have also been introduced. Let's delve into details about all new changes introduced by HDFC Bank in this article.
+Starting 1st November 2019, HDFC Bank has introduced new benefits on Diners Club Black Credit Card making it even better. New benefits include memberships to Club Marriott, Zomato Gold, Amazon Prime, MakeMyTrip Double Black, Times Prime etc. Apart from memberships, new annual and monthly benefits have also been introduced. Let's delve into details about all new changes introduced by HDFC Bank in this article.
 
 * TOC
 {:toc}
