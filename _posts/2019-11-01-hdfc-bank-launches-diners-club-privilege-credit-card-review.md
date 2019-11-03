@@ -66,6 +66,7 @@ It's quite evident that HDFC Bank is luring the card members for spending more b
   - 5,000 bonus reward points on Smartbuy
   - 10,000 bonus reward points on partner brands
 - 2X rewards on weekend dining, 2.6% reward rate
+  - Minimum transaction: Rs. 150
   - Maxcap on weekend dining reward points: 2,000
 - Maxcap reset: Calendar month
 - Reward points can be converted to AirMiles across British Airways Executive Club (Avios), Jet Airways (JPMiles), Singapore Airlines (KrisFlyer Miles) or Club Vistara in 2:1 ratio (2 Reward Points = 1 Air Mile)
@@ -80,6 +81,8 @@ Card members can select one of following vouchers on achieving a monthly spend o
 - Ola Select membership
 - BookMyShow voucher worth Rs. 500
 - TataCLiQ voucher worth Rs. 500
+
+Customers eligible for Monthly Milestone benefit will be communicated on HDFC bank registered Mobile Number via SMS and Email ID within the following month with instruction on how to avail it.
 
 That's additional 1.25% reward rate in addition to 1.3% regular reward rate making overall reward rate of 2.55% which is quite good. This reward rate is even better than HDFC Bank's most popular card, [HDFC Bank Regalia Credit Card](/hdfc-bank-regalia-credit-card-review/).
 
