@@ -49,7 +49,10 @@ HDFC Diners Club Privilege Credit Card comes with following complimentary annual
 - Times Prime
 - BB Star
 
-Above annual memberships are part of welcome benefits and can be availed upon completing the first transaction on the card. These memberships would be renewed for card members who achieve an annual spend milestone of Rs. 5 Lakhs at the time of Card Anniversary.
+Above annual memberships are part of welcome benefits and can be availed upon completing the first transaction within the first 90 days from card open date. The welcome benefits will be communicated on HDFC bank registered Mobile Number via SMS and Email ID within 30 days from date of first transaction.
+
+Also these memberships would be renewed for card members who achieve an annual spend milestone of Rs. 5 Lakhs at the time of card anniversary (card anniversary is 12 months from card open month). Customers eligible for annual membership benefits will be communicated on HDFC Bank registered
+Mobile Number via SMS and Email ID within 30 days from the date of card anniversary.
 
 It's quite evident that HDFC Bank is luring the card members for spending more by keeping the spending criteria for complimentary annual memberships higher than renewal fee waiver.
 
@@ -59,10 +62,12 @@ It's quite evident that HDFC Bank is luring the card members for spending more b
 - 1 reward point ~ Rs. 0.20 if used for redeeming from reward catalogue or cash
 - 4 reward points per Rs. 150 spent, 1.3% reward rate
 - [10X rewards](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
-- Monthly cap on bonus reward points
-  - 5000 bonus reward points on Smartbuy
-  - 5000 bonus reward points on partner brands
-- 2X rewards on dining, 2.6% reward rate
+- Maxcap on bonus reward points
+  - 5,000 bonus reward points on Smartbuy
+  - 10,000 bonus reward points on partner brands
+- 2X rewards on weekend dining, 2.6% reward rate
+  - Maxcap on weekend dining reward points: 2,000
+- Maxcap reset: Calendar month
 - Reward points can be converted to AirMiles across British Airways Executive Club (Avios), Jet Airways (JPMiles), Singapore Airlines (KrisFlyer Miles) or Club Vistara in 2:1 ratio (2 Reward Points = 1 Air Mile)
 - Rewards Points are valid only for 2 years from the date of accumulation
 
