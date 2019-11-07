@@ -8,7 +8,10 @@ image: /assets/images/shaurya-sbi-card-launched.jpg
 
 SBI Card launched Shaurya series of Credit Cards especially for Indian Defense Personnel. The Shaurya Credit Card is available on Rupay platform in Select and Platinum variants and would be issued to personnel working in Indian Army, Navy, Airforce and Paramilitary.
 
-{% include image.html image="shaurya-sbi-card-variants.jpg" alt="Shaurya SBI Card variants" class="img-center" %}
+{% include image.html image="shaurya-sbi-card-variants.jpg" alt="Shaurya SBI Card variants" class="img-center mb-5" %}
+
+* TOC
+{:toc}
 
 ### Shaurya Select SBI Card
 
