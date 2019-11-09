@@ -11,6 +11,9 @@ With increase in usage of credit cards in India, the cases of unauthorized / fra
 
 In this article I'll outline the liability of a customer in case of fraudulent transactions, steps to follow immediately after becoming aware of such transactions, finally followed my personal experience of dealing with one such fraudulent transaction on one of my credit cards.
 
+* TOC
+{:toc}
+
 ### Liability of Customer
 
 RBI via circular [DBR.No.Leg.BC.78/09.07.005/2017-18](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11040&Mode=0) has limited the liability of customers in case of unauthorized transactions.
