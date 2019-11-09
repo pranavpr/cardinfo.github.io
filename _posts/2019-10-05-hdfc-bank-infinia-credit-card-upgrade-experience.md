@@ -10,6 +10,9 @@ HDFC Bank Infinia Credit Card is undoubtedly [best credit card](/best-credit-car
 
 I recently upgraded to HDFC Bank Infinia Credit Card and in this article I'd be talking about my relationship with HDFC Bank, upgrade process, unboxing experience and tips for getting invited for Infinia.
 
+* TOC
+{:toc}
+
 ### Background
 
 I started my relationship with HDFC Bank 11 years back when I opened my salary account with them in year 2008 at the start of my career. At same time, HDFC Bank issued me my first credit card and my journey towards Infinia started.
