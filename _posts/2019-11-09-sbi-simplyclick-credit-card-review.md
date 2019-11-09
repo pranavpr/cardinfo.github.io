@@ -3,7 +3,7 @@ layout: post
 title: SBI SimplyCLICK Credit Card Review
 date: 2019-11-09 12:04 +0530
 categories: [SBI, Reviews]
-image: /assets/images/sbi-SimplyCLICK-credit-card-review.jpg
+image: /assets/images/sbi-simplyclick-credit-card-review.jpg
 product: SBI SimplyCLICK Credit Card
 ---
 
