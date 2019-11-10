@@ -72,6 +72,6 @@ Shaurya Platinum SBI Card is available on RuPay Platinum platform and is one lev
 
 ### Bottomline
 
-Shaurya SBI Cards are entry level lifestyle credit cards suitable for low spenders. I don't see any striking difference between this and other credit card already in market. In fact, Shaurya Select SBI Card provides rewards similar to SBI SimplySave card. I wish SBI Card should have given something extra from their normal credit cards as these are meant for defense personnel who save our nation from external threats. I am utterly disappointed with these cards and I see no value in them.
+Shaurya SBI Cards are entry level lifestyle credit cards suitable for low spenders. I don't see any striking difference between this and other credit card already in market. In fact, Shaurya Select SBI Card provides rewards similar to [SBI SimplySave Credit Card](/sbi-simplysave-credit-card-review/). I wish SBI Card should have given something extra from their normal credit cards as these are meant for defense personnel who save our nation from external threats. I am utterly disappointed with these cards and I see no value in them.
 
 _Let me know your thoughts on Shaurya SBI Cards in comments below._
