@@ -12,6 +12,9 @@ Axis Bank launched Magnus Credit Card today. This is a super premium credit card
 
 The card looks stunning and vertical clean layout adds to the aesthetics of the card. The minimal design with black background gives it a premium look.
 
+* TOC
+{:toc}
+
 ### Eligibility Criteria
 
 Axis Bank Magnus Credit Card is targeted for HNIs and hence eligibility criteria is tailored to target them.
