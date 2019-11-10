@@ -8,7 +8,7 @@ image: /assets/images/axis-bank-magnus-credit-card-launched.jpg
 
 Axis Bank launched Magnus Credit Card today. This is a super premium credit card targeted towards HNIs and affluent customers of Axis Bank. This new card works on Mastercard network in "World" tier. Though, Axis Bank already has Vistara Infinite Credit Card for it's super premium segment, due to limited connectivity of Vistara, it never picked up. By launching Magnus Credit Card, Axis Bank has attempted to tap this super premium credit card segment once again.
 
-{% include image.html image="axis-bank-magnus-credit-card-design-and-features.jpg" alt="Axis Bank Magnus Credit Card Design & Features" class="img-center" %}
+{% include image.html image="axis-bank-magnus-credit-card-design-and-features.jpg" alt="Axis Bank Magnus Credit Card Design & Features" class="img-center mb-3" %}
 
 The card looks stunning and vertical clean layout adds to the aesthetics of the card. The minimal design with black background gives it a premium look.
 
