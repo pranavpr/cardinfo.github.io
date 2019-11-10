@@ -8,7 +8,10 @@ image: /assets/images/amazon-pay-icici-bank-credit-card-vs-flipkart-axis-bank-cr
 
 The two e-commerce giants of India: [Amazon](/amazon-pay-icici-bank-credit-card-review/) & [Flipkart](/flipkart-axis-bank-credit-card-launched/), both launched their co-branded credit cards recently. Both these cards are entry level cards and provide preferential reward rate on shopping on their respective portals. Being very similar in nature, the card users are confused about choosing the right one. Hence, in this article, let's compare the two to help you decide the one best suited for your lifestyle.
 
-{% include image.html image="amazon-pay-icici-bank-credit-card-vs-flipkart-axis-bank-credit-card-inforgraphic.png" alt="Amazon Pay ICICI Bank Credit Card vs Flipkart Axis Bank Credit Card Infographic" class="img-center" %}
+* TOC
+{:toc}
+
+{% include image.html image="amazon-pay-icici-bank-credit-card-vs-flipkart-axis-bank-credit-card-inforgraphic.png" alt="Amazon Pay ICICI Bank Credit Card vs Flipkart Axis Bank Credit Card Infographic" class="img-center mb-3" %}
 
 ### Fees
 
