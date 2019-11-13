@@ -20,7 +20,7 @@ Yes Bank has rolled out spend based targeted offers to their yes First Credit Ca
 - **Source:** SMS & Email
 - [Terms & Conditions](https://www.yesbank.in/pdf/amazon_evoucher_on_spends2_nov19)
 
-I received Offer 1 with a spend target of Rs. 90,000 for Amazon voucher worth Rs. 1,000 on my Yes First Exclusive Credit Card. This translates to an additional reward rate of 1.11%. Given that the base reward rate of Yes First Exclusive Credit Card is 1.5%, this offer pushes the overall reward rate to 2.61% which is decent. However I won't be participating in this offer as I hold [HDFC Bank Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) which provides a default reward rate of 3.3%.
+I received Offer 1 with a spend target of Rs. 90,000 for Amazon voucher worth Rs. 1,000 on my [Yes First Exclusive Credit Card](/yes-first-exclusive-credit-card-review/). This translates to an additional reward rate of 1.11%. Given that the base reward rate of Yes First Exclusive Credit Card is 1.5%, this offer pushes the overall reward rate to 2.61% which is decent. However I won't be participating in this offer as I hold [HDFC Bank Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) which provides a default reward rate of 3.3%.
 
 Other users have reported to receive following offers:
 
