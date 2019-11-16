@@ -8,6 +8,9 @@ image: /assets/images/best-credit-cards-for-fuel-spends-in-india.jpg
 
 Are you spending a lot on fuel and are looking for best credit card which can give you maximum benefits on fuel spends? You have landed on the correct webpage as in this article I am listing out best credit cards available in India for fuel spends. So without further ado, let's get started.
 
+* TOC
+{:toc}
+
 ### 1. IndianOil HDFC Bank Credit Card
 
 {% include image.html image="indian-oil-hdfc-bank-credit-card.jpg" alt="IndianOil HDFC Bank Credit Card" class="cc-center mb-3" %}
