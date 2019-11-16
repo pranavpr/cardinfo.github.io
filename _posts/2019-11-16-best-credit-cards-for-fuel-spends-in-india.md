@@ -2,7 +2,7 @@
 layout: post
 title: Best Credit Cards for Fuel Spends in India
 date: 2019-11-16 10:35 +0530]
-categories: [Review]
+categories: [Reviews]
 image: /assets/images/best-credit-cards-for-fuel-spends-in-india.jpg
 ---
 
