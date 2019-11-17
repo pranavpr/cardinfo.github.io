@@ -100,4 +100,4 @@ HDFC Bank Millennia Cards are entry level lifestyle cards suitable for beginners
 
 It doesn't make any sense to go for these cards if you are holding Regalia, Diners ClubMiles, Diners Black and Infinia as these cards provide better default reward rate and access to international airport lounges. However if you're holding other entry level cards from HDFC, you should definitely consider upgrading to Millennia Credit Card.
 
-**PS:** Checkout the in-depth review of HDFC Bank Millennia Credit Card [here](/hdfc-bank-millennia-credit-card-review/).
+**PS:** Check out the in-depth review of HDFC Bank Millennia Credit Card [here](/hdfc-bank-millennia-credit-card-review/).
