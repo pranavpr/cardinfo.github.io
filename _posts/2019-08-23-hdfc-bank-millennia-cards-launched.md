@@ -99,3 +99,5 @@ For debit card, you can replace your existing one with Millennia version by subm
 HDFC Bank Millennia Cards are entry level lifestyle cards suitable for beginners. The accelerated reward rate for online spends is quite decent and offline reward rate is also comparable to other recently launched co-branded credit cards. However low monthly cap for cashback on Millennia cards is really disappointing as recently launched co-branded credit cards don't have such limit.
 
 It doesn't make any sense to go for these cards if you are holding Regalia, Diners ClubMiles, Diners Black and Infinia as these cards provide better default reward rate and access to international airport lounges. However if you're holding other entry level cards from HDFC, you should definitely consider upgrading to Millennia Credit Card.
+
+**PS:** Checkout the in-depth review of HDFC Bank Millennia Credit Card [here](/hdfc-bank-millennia-credit-card-review/).
