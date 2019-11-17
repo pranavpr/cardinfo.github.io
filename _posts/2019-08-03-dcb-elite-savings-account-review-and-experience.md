@@ -113,7 +113,7 @@ Then I tried to use the debit card online and during first online transaction, I
 
 Finally I tried to activate UPI, which was a cake walk as I was able to activate the same using debit card on PhonePe app. The UPI worked seamlessly and I haven't faced any failed transaction so far (touchwood!).
 
-Over the course of next few days, I did multiple transactions on CRED for paying my credit card bills. The 1.6% cashback was credited to my account for those transactions on or before 5th of next month, as opposed to next quarter as mentioned on their website.
+Over the course of next few days, I did multiple transactions on CRED for paying my credit card bills. The 1.6% cashback was credited to my account for those transactions in first week of next quarter as mentioned on their website.
 
 ### Drawbacks
 
