@@ -152,7 +152,7 @@ Below table summarizes the reward rate on various credit cards listed above.
       <td> Standard Chartered Super Value Titanium Credit Card </td>
       <td> Rs. 750 </td>
       <td> 5% </td>
-      <td> 5% cashback on phone bill & utility bill payments and  </td>
+      <td> 5% cashback on phone bill & utility bill payments</td>
     </tr>
     <tr>
       <td> ICICI Bank HPCL Coral American Express Credit Card </td>
