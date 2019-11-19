@@ -7,7 +7,7 @@ image: /assets/images/hdfc-bank-millennia-credit-card-review.jpg
 product: HDFC Bank Millennia Credit Card
 ---
 
-HDFC Bank [launched the millennia series in August](/hdfc-bank-millennia-cards-launched/) this year targeting the lifestyles and aspirations of millennials which constitute 34% of Indian population. HDFC Bank Millennia Credit Card focuses on cashback rather than reward points to keep is simple and straightforward. This credit card provides accelerated cashback on transacting via PayZapp and SmartBuy along with better cashback on online spends.
+HDFC Bank [launched the millennia series in August](/hdfc-bank-millennia-cards-launched/) this year targeting the lifestyles and aspirations of millennials which constitute 34% of Indian population. HDFC Bank Millennia Credit Card focuses on cashback rather than reward points to keep it simple and straightforward. This credit card provides accelerated cashback on transacting via PayZapp and SmartBuy along with better cashback on online spends.
 
 {% include image.html image="hdfc-bank-millennia-credit-card-closeup.jpg" alt="HDFC Bank Millennia Credit Card" class="center mb-3" %}
 
