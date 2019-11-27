@@ -28,7 +28,7 @@ Visa in order to promote contactless transactions has collaborated with HDFC Ban
 - **Other T&C**:
   - Offer is applicable only on transactions completed through the contactless mode
   - Cashback on debit card is earned in the form of Cashback points, where 1 Point = 1 Rupee
-  - Cashback needs to be redeemed via Net Banking (Cards > Debit Cards > Enquire > CashBack Enquiry and Redemption > Account Number > Continue > Input the CashBack amount) or Phone Banking
+  - Cashback needs to be redeemed via Net Banking (Cards → Debit Cards → Enquire → CashBack Enquiry and Redemption → Account Number → Continue → Input the CashBack amount) or Phone Banking
 - **Source**: [Website](https://www.hdfcbank.com/htdocs/common/cardless-cash/index.html)
 
 ### Bottomline

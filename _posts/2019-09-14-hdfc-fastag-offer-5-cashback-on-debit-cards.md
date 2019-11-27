@@ -18,7 +18,7 @@ HDFC has yet again come up with a splendid offer wherein it's providing 5% cahba
 - **Fulfillment**: Cashback points will be posted after 90 days from the end of the transaction month
 - **Other T&C**:
   - Cashback on debit card is earned in the form of Cashback points, where 1 Point = 1 Rupee
-  - Cashback needs to be redeemed via Net Banking (Cards > Debit Cards > Enquire > CashBack Enquiry and Redemption > Account Number > Continue > Input the CashBack amount) or Phone Banking
+  - Cashback needs to be redeemed via Net Banking (Cards → Debit Cards → Enquire → CashBack Enquiry and Redemption → Account Number → Continue → Input the CashBack amount) or Phone Banking
 - **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/13214)
 
 ### Bottomline

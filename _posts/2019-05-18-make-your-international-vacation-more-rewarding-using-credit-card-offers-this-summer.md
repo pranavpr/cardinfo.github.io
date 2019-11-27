@@ -83,7 +83,7 @@ HDFC is offering 10X reward points on loading HDFC Forex card using HDFC credit 
 - **Maximum Cash-back**: Rs. 1,000
 - **Minimum Load**: No minimum criteria for credit card bonus points, minimum load of Rs. 1 Lakh for debit card cash-back
 - **Type**: Applicable only if forex card is loaded through [SmartForex Portal](https://getprepaidcard.hdfcbank.com) or [Prepaid Card NetBanking](https://www.hdfcbank.com/assets/popuppages/Prepaid-card.htm?src=hp)
-- **Fulfillment**: Bonus reward points and cashback will be posted to credit card within 90 days after the offer end date, cash-back on debit card needs to be redeemed via Net Banking (Cards > Debit Cards > Enquire > CashBack Enquiry and Redemption > Account Number > Continue > Input the CashBack amount) or Phone Banking
+- **Fulfillment**: Bonus reward points and cashback will be posted to credit card within 90 days after the offer end date, cash-back on debit card needs to be redeemed via Net Banking (Cards → Debit Cards → Enquire → CashBack Enquiry and Redemption → Account Number → Continue → Input the CashBack amount) or Phone Banking
 - **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/9651)
 
 I am summarizing the reward rate for this offer on most popular HDFC credit cards below:
@@ -128,7 +128,7 @@ HDFC Bank is providing Rs. 1000 cash-back on cumulative international spends of 
 - **Offer**: Rs. 1000 cash-back on cumulative international spends of Rs. 25000
 - **Period**: Till 31 May 2019
 - **Type**: Targeted, applicable only if you received communication over email or SMS
-- **Fulfillment**: Cash-back is earned in form of Cash-back points where 1 Point = 1 Rupee, cash-back point should be posted within 90 days after the offer end date, cash-back point needs to be redeemed via Net Banking (Cards > Debit Cards > Enquire > CashBack Enquiry and Redemption > Account Number > Continue > Input the CashBack amount) or Phone Banking
+- **Fulfillment**: Cash-back is earned in form of Cash-back points where 1 Point = 1 Rupee, cash-back point should be posted within 90 days after the offer end date, cash-back point needs to be redeemed via Net Banking (Cards → Debit Cards → Enquire → CashBack Enquiry and Redemption → Account Number → Continue → Input the CashBack amount) or Phone Banking
 - **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/12832)
 
 Given that you need to pay 3.5% (plus 18% GST) as foreign currency markup fee, this offer will just cover the markup fees. Hence, if you don't have other cards with low foreign currency markup fee, use this to compensate the same. Also the cash-back redemption process is little tedious and HDFC Bank should have credited the cash-back amount directly to card instead of customers redeeming it via Net Banking. This is a classic example of how you shouldn't do cash-back offers on card. HDFC Bank, are you listening?

@@ -32,7 +32,7 @@ HDFC Bank, in order to tap festive spends, has introduced Festive Treats offer o
 - **Other T&C**:
   - Offer is applicable only on in-store purchases at Apparels, Electronics, Grocery, Supermarkets, Departmental and Jewellery stores.
   - Cashback on debit card is earned in the form of Cashback points, where 1 Point = 1 Rupee
-  - Cashback needs to be redeemed via Net Banking (Cards > Debit Cards > Enquire > CashBack Enquiry and Redemption > Account Number > Continue > Input the CashBack amount) or Phone Banking
+  - Cashback needs to be redeemed via Net Banking (Cards → Debit Cards → Enquire → CashBack Enquiry and Redemption → Account Number → Continue → Input the CashBack amount) or Phone Banking
 - **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/13141)
 
 ### Bottomline

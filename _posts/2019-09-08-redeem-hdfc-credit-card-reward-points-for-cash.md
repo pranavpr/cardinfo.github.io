@@ -56,8 +56,8 @@ It's quite evident from above table that points are devalued by more than 50% if
 To redeem reward points for cash, follow the instructions below:
 
 1. Login to HDFC Net Banking
-2. Go to Card -> Enquire -> Redeem Reward Points -> Select Card -> Continue
-3. On HDFC MyReward portal go to Redeem Reward Points -> Cash Redemption
+2. Go to Card → Enquire → Redeem Reward Points → Select Card → Continue
+3. On HDFC MyReward portal go to Redeem Reward Points → Cash Redemption
 4. Enter the points to redeem and click on Proceed
 5. You will get a conformation and expect the cash credit to reflect in your card account in ~7 working days.
 
