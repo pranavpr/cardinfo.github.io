@@ -31,7 +31,7 @@ HDFC Bank Infinia Credit Card is for the elitist and is invite only card. You ne
 
 ### 2. HDFC Diners Club Black Credit Card
 
-{% include image.html image="hdfc-diners-club-black-credit-card.png" alt="HDFC Diners Club Black Credit Card" class="cc-center mb-3" %}
+{% include image.html image="hdfc-bank-diners-club-black-new-design.jpg" alt="HDFC Diners Club Black Credit Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 2% + GST (2.36%)
 - Reward Rate: 3.3%
