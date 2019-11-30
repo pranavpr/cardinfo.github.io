@@ -29,16 +29,19 @@ layout: default
           </p>
           <h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
           <div class="d-flex align-items-center">
-            {% if author.avatar %}
-            {% assign image_name = author.avatar | split: "." %}
+            {% if author.avatar %} {% assign image_name = author.avatar | split:
+            "." %}
             <picture>
-            <source srcset="{{ site.baseurl }}/{{ image_name.first }}.webp" type="image/webp">            
-            <img
-              class="rounded-circle"
-              src="{{ site.baseurl }}/{{ author.avatar }}"
-              alt="{{ author.name }}"
-              width="70"
-            />
+              <source
+                srcset="{{ site.baseurl }}/{{ image_name.first }}.webp"
+                type="image/webp"
+              />
+              <img
+                class="rounded-circle"
+                src="{{ site.baseurl }}/{{ author.avatar }}"
+                alt="{{ author.name }}"
+                width="70"
+              />
             </picture>
             {% endif %}
             <small class="ml-3">
@@ -54,7 +57,8 @@ layout: default
               >
               <span class="text-muted d-block mt-1"
                 >{{ page.date | date: '%b %d, %Y' }} · {% include
-                meta-read-time.html %} · <a href="{{site.url}}{{page.url}}#disqus_thread">0 Comments</a></span
+                meta-read-time.html %} ·
+                <a href="{{site.url}}{{page.url}}#commento">0 Comments</a></span
               >
             </small>
           </div>
@@ -62,14 +66,15 @@ layout: default
         {% if page.image %}
         <div class="col-md-6 pr-0 align-self-center">
           {% assign image_name = page.image | split: "." %}
-            <picture>
-              <source srcset="{{ site.url }}{{ image_name.first }}.webp" type="image/webp">
-              <img class="rounded" src="{{ site.url }}{% if page.image contains "://" %}{{
-            page.image
-          }}{% else %}{{ page.image }}{% endif %}" alt="{{
-            page.title
-          }}">
-            </picture>
+          <picture>
+            <source
+              srcset="{{ site.url }}{{ image_name.first }}.webp"
+              type="image/webp"
+            />
+            <img class="rounded" src="{{ site.url }}{% if page.image contains
+            "://" %}{{ page.image }}{% else %}{{ page.image }}{% endif %}"
+            alt="{{ page.title }}">
+          </picture>
         </div>
         {% endif %}
       </div>
@@ -82,7 +87,10 @@ layout: default
     <!-- Clap -->
     <div class="col-lg-2 pr-4 mb-4 col-md-12">
       <div class="sticky-top sticky-top-offset text-center">
-          <applause-button style="width: 58px; height: 58px; display: block; margin-left:auto; margin-right:auto;" color= "#03a87c"/>
+        <applause-button
+          style="width: 58px; height: 58px; display: block; margin-left:auto; margin-right:auto;"
+          color="#03a87c"
+        />
       </div>
     </div>
 
@@ -141,16 +149,19 @@ layout: default
       {% if page.author %}
       <div class="row mt-5">
         <div class="col-md-2 align-self-center">
-          {% if author.avatar %}
-          {% assign image_name = author.avatar | split: "." %}
+          {% if author.avatar %} {% assign image_name = author.avatar | split:
+          "." %}
           <picture>
-          <source srcset="{{ site.baseurl }}/{{ image_name.first }}.webp" type="image/webp">
-          <img
-            class="rounded-circle"
-            src="{{ site.baseurl }}/{{ author.avatar }}"
-            alt="{{ author.name }}"
-            width="90"
-          />
+            <source
+              srcset="{{ site.baseurl }}/{{ image_name.first }}.webp"
+              type="image/webp"
+            />
+            <img
+              class="rounded-circle"
+              src="{{ site.baseurl }}/{{ author.avatar }}"
+              alt="{{ author.name }}"
+              width="90"
+            />
           </picture>
           {% endif %}
         </div>
@@ -184,32 +195,38 @@ layout: default
       {% if page.previous.url %}
       <div class="col-md-6 rightborder pl-0">
         <a class="text-dark" href="{{ page.previous.url }}"
-          >{% if page.previous.image %}
-          {% assign image_name = page.previous.image | split: "." %}
-              <picture>
-                <source data-srcset="{{ image_name.first }}.webp" type="image/webp">
-                  <img
-                  height="30px"
-                  class="mr-1 lazy"
-                  data-src="{{ page.previous.image }}"
-                />
-                </picture>
+          >{% if page.previous.image %} {% assign image_name =
+          page.previous.image | split: "." %}
+          <picture>
+            <source
+              data-srcset="{{ image_name.first }}.webp"
+              type="image/webp"
+            />
+            <img
+              height="30px"
+              class="mr-1 lazy"
+              data-src="{{ page.previous.image }}"
+            />
+          </picture>
           {% endif %} {{ page.previous.title }}</a
         >
       </div>
       {% endif %} {% if page.next.url %}
       <div class="col-md-6 text-right pr-0">
         <a class="text-dark" href="{{ page.next.url }}">
-          {{ page.next.title }} {% if page.next.image %}
-          {% assign image_name = page.next.image | split: "." %}
-              <picture>
-                <source data-srcset="{{ image_name.first }}.webp" type="image/webp">
-                  <img
-                  height="30px"
-                  class="ml-1 lazy"
-                  data-src="{{ page.next.image }}"
-                />
-                </picture>
+          {{ page.next.title }} {% if page.next.image %} {% assign image_name =
+          page.next.image | split: "." %}
+          <picture>
+            <source
+              data-srcset="{{ image_name.first }}.webp"
+              type="image/webp"
+            />
+            <img
+              height="30px"
+              class="ml-1 lazy"
+              data-src="{{ page.next.image }}"
+            />
+          </picture>
           {% endif %}</a
         >
       </div>
@@ -217,26 +234,31 @@ layout: default
     </div>
   </div>
 </div>
-    <!-- Categories -->
-    <div id="categories" class="jumbotron fortags webp">
-      <div class="d-md-flex h-100">
-          <div class="col-md-4 transpdark align-self-center text-center h-100">
-              <div class="d-md-flex align-items-center justify-content-center h-100">
-                  <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
-              </div>
-          </div>
-          <div class="col-md-8 p-5 align-self-center text-center">
-              {% assign categories_list = site.categories %}
-              {% if categories_list.first[0] == null %}
-                  {% for category in categories_list %}
-                      <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
-                  {% endfor %}
-              {% else %}
-                  {% for category in categories_list %}
-                      <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | downcase |  url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
-                  {% endfor %}
-              {% endif %}
-              {% assign categories_list = nil %}
-          </div>
+<!-- Categories -->
+<div id="categories" class="jumbotron fortags webp">
+  <div class="d-md-flex h-100">
+    <div class="col-md-4 transpdark align-self-center text-center h-100">
+      <div class="d-md-flex align-items-center justify-content-center h-100">
+        <h2 class="d-md-block align-self-center py-1 font-weight-light">
+          Explore <span class="d-none d-md-inline">→</span>
+        </h2>
       </div>
+    </div>
+    <div class="col-md-8 p-5 align-self-center text-center">
+      {% assign categories_list = site.categories %} {% if
+      categories_list.first[0] == null %} {% for category in categories_list %}
+      <a
+        class="mt-1 mb-1"
+        href="{{site.baseurl}}/categories#{{ category | downcase | url_escape | strip | replace: ' ', '-' }}"
+        >{{ category | camelcase }} ({{ site.tags[category].size }})</a
+      >
+      {% endfor %} {% else %} {% for category in categories_list %}
+      <a
+        class="mt-1 mb-1"
+        href="{{site.baseurl}}/categories#{{ category[0] | downcase |  url_escape | strip | replace: ' ', '-' }}"
+        >{{ category[0] | camelcase }} ({{ category[1].size }})</a
+      >
+      {% endfor %} {% endif %} {% assign categories_list = nil %}
+    </div>
   </div>
+</div>

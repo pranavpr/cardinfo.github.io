@@ -1197,3 +1197,27 @@ i {
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
   color: white;
 }
+.commento-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 22px;
+  float: left;
+  margin-right: 10px;
+  border: 0px transparent;
+}
+
+.commento-avatar-img {
+  width: 48px;
+  height: 48px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  margin-right: 10px;
+}
