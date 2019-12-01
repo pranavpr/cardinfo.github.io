@@ -60,7 +60,7 @@ The new SmartBuy e-Voucher offer is a fabulous offer from HDFC Bank as it increa
     <td> 43% </td>
   </tr>
   <tr>
-    <td> HDFC Bank Diners Club Black</td>
+    <td> HDFC Diners Club Black</td>
   	<td> Rs. 45,000 </td>
     <td> Rs. 19,500 </td>
     <td> 43% </td>
