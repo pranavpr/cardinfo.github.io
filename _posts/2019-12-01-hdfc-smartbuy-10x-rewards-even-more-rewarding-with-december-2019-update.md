@@ -8,6 +8,9 @@ image: /assets/images/hdfc-smartbuy-december-2019-update.jpg
 
 When we all thought that SmartBuy 10X Rewards program can't get any better, HDFC Bank has trumped us by making it even more rewarding. With the new December 2019 update to HDFC Bank SmartBuy 10X Rewards program, it has not only extended the program till end of this year but has also introduced extra benefit of 10% in form of SmartBuy e-Vouchers. Starting 1 December 2019, each transaction of Rs. 3,000 or more on [Smartbuy](https://offers.smartbuy.hdfcbank.com) portal will make card holders eligible for 10% worth of SmartBuy e-Voucher which can be used on same portal for Flights, Hotels and Bus bookings. Without further ado, let's delve in to the nitty-gritty of December 2019 update.
 
+* TOC
+{:toc}
+
 ### SmartBuy e-Voucher Offer
 
 - **Offer**: SmartBuy e-Voucher worth 10% of the transaction value on SmartBuy
