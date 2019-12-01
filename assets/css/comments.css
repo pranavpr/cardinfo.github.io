@@ -17,10 +17,6 @@ div[id^='commento-comment-children-'] {
   cursor: pointer;
 }
 
-#commento {
-  margin-top: 20px;
-}
-
 .commento-root .commento-submit-button {
   float: right;
   background: #03a87c;
