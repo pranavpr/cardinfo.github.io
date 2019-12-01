@@ -1,9 +1,3 @@
-#commento-comments-area > div,
-div[id^='commento-comment-children-'] {
-  display: flex;
-  flex-direction: column-reverse;
-}
-
 .commento-root
   .commento-logged-container
   .commento-logged-in-as
