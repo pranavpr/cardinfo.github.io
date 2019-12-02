@@ -9,6 +9,9 @@ tags: [card-offers]
 
 HDFC Bank has made some changes to Smartbuy and Diners 10X rewards program for September 2019. Let's see what those changes are.
 
+* TOC
+{:toc}
+
 ### Smartbuy 10X Program
 
 The validity of Smartbuy 10X program has been further extended to ~~31 October 2019~~ 30 November 2019. HDFC has silently updated the last date of this offer in their [Terms & Conditions](https://offers.smartbuy.hdfcbank.com/offer_details/12768) to ~~31 October 2019~~ 30 November 2019 keeping rest everything same.
@@ -53,6 +56,10 @@ Smartbuy 10X continues for another month which is a good news. HDFC Infinia and 
 
 However it's really sad to see Payzapp being removed from Diners 10X program. Now it has become really hard to maximize the benefit from this program. Also HDFC is back to posting incremental 9X rewards to 30 days from 2 days, which is again disheartening.
 
-**Update**: HDFC Bank has introduced [Gyftr as 10X partner](/10x-rewards-on-gift-vouchers-using-hdfc-bank-credit-cards/) in October 2019 and this extends the 10X rewards on many other brands like Ola, Uber, MakeMyTrip, Urban Ladder, Big Bazaar, More etc.
+**Updates**
+
+1. HDFC Bank has introduced [Gyftr as 10X partner](/10x-rewards-on-gift-vouchers-using-hdfc-bank-credit-cards/) in October 2019 and this extends the 10X rewards on many other brands like Ola, Uber, MakeMyTrip, Urban Ladder, Big Bazaar, More etc.
+
+2. HDFC Bank has made the 10X rewards program even more rewarding starting December 2019. Checkout the new benefits [here](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/).
 
 _What do you think of these changes to 10X reward program by HDFC Bank? Let me know in comments below._
