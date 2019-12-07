@@ -66,9 +66,9 @@ It's quite evident that HDFC Bank compensates for joining and renewal fee on thi
 HDFC Diners Club ClubMiles Credit Card provides complimentary access to domestic as well as international airport lounges.
 
 - 6 complimentary access to 700+ airport lounges worldwide in a calendar year
-- Lounge access is complimentary only for the primary card holder
+- Lounge access is complimentary for both primary and add-on card members
 
-Unlike other cards, you can just swipe your HDFC Diners Club ClubMiles Credit Card for international lounge access. No need to carry those extra Priority Pass/ Dreamfolks DragonPass. However restriction of complimentary lounge access only on primary card is little disappointing.
+Unlike other cards, you can just swipe your HDFC Diners Club ClubMiles Credit Card for international lounge access. No need to carry those extra Priority Pass/ Dreamfolks DragonPass.
 
 #### Concierge
 
@@ -98,9 +98,9 @@ Unlike other cards, you can just swipe your HDFC Diners Club ClubMiles Credit Ca
 
 Though HDFC Diners Club ClubMiles Credit Card is a very good entry level card for Air Mile enthusiasts, it suffers from some drawback too.
 
-- No complimentary airport lounge access to add-on card members: HDFC should have extended the complimentary lounge access to add-on card members too keeping the overall limit intact similar to Regalia First. Not sure why HDFC limited the complimentary access to just primary card member.
 - No milestone benefits: The milestone benefits have been omitted from this card which is quite sad. Introduction of milestone benefits would make this card even more attractive and encourage people to spend more.
 - Restriction on reward point redemption for flights and hotels: The recently imposed [restriction](/new-restriction-on-hdfc-bank-regalia-and-diners-clubmiles-credit-card-rewards-redemption/) on flight and hotel bookings wherein HDFC Diners ClubMiles card members can redeem only upto maximum of 70% of booking value through reward points is a bummer. I don't understand the strategy behind imposing this restriction and it doesn't makes any sense to me.
+- International acceptance: Both Diners Club and RuPay utilize Discover network for payment processing. In recent times, NPCI has been pushing really hard for increasing the acceptance of RuPay in India. This has lead to increase in acceptance of Diners Club Cards too. However, the acceptance of Diners Club Cards is not so great outside India. You always need to carry a backup Visa/MasterCard which is troublesome.
 
 ### Verdict
 
