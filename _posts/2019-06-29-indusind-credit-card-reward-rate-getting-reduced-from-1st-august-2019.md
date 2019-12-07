@@ -2,7 +2,7 @@
 layout: post
 title: IndusInd Credit Card reward rate getting reduced from 1st August 2019
 date: 2019-06-29 17:29 +0530
-categories: [IndusInd]
+categories: [IndusInd, News]
 image: /assets/images/indusind-credit-card-reward-rate-reduced.jpg
 ---
 

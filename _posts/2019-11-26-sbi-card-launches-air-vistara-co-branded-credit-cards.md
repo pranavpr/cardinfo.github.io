@@ -2,7 +2,7 @@
 layout: post
 title: SBI Card launches Air Vistara Co-branded Credit Cards
 date: 2019-11-26 19:14 +0530
-categories: [SBI Card]
+categories: [SBI Card, News]
 image: /assets/images/club-vistara-sbi-cards-launched.jpg
 ---
 

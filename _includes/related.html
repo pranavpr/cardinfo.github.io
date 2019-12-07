@@ -1,0 +1,182 @@
+<div class="container pt-4 pb-4">
+  <h5 class="font-weight-bold spanborder"><span>Read next</span></h5>
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %}
+  <div class="row">
+    {% assign postCount = 0 %}
+    {% for post in site.posts %}
+      {% assign sameTagCount = 0 %}
+      {% assign commonTags = '' %}
+      {% for category in post.categories %}
+        {% if post.url != page.url %}
+          {% if page.categories contains category %}
+            {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% if sameTagCount >= minCommonTags %}
+    {% if postCount == 0 %}
+    <div class="col-lg-6">
+      <div class="card border-0 mb-4 box-shadow h-xl-400">
+        <div
+          style="background-image: url({{post.image}}); height: 150px; background-size: cover; background-repeat: no-repeat;"
+        ></div>
+        <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+          <h2 class="h4 font-weight-bold">
+            <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"
+              >{{ post.title }}</a
+            >
+          </h2>
+          <p class="card-text">
+            {{ post.excerpt | strip_html | strip_newlines | truncate: 130 }}
+          </p>
+          <div>
+            <small class="d-block"
+              ><span class="catlist">{% for category in post.categories %}
+        <a
+          class="text-capitalize text-muted smoothscroll"
+          href="{{
+            site.baseurl
+          }}/categories#{{ category | downcase | replace: ' ', '-'}}"
+          >{{ category }}</a
+        ><span class="sep">, </span>
+        {% endfor %}</span></small
+            >
+            <small class="text-muted">{{ post.date | date: '%b %d, %Y' }}</small>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% else %}
+    {% if postCount == 1 %}
+      <div class="col-lg-6">
+      <div class="flex-md-row mb-4 box-shadow h-xl-300">
+      {% endif %}
+        <div class="mb-3 d-flex align-items-center">
+          {% assign image_name = post.image | split: "." %}
+      <picture>
+        <source data-srcset="{{ image_name.first }}.webp" type="image/webp" />
+        <img height="90" style="max-width:none;" class="lazy" data-src="{% if post.image contains "://" %}{{
+          post.image
+        }}{% else %}{{ post.image }}{% endif %}" alt="{{ post.title }}">
+      </picture>
+          <div class="pl-3">
+            <h2 class="mb-2 h6 font-weight-bold">
+              <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"
+                >{{ post.title }}</a
+              >
+            </h2>
+            <div class="card-text text-muted small">
+              <span class="catlist">
+              {% for category in post.categories %}
+        <a
+          class="text-capitalize text-muted smoothscroll"
+          href="{{
+            site.baseurl
+          }}/categories#{{ category | downcase | replace: ' ', '-'}}"
+          >{{ category }}</a
+        ><span class="sep">, </span>
+        {% endfor %}
+      </span>
+            </div>
+            <small class="text-muted">{{ post.date | date: '%b %d, %Y' }}</small>
+          </div>
+        </div>
+      {% if postCount == 3 %}
+        </div>
+      </div>
+      {% endif %}
+      {% endif %}
+        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+        {% if maxRelatedCounter >= maxRelated %}
+          {% break %}
+        {% endif %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    {% if postCount == 0 %}
+    <div class="row">
+    {% for post in site.posts %}
+    {% if postCount == 0 %}
+    <div class="col-lg-6">
+      <div class="card border-0 mb-4 box-shadow h-xl-400">
+        <div
+          style="background-image: url({{post.image}}); height: 150px; background-size: cover; background-repeat: no-repeat;"
+        ></div>
+        <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+          <h2 class="h4 font-weight-bold">
+            <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"
+              >{{ post.title }}</a
+            >
+          </h2>
+          <p class="card-text">
+            {{ post.excerpt | strip_html | strip_newlines | truncate: 130 }}
+          </p>
+          <div>
+            <small class="d-block"
+              ><span class="catlist">{% for category in post.categories %}
+        <a
+          class="text-capitalize text-muted smoothscroll"
+          href="{{
+            site.baseurl
+          }}/categories#{{ category | downcase | replace: ' ', '-'}}"
+          >{{ category }}</a
+        ><span class="sep">, </span>
+        {% endfor %}</span></small
+            >
+            <small class="text-muted">{{ post.date | date: '%b %d, %Y' }}</small>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% else %}
+    {% if postCount == 1 %}
+      <div class="col-lg-6">
+      <div class="flex-md-row mb-4 box-shadow h-xl-300">
+      {% endif %}
+        <div class="mb-3 d-flex align-items-center">
+          {% assign image_name = post.image | split: "." %}
+      <picture>
+        <source data-srcset="{{ image_name.first }}.webp" type="image/webp" />
+        <img height="90" style="max-width:none;" class="lazy" data-src="{% if post.image contains "://" %}{{
+          post.image
+        }}{% else %}{{ post.image }}{% endif %}" alt="{{ post.title }}">
+      </picture>
+          <div class="pl-3">
+            <h2 class="mb-2 h6 font-weight-bold">
+              <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"
+                >{{ post.title }}</a
+              >
+            </h2>
+            <div class="card-text text-muted small">
+              <span class="catlist">
+              {% for category in post.categories %}
+        <a
+          class="text-capitalize text-muted smoothscroll"
+          href="{{
+            site.baseurl
+          }}/categories#{{ category | downcase | replace: ' ', '-'}}"
+          >{{ category }}</a
+        ><span class="sep">, </span>
+        {% endfor %}
+      </span>
+            </div>
+            <small class="text-muted">{{ post.date | date: '%b %d, %Y' }}</small>
+          </div>
+        </div>
+      {% if postCount == 3 %}
+        </div>
+      </div>
+      {% endif %}
+      {% endif %}
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+        {% if maxRelatedCounter >= maxRelated %}
+          {% break %}
+        {% endif %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>

@@ -2,7 +2,7 @@
 layout: post
 title: HDFC Bank introduces new benefits on Diners Club Black Credit Card
 date: 2019-11-01 13:08 +0530
-categories: [HDFC]
+categories: [HDFC, News]
 image: /assets/images/new-benefits-on-hdfc-bank-diners-club-black-credit-card.jpg
 ---
 

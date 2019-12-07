@@ -2,7 +2,7 @@
 layout: post
 title: Axis Bank launches Burgundy Private Credit Card - Review
 date: 2019-12-05 23:31 +0530
-categories: [Axis Bank, Reviews]
+categories: [Axis, Reviews]
 image: /assets/images/axis-bank-launches-burgundy-private-credit-card.jpg
 product: Axis Bank Burgundy Private Credit Card
 ---
