@@ -19,9 +19,10 @@
     {% if postCount == 0 %}
     <div class="col-lg-6">
       <div class="card border-0 mb-4 box-shadow h-xl-400">
+        <a href="{{site.baseurl}}{{post.url}}">
         <div
           style="background-image: url({{post.image}}); height: 150px; background-size: cover; background-repeat: no-repeat;"
-        ></div>
+        ></div></a>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
           <h2 class="h4 font-weight-bold">
             <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"
@@ -55,12 +56,13 @@
       {% endif %}
         <div class="mb-3 d-flex align-items-center">
           {% assign image_name = post.image | split: "." %}
+          <a href="{{site.baseurl}}{{post.url}}">
       <picture>
         <source data-srcset="{{ image_name.first }}.webp" type="image/webp" />
         <img height="90" style="max-width:none;" class="lazy" data-src="{% if post.image contains "://" %}{{
           post.image
         }}{% else %}{{ post.image }}{% endif %}" alt="{{ post.title }}">
-      </picture>
+      </picture></a>
           <div class="pl-3">
             <h2 class="mb-2 h6 font-weight-bold">
               <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"
@@ -101,9 +103,10 @@
     {% if postCount == 0 %}
     <div class="col-lg-6">
       <div class="card border-0 mb-4 box-shadow h-xl-400">
+        <a href="{{site.baseurl}}{{post.url}}">
         <div
           style="background-image: url({{post.image}}); height: 150px; background-size: cover; background-repeat: no-repeat;"
-        ></div>
+        ></div></a>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
           <h2 class="h4 font-weight-bold">
             <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"
@@ -137,12 +140,13 @@
       {% endif %}
         <div class="mb-3 d-flex align-items-center">
           {% assign image_name = post.image | split: "." %}
+          <a href="{{site.baseurl}}{{post.url}}">
       <picture>
         <source data-srcset="{{ image_name.first }}.webp" type="image/webp" />
         <img height="90" style="max-width:none;" class="lazy" data-src="{% if post.image contains "://" %}{{
           post.image
         }}{% else %}{{ post.image }}{% endif %}" alt="{{ post.title }}">
-      </picture>
+      </picture></a>
           <div class="pl-3">
             <h2 class="mb-2 h6 font-weight-bold">
               <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"
