@@ -13,7 +13,7 @@ HDFC Bank has extended the 10X rewards program for purchasing instant gift vouch
 - **Offer**: Buy instant vouchers at [Smartbuy portal](https://www.gyftr.com/hdfcsmartbuy/) and get
   - 10X Reward Points on HDFC Bank Infinia, Diners Club and Regalia credit cards
   - 5% cash back on other HDFC Credit and Debit cards up to maximum of Rs. 1,000 per calendar month
-- **Period**: Till 31 October 2019 (HDFC keeps on extending this)
+- **Period**: Till 31st December 2019 (HDFC keeps on extending this)
 - **Maximum Cap**:
   - HDFC Infinia: 25,000 reward points
   - HDFC Diners Club Black: 15,000 reward points
