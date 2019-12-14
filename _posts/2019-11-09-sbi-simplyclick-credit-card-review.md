@@ -30,7 +30,7 @@ SBI Card is very strict about credit history and there is a high chance of rejec
 
 ### Fees
 
-SBI SimplyCLICK Credit Cardd comes with following fees:
+SBI SimplyCLICK Credit Card comes with following fees:
 
 - Joining fee: Rs. 499 + GST
 - Renewal fee: Rs. 499 + GST
