@@ -94,7 +94,9 @@ Though SIRCTC SBI Card Premier Credit Card provides decent benefits, there are s
 
 ### Verdict
 
-IRCTC SBI Card Premier Credit Card is a decent credit card and would make sense for those who travel by train a lot. 10% reward rate on train tickets and 5% reward rate on air tickets with no upper limit is quite good. However I wouldn't suggest this card to those who travel by train very infrequently and there are other credit cards like [HDFC Bank Regalia](/hdfc-bank-regalia-credit-card-review/) which provide better reward rate on air tickets. If you want to have a SBI Card in your wallet just for partner merchant offers, I would suggest you to stick with [SBI SimplyCLICK credit card](/sbi-simplyclick-credit-card-review/).
+IRCTC SBI Card Premier Credit Card is a decent credit card and would make sense for those who travel by train a lot. 10% reward rate on train tickets and 5% reward rate on air tickets with no upper limit is quite good.
+
+However I wouldn't suggest this card to those who travel by train very infrequently as there are other credit cards like [HDFC Bank Regalia](/hdfc-bank-regalia-credit-card-review/) which provide better reward rate on air tickets. Also, HDFC Bank has recently enabled [train ticket booking on SmartBuy](/10x-rewards-on-train-tickets-using-hdfc-bank-credit-cards/) portal wherein you can get reward rate up to 33%, way better than IRCTC SBI Card Premier Credit Card. If you want to have a SBI Card in your wallet just for partner merchant offers, I would suggest you to stick with [SBI SimplyCLICK credit card](/sbi-simplyclick-credit-card-review/).
 
 {% include star-rating.html rating=3 rewards=3.5 fees=3.5 features=2 %}
 
