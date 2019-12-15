@@ -28,7 +28,7 @@ The validity of Smartbuy 10X program has been further extended to ~~31 October 2
   - Rs. 1,000/- cash back on other HDFC Credit and Debit Cards
 - **Maximum Capping Reset**: Every calendar month
 - **Fulfillment**: Reward Points or cash back will be posted within 90 working days from the last date of transaction month
-- Offer applicable only for PayZapp KYC registered customers
+- Only PayZapp KYC registered customers are eligible for cashback
 - **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/12768)
 
 Clearly nothing much has changed in comparison to [July 2019](/hdfc-smartbuy-10x-program-july-2019-update/).
