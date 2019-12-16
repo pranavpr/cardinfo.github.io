@@ -982,58 +982,95 @@ img[src*='#cc-center'] {
 }
 @font-face {
   font-family: 'cardinfo';
-  font-display: auto;
-  src: url('../fonts/cardinfo.eot?49p5bi');
-  src: url('../fonts/cardinfo.eot?49p5bi#iefix') format('embedded-opentype'),
-    url('../fonts/cardinfo.ttf?49p5bi') format('truetype'),
-    url('../fonts/cardinfo.woff?49p5bi') format('woff'),
-    url('../fonts/cardinfo.svg?49p5bi#cardinfo') format('svg');
+  src: url('../fonts/cardinfo.eot?81503777');
+  src: url('../fonts/cardinfo.eot?81503777#iefix') format('embedded-opentype'),
+    url('../fonts/cardinfo.woff2?81503777') format('woff2'),
+    url('../fonts/cardinfo.woff?81503777') format('woff'),
+    url('../fonts/cardinfo.ttf?81503777') format('truetype'),
+    url('../fonts/cardinfo.svg?81503777#cardinfo') format('svg');
   font-weight: normal;
   font-style: normal;
 }
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'cardinfo';
+    src: url('../font/cardinfo.svg?81503777#cardinfo') format('svg');
+  }
+}
+*/
 
-i {
-  /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'cardinfo' !important;
-  speak: none;
+[class^='ci-']:before,
+[class*=' ci-']:before {
+  font-family: 'cardinfo';
   font-style: normal;
   font-weight: normal;
+  speak: none;
+
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: 0.2em;
+  text-align: center;
+  /* opacity: .8; */
+
+  /* For safety - reset parent styles, that can break glyph codes*/
   font-variant: normal;
   text-transform: none;
-  line-height: 1;
 
-  /* Better Font Rendering =========== */
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: 0.2em;
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+
+  /* Font smoothing. That was taken from TWBS */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.ci-star-half-alt:before {
-  content: '\e908';
-}
-.ci-star-regular:before {
-  content: '\e907';
-}
 .ci-star:before {
   content: '\e900';
-}
+} /* '' */
 .ci-rupee-sign:before {
   content: '\e901';
-}
+} /* '' */
 .ci-coins:before {
   content: '\e902';
-}
+} /* '' */
 .ci-bullhorn:before {
   content: '\e903';
-}
+} /* '' */
 .ci-pen:before {
   content: '\e904';
-}
+} /* '' */
 .ci-clipboard-list:before {
   content: '\e905';
-}
+} /* '' */
 .ci-info:before {
   content: '\e906';
-}
+} /* '' */
+.ci-star-regular:before {
+  content: '\e907';
+} /* '' */
+.ci-star-half-alt:before {
+  content: '\e908';
+} /* '' */
+.ci-twitter:before {
+  content: '\f099';
+} /* '' */
+.ci-facebook:before {
+  content: '\f09a';
+} /* '' */
 .comments {
   font-size: 0.9rem;
 }
