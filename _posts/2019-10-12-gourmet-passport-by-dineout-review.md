@@ -9,8 +9,9 @@ product: Gourmet Passport by Dineout
 
 Gourmet Passport is a membership program by Dineout which provides access to complimentary food, drinks and buffets at 2000+ partner restaurants similar to Zomato Gold and Easydiner Prime. The best part about Gourmet Passport is complimentary buffet is also available at some of the high end 5 star restaurants like Taj, Marriot, Sheraton etc.
 
-I have been enjoying the benefits of Gourmet Passport program for close to 10 Months as part of complimentary Times Prime membership from ET Money App. In this article, I am documenting my real world experience with Gourmet Passport & Dineout App.
+I have been enjoying the benefits of Gourmet Passport program for close to 10 Months as part of complimentary [Times Prime membership](/times-prime-membership-review/) from ET Money App. In this article, I am documenting my real world experience with Gourmet Passport & Dineout App.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
