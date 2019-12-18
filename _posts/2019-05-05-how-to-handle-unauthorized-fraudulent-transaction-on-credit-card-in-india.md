@@ -11,6 +11,7 @@ With increase in usage of credit cards in India, the cases of unauthorized / fra
 
 In this article I'll outline the liability of a customer in case of fraudulent transactions, steps to follow immediately after becoming aware of such transactions, finally followed my personal experience of dealing with one such fraudulent transaction on one of my credit cards.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -65,7 +66,7 @@ As you can see in previous section, RBI has limited the liability of customers t
 9.  After completing their investigation, bank will let you know the outcome. If it goes in your favor, loss would be borne by the bank. If it goes against you, ask for evidences which led them go against you. Bank, in meantime, will revoke the credit which was restored for fraudulent transaction.
 10. Review the evidences and dispute again providing your justification. You must provide evidences to support your argument.
 11. Bank will review your argument and in meantime they will again restore the credit limit. Once they decide, they will let you know the outcome. If it goes in your favor, loss would be borne by the bank and bank will make the credit permanent. If not, then you'll have to pay the amount with interest.
-12. If you still want to pursue this further, you can file a complaint with [Banking Ombudsman](https://secweb.rbi.org.in/BO/precompltindex.htm) online.
+12. If you still want to pursue this further, you can file a complaint with [Banking Ombudsman](https://cms.rbi.org.in/) online.
 13. If you're still not satisfied with the Banking Ombudsman’s decision, you can approach the Appellate Authority to file an appeal. The appellate authority in this case is the deputy governor of the RBI. Alternatively, you can approach consumer redressal forums, which take up bank-related complaints, or even the courts after hiring a lawyer.
 
 ### Personal Experience
