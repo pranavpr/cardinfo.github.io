@@ -11,6 +11,11 @@ RBL Bank Movies & More Credit Card is an entry level lifestyle credit card focus
 
 Earlier this card was known as RBL Bank Fun Plus Credit Card, however later RBL Bank rebranded it as Movies & More Credit Card, changing the criteria for earning movie vouchers and annual fees.
 
+{% include image.html image="rbl-movies-and-more-credit-card-design.jpg" alt="RBL Bank Movies & More Credit Card Design" class="img-center mb-3" %}
+
+RBL Bank Movies & More Credit Card comes in maroon color with shiny murals printed in dark red at front face. Overall the card feels good in hand and looks attractive. This card is available on MasterCard platform and is enabled for contactless transactions.
+
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
