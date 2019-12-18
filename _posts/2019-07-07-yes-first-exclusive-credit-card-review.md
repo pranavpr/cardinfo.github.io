@@ -9,6 +9,7 @@ product: Yes First Exclusive Credit Card
 
 Yes First Exclusive is a super premium credit card offering from Yes Bank. This card provides some of the unparalleled benefits which sets it apart from other super premium credit cards. Unlimited domestic and international airport lounge access to both primary and add-on card members, reward points that never expire, low foreign currency markup of 1.75% are to name a few.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -17,8 +18,8 @@ Yes First Exclusive is a super premium credit card offering from Yes Bank. This 
 Given that this is a super premium credit card, the eligibility criteria is more suited towards HNI. Below are the eligibility criteria for this card:
 
 - Age: Minimum 21 years to maximum 60 years
-- Salaried: Net salary > Rs. 4 Lakhs per month
-- Self Employed: Income Tax Return > Rs. 50 Lakhs
+- Salaried: Net salary > Rs. 3 Lakhs per month
+- Self Employed: Income Tax Return > Rs. 40 Lakhs
 
 {% include tip.html tip="If you have an existing card with good credit limit (> 8 Lakhs), you can get this credit card on card to card basis."%}
 
