@@ -74,6 +74,6 @@ They will call you back within 2 hours and ask your salary details to confirm th
 
 ### Bottomline
 
-I feel this is a decent entry level card from Flipkart & Axis Bank. Default reward rate of 1.5% is better than [Amazon](<(/amazon-pay-icici-bank-credit-card-review/)>), [Ola](/ola-in-association-with-sbi-card-launches-ola-money-sbi-credit-card/) and [Paytm](/paytm-launches-paytm-first-credit-card-in-india/) co-branded credit cards. The domestic lounge access is cherry on top which none of the cards in this segment provide. It's a no brainer to go for this card if you're a frequent shopper on Flipkart and Myntra.
+I feel this is a decent entry level card from Flipkart & Axis Bank. Default reward rate of 1.5% is better than [Amazon](/amazon-pay-icici-bank-credit-card-review/), [Ola](/ola-in-association-with-sbi-card-launches-ola-money-sbi-credit-card/) and [Paytm](/paytm-launches-paytm-first-credit-card-in-india/) co-branded credit cards. The domestic lounge access is cherry on top which none of the cards in this segment provide. It's a no brainer to go for this card if you're a frequent shopper on Flipkart and Myntra.
 
 _What's your view on Flipkart Axis Bank Credit Card? How does it fare against Amazon Pay ICICI Credit Card? Let me know in comments below._
