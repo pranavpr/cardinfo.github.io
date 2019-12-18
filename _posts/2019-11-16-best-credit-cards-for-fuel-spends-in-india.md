@@ -8,6 +8,7 @@ image: /assets/images/best-credit-cards-for-fuel-spends-in-india.jpg
 
 Are you spending a lot on fuel and are looking for best credit card which can give you maximum benefits on fuel spends? You have landed on the correct webpage as in this article I am listing out best credit cards available in India for fuel spends. So without further ado, let's get started.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -60,7 +61,24 @@ ICICI Bank HPCL Coral American Express Credit Card is a hidden gem which provide
 - Rs. 100 discount on up to 2 movie tickets per month at BookMyShow
 - 1% Fuel Surcharge waiver
 
-### 4. SBI BPCL Credit Card
+### 4. Indian Oil Axis Bank Credit Card
+
+{% include image.html image="indian-oil-axis-bank-credit-card.jpg" alt="Indian Oil Axis Bank Credit Card" class="cc-center mb-3" %}
+
+Indian Oil Axis Bank Credit Card is the newest entrant in this category. This card provides 20X accelerated reward points on fuel spends at Indian Oil outlets and waiver of fuel surcharge. Additionally, card members can also avail 5X accelerated reward points on online shopping and 10% instant discount on movie ticket bookings via BookMyShow.
+
+- Joining Fee: Rs. 500
+  - 100% cashback up to Rs. 250 on all fuel transactions within first 30 days of card issuance
+- Annual Fee: Rs. 500
+  - Annual fee is waived off on spending Rs. 50,000 in previous year
+- Reward Rate:
+  - 20X reward points on fuel transactions at IOCL outlets, 4% reward rate
+  - 5X reward points on online shopping, 1% reward rate
+  - 1 reward point per Rs. 100 spent on other categories, 0.20% reward rate
+- 10% instant discount on movie ticket bookings via BookMyShow
+- 1% Fuel Surcharge waiver
+
+### 5. SBI BPCL Credit Card
 
 {% include image.html image="sbi-bpcl-credit-card.jpg" alt="SBI BPCL Credit Card" class="cc-center mb-3" %}
 
@@ -76,7 +94,7 @@ SBI BPCL Credit Card provides 13X reward points on fuel spendings at Bharat Petr
   - 1 Reward Point per Rs. 100 on other purchases, 0.25% reward rate
 - 1% Fuel Surcharge waiver
 
-### 5. IndianOil Citi Platinum Credit Card
+### 6. IndianOil Citi Platinum Credit Card
 
 {% include image.html image="indian-oil-citi-platinum-credit-card.jpg" alt="IndianOil Citi Platinum Credit Card" class="cc-center mb-3" %}
 
@@ -92,7 +110,7 @@ IndianOil Citi Platinum Credit Card provides 4 turbo points per Rs. 150 of fuel 
   - 1 turbo points per Rs. 150 spent on other categories, 0.66% reward rate
 - 1% Fuel Surcharge waiver
 
-### 6. RBL Bank Platinum Maxima Credit Card
+### 7. RBL Bank Platinum Maxima Credit Card
 
 {% include image.html image="rbl-bank-platinum-maxima-credit-card.jpg" alt="RBL Bank Platinum Maxima Credit Card" class="cc-center mb-3" %}
 
@@ -110,7 +128,7 @@ RBL Bank Platinum Maxima Credit Card is an all rounder credit card with multiple
 - 1 complimentary movie ticket up to Rs. 200 every month on purchase of 2 or more tickets at BookMyShow
 - 2 complimentary domestic airport lounge access every calendar quarter
 
-### 7. HDFC Bank Bharat Credit Card
+### 8. HDFC Bank Bharat Credit Card
 
 {% include image.html image="hdfc-bank-bharat-credit-card.jpg" alt="HDFC Bank Bharat Credit Card" class="cc-center mb-3" %}
 
@@ -159,6 +177,12 @@ Below table summarizes the reward rate on various credit cards listed above.
       <td> Rs. 199 </td>
       <td> 5% </td>
       <td> 2 domestic airport lounge access/year </td>
+    </tr>
+    <tr>
+      <td> Indian Oil Axis Bank Credit Card </td>
+      <td> Rs. 500 </td>
+      <td> 5% </td>
+      <td> 1% reward rate on online shopping </td>
     </tr>
     <tr>
       <td> SBI BPCL Credit Card </td>

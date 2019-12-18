@@ -9,6 +9,7 @@ product: Flipkart Axis Bank Credit Card
 
 Flipkart Axis Bank Credit Card is a lifestyle co-branded credit card which provides accelerated cashback on Flipkart, Myntra and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which gets credited to card account 3 days before statement generation.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -31,7 +32,7 @@ Flipkart Axis Bank Credit Card comes with following fees:
 - Joining fee: Rs. 500 + GST
 - Renewal fee: Rs. 500 + GST
 
-Surprisingly there is no mention of waiver of renewal fee on meeting annual spend criteria like other Axis Bank credit cards.
+Annual fee would be waived off on annual spends greater than Rs. 2 Lakhs.
 
 ### Features
 
