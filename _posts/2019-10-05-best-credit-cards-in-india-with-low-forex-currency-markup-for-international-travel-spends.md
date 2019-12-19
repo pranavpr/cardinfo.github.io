@@ -181,6 +181,82 @@ Using above link, both of us will get Rs. 500 on doing first international POS t
 
 ### Bottomline
 
+Below table summarizes the reward rate for all cards listed above:
+
+  <table class="table">
+    <thead class="thead-dark">
+    <tr>
+      <th scope="col"> Credit Card </th>
+      <th scope="col"> Foreign Currency Markup + GST</th>
+      <th scope="col"> Reward Rate<sup>*</sup></th>
+      <th scope="col"> Net Gains</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td> HDFC Bank Infinia Credit Card </td>
+      <td> 2.36% </td>
+      <td> 4.3% </td>
+      <td> 1.94% </td>
+    </tr>
+    <tr>
+      <td> HDFC Diners Club Black Credit Card </td>
+      <td> 2.35% </td>
+      <td> 4.3% </td>
+      <td> 1.95% </td>
+    </tr>
+    <tr>
+      <td> Yes First Exclusive Credit Card </td>
+      <td> 2% </td>
+      <td> 1.5% to 3% </td>
+      <td> -0.5% to 1% </td>
+    </tr>
+    <tr>
+      <td> Citi Prestige Credit Card </td>
+      <td> 4.13% </td>
+      <td> 4% to 8% </td>
+      <td> -0.13% to 3.87% </td>
+    </tr>
+    <tr>
+      <td> ICICI Bank Emeralde Credit Card (Amex) </td>
+      <td> 1.77% </td>
+      <td> 1% </td>
+      <td> -0.77% </td>
+    </tr>
+    <tr>
+      <td> HDFC Diners Club Privilege Credit Card </td>
+      <td> 2.35% </td>
+      <td> 1.3% </td>
+      <td> -0.05% </td>
+    </tr>
+    <tr>
+      <td> HDFC Regalia Credit Card </td>
+      <td> 2.36% </td>
+      <td> 1.3% </td>
+      <td> -0.06% </td>
+    </tr>
+    <tr>
+      <td> Standard Chartered Ultimate Credit Card </td>
+      <td> 4.13% </td>
+      <td> 4.8% </td>
+      <td> 0.67% </td>
+    </tr>
+    <tr>
+      <td> American Express Platinum Card </td>
+      <td> 4.13% </td>
+      <td> 3.75% </td>
+      <td> -0.38% </td>
+    </tr>
+    <tr>
+      <td> Niyo Global Card </td>
+      <td> 0% </td>
+      <td> 0% </td>
+      <td> 0% </td>
+    </tr>
+    </tbody>
+  </table>
+<sup>*</sup> Maximum Reward Rate
+
 Though you can rely on credit cards, I would still suggest to carry some foreign currency with you for emergency situations. Also always choose to pay in local currency instead of on the fly conversion to INR at point of sales terminal. Though on the fly conversion gives you a piece of mind by showing exact amount you're spending in INR, it generally adds extra charges.
 
 _Which is your preferred credit card for foreign travel and spends? Let me know in comments below._
