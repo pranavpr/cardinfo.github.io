@@ -11,6 +11,7 @@ All set for your dream foreign vacation, but worried about your spends on credit
 
 Those who are not aware, if you spend in currency other than Indian Rupees, banks charge you a foreign currency mark up fee. This fee is as high as 3.5% + GST (~4.13%) for some credit cards. It means, if you spend Rs. 1 Lakh in foreign currency, you end up paying close to Rs. 4,130 just as foreign currency markup fees which quite a significant amount.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -20,7 +21,7 @@ Those who are not aware, if you spend in currency other than Indian Rupees, bank
 
 - Foreign Currency Markup: 2% + GST (2.36%)
 - Reward Rate: 3.3%
-- Net Gains: 0.94%
+- Net Gains: 0.94% (1.94% if enrolled in to Global Value Program for spends up to Rs. 1,00,000 in a month)
 - Joining/Annual Fee: Rs. 10,000 + GST, reward points of equivalent value are provided
 - Other Benefits:
   - Unlimited international airport lounge access to primary as well as add-on card members
@@ -33,13 +34,14 @@ HDFC Bank Infinia Credit Card is for the elitist and is invite only card. You ne
 
 {% include image.html image="hdfc-bank-diners-club-black-new-design.jpg" alt="HDFC Diners Club Black Credit Card" class="cc-center mb-3" %}
 
-- Foreign Currency Markup: 2% + GST (2.36%)
+- Foreign Currency Markup: 1.99% + GST (2.35%)
 - Reward Rate: 3.3%
-- Net Gains: 0.94%
-- Joining/Annual Fee: Rs. 5,000 + GST, reward points of equivalent value are provided
+- Net Gains: 0.95% (1.95% if enrolled in to Global Value Program for spends up to Rs. 1,00,000 in a month)
+- Joining/Annual Fee: Rs. 10,000 + GST
 - Other Benefits:
   - Unlimited international airport lounge access to primary card member
   - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](https://www.hdfcbankdinersclub.com/privilege) (annual fee of Rs. 199)
+  - 6 Complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around world
 
 [HDFC Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) is a super premium credit card and is easier to get than Infinia. Though the acceptance of Diners Club cards is very good India, it's acceptance in foreign countries is still questionable. Carry a backup Visa/MasterCard along to be on safer side.
 
@@ -62,11 +64,12 @@ HDFC Bank Infinia Credit Card is for the elitist and is invite only card. You ne
 
 - Foreign Currency Markup: 3.5% + GST (4.13%)
 - Reward Rate: 4% to 8%
-- Net Gains: 0% to 4%
+- Net Gains: -0.13% to 3.87%
 - Joining/Annual Fee: Rs. 20,000 + GST, vouchers/air miles of equivalent value are provided
 - Other Benefits:
+  - Complimentary 4th night stay at selected hotels, twice in a year
   - Unlimited international airport lounge access to primary as well as add-on card members
-  - Complimentary Meet & Assist service and one-way luxury airport transfer to or from airport in APAC, twice per calendar year
+  - 25% off on Meet & Assist service and 20% off on airport transfer to or from airport in APAC
   - Elevated status on loyalty programs of British Airways & Taj Group
 
 Citi Prestige Credit Card is advisable only for those who can maximize the value from air miles. If you are not in to this, you won't be able to get maximum value from this card.
@@ -86,31 +89,36 @@ Citi Prestige Credit Card is advisable only for those who can maximize the value
 
 Though ICICI Bank Emeralde Credit Card has poor reward rate, other benefits outweigh it, especially during international travel. This credit card has lowest foreign currency markup in India at present. Spa and Wi-Fi access is something very unique which makes this card stand out from the crowd.
 
-### 6. HDFC Regalia Credit Card
+### 6. HDFC Diners Club Privilege Credit Card
+
+{% include image.html image="hdfc-diners-club-privilege-credit-card.jpg" alt="HDFC Diners Club Privilege Credit Card" class="cc-center mb-3" %}
+
+- Foreign Currency Markup: 1.99% + GST (2.35%)
+- Reward Rate: 1.3%
+- Net Gains: -1.05% (-0.05% if enrolled in to Global Value Program for spends up to Rs. 1,00,000 in a month)
+- Joining/Annual Fee: Rs. 2,500 + GST
+- Other Benefits:
+  - 12 complimentary airport lounge access per year including domestic and international
+  - Airport lounge access is complimentary for primary as well add-on card members
+  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](https://www.hdfcbankdinersclub.com/privilege) (annual fee of Rs. 199)
+  - 2 Complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around world
+
+[HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-diners-club-privilege-credit-card-review/) is relatively a newer card in the market which comes with host of monthly and yearly milestone benefits. International acceptance of Diners Club Cards is not so great and it's advisable to carry a backup Visa/MasterCard.
+
+### 7. HDFC Regalia Credit Card
 
 {% include image.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" class="cc-center mb-3" %}
 
 - Foreign Currency Markup: 2% + GST (2.36%)
 - Reward Rate: 1.3%
-- Net Gains: -1.06%
+- Net Gains: -1.06% (-0.06% if enrolled in to Global Value Program for spends up to Rs. 1,00,000 in a month)
 - Joining/Annual Fee: Rs. 1,000 + GST, usually waived off
 - Other Benefits:
-  - 6 international airport lounge access per year using Priority Pass (including add-on card member, but can't be used on same lounge same day)
+  - 6 international airport lounge access per year using Priority Pass
+  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](https://www.hdfcbankdinersclub.com/privilege) (annual fee of Rs. 199)
+  - International Airport lounge access is complimentary for primary as well add-on card members
 
-[HDFC Regalia Credit Card](/hdfc-bank-regalia-credit-card-review/) is one of the most popular credit cards from HDFC Bank. Though you end up loosing 1% on foreign spends, it's still better than 4% which you'll if you use other credit cards.
-
-### 7. HDFC Diners Club Clubmiles Credit Card
-
-{% include image.html image="hdfc-diners-clubmiles.jpg" alt="HDFC Diners Club Clubmiles Credit Card" class="cc-center mb-3" %}
-
-- Foreign Currency Markup: 2% + GST (2.36%)
-- Reward Rate: 1.3%
-- Net Gains: -1.06%
-- Joining/Annual Fee: Rs. 1,000 + GST, usually waived off
-- Other Benefits:
-  - 6 airport lounge access per year including domestic and international
-
-HDFC Diners Club Clubmiles Credit Card is similar to HDFC Regalia Credit Card, however it's easier to get than Regalia (net monthly income > Rs. 30,000). However the acceptance of Diners Club in foreign countries remains a question and a backup card to carry along is always advisable.
+[HDFC Regalia Credit Card](/hdfc-bank-regalia-credit-card-review/) is one of the most popular credit cards from HDFC Bank. It can cover your entire forex markup fee if enrolled in Global Value Program.
 
 ### 8. Standard Chartered Ultimate Credit Card
 
@@ -140,6 +148,21 @@ Though Standard Chartered Ultimate Credit Card has this weird clause of monthly 
   - Elevated status on loyalty programs of Marriott, Hilton, Taj & Radisson
 
 American Express Platinum Card comes with host of perks and benefits and is a must have for luxury travel. If you are in to luxury travel and are able to extract more value than fees paid, go for it blindly.
+
+### 10. Axis Bank Magnus Credit Card
+
+{% include image.html image="axis-bank-magnus-credit-card.jpg" alt="Axis Bank Magnus Credit Card" class="cc-center mb-3" %}
+
+- Foreign Currency Markup: 2% + GST (2.36%)
+- Reward Rate: 1.2%
+- Net Gains: -1.16%
+- Joining/Annual Fee: Rs. 10,000 + GST
+- Other Benefits:
+  - 8 complimentary VIP Assistance Services
+  - 8 complimentary international airport lounge access (card member + guest), 4 more on spending Rs. 7 Lakh or more using Priority Pass
+  - Unlimited domestic lounge access using MasterCard lounge program
+
+[Axis Bank Magnus Credit Card](/axis-bank-magnus-credit-card-launched/) though isn't effective in recovering the cost of forex markup, it does provide some perks like VIP Assistance Services and international airport lounge access to guests which can make your international travel pleasant.
 
 ### Bonus: Niyo Global Card
 

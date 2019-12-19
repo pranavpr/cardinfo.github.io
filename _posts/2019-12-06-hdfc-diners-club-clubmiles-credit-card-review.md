@@ -13,6 +13,7 @@ HDFC Diners Club ClubMiles Credit Card is a premium offering from HDFC Bank. Tho
 
 HDFC Diners Club ClubMiles Credit Card sports a purple background with card details engraved in golden color. The card looks attractive and feels premium in hand.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -90,7 +91,7 @@ Unlike other cards, you can just swipe your HDFC Diners Club ClubMiles Credit Ca
 
 #### Other benefits
 
-- Low Foreign Currency Markup of 1.99% + GST
+- Low Foreign Currency Markup of 3% + GST
 - 1% cashback on international transactions using Global Value Program (annual fee of Rs. 199)
 - 15% discount at partner restaurants
 
