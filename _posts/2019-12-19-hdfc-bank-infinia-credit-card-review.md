@@ -152,7 +152,7 @@ The emergency hospitalization cover while traveling abroad is a huge relief and 
 
 Though the benefits on Infinia are really great, some recent developments has left Infinia members in a bitter-sweet mood.
 
-- No monthly & annual benefits: Recently HDFC Bank has introduced [monthly and annual benefits on HDFC Diners Club Black Credit Card](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/) on meeting the spend targets. Not sure, why HDFC Bank has left Infinia behind given that they position Infinia a step above Diners Club Black. HDFC Bank must introduce the equivalent benefits on Infinia if it wants to retain it's current status.
+- No monthly & annual benefits: Recently HDFC Bank has introduced [monthly and annual benefits on HDFC Diners Club Black Credit Card](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/) on meeting the spend targets. Not sure, why HDFC Bank has left Infinia behind given that they position Infinia a step above Diners Club Black. HDFC Bank must introduce the equivalent benefits on Infinia if it wants to retain its current status.
 - Lack of premium look & feel: Infinia lacks the premium look and feel which puts me off a little bit. Given that it's a super premium credit card, HDFC Bank should replace the plastic card with metal card just like American Express Platinum Charge Card or [Axis Burgundy Private Credit Card](/axis-bank-launches-burgundy-private-credit-card-review/). This is more of a wishlist item than a drawback.
 
 ### Verdict
