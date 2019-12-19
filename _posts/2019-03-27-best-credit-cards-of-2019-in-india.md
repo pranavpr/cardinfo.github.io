@@ -10,6 +10,7 @@ Looking for best credit card in India or wondering the one which is in your wall
 
 I have analysed 100+ credit cards available in India as of today and compiled a list of 15 best credit cards based on various user segments. Note that there is no one card which suits all as spending pattern, income range, willingness to pay joining fee etc. varies from person to person. So without further ado, let's begin!
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -112,6 +113,8 @@ HDFC Diners Club Clubmiles Credit Card has decent reward rate of 1.3% and with [
 - Lounge access : 6 lounge access per year including domestic and international
 - Apply [here](https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Diners/index.aspx)
 
+Read the detailed review [here](/hdfc-diners-club-clubmiles-credit-card-review/).
+
 #### 2. HDFC Regalia Credit Card
 
 {% include image.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" class="cc-center mb-3" %}
@@ -194,6 +197,8 @@ HDFC Infinia Credit Card is for the elitist and is invite only card. This card c
   - Domestic: 4 complimentary domestic lounge access per quarter through Infinia Visa/Mastercard Card Lounge program
 - Lower foreign currency markup of 2%
 - Other benefits: Personal concierge service, Golf Programme, Club Marriott Membership, Priority Customer Service etc.
+
+Read the detailed review [here](/hdfc-bank-infinia-credit-card-review/).
 
 #### 2. HDFC Diners Club Black Credit Card
 

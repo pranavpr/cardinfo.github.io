@@ -8,7 +8,7 @@ image: /assets/images/hdfc-bank-infinia-credit-card-upgrade-experience.jpg
 
 HDFC Bank Infinia Credit Card is undoubtedly [best credit card](/best-credit-cards-of-2019-in-india/) in India at the moment and getting hands on it is dream of every credit card enthusiast. The 3.3% default reward rate which can accelerate to 33% using [10X Rewards program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/), 2X rewards on dining, no pre-set spending limit are some droolworthy features of this card.
 
-I recently upgraded to HDFC Bank Infinia Credit Card and in this article I'd be talking about my relationship with HDFC Bank, upgrade process, unboxing experience and tips for getting invited for Infinia.
+I recently upgraded to [HDFC Bank Infinia Credit Card](/hdfc-bank-infinia-credit-card-review/) and in this article I'd be talking about my relationship with HDFC Bank, upgrade process, unboxing experience and tips for getting invited for Infinia.
 
 <!-- prettier-ignore -->
 * TOC
@@ -59,6 +59,6 @@ Getting approved is the most tricky part for Infinia. I have a preferred account
 
 ### Bottomline
 
-There is no shortcut to receive the HDFC Bank Infinia Credit Card. Once needs to be patient working slowly and steadily towards Infinia. It took me 11 Years to reach Infinia from Visa Gold Card, but I did reach eventually. Hence, if you really want this card, keep increasing your NRV with HDFC Bank and keep spending on your existing HDFC Bank Credit Card.
+There is no shortcut to receive the [HDFC Bank Infinia Credit Card](/hdfc-bank-infinia-credit-card-review/). Once needs to be patient working slowly and steadily towards Infinia. It took me 11 Years to reach Infinia from Visa Gold Card, but I did reach eventually. Hence, if you really want this card, keep increasing your NRV with HDFC Bank and keep spending on your existing HDFC Bank Credit Card.
 
 _How has been your journey towards HDFC Bank Infinia Credit Card? Let me know your story in comments below._
