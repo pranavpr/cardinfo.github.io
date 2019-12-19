@@ -9,6 +9,7 @@ product: HDFC Diners Club Black Credit Card
 
 HDFC Diners Club Black credit card is a super premium offering from HDFC Bank. This card provides the default reward rate of 3.3% which beats any credit card in Indian market. Also their [10X program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) accelerates the reward rate to a whooping 33% on select partner merchants. I believe there is no better reward rate for credit cards in whole world than this. Apart from fantastic reward rate, this card offers all other features a super premium credit card is supposed to.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -28,10 +29,10 @@ HDFC is very strict about the eligibility criteria for issuing new cards. Howeve
 
 HDFC Diners Club Black Credit Card comes with following fees:
 
-- Joining fee: Rs. 5,000 + GST
-- Renewal fee: Rs. 5,000 + GST
+- Joining fee: Rs. 10,000 + GST
+- Renewal fee: Rs. 10,000 + GST
 
-Renewal fee is waived off if spend in previous year is more than 5 Lakhs. Also first year fee is waived off if you have a good standing relationship with HDFC Bank.
+Renewal fee is waived off if spend in previous year is more than Rs. 5 Lakhs. Also joining fee is waived off if you have a good standing relationship with HDFC Bank.
 
 ### Features
 
@@ -55,13 +56,14 @@ It's quite evident that HDFC Bank is luring the cardmembers for spending more by
 #### Reward Points
 
 - 1 reward point = Rs. 1 if used for booking hotels and air tickets at [dedicated portal](https://offers.smartbuy.hdfcbank.com/diners)
+- 1 reward point ~ Rs. 0.50 if redeemed for cash
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
-- [10X rewards](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
+- [10X rewards](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Train Tickets, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
 - Maxcap on bonus reward points
   - 15000 bonus reward points on Smartbuy
   - 25000 bonus reward points on partner brands
-- 2X rewards on dining, 6.6% reward rate
+- 2X rewards on weekend dining, 6.6% reward rate
   - Minimum transaction: Rs. 150
   - Maxcap on weekend dining reward points: 2,000
 - Maxcap reset: Calendar month
@@ -154,10 +156,10 @@ Unlike other cards, you can just swipe your HDFC Diners Club Black Credit Card f
 
 The discount and benefits varies across partners and more information can be found at <a href="https://hdfcbankdinersclubwellness.poshvine.com/" target="_blank" rel="noopener">official website</a>.
 
-#### Other benefits
+#### Other Benefits
 
-- 15% discount at partner restaurants
-- 1% cashback on international transactions using Global Value Program (annual fee of Rs. 199)
+- 15% discount at partner restaurants using Good Food Trail dining program
+- 1% cashback (limited to Rs. 1,000 per month) on international transactions using Global Value Program (annual fee of Rs. 199)
 
 ### Drawbacks
 

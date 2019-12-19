@@ -44,7 +44,9 @@ Indian Oil Axis Bank Credit Card tries to target the segment who spend substanti
 
 #### Welcome Benefits
 
-Indian Oil Axis Bank Credit Card provides 100% cashback up to Rs. 250 on all fuel transactions within first 30 days of card issuance. This offer covers the joining fee by 50% which is nice. However a cashback up Rs. 500 would have made this even sweeter, virtually making this card free.
+- 100% cashback up to Rs. 250 on all fuel transactions within first 30 days of card issuance
+
+This offer covers the joining fee by 50% which is nice. However a cashback up Rs. 500 would have made this even sweeter, virtually making this card free.
 
 #### Rewards
 

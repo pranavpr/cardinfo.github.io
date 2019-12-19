@@ -10,6 +10,7 @@ HDFC Bank Infinia Credit Card is undoubtedly [best credit card](/best-credit-car
 
 I recently upgraded to HDFC Bank Infinia Credit Card and in this article I'd be talking about my relationship with HDFC Bank, upgrade process, unboxing experience and tips for getting invited for Infinia.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -50,9 +51,10 @@ Overall the design is just okayish and nothing extra ordinary. The card doesn't 
 Getting approved is the most tricky part for Infinia. I have a preferred account with HDFC Bank which comes with a perk (?) of relationship manager (RM). I have constantly been asking my RM for an upgrade to Infinia, but he denied my request saying I'll automatically get an invite if I become eligible. Hence, in my case, RM was useless and he didn't help at all. However, from my experience, following will help a lot in getting Infinia:
 
 - Long relationship with HDFC Bank
-- Existing credit card with limit in range of 8 to 10 Lakhs
+- Existing credit card with limit in range of Rs. 8 to 10 Lakhs
 - Regular and high spends on existing credit card (I spent around 6 Lakhs on my Regalia in 9 Months)
-- ITR > 40 Lakhs
+- Monthly in-hand salary > Rs. 3.75 Lakhs for salaried
+- ITR > 45 Lakhs for self employed
 - High NRV (investments in Fixed Deposits, Life Insurance, Home Loan, Mutual Funds etc., though I don't have any of these with HDFC)
 
 ### Bottomline
