@@ -21,7 +21,7 @@ Citi Bank has rolled out an offer on their credit cards for international spends
 
 ### Bottomline
 
-This is a nice offer from Citi and you can get a reward rate of 8% to 16% (based on what you redeem for) if you hold Citi Prestige Credit Card. After a foreign currency markup of 3.5% + GST, the net reward rate turns out to be 3.87% to 7.87% which is quite great. And the best part is, there is no upper limit on number of reward points one can accumulate.
+This is a nice offer from Citi and you can get a reward rate of 8% to 16% (based on what you redeem for) if you hold Citi Prestige Credit Card. After a foreign currency markup of 3.5% + GST, the net reward rate turns out to be 3.87% to 11.87% which is quite great. And the best part is, there is no upper limit on number of reward points one can accumulate.
 
 Also if you hold Citi Premier Miles Credit Card, the net reward rate translates to -0.53 (3.6% reward rate - 4.13% foreign currency markup & GST). Hence I wouldn't recommend to use this offer on Citi Premier Miles Credit Card as you end up losing money, unless you don't have [other better credit cards for international transactions](/best-credit-cards-in-india-with-low-forex-currency-markup-for-international-travel-spends/).
 
