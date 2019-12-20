@@ -15,7 +15,7 @@ HDFC Bank Infinia Credit Card is the [best super premium credit card](/best-cred
 
 HDFC Bank Infinia Credit Card comes in dark blue color with design similar to [HDFC Bank Regalia Credit Card](/hdfc-bank-regalia-credit-card-review/). It's available on Visa Infinite as well as MasterCard World platform and is enabled for contactless transactions.
 
-{% include tip.html tip="Visa Infinite has relatively more benefits than MasterCard World. Given a choice, opt former over latter." %}
+{% include tip.html tip="Visa Infinite has relatively more benefits than MasterCard World. Given a choice, opt for former over latter." %}
 
 <!-- prettier-ignore -->
 * TOC
