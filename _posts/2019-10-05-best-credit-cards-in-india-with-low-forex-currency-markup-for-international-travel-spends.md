@@ -26,7 +26,7 @@ Those who are not aware, if you spend in currency other than Indian Rupees, bank
 - Other Benefits:
   - Unlimited international airport lounge access to primary as well as add-on card members
   - 2X reward points on dining spends including international
-  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](https://www.hdfcbank.com/assets/popuppages/global_value.htm) (annual fee of Rs. 199)
+  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](/hdfc-global-value-program-everything-you-need-to-know/) (annual fee of Rs. 199)
 
 HDFC Bank Infinia Credit Card is for the elitist and is invite only card. You need to have a high NRV with HDFC Bank to receive this card.
 
@@ -40,7 +40,7 @@ HDFC Bank Infinia Credit Card is for the elitist and is invite only card. You ne
 - Joining/Annual Fee: Rs. 10,000 + GST
 - Other Benefits:
   - Unlimited international airport lounge access to primary card member
-  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](https://www.hdfcbankdinersclub.com/privilege) (annual fee of Rs. 199)
+  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](/hdfc-global-value-program-everything-you-need-to-know/) (annual fee of Rs. 199)
   - 6 Complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around world
 
 [HDFC Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) is a super premium credit card and is easier to get than Infinia. Though the acceptance of Diners Club cards is very good India, it's acceptance in foreign countries is still questionable. Carry a backup Visa/MasterCard along to be on safer side.
@@ -100,7 +100,7 @@ Though ICICI Bank Emeralde Credit Card has poor reward rate, other benefits outw
 - Other Benefits:
   - 12 complimentary airport lounge access per year including domestic and international
   - Airport lounge access is complimentary for primary as well add-on card members
-  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](https://www.hdfcbankdinersclub.com/privilege) (annual fee of Rs. 199)
+  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](/hdfc-global-value-program-everything-you-need-to-know/) (annual fee of Rs. 199)
   - 2 Complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around world
 
 [HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-diners-club-privilege-credit-card-review/) is relatively a newer card in the market which comes with host of monthly and yearly milestone benefits. International acceptance of Diners Club Cards is not so great and it's advisable to carry a backup Visa/MasterCard.
@@ -115,7 +115,7 @@ Though ICICI Bank Emeralde Credit Card has poor reward rate, other benefits outw
 - Joining/Annual Fee: Rs. 1,000 + GST, usually waived off
 - Other Benefits:
   - 6 international airport lounge access per year using Priority Pass
-  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](https://www.hdfcbankdinersclub.com/privilege) (annual fee of Rs. 199)
+  - 1% cashback (limited to Rs. 1,000 per month) on international transactions using [Global Value Program](/hdfc-global-value-program-everything-you-need-to-know/) (annual fee of Rs. 199)
   - International Airport lounge access is complimentary for primary as well add-on card members
 
 [HDFC Regalia Credit Card](/hdfc-bank-regalia-credit-card-review/) is one of the most popular credit cards from HDFC Bank. It can cover your entire forex markup fee if enrolled in Global Value Program.
