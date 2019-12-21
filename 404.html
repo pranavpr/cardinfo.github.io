@@ -3,23 +3,42 @@ layout: default
 permalink: /404
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+<div class="container site-content" style="margin-top: 60px;">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-12 align-items-center text-center">
+        <p></p>
+        <h1 class="title-xxl">404 <small> Page not found </small></h1>
+        <div class="page-content">
+          <p class="text-muted mt-4 mb-4">
+            Maybe try a search?
+          </p>
+          <form
+            onSubmit="return lunr_search(document.getElementById('lunrsearch-full-page').value);"
+            class="row search-form justify-content-center"
+          >
+            <div class="col-md-5">
+              <input type="hidden" name="post_type" value="post" />
+              <input
+                type="search"
+                class="search-field form-control btn-round"
+                placeholder="Type your text"
+                value=""
+                name="s"
+                title="Search for:"
+                id="lunrsearch-full-page"
+              />
+            </div>
+            <div class="col-md-2">
+              <input
+                type="submit"
+                class="search-submit btn btn-primary btn-round d-block w-100"
+                value="Search"
+              />
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

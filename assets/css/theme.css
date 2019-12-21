@@ -1258,3 +1258,14 @@ img[src*='#cc-center'] {
   float: left;
   margin-right: 10px;
 }
+
+.title-xxl {
+  font-size: 11rem;
+  line-height: 1;
+}
+
+.title-xxl small {
+  opacity: 0.2;
+  font-size: 50%;
+  margin-left: 5px;
+}
