@@ -2,6 +2,8 @@
 layout: post
 title: Best Credit Cards in India with low Forex Currency Markup for International Travel & Spends
 date: 2019-10-05 10:22 +0530
+seo:
+  date_modified: 2019-12-21 14:30 +0530
 categories: [Reviews]
 image: /assets/images/best-credit-cards-in-india-with-low-forex-currency-markup.jpg
 tags: [featured]
