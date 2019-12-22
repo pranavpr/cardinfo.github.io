@@ -22,6 +22,7 @@ HSBC Bank has rolled out unlimited cashback offer on their credit cards to sweet
 - **Other T&C**:
   - Offer valid only on registration.
   - To register, SMS HSBCINT to 575750 from registered mobile number
+- **Source:** [Email](http://mail.hsbc.com.hk/in/cc_portfolio_npr_v2_1219/offer.htm)
 
 ### Bottomline
 
