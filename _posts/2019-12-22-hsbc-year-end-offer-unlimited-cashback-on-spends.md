@@ -31,3 +31,5 @@ This is a decent offer from HSBC Bank and it's as simple as it can get. I regist
 > HSBC: Congratulations for a successful registration! You are on your way to accelerated cashback benefits. Holidays, shopping, dining & festivities for the new year are even more special with your HSBC Credit Card. Click https://hsbc.co.in/offers for other offers that will add cheer to your celebrations!
 
 Note that for international transactions, a forex markup fee of 3.5% + GST is charged which overshadows this cashback benefit. Hence I wouldn't recommend to use this offer for the same, unless you don't have [other better cards with low forex markup](/best-credit-cards-in-india-with-low-forex-currency-markup-for-international-travel-spends/).
+
+_Are you going to use this offer on your HSBC Credit Card? Let me know in comments below._
