@@ -6,7 +6,7 @@ categories: [HDFC, Card Offers]
 image: /assets/images/5x-rewards-on-insurance-payment-using-hdfc-bank-credit-cards.jpg
 ---
 
-HDFC Bank is back with another fantastic offer on credit cards wherein it's providing 5X reward points on all insurance premium payments. This offer is applicable on all retail HDFC Bank Credit Cards till end of this year and is in addition to [SmartBuy 10X offer](/hdfc-bank-credit-card-10x-rewards-september-2019-update/).
+HDFC Bank is back with another fantastic offer on credit cards wherein it's providing 5X reward points on all insurance premium payments. This offer is applicable on all retail HDFC Bank Credit Cards till end of this year and is in addition to [SmartBuy 10X offer](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/).
 
 ### Offer Details
 

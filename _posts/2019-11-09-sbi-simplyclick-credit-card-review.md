@@ -65,7 +65,7 @@ That's an additional 2% reward rate on achieving a spend of Rs. 2 Lakhs.
 
 {% include tip.html tip="Redeem reward points only after accumulating a good amount to minimize the loss due to redemption fee." %}
 
-Though SBI Card mentions in their T&C that wallet transactions are not eligible for 10X rewards, I have been getting 10X reward points on adding money to Amazon Pay wallet and 5X reward points on adding money to Paytm. Good thing is, there is no maximum cap on bonus reward points unlike [HDFC 10X Rewards Program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/).
+Though SBI Card mentions in their T&C that wallet transactions are not eligible for 10X rewards, I have been getting 10X reward points on adding money to Amazon Pay wallet and 5X reward points on adding money to Paytm. Good thing is, there is no maximum cap on bonus reward points unlike [HDFC 10X Rewards Program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/).
 
 #### Finance Charges
 

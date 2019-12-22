@@ -7,7 +7,7 @@ image: /assets/images/hdfc-diners-club-black-review.jpg
 product: HDFC Diners Club Black Credit Card
 ---
 
-HDFC Diners Club Black credit card is a super premium offering from HDFC Bank. This card provides the default reward rate of 3.3% which beats any credit card in Indian market. Also their [10X program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) accelerates the reward rate to a whooping 33% on select partner merchants. I believe there is no better reward rate for credit cards in whole world than this. Apart from fantastic reward rate, this card offers all other features a super premium credit card is supposed to.
+HDFC Diners Club Black credit card is a super premium offering from HDFC Bank. This card provides the default reward rate of 3.3% which beats any credit card in Indian market. Also their [10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) accelerates the reward rate to a whooping 33% on select partner merchants. I believe there is no better reward rate for credit cards in whole world than this. Apart from fantastic reward rate, this card offers all other features a super premium credit card is supposed to.
 
 <!-- prettier-ignore -->
 * TOC
@@ -59,7 +59,7 @@ It's quite evident that HDFC Bank is luring the cardmembers for spending more by
 - 1 reward point ~ Rs. 0.50 if redeemed for cash
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
-- [10X rewards](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Train Tickets, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
+- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Train Tickets, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
 - Maxcap on bonus reward points
   - 15000 bonus reward points on Smartbuy
   - 25000 bonus reward points on partner brands
@@ -170,7 +170,7 @@ Though HDFC Diners Club Black credit card provides unparalleled benefits, it has
 
 ### Verdict
 
-The 33% reward rate beats down any other super premium credit card in world. I won't be wrong if I say [10X program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) is best reward program on credit card in the whole world. The annual memberships, golf privileges and unlimited airport lounge access for both primary and add-on card members is cherry on the top. If you're being offered this card, go for it without giving a second thought.
+The 33% reward rate beats down any other super premium credit card in world. I won't be wrong if I say [10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) is best reward program on credit card in the whole world. The annual memberships, golf privileges and unlimited airport lounge access for both primary and add-on card members is cherry on the top. If you're being offered this card, go for it without giving a second thought.
 
 {% include star-rating.html rating=5 rewards=5 fees=5 features=5 %}
 

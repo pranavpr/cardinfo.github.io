@@ -6,7 +6,7 @@ categories: [HDFC]
 image: /assets/images/hdfc-bank-infinia-credit-card-upgrade-experience.jpg
 ---
 
-HDFC Bank Infinia Credit Card is undoubtedly [best credit card](/best-credit-cards-of-2019-in-india/) in India at the moment and getting hands on it is dream of every credit card enthusiast. The 3.3% default reward rate which can accelerate to 33% using [10X Rewards program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/), 2X rewards on dining, no pre-set spending limit are some droolworthy features of this card.
+HDFC Bank Infinia Credit Card is undoubtedly [best credit card](/best-credit-cards-of-2019-in-india/) in India at the moment and getting hands on it is dream of every credit card enthusiast. The 3.3% default reward rate which can accelerate to 33% using [10X Rewards program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/), 2X rewards on dining, no pre-set spending limit are some droolworthy features of this card.
 
 I recently upgraded to [HDFC Bank Infinia Credit Card](/hdfc-bank-infinia-credit-card-review/) and in this article I'd be talking about my relationship with HDFC Bank, upgrade process, unboxing experience and tips for getting invited for Infinia.
 

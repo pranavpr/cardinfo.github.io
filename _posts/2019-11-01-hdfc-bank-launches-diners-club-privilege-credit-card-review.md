@@ -61,7 +61,7 @@ It's quite evident that HDFC Bank is luring the card members for spending more b
 - 1 reward point = Rs. 0.50 if used for booking hotels and air tickets at [dedicated portal](https://offers.smartbuy.hdfcbank.com/diners)
 - 1 reward point ~ Rs. 0.20 if used for redeeming from reward catalogue or cash
 - 4 reward points per Rs. 150 spent, 1.3% reward rate
-- [10X rewards](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
+- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
 - Maxcap on bonus reward points
   - 5,000 bonus reward points on Smartbuy
   - 10,000 bonus reward points on partner brands

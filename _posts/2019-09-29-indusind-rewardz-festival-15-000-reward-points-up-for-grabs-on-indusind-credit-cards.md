@@ -98,6 +98,6 @@ I received this offer on my IndusInd Aura Platinum Credit Card and since I don't
   </tbody>
   </table>
 
-This is a decent offer I believe and option to redeem reward points for cash credit it surely lucrative. However I would be skipping this as my [HDFC Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) gives a default reward rate of 3.3% which can accelerate to 33% utilizing [10X program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/).
+This is a decent offer I believe and option to redeem reward points for cash credit it surely lucrative. However I would be skipping this as my [HDFC Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) gives a default reward rate of 3.3% which can accelerate to 33% utilizing [10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/).
 
 _What spend levels you received on your IndusInd Bank Credit Card? Let me know in comments below._

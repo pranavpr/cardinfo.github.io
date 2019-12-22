@@ -2,13 +2,16 @@
 layout: post
 title: HDFC Bank Regalia Credit Card Review
 date: 2019-09-16 17:41 +0530
+seo:
+  date_modified: 2019-12-22 11:15 +0530
 categories: [HDFC, Reviews]
 image: /assets/images/hdfc-bank-regalia-credit-card-review.jpg
 product: HDFC Bank Regalia Credit Card
 ---
 
-HDFC Bank Regalia Credit Card is a premium offering from HDFC Bank and is probably the most popular one. This card comes with some of the exciting features like lower foreign currency markup, Priority Pass membership, access to international and domestic airport lounges, Zomato Gold membership, travel concierge, insurance cover etc. The default reward rate on this credit card is 1.3% which accelerates to 13% with [SmartBuy 10X program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/).
+HDFC Bank Regalia Credit Card is a premium offering from HDFC Bank and is probably the most popular one. This card comes with some of the exciting features like lower foreign currency markup, Priority Pass membership, access to international and domestic airport lounges, Zomato Gold membership, travel concierge, insurance cover etc. The default reward rate on this credit card is 1.3% which accelerates to 13% with [SmartBuy 10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/).
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -50,11 +53,11 @@ HDFC compensates 50% for joining and renewal fee for this card by providing bonu
 - 1 reward point = Rs. 0.20 if [redeemed for cash](/redeem-hdfc-credit-card-reward-points-for-cash/)
 - 1 reward point ~ Rs. 0.20 if used for redeeming from reward catalogue
 - 4 reward points per Rs. 150 spent, 1.3% reward rate
-- 10X rewards on [Smartbuy](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) (Amazon, Flipkart, Hotels & Flights), 13% reward rate
+- 10X rewards on [Smartbuy](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) (Amazon, Flipkart, Hotels & Flights), 13% reward rate
 - Monthly cap on reward points: 5000 bonus reward points on Smartbuy
 - Reward points can be converted to AirMiles across Jet Airways (JPMiles) or Singapore Airlines (KrisFlyer Miles) in 2:1 ratio (2 Reward Points = 1 AirMile)
 
-10X rewards, though temporary, keeps on getting extended every month.
+[10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/), though temporary, keeps on getting extended every month. Also HDFC Bank recently imposed new [restriction](/new-restriction-on-hdfc-bank-regalia-and-diners-clubmiles-credit-card-rewards-redemption/) on flight and hotel bookings wherein HDFC Bank Regalia Credit Card members can redeem only upto maximum of 70% of booking value through reward points. Rest needs to be paid via Credit Card which is a bummer.
 
 #### Airport Lounge Access
 
@@ -82,6 +85,8 @@ HDFC Bank Regalia Credit Card provides complimentary Zomato Gold Membership in f
 - Emergency Overseas Hospitalization Cover of up to Rs. 15 Lakhs
 - Credit Liability Cover of up to Rs. 9 Lakhs
 
+The protection provided by HDFC Bank Regalia Credit Card is comprehensive and may come handy in case of any unfortunate event while traveling abroad.
+
 #### Other benefits
 
 - Low Foreign Currency Markup of 2%
@@ -89,13 +94,14 @@ HDFC Bank Regalia Credit Card provides complimentary Zomato Gold Membership in f
 - 24/7 Travel Concierge Services for making airline reservations, booking a hotel room or a movie.
 - Convenience fee waiver of 1% on all fuel transactions
 
+Low foreign currency markup of 2% makes this card one of the [best credit cards for foreign travel and spends](/best-credit-cards-in-india-with-low-forex-currency-markup-for-international-travel-spends/). Coupled with [Global Value Program](/hdfc-global-value-program-everything-you-need-to-know/), you can almost escape the forex markup fee.
+
 ### Drawbacks
 
 HDFC Bank Regalia Credit Card ticks almost all check boxes, however there are some limitations too:
 
-- Primary and add-on cardmembers can't access same domestic lounge on same day
-- Bad conversion rate of rewards points to cash when compared with travel and hotel bookings
-- Low monthly upper cap on earning bonus reward points using SmartBuy 10X program
+- No domestic lounge access for Primary and Add-On card members on same day: Primary and add-on cardmembers can't access same domestic lounge on same day. If add-on card is swiped after primary card, the add-on card is charged for the access. This is mainly because both cards share the same card number and the system is not able to differentiate between the two.
+- Restriction on reward point redemption for flights and hotels: The recently imposed [restriction](/new-restriction-on-hdfc-bank-regalia-and-diners-clubmiles-credit-card-rewards-redemption/) on flight and hotel bookings wherein HDFC Bank Regalia Credit Card holders can redeem only upto maximum of 70% of booking value through reward points is a bummer. I don't understand the strategy behind imposing this restriction and it doesn't makes any sense to me.
 
 ### Verdict
 

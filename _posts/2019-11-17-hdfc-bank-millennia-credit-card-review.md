@@ -90,7 +90,7 @@ It's evident that HDFC Bank wants you to redeem cash points against statement ba
 Though HDFC Bank Millennia Credit Card ticks almost all check boxes as entry level card, there are some drawback too.
 
 - Limited airport lounge access: HDFC Bank should have extended the airport lounge access to add-on card members too, instead of just restricting to primary card. Also absence of international airport lounge access is another downside.
-- No SmartBuy 10X Rewards Program: HDFC Bank has excluded the HDFC Bank Millennia Credit Card from their legendary [10X Rewards Program](/hdfc-bank-credit-card-10x-rewards-september-2019-update/). This is an utter disappointment and I wish HDFC Bank should have extended 10X Rewards Program to this credit card too.
+- No SmartBuy 10X Rewards Program: HDFC Bank has excluded the HDFC Bank Millennia Credit Card from their legendary [10X Rewards Program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/). This is an utter disappointment and I wish HDFC Bank should have extended 10X Rewards Program to this credit card too.
 
 ### Verdict
 
