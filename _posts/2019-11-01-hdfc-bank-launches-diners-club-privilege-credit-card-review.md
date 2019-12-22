@@ -2,6 +2,8 @@
 layout: post
 title: HDFC Bank launches Diners Club Privilege Credit Card - Review
 date: 2019-11-01 16:59 +0530
+seo:
+  date_modified: 2019-12-21 21:30 +0530
 categories: [HDFC, Reviews]
 image: /assets/images/hdfc-bank-launches-diners-club-privilege-credit-card.jpg
 product: HDFC Diners Club Privilege Credit Card
@@ -13,6 +15,7 @@ HDFC Bank has silently launched Diners Club Privilege Credit Card today. Feature
 
 HDFC Bank Diners Club Privilege Credit Card borrows its design from Diners Club Black Credit Card. Only major differences being the color scheme and prominent "Privilege" marking at the front.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -21,8 +24,8 @@ HDFC Bank Diners Club Privilege Credit Card borrows its design from Diners Club 
 Since Diners Club Privilege is placed a level below Diners Club Black, the income bar is relatively lower.
 
 - Age: 21 to 60 Years for salaried, 21 to 65 Years for self employed
-- Salaried: Net Monthly Income > Rs. 1 Lakh per month
-- Self Employed: ITR > Rs. 12 Lakhs per annum
+- Salaried: Net Monthly Income > Rs. 40,000 per month
+- Self Employed: ITR > Rs. 6 Lakhs per annum
 
 {% include tip.html tip="You have a fair chance of upgrade to HDFC Diners Club Privilege Credit Card if existing credit card limit is ~ 3 Lakhs." %}
 
