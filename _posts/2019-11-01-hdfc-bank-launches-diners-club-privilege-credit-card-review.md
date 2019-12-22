@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HDFC Bank launches Diners Club Privilege Credit Card - Review
+title: HDFC launches Diners Club Privilege Credit Card - Review
 date: 2019-11-01 16:59 +0530
 seo:
   date_modified: 2019-12-22 21:30 +0530
