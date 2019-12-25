@@ -64,7 +64,7 @@ HDFC Regalia First Credit Card is an entry level premium card from HDFC. Mostly 
 
 - Joining Fee: Rs. 1,000, usually free
 - Renewal Fee: Rs. 1,000, usually waived off
-- Reward Rate: 1% (normal spends) - 10% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
+- Reward Rate: 0.8% (normal spends) - 8% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
 - Lounge Access:
   - International: 3 international lounge access per year using Priority Pass
   - Domestic: 8 domestic lounge access per year using Visa/MasterCard Lounge program
@@ -196,7 +196,7 @@ HDFC Infinia Credit Card is for the elitist and is invite only card. This card c
 - Reward Rate: 3.3% (normal spends) - 33% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
 - Lounge Access:
   - International: Unlimited international lounge access using Priority Pass (add-on card members can avail by producing their Priority Pass)
-  - Domestic: 4 complimentary domestic lounge access per quarter through Infinia Visa/Mastercard Card Lounge program
+  - Domestic: Unlimited domestic access via Priority Pass, 4 complimentary domestic lounge access per quarter through Infinia Visa/Mastercard Card Lounge program
 - Lower foreign currency markup of 2%
 - Other benefits: Personal concierge service, Golf Programme, Club Marriott Membership, Priority Customer Service etc.
 
