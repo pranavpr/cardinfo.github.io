@@ -92,7 +92,7 @@
     {% endif %} {% endif %} {% assign maxRelatedCounter = maxRelatedCounter |
     plus: 1 %} {% if maxRelatedCounter >= maxRelated %} {% break %} {% endif %}
     {% assign postCount = postCount | plus: 1 %} {% endif %} {% endfor %} {% if
-    postCount < maxRelated | minus: 1 %}
+    postCount == 0 or postCount == 1 or postCount == 2 %}
       {% for post in site.posts %}
       {% if post.url != page.url %}
       {% if postCount == 0 %}
