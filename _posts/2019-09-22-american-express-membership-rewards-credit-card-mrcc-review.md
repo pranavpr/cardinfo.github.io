@@ -24,7 +24,7 @@ Amex is very strict about eligibility criteria and hence a good credit (CIBIL) s
 
 Amex generally doesn't give life time free cards, however they waive off the charges or compensate for the charges by providing reward points.
 
-- Joining Fee: Nil if applied via [referral link](http://amex.in/refer/pRANApmel6?CPID=999999544), Rs. 1,000 otherwise
+- Joining Fee: Nil if applied via [referral link](https://l.cardinfo.in/amex), Rs. 1,000 otherwise
 - Renewal Fee: They generally waive off the charges if your spend on card is substantial.
   - Via referral: Rs. 0 if total spends greater than Rs. 1,50,000, Rs. 750 if total spends greater than Rs. 90,000, Rs. 1,500 otherwise
   - Regular: Rs. 0 if total spends greater than Rs. 1,50,000, Rs. 2,250 if total spends greater than Rs. 90,000, Rs. 4,500 otherwise
@@ -40,7 +40,7 @@ On realization of joining and annual fee, card members are provided with followi
 - 4,000 Membership Rewards Points as welcome gift, ~ Rs. 1,000
 - 5,000 Membership Rewards Points upon paying annual fee, ~ Rs. 1,250
 
-4,000 welcome Membership Rewards Points would be credited only on completing cumulative spend of Rs. 25,000 within the first 90 days of card membership and eligible only if you apply via [referral link](http://amex.in/refer/pRANApmel6?CPID=999999544). It's quite evident that Amex tries to compensate for joining and renewal fee by providing bonus reward points.
+4,000 welcome Membership Rewards Points would be credited only on completing cumulative spend of Rs. 25,000 within the first 90 days of card membership and eligible only if you apply via [referral link](https://l.cardinfo.in/amex). It's quite evident that Amex tries to compensate for joining and renewal fee by providing bonus reward points.
 
 #### Reward Points
 
@@ -87,7 +87,7 @@ I got this card as a companion card with my American Express Gold Card. Amex is 
 
 If you are still contemplating on wether to get this card or not, don't think much and just go for it.
 
-<a href="http://amex.in/refer/pRANApmel6?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
+<a href="https://l.cardinfo.in/amex" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
 
 Signing up using above referral link will give you card **free** for first year and **2000** extra referral bonus reward points in addition to **2000** bonus reward points which is not available otherwise.
 

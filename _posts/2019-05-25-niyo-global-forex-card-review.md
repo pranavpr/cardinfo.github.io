@@ -99,7 +99,7 @@ This card is currently being issued to Indian Citizens holding a valid PAN card 
 
 You can apply online for this card using my referral link below:
 
-<a href="https://glbl.page.link/r6xs" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
+<a href="https://l.cardinfo.in/niyo" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
 
 Using above link, both of us will get Rs. 500 on doing first international POS transaction of Rs. 1,000, which is not available otherwise.
 

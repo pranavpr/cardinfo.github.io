@@ -177,7 +177,7 @@ American Express Platinum Card comes with host of perks and benefits and is a mu
 
 [Niyo Global Card](/niyo-global-forex-card-review/) is a pre-paid card which comes with zero foreign currency markup fee and Visa exchange rate are applicable for foreign currency transactions. It’s an INR card, which can be used globally (150+ countries), including in India and card can be loaded via any bank account using IMPS/NEFT without any charges. Undoubtedly, it's one of the best cards for foreign spends at the moment and can very well serve as your back up card where your credit card is not accepted. You can apply online for this card using my referral link below:
 
-<a href="https://glbl.page.link/r6xs" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
+<a href="https://l.cardinfo.in/niyo" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
 
 Using above link, both of us will get Rs. 500 on doing first international POS transaction of Rs. 1,000, which is not available otherwise.
 

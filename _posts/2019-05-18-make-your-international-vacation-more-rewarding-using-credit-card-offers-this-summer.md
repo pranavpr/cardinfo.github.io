@@ -28,7 +28,7 @@ This offer translates to 10% reward rate which is quite good. Note that Amex cha
 
 **PS:** If you don't have Amex, you can apply via my referral link below. Signing up using this link will give you card **free** for first year and **2000** extra referral bonus reward points in addition to **2000** bonus reward points which is not available otherwise.
 
-<a href="http://amex.in/refer/pRANApmel6?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
+<a href="https://l.cardinfo.in/amex" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
 
 ### HDFC Bank Credit Cards
 

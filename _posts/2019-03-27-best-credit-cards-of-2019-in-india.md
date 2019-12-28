@@ -43,7 +43,7 @@ Read the detailed review [here](/amazon-pay-icici-bank-credit-card-review/).
 
 American Express Membership Rewards Credit Card is an entry level card from Amex with low joining and renewal fees unlike other cards. Though acceptability of Amex is increasing day by day in India, still it's not as good as Visa/MasterCard. The best thing about Amex is their world class customer service and when you talk to them, they make you feel really special. Below are the main highlights of this card:
 
-- Joining Fee: Nil if applied via [referral link](http://amex.in/refer/pRANApmel6?CPID=999999544), Rs. 1,000 otherwise
+- Joining Fee: Nil if applied via [referral link](https://l.cardinfo.in/amex), Rs. 1,000 otherwise
 - Renewal Fee: They generally waive off the charges if your spend on card is substantial.
   - Via referral: Rs. 0 if total spends greater than Rs. 1,50,000, Rs. 750 if total spends greater than Rs. 90,000, Rs. 1,500 otherwise
   - Regular: Rs. 0 if total spends greater than Rs. 1,50,000, Rs. 2,250 if total spends greater than Rs. 90,000, Rs. 4,500 otherwise
