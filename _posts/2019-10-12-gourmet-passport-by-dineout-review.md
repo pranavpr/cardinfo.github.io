@@ -58,4 +58,4 @@ I would highly recommend enrolling in to this membership program if you're a foo
 
 **PS**: Use my referral code **NNUVS** to sign up on Dineout and you'll get **Rs. 200** promo cash. You will also get **20%** discount on Gourmet Passport program which is not available otherwise.
 
-<a href="https://bnc.lt/6ZXm/pYcH9bnzK0" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Signup Now</a>
+<a href="https://l.cardinfo.in/dineout" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Signup Now</a>

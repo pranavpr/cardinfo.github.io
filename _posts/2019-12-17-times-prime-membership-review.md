@@ -23,10 +23,10 @@ The Times Prime Membership comes with an annual fee of Rs. 999. A free trial for
 
 - **PayZapp:** PayZapp is an e-wallet from HDFC Bank and there are times when it offers 100% cash back on Times Prime membership. Though the 100% cashback offer is temporary, they always have 50% cashback offer active. This is the best payment offer one can get on subscribing for this membership.
 - **Times Point:** Times Point is a loyalty program from Times Internet where one can earn points by performing various activities or using their co-branded cards. One can use 200 Times Points to get a discount of Rs. 200 on Times Prime Membership. Join Times Point by clicking on URL below and using by referral code **PcZ9Y73** to earn 100 Times Points instantly.
-  <a href="https://www.timespoints.com/refer-earn?referral_code=PcZ9Y73" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Join Times Point</a>
+  <a href="https://l.cardinfo.in/timespoint" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Join Times Point</a>
   You can earn 130+ Times Point easily by signing up using above URL, completing your profile and verifying your phone number.
 - **Referral:** Using my referral code **PRAN8532**, you can get Rs. 100 flat discount.
-  <a href="https://timesprime.onelink.me/6hfI/ebab9c1a?promo=PRAN8532" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Join Times Prime</a>
+  <a href="https://l.cardinfo.in/timesprime" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Join Times Prime</a>
   Note that in order to get the discount, you must install the app by clicking above URL and apply the referral code during the signup.
 
 If you use all above three offers together, you can get a whooping discount of **80%**, effectively paying just Rs. 200.
