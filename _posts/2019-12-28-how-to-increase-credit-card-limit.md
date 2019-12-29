@@ -72,7 +72,7 @@ I hold an ICICI Platinum Credit Card for last 11 years and till last year, my cr
 
 #### Yes Bank
 
-I acquired [Yes First Exclusive Credit Card](/yes-first-exclusive-credit-card-review/) based on my HDFC Regalia and was provided a limit 50% of the latter. This card was my primary driver until the [rewards were reduced](/yes-bank-credit-cards-rewards-reduced/). A one time, I maxed out the limit on this card and Yes Bank promptly provided a limit increase of 50% next month. Last year I used this card extensively on my trip to Thailand since this has lowest forex markup. Next month again I was awarded a limit increase of around 40% on this card. Even though I am not using this card actively now, Yes Bank keeps on sending me limit enhancement offers now and then, which I accept.
+I acquired [Yes First Exclusive Credit Card](/yes-first-exclusive-credit-card-review/) based on my HDFC Regalia and was provided a limit 50% of the latter. This card was my primary driver until the [rewards were reduced](/yes-bank-credit-cards-rewards-reduced/). At one time, I maxed out the limit on this card and Yes Bank promptly provided a limit increase of 50% next month. Last year I used this card extensively on my trip to Thailand since this has lowest forex markup. Next month again I was awarded a limit increase of around 40% on this card. Even though I am not using this card actively now, Yes Bank keeps on sending me limit enhancement offers now and then, which I accept.
 
 #### Axis Bank
 
