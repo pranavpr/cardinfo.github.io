@@ -2,6 +2,8 @@
 layout: post
 title: 'HDFC Global Value Program: Everything you need to know'
 date: 2019-12-21 12:30 +0530
+seo:
+  date_modified: 2019-12-29 10:30 +0530
 categories: [HDFC]
 image: /assets/images/hdfc-global-value-program.jpg
 ---
