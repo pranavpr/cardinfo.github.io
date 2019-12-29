@@ -1,0 +1,25 @@
+<div
+  class="faq border p-3 mb-4 bg-lightblue"
+  itemscope
+  itemtype="https://schema.org/FAQPage"
+>
+  <div
+    class="justify-content-between"
+    itemscope
+    itemprop="mainEntity"
+    itemtype="https://schema.org/Question"
+  >
+    <h5 class="font-weight-bold mt-2 mb-2" itemprop="name">
+      {{ include.question }}
+    </h5>
+    <div
+      itemscope
+      itemprop="acceptedAnswer"
+      itemtype="https://schema.org/Answer"
+    >
+      <div itemprop="text">
+        {{ include.answer }}
+      </div>
+    </div>
+  </div>
+</div>

@@ -6,7 +6,11 @@ categories: [HDFC]
 image: /assets/images/hdfc-global-value-program.jpg
 ---
 
-HDFC Global Value Program is one of the most underrated and least talked offerings from HDFC Bank. This subscription program not only gives extra 1% cashback on international spends with credit card, but also provides milestone benefits which further enhances the reward rate. Let's look in to the details of HDFC Global Value Program.
+HDFC Global Value Program is one of the most underrated and least talked offerings from HDFC Bank. This subscription program not only comes with welcome/renewal benefits but also offers extra cashback on international spends with credit card. Coupled with milestone benefits, which further enhances the reward rate, this program is a must have for international spenders.
+
+{% include faq.html question="What is HDFC Global Value Program?" answer= "HDFC Global Value program is a subscription program available for HDFC Bank Credit Cards with annual fee of Rs. 199. As welcome/renewal benefit, this program offers 500 bonus reward points. Further, this program offers 1% cashback, capped to Rs. 1,000 per month, on international transactions. Also on crossing annual spends of Rs. 1.5 Lakh, the program offers Yatra vouchers worth Rs. 2,000." %}
+
+Let's look in to the details of HDFC Global Value Program.
 
 <!-- prettier-ignore -->
 * TOC
