@@ -116,6 +116,6 @@ I presently hold an Amex Gold Charge Card which doesn't have any pre-set limit. 
 
 Having a good credit limit is a sign of financial wellbeing. It reflects that you're financially disciplined and are more credit worthy. Though a good credit limit will tempt you to spend more, don't get overboard and spend only what you can repay in next billing cycle.
 
-{% include tip.html tip="Do not spend more than 30% of your assigned credit limit across all your credit cards. Spending more than this may lead to decrease in credit score due to high utilization ratio." %}
+{% include tip.html tip="Do not spend more than 30% of your assigned credit limit across all your credit cards. Spending more than this may lead to decrease in credit score due to high credit utilization ratio." %}
 
 _How has been your experience with credit limit enhancements? Do you have any other tip or trick to share regarding the same? Either way, leave a quick comment below to let me know._
