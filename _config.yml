@@ -64,3 +64,6 @@ exclude:
     Gruntfile.coffee,
     node_modules,
   ]
+
+feed:
+  excerpt_only: true
