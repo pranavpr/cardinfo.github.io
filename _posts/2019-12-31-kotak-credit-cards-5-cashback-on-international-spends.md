@@ -6,7 +6,7 @@ categories: [Card Offers]
 image: /assets/images/kotak-international-spends-offer-2019.jpg
 ---
 
-Kotak Mahindra Banks has just rolled out an offer on their credit cards for international spends. Under this offer, they are providing 5% cashback on all international transactions. The offer is targeted to certain Kotak credit card holders and registration is mandatory to avail this offer. Let's look in to the details of this offer.
+Kotak Mahindra Bank has just rolled out an offer on their credit cards for international spends. Under this offer, they are providing 5% cashback on all international transactions. The offer is targeted to certain Kotak credit card holders and registration is mandatory to avail this offer. Let's look in to the details of this offer.
 
 - **Offer:** 5% cashback on international spends using Kotak Credit Cards
 - **Period:** 20th December 2019 to 20th March 2020
