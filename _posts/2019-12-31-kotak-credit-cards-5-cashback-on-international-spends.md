@@ -2,7 +2,7 @@
 layout: post
 title: 'Kotak Credit Cards: 5% cashback on International Spends'
 date: 2019-12-31 11:54 +0530
-categories: [Card Offers]
+categories: [Kotak, Card Offers]
 image: /assets/images/kotak-international-spends-offer-2019.jpg
 ---
 

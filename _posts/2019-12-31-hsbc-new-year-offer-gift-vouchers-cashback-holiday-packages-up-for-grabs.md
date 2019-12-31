@@ -89,3 +89,5 @@ I didn't receive Offer 1 on my HSBC Platinum Visa Credit Card. However I registe
 Though this offer is decent, I would be giving it a pass as I didn't receive the targeted offer. Without targeted offer, the reward rate is just 2.5% (2% cashback + 0.5% BookMyShow voucher), that too on a minimum spending of Rs. 1 Lakh. I would continue to use my [HDFC Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) which gives me not only 3.3% default reward rate, but also monthly milestone benefits, pushing overall reward rate to 4.55%.
 
 With targeted offer the overall reward rates pushes to 3.5% (considering Rs. 1,000 gift voucher + 2% cashback + 0.5% BookMyShow voucher) on spends of Rs. 1 Lakh which is quite great. If you received the targeted offer and would be able to spend at-least Rs. 1 Lakh in a month, go for it blindly.
+
+_Did you receive this targeted offer from HSBC Bank? What your spend target look like? Let me know by leaving a quick comment below._
