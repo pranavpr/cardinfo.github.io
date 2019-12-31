@@ -5,7 +5,6 @@ categories: [Reviews]
 seo:
   date_modified: 2019-12-19 14:30 +0530
 image: /assets/images/best-credit-card-india-2019.jpg
-tags: [featured]
 ---
 
 Looking for best credit card in India or wondering the one which is in your wallet is best or or not? Look no further as you have stumbled upon the correct webpage.
@@ -52,7 +51,7 @@ American Express Membership Rewards Credit Card is an entry level card from Amex
   - 1000 bonus points on for using Card 4 times on transactions of Rs. 1,000 and above every month
   - 18 Karat Gold Collection: 18000 points can be redeemed for statement credit worth Rs. 7,500, Amazon Gift Card worth Rs. 8,000 or Tanishq Voucher worth Rs. 7,500
   - 24 Karat Gold Collection: 24000 points can be redeemed for statement credit worth Rs. 10,000, American Express Domestic Travel Online voucher worth Rs. 11,000 or Bose Sound Link Color II Bluetooth Speaker
-- Apply [here](http://amex.in/refer/pranap9yzB?CPID=999999544)
+- Apply [here](https://l.cardinfo.in/amex)
 
 Read the detailed review [here](/american-express-membership-rewards-credit-card-mrcc-review/).
 
@@ -137,7 +136,7 @@ Read the detailed review [here](/hdfc-bank-regalia-credit-card-review/).
 
 #### 3. Indusind Iconia Credit Card (Amex variant)
 
-{% include image.html image="indusind-iconia-amex-credit-card.jpg" alt="SIndusind Iconia Credit Card" class="cc-center mb-3" %}
+{% include image.html image="indusind-iconia-amex-credit-card.jpg" alt="Indusind Iconia Credit Card" class="cc-center mb-3" %}
 
 If you spend a lot in weekends, this is the card for you. It provides accelerated rewards during weekends which you can redeem for statement credit. This card also gives you access to access to domestic lounge. Below are the main highlights of this card:
 
@@ -229,8 +228,8 @@ Citi Prestige Credit Card is best for those who travel a lot. This card entitles
   - 1% on domestic, 2% on international if redeemed for statement credit
   - 4% on domestic, 8% on international if redeemed for Air Miles
 - Lounge Access: Unlimited domestic and international airport lounge access for both primary and add-on card members
-- Stay 4 consecutive nights and get 4th night complimentary at participating hotels
-- Complimentary Meet & Assist service and one-way luxury airport transfer to or from airport, twice per calendar year
+- Stay 4 consecutive nights and get 4th night complimentary at participating hotels, twice in a year
+- 25% off on Meet & Assist service and 20% off on airport transfer to or from airport in APAC
 - Other benefits: Golf Program, Taj Epicure Plus Plan & InnerCircle Silver membership, Overseas Medical and Air Accident Insurance Cover etc.
 
 #### 4. Standard Chartered Ultimate Credit Card

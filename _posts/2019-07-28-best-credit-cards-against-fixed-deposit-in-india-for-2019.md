@@ -4,13 +4,13 @@ title: Best Credit Cards against Fixed Deposit in India for 2019
 date: 2019-07-28 11:05 +0530
 categories: [Reviews]
 image: /assets/images/credit-card-against-fixed-deposit.jpg
-tags: [featured]
 ---
 
 Credit Card issued against fixed deposits (FD) are called Secured Credit Cards. These credit cards are ideal option for those who have no or poor credit history e.g. students, house wives, retired people and people with bad CIBIL score. Usage of these cards over the time will create the credit history of a person and prompt payments before due date will also improve their CIBIL score.
 
 For getting these credit cards, one needn't to show any stable monthly income proof or good credit history/CIBIL score. These cards are issued against a fixed deposit with the bank and generally 75-85% of the FD amount is given as credit limit. In this article, let's explore some of the best credit cards one can get in India against FD.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 

@@ -973,12 +973,12 @@ img[src*='#cc-center'] {
 }
 #highlight {
   background-size: cover;
-  background-image: url(../images/best-credit-card-india-2019.jpg);
+  background-image: url(../images/best-credit-cards-in-india-for-2020.jpg);
 }
 
 #highlight.webp {
   background-size: cover;
-  background-image: url(../images/best-credit-card-india-2019.webp);
+  background-image: url(../images/best-credit-cards-in-india-for-2020.webp);
 }
 @font-face {
   font-family: 'cardinfo';

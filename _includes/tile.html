@@ -1,0 +1,43 @@
+{% assign image_name = include.image | split: "." %}
+<div class="blog-card {{ include.class }}">
+  <div class="meta">
+    <div class="photo">
+      <picture>
+        <source
+          data-srcset="{{ site.url }}{{ site.baseurl }}/assets/images/{{
+                image_name.first
+              }}.webp"
+          type="image/webp"
+        />
+        <img
+          class="img-fluid mx-auto d-block lazy"
+          data-src="{{ site.url }}{{ site.baseurl }}/assets/images/{{
+                include.image
+              }}"
+          alt="{{ include.alt }}"
+        />
+      </picture>
+      <div class="extra-info">
+        <div><strong>Reward Rate:</strong> {{ include.reward }}</div>
+        <div><strong>Annual Fee:</strong> {{ include.annualfee }}</div>
+        <a
+          href="{{ include.reviewurl }}"
+          target="_blank"
+          style="color:#fff;"
+          class="btn btn-success btn-block mt-2"
+          ><i class="ci-pen"></i> Review</a
+        >
+      </div>
+    </div>
+  </div>
+  <div class="description">
+    <div class="card-subheading">PROS</div>
+    <p>
+      {{ include.pros }}
+    </p>
+    <div class="card-subheading">CONS</div>
+    <p>
+      {{ include.cons }}
+    </p>
+  </div>
+</div>

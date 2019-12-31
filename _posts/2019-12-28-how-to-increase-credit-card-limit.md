@@ -4,6 +4,7 @@ title: How to increase Credit Card limit?
 date: 2019-12-28 14:14 +0530
 categories: [Guides]
 image: /assets/images/how-to-increase-credit-card-limit.jpg
+tags: [featured]
 ---
 
 Are you stuck with a credit card having low credit limit? Are you planning to buy an item using credit card but the limit is too low to make the purchase? Are you trying to improve your credit utilization ratio without hassles of getting a new credit card? If the answer to any of these questions is yes, then you have landed on the right webpage.
