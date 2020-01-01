@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Credit Cards in India for 2020
-date: 2019-12-31 15:52 +0530
+date: 2020-01-01 15:00 +0530
 categories: [Reviews]
 image: /assets/images/best-credit-cards-in-india-for-2020.jpg
 ---
