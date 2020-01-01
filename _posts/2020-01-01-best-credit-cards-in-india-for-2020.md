@@ -230,7 +230,7 @@ Super Premium cards are not only hard to get but also require really high relati
 
 #### 2. HDFC Infinia Credit Card
 
-{% include tile.html image="hdfc-bank-infinia-credit-card.jpg" alt="HDFC Infinia Credit Card" reward="3.3%-33%" annualfee="Rs. 1,000" reviewurl="/hdfc-bank-infinia-credit-card-review/" pros="Up to 33% reward rate<br/>2X rewards on dining, 6.6% reward rate<br/>Unlimited domestic and international airport lounge access<br/>Lower foreign currency markup of 2%<br/>Golf privileges, Concierge Services, Insurance coverage<br/>Priority Customer Service" cons="No annual memberships<br/>No monthly milestone benefits" %}
+{% include tile.html image="hdfc-bank-infinia-credit-card.jpg" alt="HDFC Infinia Credit Card" reward="3.3%-33%" annualfee="Rs. 10,000" reviewurl="/hdfc-bank-infinia-credit-card-review/" pros="Up to 33% reward rate<br/>2X rewards on dining, 6.6% reward rate<br/>Unlimited domestic and international airport lounge access<br/>Lower foreign currency markup of 2%<br/>Golf privileges, Concierge Services, Insurance coverage<br/>Priority Customer Service" cons="No annual memberships<br/>No monthly milestone benefits" %}
 
 [HDFC Infinia Credit Card](/hdfc-bank-infinia-credit-card-review/) is for the elitist and is invite only card. This card comes with unique No Pre-set spending limit feature and best reward rate of 3.3% on all spends. However this card has been displaced to #2 this year by [HDFC Diners Black Credit Card](/hdfc-diners-club-black-credit-card-review/) which has become even more rewarding due to [recent changes](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/).
 
