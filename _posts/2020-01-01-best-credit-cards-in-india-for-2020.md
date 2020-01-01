@@ -38,10 +38,10 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 [American Express Membership Rewards Credit Card](/american-express-membership-rewards-credit-card-mrcc-review/) is an entry level card from Amex with low joining and renewal fees unlike other cards. Though acceptance of Amex is increasing day by day in India, it's still not as good as Visa/MasterCard. The best thing about Amex is their world class customer service and when you talk to them, they make you feel really special. 18 Karat and 24 Karat Gold collection and monthly bonus rewards pushes the overall reward rate to 12% which is quite awesome.
 
-- Joining Fee: Nil if applied via [referral link](https://l.cardinfo.in/amex), Rs. 1,000 otherwise
+- Joining Fee: Nil if applied via [referral link](https://l.cardinfo.in/amex), Rs. 1,000 + GST otherwise
 - Renewal Fee: Amex generally waive off the charges if your spend on card is substantial.
-  - Via referral: Nil if total spends greater than Rs. 1,50,000, Rs. 750 if total spends greater than Rs. 90,000, Rs. 1,500 otherwise
-  - Regular: Nil if total spends greater than Rs. 1,50,000, Rs. 2,250 if total spends greater than Rs. 90,000, Rs. 4,500 otherwise
+  - Via referral: Nil if total spends greater than Rs. 1,50,000, Rs. 750 + GST if total spends greater than Rs. 90,000, Rs. 1,500 otherwise
+  - Regular: Nil if total spends greater than Rs. 1,50,000, Rs. 2,250 + GST if total spends greater than Rs. 90,000, Rs. 4,500 otherwise
 - Reward Rate:
   - 0.5% if points are converted to statement credit
   - 1000 bonus points for using Card 4 times on transactions of Rs. 1,000 and above every month
@@ -55,8 +55,8 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 [HDFC Diners Club Clubmiles Credit Card](/hdfc-diners-club-clubmiles-credit-card-review/) has decent reward rate of 1.3% and with [HDFC SmartBuy 10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) it peaks to 13%. Complimentary domestic and international airport lounge access is another great benefit and HDFC Bank has recently extended this to add-on card memebers too. Income criteria for this card is Rs. 30,000 per month (net income) which is relatively low.
 
-- Joining Fee: Rs. 1,000, usually free
-- Renewal Fee: Rs. 1,000, usually waived off
+- Joining Fee: Rs. 1,000 + GST, usually free
+- Renewal Fee: Rs. 1,000 + GST, usually waived off
 - Reward Rate: 1.3% (normal spends) - 13% (using [HDFC SmartBuy 10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/))
 - Mile Exchange Program: Reward points can be converted to Air Miles across British Airways Executive Club (Avios), InterMiles, Singapore Airlines (KrisFlyer Miles) or Club Vistara in 1:1 ratio
 - Lounge Access: 6 complimentary airport lounge access per year including domestic and international for primary as well as add-on card members
@@ -81,8 +81,8 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 HDFC Regalia First Credit Card is an entry level premium card from HDFC. Decent reward rate, milestone benefits and complimentary domestic and international lounge access make this card attractive. Mostly it's issued for free if your salary account is with HDFC and gross monthly income is greater than Rs. 40,000 per month.
 
-- Joining Fee: Rs. 1,000, usually free
-- Renewal Fee: Rs. 1,000, usually waived off
+- Joining Fee: Rs. 1,000 + GST, usually free
+- Renewal Fee: Rs. 1,000 + GST, usually waived off
 - Reward Rate: 0.8% (normal spends) - 8% (using [HDFC SmartBuy 10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/))
 - Milestone Benefits:
   - 5,000 points on annual spends of Rs. 3 Lakhs
@@ -133,8 +133,8 @@ Newly launched [HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-dine
 
 [HDFC Regalia](/hdfc-bank-regalia-credit-card-review/) is upgraded version of HDFC Regalia First. It comes with a host of benefits like lower foreign currency markup, Priority Pass membership etc. The milestone benefits on this card are added perks which pushes the reward rate even higher. You need to have a monthly income more than Rs. 1,20,000 to get this card.
 
-- Joining Fee: Rs 2,500, generally free
-- Renewal Fee: Rs 2,500, usually waived off
+- Joining Fee: Rs 2,500 + GST, generally free
+- Renewal Fee: Rs 2,500 + GST, usually waived off
 - Reward Rate: 1.3% (normal spends) - 13% (using [HDFC SmartBuy 10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/))
 - Lounge Access:
   - International: 6 international airport lounge access per year using Priority Pass (including add-on card member)
@@ -152,8 +152,8 @@ Newly launched [HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-dine
 
 Yes First Preferred Credit Card, even after [devaluation](/yes-bank-credit-cards-rewards-reduced/), provides a decent default reward rate of 1%. Complimentary access to domestic and international airport lounges is another highlight of this card. Easiest way to get this card is to get it on Card-to-Card basis with limit on existing card above Rs. 3,00,000. You can get this card and later on (after 6 months) upgrade to Yes First Exclusive Credit Card.
 
-- Joining Fee: Rs 2,500, generally free
-- Renewal Fee: Rs 2,500, usually waived off
+- Joining Fee: Rs 2,500 + GST, generally free
+- Renewal Fee: Rs 2,500 + GST, usually waived off
 - Reward Rate: 2% on Travel Agencies & Tour Operators, Domestic Airlines and Dining, 1% on all other categories
 - Lounge Access:
   - International: 4 international airport lounge access per year using Priority Pass
@@ -166,8 +166,8 @@ Yes First Preferred Credit Card, even after [devaluation](/yes-bank-credit-cards
 
 Citi Premiermiles Credit Card, though appears to be an air miles card, it's not. This card packs a decent default reward rate of 1.8% which can be accelerated to 4.5% by booking flights and hotels on [Premiermiles](https://www.premiermiles.co.in/) portal. Never expiring miles and complimentary access to airport lounges are some added benefits.
 
-- Joining Fee: Rs 3,000, welcome benefit of 10,000 miles worth ~Rs. 4,500 are provided
-- Renewal Fee: Rs 3,000, renewal benefit of 3,000 miles worth ~Rs. 1,350 are provided
+- Joining Fee: Rs 3,000 + GST, welcome benefit of 10,000 miles worth ~Rs. 4,500 are provided
+- Renewal Fee: Rs 3,000 + GST, renewal benefit of 3,000 miles worth ~Rs. 1,350 are provided
 - Reward Rate:
   - 4 Miles for every Rs. 100 spent, 1.8% reward rate
   - 10 Miles per Rs.100 on PremierMiles portal and all airline transactions, 4.5% reward rate
@@ -181,7 +181,7 @@ Citi Premiermiles Credit Card, though appears to be an air miles card, it's not.
 
 If you spend a lot on weekends, this is the card for you. It provides accelerated rewards during weekends which you can redeem for statement credit. This card also gives you access to access to domestic airport lounges. However, recently IndusInd Bank has [reduced the reward rate](/indusind-credit-card-reward-rate-getting-reduced-from-1st-august-2019/) on insurance and utility bill payments on their credit cards which is a little disappointing.
 
-- Joining Fee: Rs 10,000, welcome vouchers of equivalent amount provided
+- Joining Fee: Rs 10,000 + GST, welcome vouchers of equivalent amount provided
 - Renewal Fee: Nil
 - Reward Rate:
   - 1.5% on weekdays
@@ -196,9 +196,9 @@ If you spend a lot on weekends, this is the card for you. It provides accelerate
 
 American Express Platinum Travel Card is one of the best travel credit cards at the moment and is suitable for frequent travelers. The handsome reward rate coupled with awesome customer support makes this card really desirable. However acceptance of Amex cards in India is still not great and many merchants don't accept it due to relatively higher MDR charges.
 
-- Joining Fee: Nil if applied via [referral link](https://l.cardinfo.in/amextravel), Rs. 3,500 otherwise
+- Joining Fee: Nil if applied via [referral link](https://l.cardinfo.in/amextravel), Rs. 3,500 + GST otherwise
 - Welcome benefit of 5,000 rewards points worth Rs. 4,000
-- Renewal Fee: Rs 5,000
+- Renewal Fee: Rs 5,000 + GST
 - Reward Rate: 1 Membership Rewards Point for every Rs. 50 spent, 0.50% reward rate if points are converted to statement credit
 - Milestone Benefits:
   - Travel Vouchers worth Rs. 7,700 on annual spend of Rs. 1.90 Lakhs
@@ -217,8 +217,8 @@ Super Premium cards are not only hard to get but also require really high relati
 
 [HDFC Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) with it's [10X reward points](/hdfc-bank-credit-card-10x-rewards-september-2019-update/) is certainly one of the best credit cards in India at this point of time. Even without 10X reward points, it has reward rate of 3.3% on all spends which is quite good. The recent [addition of benefits](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/) to this card makes it even more desirable. The monthly milestone benefits pushes the reward rate to 4.55% on monthly spends of Rs. 80,000 which is quite awesome.
 
-- Joining Fee: Rs 10,000
-- Renewal Fee: Rs 10,000, waived off on spending Rs. 5 Lakhs in a year
+- Joining Fee: Rs 10,000 + GST
+- Renewal Fee: Rs 10,000 + GST, waived off on spending Rs. 5 Lakhs in a year
 - Reward Rate:
   - 3.3% (normal spends) - 33% (using [HDFC SmartBuy 10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/))
   - 2X reward points on weekend dining, 6.6% reward rate
@@ -234,8 +234,8 @@ Super Premium cards are not only hard to get but also require really high relati
 
 [HDFC Infinia Credit Card](/hdfc-bank-infinia-credit-card-review/) is for the elitist and is invite only card. This card comes with unique No Pre-set spending limit feature and best reward rate of 3.3% on all spends. However this card has been displaced to #2 this year by [HDFC Diners Black Credit Card](/hdfc-diners-club-black-credit-card-review/) which has become even more rewarding due to [recent changes](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/).
 
-- Joining Fee: Rs 10,000, reward points of equivalent value are credited
-- Renewal Fee: Rs 10,000, waived off on spending Rs. 8,00,000 in a year
+- Joining Fee: Rs 10,000 + GST, reward points of equivalent value are credited
+- Renewal Fee: Rs 10,000 + GST, waived off on spending Rs. 8,00,000 in a year
 - Reward Rate:
   - 3.3% (normal spends) - 33% (using [HDFC SmartBuy 10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/))
   - 2X reward points on dining, 6.6% reward rate
@@ -249,10 +249,10 @@ Super Premium cards are not only hard to get but also require really high relati
 
 {% include tile.html image="standard-chartered-ultimate-credit-card.jpg" alt="Standard Chartered Ultimate Credit Card" reward="3.3%" annualfee="Rs. 5,000" reviewurl="/best-credit-cards-in-india-for-2020/" pros="3.3% of default reward rate <br/>Domestic and International airport lounge access<br />Golf privileges<br />1.5% cashbak on international transactions<br />Dineout membership, Concierge services, Travel & Air Accident insurance cover" cons="No unlimited airport lounge access <br />Limited reward redemption options" %}
 
-Standard Chartered Ultimate Credit Card is the elitist offering from Standard Chartered. Though the default reward rate of 3.3% is certainly attractive, lately the reward redemption options have become limited. Amazon vouchers keeps on disappearing from their reward catalog and other options are not so great. To get this card, you should have an annual income of more than Rs. 24,00,000 or if you have an existing SC credit card then the limit should be more than Rs. 3,00,000.
+Standard Chartered Ultimate Credit Card is the elitist offering from Standard Chartered. Though the default reward rate of 3.3% is certainly attractive, lately the reward redemption options have become limited. Amazon vouchers keeps on disappearing from their reward catalog and other options are not so great. To get this card, you should have an annual income of more than Rs. 24 Lakhs or if you have an existing SC credit card then the limit should be more than Rs. 3 Lakhs. Additionally you can this card on basis of your existing card if limit on existing card is more than Rs. 4 Lakhs.
 
-- Joining Fee: Rs. 5,000
-- Renewal Fee: Rs. 5,000
+- Joining Fee: Rs. 5,000 + GST
+- Renewal Fee: Rs. 5,000 + GST
 - Welcome Bonus: Rs. 10,000 cashback from MakeMyTrip
 - Reward Rate: 3.3%, can be redeemed for gift vouchers of Amazon, Flipkart, Lifestyle, Big Bazaar, MakeMyTrip, BookMyShow etc. (depending upon availability on their reward redemption website)
 - Lounge Access:
@@ -267,8 +267,8 @@ Standard Chartered Ultimate Credit Card is the elitist offering from Standard Ch
 
 [Yes First Exclusive Credit Card](/yes-first-exclusive-credit-card-review/) is one level higher than Yes First Preferred Credit Card. This card comes with a reward rate of 1.5%-3% depending on spend categories which is decent. The main highlight of this card is unlimited domestic and international lounge access to both primary and secondary card holders.
 
-- Joining Fee: Rs. 10,000, 50,000 Reward Points (~ Rs. 12,500) credited after first transaction
-- Renewal Fee: Rs. 10,000, 40,000 Reward Points credited (~ Rs. 10,000) after renewal
+- Joining Fee: Rs. 10,000 + GST, 50,000 Reward Points (~ Rs. 12,500) credited after first transaction
+- Renewal Fee: Rs. 10,000 + GST, 40,000 Reward Points credited (~ Rs. 10,000) after renewal
 - Reward Rate: 3% on Travel Agencies & Tour Operators, Domestic Airlines and Dining, 1.5% on all other categories
 - Lounge Access
   - Domestic: Unlimited for both primary and add-on using MasterCard Lounge Program
@@ -281,7 +281,7 @@ Standard Chartered Ultimate Credit Card is the elitist offering from Standard Ch
 
 Citi Prestige Credit Card is best for those who travel a lot. This card entitles you for airport lounge access, extra hotel nights and accelerated air miles program. However Citi has reduced the benefits on this card recently and has limited the free hotel nights to twice in a year. Also meet and greet services and free airport transfers have been withdrawn. To get this card, you need to have a very good relationship with Citi Bank and holding a Citigold/Citigold Private account will go a long way.
 
-- Joining Fee & Renewal Fee: Rs 20,000 (Free for Citigold & Citigold Private Clients), Air miles and Taj/ITC vouchers of equivalent amount are provided
+- Joining Fee & Renewal Fee: Rs 20,000 + GST (Free for Citigold & Citigold Private Clients), Air miles and Taj/ITC vouchers of equivalent amount are provided
 - Reward Rate:
   - 1% on domestic, 2% on international if redeemed for statement credit
   - 4% on domestic, 8% on international if redeemed for Air Miles
