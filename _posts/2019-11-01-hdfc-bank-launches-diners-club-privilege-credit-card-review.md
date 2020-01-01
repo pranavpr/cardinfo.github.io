@@ -91,7 +91,7 @@ That's additional 1.25% reward rate in addition to 1.3% regular reward rate maki
 
 #### Airport Lounge Access
 
-- 12 Airport lounge access to 800+ Lounges in India and worldwide
+- 12 Airport lounge access to 1000+ Lounges in India and worldwide
 - Lounge access is complimentary for both primary and add-on card holders
 
 Unlike other cards, you can just swipe your HDFC Diners Club Privilege Credit Card for international lounge access. No need to carry those extra Priority Pass/Dreamfolks DragonPass.

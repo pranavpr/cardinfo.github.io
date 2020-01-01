@@ -7,9 +7,11 @@ seo:
 image: /assets/images/best-credit-card-india-2019.jpg
 ---
 
+**New List is out:** Check out the new list of [best credit cards in India for 2020](/best-credit-cards-in-india-for-2020/).
+
 Looking for best credit card in India or wondering the one which is in your wallet is best or or not? Look no further as you have stumbled upon the correct webpage.
 
-I have analysed 100+ credit cards available in India as of today and compiled a list of 15 best credit cards based on various user segments. Note that there is no one card which suits all as spending pattern, income range, willingness to pay joining fee etc. varies from person to person. So without further ado, let's begin!
+I have analyzed 100+ credit cards available in India as of today and compiled a list of 15 best credit cards based on various user segments. Note that there is no one card which suits all as spending pattern, income range, willingness to pay joining fee etc. varies from person to person. So without further ado, let's begin!
 
 <!-- prettier-ignore -->
 * TOC
@@ -207,8 +209,8 @@ Read the detailed review [here](/hdfc-bank-infinia-credit-card-review/).
 
 HDFC Diners Club Black Credit Card with it's [10X reward point](https://www.hdfcbankdinersclub.com/privilege) is certainly one the best credit cards in India at this point of time. Even without 10X reward point, it has reward rate of 3.3% on all spends which is quite good. To get this card you need to have net monthly income more than Rs. 1,75,000 per month. Below are the main highlights of this card:
 
-- Joining Fee: Rs 5,000, reward points of equivalent value are credited
-- Renewal Fee: Rs 5,000, waived off on spending Rs. 5,00,000 in a year
+- Joining Fee: Rs 10,000
+- Renewal Fee: Rs 10,000, waived off on spending Rs. 5,00,000 in a year
 - Reward Rate: 3.3% (normal spends) - 33% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
 - Lounge Access: Unlimited Airport lounge access to 700+ lounges in India and worldwide for primary card holder only
 - Lower foreign currency markup of 2%
