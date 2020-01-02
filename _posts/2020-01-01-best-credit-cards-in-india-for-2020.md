@@ -251,8 +251,8 @@ Super Premium cards are not only hard to get but also require really high relati
 
 Standard Chartered Ultimate Credit Card is the elitist offering from Standard Chartered. Though the default reward rate of 3.3% is certainly attractive, lately the reward redemption options have become limited. Amazon vouchers keeps on disappearing from their reward catalog and other options are not so great. To get this card, you should have an annual income of more than Rs. 24 Lakhs or if you have an existing SC credit card then the limit should be more than Rs. 3 Lakhs. Additionally you can this card on basis of your existing card if limit on existing card is more than Rs. 4 Lakhs.
 
-- Joining Fee: Rs. 5,000
-- Renewal Fee: Rs. 5,000
+- Joining Fee: Rs. 5,000 + GST
+- Renewal Fee: Rs. 5,000 + GST
 - Welcome Bonus: Rs. 10,000 cashback from MakeMyTrip
 - Reward Rate: 3.3%, can be redeemed for gift vouchers of Amazon, Flipkart, Lifestyle, Big Bazaar, MakeMyTrip, BookMyShow etc. (depending upon availability on their reward redemption website)
 - Lounge Access:
