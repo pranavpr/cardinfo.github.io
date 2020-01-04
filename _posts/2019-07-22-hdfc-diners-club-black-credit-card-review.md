@@ -67,7 +67,7 @@ It's quite evident that HDFC Bank is luring the cardmembers for spending more by
   - Minimum transaction: Rs. 150
   - Maxcap on weekend dining reward points: 2,000
 - Maxcap reset: Calendar month
-- Reward points can be converted to AirMiles across British Airways Executive Club (Avios), Jet Airways (JPMiles), Singapore Airlines (KrisFlyer Miles) or Club Vistara in 1:1 ratio
+- Reward points can be converted to AirMiles across British Airways Executive Club (Avios), InterMiles, Singapore Airlines (KrisFlyer Miles) or Club Vistara in 1:1 ratio
 - Rewards Points are valid only for 3 years from the date of accumulation.
 
 10X rewards, though temporary, keeps on getting extended every month. 33% reward rate is unbeatable and this alone makes this card stand out from the crowd.
@@ -84,7 +84,7 @@ That's additional 1.25% reward rate in addition to 3.3% regular reward rate maki
 
 #### Airport Lounge Access
 
-- Unlimited Airport lounge access to 800+ Lounges in India and worldwide
+- Unlimited Airport lounge access to 1000+ Lounges in India and worldwide
 - Lounge access is complimentary for both primary and add-on card holders
 
 Unlike other cards, you can just swipe your HDFC Diners Club Black Credit Card for international lounge access. No need to carry those extra Priority Pass/ Dreamfolks DragonPass.
