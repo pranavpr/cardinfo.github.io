@@ -13,7 +13,7 @@ Who doesn't like to save money by shopping at duty free stores? And what if you 
 
 HDFC Diners Club Credit Cards, RuPay & Discover Cards are offering 10% discount on shopping at Delhi Duty Free.
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Stores</th>
@@ -51,7 +51,7 @@ Tell the cashier before billing that you're holding one of these cards and would
 
 ICICI Bank is offering cashback up to 10% on Delhi Duty Free stores.
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Stores</th>
@@ -85,7 +85,7 @@ ICICI Bank is offering cashback up to 10% on Delhi Duty Free stores.
 
 Citi Bank is offering up to 15% cashback on duty free shopping with Citi Credit and Debit cards issued in India.
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Offer</th>

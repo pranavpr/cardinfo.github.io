@@ -10,7 +10,7 @@ SBI [SimplySAVE](/sbi-simplysave-credit-card-review/) and [SimplyCLICK](/sbi-sim
 
 ### SBI SimplySAVE vs SimplyCLICK Credit Card
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
   <thead class="thead-dark">
   <tr>
     <th scope="col"> </th>

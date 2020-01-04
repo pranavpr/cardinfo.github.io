@@ -150,7 +150,7 @@ HDFC Bank Bharat Credit Card provides 5% cashback on fuel spends at all fuel sta
 
 Below table summarizes the reward rate on various credit cards listed above.
 
-  <table class="table">
+  <table class="table" style="display: block;overflow-x: auto;">
     <thead class="thead-dark">
     <tr>
       <th scope="col"> Credit Card </th>

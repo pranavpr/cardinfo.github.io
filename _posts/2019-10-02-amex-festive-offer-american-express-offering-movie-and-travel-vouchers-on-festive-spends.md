@@ -13,7 +13,7 @@ Amex is back this year with festive offer wherein it's providing movie and trave
 ### Offer Details
 
 - **Offer**: Get Paytm movie/flight voucher or Amex Domestic Travel voucher on meeting the spend target.
-  <table class="table">
+  <table class="table" style="display: block;overflow-x: auto;">
     <thead class="thead-dark">
       <tr>
         <th scope="col"> Spend Target</th>

@@ -55,7 +55,7 @@ Also as a limited period offer, if you apply online for this card, you'll get a 
 - Value back on AC1, AC2, AC3 and AC CC train tickets as reward points for tickets purchased on [IRCTC](https://www.irctc.co.in/)
   - Peak Season: 10%
   - Off-peak Season: 4%
-    <table class="table">
+    <table class="table" style="display: block;overflow-x: auto;">
     <thead class="thead-dark">
     <tr>
     <th scope="col"> Spend Category </th>

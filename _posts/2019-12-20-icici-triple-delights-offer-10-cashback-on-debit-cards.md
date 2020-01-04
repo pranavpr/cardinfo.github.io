@@ -17,7 +17,7 @@ ICICI Bank has rolled out Triple Delights Offer on their debit cards wherein the
   - Government Services
   - Car/Bike Servicing
 - **Thresholds:**
-  <table class="table">
+  <table class="table" style="display: block;overflow-x: auto;">
     <thead class="thead-dark">
         <tr>
         	<th scope="col"> Category</th>

@@ -21,7 +21,7 @@ Yes Bank is back with their spend based targeted offers wherein you'll get Amazo
 
 I received following targets over SMS followed by an e-mail:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Net Spends Target</th>

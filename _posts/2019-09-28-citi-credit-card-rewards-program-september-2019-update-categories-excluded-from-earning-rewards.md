@@ -10,7 +10,7 @@ image: /assets/images/citi-bank-credit-cards-rewards-program-update-september-20
 
 Citi Bank has updated the rewards program on their credit cards and has excluded some categories, mainly belonging to Utilities, Insurance, Education, from it's rewards program. Effective **12th Oct 2019**, purchase transactions performed on these merchant categories will be excluded from the rewards program and rewards earning will be discontinued. The full list of merchant category is listed below:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Merchant Category Codes (MCC)</th>

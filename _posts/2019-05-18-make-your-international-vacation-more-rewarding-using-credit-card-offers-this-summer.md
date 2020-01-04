@@ -48,7 +48,7 @@ HDFC is offering 2,500 bonus reward points on spends greater than Rs. 15,000 on 
 
 I am summarizing the reward rate for this offer on most popular HDFC credit cards below:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Credit Card Variant</th>
@@ -88,7 +88,7 @@ HDFC is offering 10X reward points on loading HDFC Forex card using HDFC credit 
 
 I am summarizing the reward rate for this offer on most popular HDFC credit cards below:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Credit Card Variant</th>

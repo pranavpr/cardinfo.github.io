@@ -13,7 +13,7 @@ After [HDFC Bank](/hdfc-bank-festive-treats-partner-merchant-offers/) and [Yes B
 ### Offer Details
 
 - **Offer**: Up to 4X reward points on meeting spend target
-  <table class="table">
+  <table class="table" style="display: block;overflow-x: auto;">
   <thead class="thead-dark">
   <tr>
     <th scope="col"> Spend Levels</th>
@@ -62,7 +62,7 @@ Spend Levels have been set for each Cardholder depending on factors such as, but
 
 I received this offer on my IndusInd Aura Platinum Credit Card and since I don't use this card much, my targets are Rs. 20,000, Rs. 40,000 and Rs. 80,000 for Level 1, 2 and 3 respectively. This offer translates to a overall reward rate of **2.76%** for me if I spend Rs. 80,000 as shown below:
 
-  <table class="table">
+  <table class="table" style="display: block;overflow-x: auto;">
   <thead class="thead-dark">
   <tr>
     <th scope="col"> Spends</th>

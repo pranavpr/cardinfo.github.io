@@ -14,7 +14,7 @@ So if you are booking a flight worth Rs. 10,000, you can utilize only 14,000 rew
 
 However there is a workaround if you want to book flights only via reward points. You can convert reward points to Air Miles and use those Air Miles for booking flight. This is sometimes better than directly redeeming rewards points at SmartBuy portal for flights. Below table summarizes the conversion ratio from reward points to air miles for Diners ClubMiles and Regalia.
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
   <thead class="thead-dark">
   <tr>
     <th scope="col"> Airline</th>

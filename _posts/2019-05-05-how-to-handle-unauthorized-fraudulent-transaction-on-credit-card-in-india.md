@@ -19,7 +19,7 @@ In this article I'll outline the liability of a customer in case of fraudulent t
 
 RBI via circular [DBR.No.Leg.BC.78/09.07.005/2017-18](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11040&Mode=0) has limited the liability of customers in case of unauthorized transactions.
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Scenario </th>

@@ -11,7 +11,7 @@ IndusInd Bank has rolled out spend based targeted offer on their American Expres
 ### Offer Details
 
 - **Offer:** Get Amazon vouchers on meeting the spend criteria below:
-  <table class="table">
+  <table class="table" style="display: block;overflow-x: auto;">
     <thead class="thead-dark">
     <tr>
       <th scope="col"> Level </th>

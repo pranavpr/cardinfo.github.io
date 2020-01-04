@@ -43,7 +43,7 @@ When we all thought that SmartBuy 10X Rewards program can't get any better, HDFC
 
 The new SmartBuy e-Voucher offer is a fabulous offer from HDFC Bank as it increases the reward rate of HDFC Bank credit cards by flat 10%. Best part is there is, though there is maximum cap on reward point per transaction, there is no maximum cap on rewards and number of transactions. Hence one can make multiple transactions above Rs. 3,000 to get maximum benefit. I am summarizing the approximate rewards for some popular HDFC Bank Credit Cards below:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
   <thead class="thead-dark">
   <tr>
     <th scope="col"> Credit Card</th>

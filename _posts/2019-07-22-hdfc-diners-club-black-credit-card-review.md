@@ -123,7 +123,7 @@ Unlike other cards, you can just swipe your HDFC Diners Club Black Credit Card f
 
 - Exclusive discounts at Spa, Salon, Gym, Resorts etc.
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
   <thead class="thead-dark">
   <tr>
     <th scope="col"> Category</th>

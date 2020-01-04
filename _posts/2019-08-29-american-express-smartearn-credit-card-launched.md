@@ -12,7 +12,7 @@ Amex to attract the masses has launched American Express SmartEarn Credit Card. 
 
 American Express SmartEarn Credit Card provides accelerated reward rate of up to 10X on spends at partner merchants. Below table summarises the reward rate for different partner merchants for accelerated rewards:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> </th>

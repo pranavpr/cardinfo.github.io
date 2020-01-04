@@ -21,7 +21,7 @@ Yes Bank, this month again, sent a spend based targeted offer wherein you'll get
 
 This month I received following target over e-mail followed by a SMS:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Net Spends Target</th>

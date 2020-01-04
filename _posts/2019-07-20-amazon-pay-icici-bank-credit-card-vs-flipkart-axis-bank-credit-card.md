@@ -15,7 +15,7 @@ The two e-commerce giants of India: [Amazon](/amazon-pay-icici-bank-credit-card-
 
 ### Fees
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
     <th scope="col"> Fees</th>
@@ -40,7 +40,7 @@ Amazon Pay ICICI Bank Credit Card has no joining or renewal fees and is life tim
 
 ### Welcome Benefits
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Amazon Pay ICICI Bank Credit Card</th>
@@ -59,7 +59,7 @@ In this category, both cards are equally good and are tied for the position.
 
 ### Rewards
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
     <th scope="col"> Cashback </th>
@@ -90,7 +90,7 @@ Flipkart Axis Bank Credit Card beats the Amazon Pay ICICI Bank Credit Card in ca
 
 ### Features
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
     <th scope="col"> Features</th>

@@ -14,7 +14,7 @@ Flipkart in partnership with Axis Bank launched a co-branded credit card, [Flipk
 
 [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) comes with unlimited cashback which would be credited to card account three days before statement generation. The cashback rate is multi-tiered based on merchants and is summarized below:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Spends On</th>

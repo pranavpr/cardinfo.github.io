@@ -56,7 +56,7 @@ Rs. 500 Flipkart voucher evens out the Rs. 500 joining fee which is great. Howev
 
 Flipkart Axis Bank Credit Card comes with unlimited cashback which would be credited to card account three days before statement generation. The cashback rate is multi-tiered based on merchants and is summarized below:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Spends On</th>

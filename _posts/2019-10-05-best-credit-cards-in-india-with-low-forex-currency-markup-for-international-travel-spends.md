@@ -185,7 +185,7 @@ Using above link, both of us will get Rs. 500 on doing first international POS t
 
 Below table summarizes the reward rate for all cards listed above:
 
-  <table class="table">
+  <table class="table" style="display: block;overflow-x: auto;">
     <thead class="thead-dark">
     <tr>
       <th scope="col"> Credit Card </th>

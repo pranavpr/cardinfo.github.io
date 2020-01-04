@@ -15,7 +15,7 @@ HDFC Bank, in partnership with Mastercard, launched Millennia series of Credit/D
 Each of these cards (Credit/Debit/Prepaid/EasyEmi) offer similar reward rate and benefits. All these cards provide accelerated cashback on transacting via PayZapp and SmartBuy along with better cashback on online spends.
 The different reward rates of Millennia Cards are outlined below:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
     <th scope="col"></th>

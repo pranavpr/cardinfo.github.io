@@ -11,7 +11,7 @@ HSBC has announced the Festive Bonanza offer wherein it's giving away MakeMyTrip
 ### Offer Details
 
 - **Offer**: Get MakeMyTrip gift cards and cashback on meeting the spend criteria
-    <table class="table">
+    <table class="table" style="display: block;overflow-x: auto;">
     <thead class="thead-dark">
     <tr>
       <th scope="col"> Offer Type</th>

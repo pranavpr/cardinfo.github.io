@@ -32,7 +32,7 @@ There are no charges for opening the DCB Elite Savings Account. However non main
 
 Some other important charges for DCB Elite Savings Account are summarized in table below:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Service</th>

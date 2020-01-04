@@ -40,7 +40,7 @@ NiYO Global Card offers a bunch of features which are outlined below:
 
 NiYO Global Card comes with following spending limits:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
 	<th scope="col"> Category</th>

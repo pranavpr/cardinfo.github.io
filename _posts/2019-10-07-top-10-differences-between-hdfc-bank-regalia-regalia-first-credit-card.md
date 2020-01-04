@@ -10,7 +10,7 @@ HDFC Bank Regalia Credit Card has been most popular and successful product from 
 
 ### HDFC Regalia vs Regalia First Credit Card
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
   <thead class="thead-dark">
   <tr>
     <th scope="col"> </th>

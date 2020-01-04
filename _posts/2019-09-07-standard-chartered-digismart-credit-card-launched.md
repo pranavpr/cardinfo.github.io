@@ -23,7 +23,7 @@ Standard Chartered DigiSmart credit card provides instant discounts and cashback
 
 #### Yatra
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
     <th scope="col"> Category</th>

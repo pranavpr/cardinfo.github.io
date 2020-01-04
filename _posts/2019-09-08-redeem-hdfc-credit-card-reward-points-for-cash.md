@@ -12,7 +12,7 @@ HDFC Bank has enabled the redemption of reward points on their credit cards towa
 
 The reward points of different HDFC Bank credit cards are valued differently and hence their conversion rate to cash is also different. Value of one reward point for redemption against cash and travel of some popular HDFC Credit Cards is summarized below:
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
 <thead class="thead-dark">
 <tr>
     <th scope="col"> Credit Card</th>
