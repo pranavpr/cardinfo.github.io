@@ -12,7 +12,7 @@ Those who are not aware, HDFC Infinia and Diners Club Black, both are super prem
 
 ### HDFC Infinia vs Diners Club Black
 
-<table class="table">
+<table class="table" style="display: block;overflow-x: auto;">
   <thead class="thead-dark">
   <tr>
     <th scope="col"> </th>
