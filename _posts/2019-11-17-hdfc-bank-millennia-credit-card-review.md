@@ -11,8 +11,9 @@ HDFC Bank [launched the millennia series in August](/hdfc-bank-millennia-cards-l
 
 {% include image.html image="hdfc-bank-millennia-credit-card-closeup.jpg" alt="HDFC Bank Millennia Credit Card" class="center mb-3" %}
 
-HDFC Bank Millennia Credit Card comes with a blue background and minimalistic design. The card number and expiry date are printed at back as opposed to front like other credit cards. Though the card looks decent, it lacks the premium feeling. HDFC Bank Millennia Credit Card is available on MasterCard World platform and is enabled for contactless payments.
+HDFC Bank Millennia Credit Card comes with a blue background and minimalistic design. The card number and expiry date are printed at back as opposed to front like other credit cards. Though the card looks decent, it lacks the premium feeling. HDFC Bank Millennia Credit Card is available on MasterCard World, Visa Signature and Diners Club platforms and is enabled for contactless payments.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
