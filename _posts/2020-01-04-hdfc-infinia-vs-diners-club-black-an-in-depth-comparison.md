@@ -113,8 +113,8 @@ Those who are not aware, HDFC Infinia and Diners Club Black, both are super prem
   </tr>
   <tr>
     <td> Complimentary Golf games</td>
-    <td> 6 per annum</td>
   	<td> Unlimited </td>
+    <td> 6 per annum</td>
   </tr>
   <tr>
     <td> Revolving Credit Charges</td>
