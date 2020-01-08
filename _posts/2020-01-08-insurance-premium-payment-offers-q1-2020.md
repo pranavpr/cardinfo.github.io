@@ -6,7 +6,7 @@ categories: [Card Offers]
 image: /assets/images/insurance-premium-payment-offers-q1-2020.jpg
 ---
 
-Is your insurance premium payment is due and you are looking for offers to maximize your benefit? If answer to this question is yes then read on. In this article, I have compiled a list of offers on insurance premium payment using credit cards. Let's look in to each of these offers in detail.
+Is your insurance premium payment due and you are looking for offers to maximize your benefit? If answer to this question is yes then read on. In this article, I have compiled a list of offers on insurance premium payment using credit cards. Let's look in to each of these offers in detail.
 
 ### Standard Chartered Credit Card
 
