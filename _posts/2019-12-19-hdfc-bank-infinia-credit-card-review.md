@@ -9,7 +9,7 @@ product: HDFC Bank Infinia Credit Card
 
 HDFC Bank Infinia Credit Card is a super premium offering from HDFC Bank targeted towards high net-worth individuals. Being an invite only card, one can't lay hands on it unless invited by HDFC Bank. The benefits provided on this card are unparalleled in the industry and matchs the luxurious lifestyle of ultra-rich Indians.
 
-HDFC Bank Infinia Credit Card is the [best super premium credit card](/best-credit-cards-of-2019-in-india/) in India currently and is a dream of every credit card enthusiast. The benefits include, but not limited to, great reward rate, unlimited airport lounge access, golf privileges and no pre-set spending limit (!).
+HDFC Bank Infinia Credit Card is one of the [best super premium credit cards](/best-credit-cards-in-india-for-2020/) in India currently and is a dream of every credit card enthusiast. The benefits include, but not limited to, great reward rate, unlimited airport lounge access, golf privileges and no pre-set spending limit (!).
 
 {% include image.html image="hdfc-bank-infinia-credit-card-design.jpg" alt="HDFC Bank Infinia Credit Card Design" class="img-center mb-3" %}
 
@@ -56,7 +56,7 @@ Renewal fee is waived off if cumulative spend on card is more than Rs. 8 Lakhs i
 
 ### Features
 
-HDFC Bank Infinia Credit Card comes with all the bells and whistles a super premium credit card is supposed to have. Let's look in to each of these benefits in details.
+HDFC Bank Infinia Credit Card comes with all the bells and whistles a super premium credit card is supposed to have. Let's look in to each of these benefits in detail.
 
 #### Welcome & Renewal Benefits
 
@@ -157,7 +157,7 @@ Though the benefits on Infinia are really great, some recent developments has le
 
 ### Verdict
 
-Needless to say HDFC Bank Infinia Credit Card is currently the best credit card one can get in India. 33% reward rate using [10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) is really phenomenal. Unlimited lounge access worldwide, golf privileges across the globe and a dedicated support line to quickly talk to a human are cherries on the top. If you get invited for this card by HDFC Bank, just accept it without giving a second thought. This card will pay you back, many times the annual fee charged, within no time.
+Needless to say HDFC Bank Infinia Credit Card is currently one of the best credit cards one can get in India. 33% reward rate using [10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) is really phenomenal. Unlimited lounge access worldwide, golf privileges across the globe and a dedicated support line to quickly talk to a human are cherries on the top. If you get invited for this card by HDFC Bank, just accept it without giving a second thought. This card will pay you back, many times the annual fee charged, within no time.
 
 {% include star-rating.html rating=5 rewards=5 fees=5 features=5 %}
 
