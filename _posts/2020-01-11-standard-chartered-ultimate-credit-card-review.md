@@ -74,6 +74,10 @@ Though on paper, 3.3% reward rate appears really lucrative, the ground reality i
 
 Complimentary access to airport lounges using Priority Pass based on monthly spends is something unique from Standard Chartered. Though the idea looks novel, I would have appreciated a quarterly or yearly spend based criteria. This is because, for each trip, one person will need at least 2 airport lounge access: one for onward journey and one for return journey. Having a limit like 3 complimentary access per quarter on spending Rs. 60,000 or more would have been more sensible.
 
+{% include tip.html tip="For airport lounge access during an international trip, use Standard Chartered Ultimate Credit Card in India for onward journey and use Priority Pass in foreign for return journey." %}
+
+_Thanks Sharad for sharing above tip._
+
 #### Golf Program
 
 - 2 complimentary Golf games per month
