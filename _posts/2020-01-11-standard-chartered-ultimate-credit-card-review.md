@@ -30,7 +30,7 @@ Being a super premium credit card, the income criteria of Standard Chartered Ult
 
 Standard Chartered does accept applications for this card based on credit cards of other banks.
 
-{% include tip.html tip="Make sure you have a free limit of Rs 4.5 Lakhs on existing credit card if you are applying on card-to-card basis." %}
+{% include tip.html tip="Make sure you have a free limit of Rs 4.5 Lakhs on existing credit card if you are applying on card-on-card basis." %}
 
 ### Fees
 
@@ -108,6 +108,16 @@ To avail this benefit, you must book the restaurant in advance using the concier
 - Shopping Services
 - Business Services
 - Other Services like event planning, pet care, grocery delivery etc.
+
+#### Insurance
+
+- Accidental Death (Air Accidents Only): Rs. 1 Crore
+- Emergency Overseas Medical Expenses: \$25,000
+- Baggage Delay on international flight: $10 per 8 hour up to $100
+- International Fight Delay: $10 per hour up to $200
+- Loss of baggage or personal item: $30 per item up to $750
+
+Note that the air accident insurance is available only if ticket was purchased using Standard Chartered Ultimate Credit Card. For other insurance benefits, card must be swiped for at least Rs. 499 in past 30 days for POS/e-commerce transactions.
 
 ### Drawbacks
 
