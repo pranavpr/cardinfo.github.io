@@ -73,6 +73,7 @@
             'src',
             cdn + '/api/commenter/photo?commenterHex=' + comment.commenterHex
           );
+          attrSet(avatar, 'alt', latestCommenters[comment.commenterHex].name);
           classAdd(avatar, 'avatar-img');
         }
         commentsHTML +=
