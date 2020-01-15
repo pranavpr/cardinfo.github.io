@@ -20,7 +20,7 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 #### 1. Flipkart Axis Bank Credit Card
 
-{% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%- 5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros="Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on Flipkart, Myntra & 2GUD<br />4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access" cons="Not lifetime free <br />Clunky application process" %}
+{% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%-5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros="Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on Flipkart, Myntra & 2GUD<br />4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access" cons="Not lifetime free <br />Clunky application process" %}
 
 [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) is a lifestyle co-branded credit card which provides accelerated cashback on Flipkart, Myntra and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
 

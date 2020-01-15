@@ -20,6 +20,7 @@
       <div class="extra-info">
         <div><strong>Reward Rate:</strong> {{ include.reward }}</div>
         <div><strong>Annual Fee:</strong> {{ include.annualfee }}</div>
+        {% if include.reviewurl %}
         <a
           href="{{ include.reviewurl }}"
           target="_blank"
@@ -27,6 +28,7 @@
           class="btn btn-success btn-block mt-2"
           ><i class="ci-pen"></i> Review</a
         >
+        {% endif %}
       </div>
     </div>
   </div>
