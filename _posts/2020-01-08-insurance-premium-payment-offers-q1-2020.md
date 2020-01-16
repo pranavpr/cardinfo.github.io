@@ -2,11 +2,26 @@
 layout: post
 title: 'Insurance premium payment offers: Q1 2020'
 date: 2020-01-08 22:52 +0530
+seo:
+  date_modified: 2020-01-16 17:30 +0530
 categories: [Card Offers]
 image: /assets/images/insurance-premium-payment-offers-q1-2020.jpg
 ---
 
 Is your insurance premium payment due and you are looking for offers to maximize your benefit? If answer to this question is yes then read on. In this article, I have compiled a list of offers on insurance premium payment using credit cards. Let's look in to each of these offers in detail.
+
+### HDFC Bank Credit Card
+
+- **Offer:** Get 5X Reward Points on insurance premium payments
+- **Period:** 16th January 2020 to 31st March 2020
+- **Maximum Cap**: 2,000 reward points per month
+- **Maximum Capping Reset**: Every calendar month
+- **Excluded Cards:** Corporate Cards, Commercial Cards, Dealer Cards, Distributor Cards, Business Cards & Value Plus Cards
+- **Type:** Open for all
+- **Fulfillment:** Bonus reward points will be posted within 90 working days from the end date of the offer
+- **Source:** [Website](https://offers.smartbuy.hdfcbank.com/offer_details/13771)
+
+This is indeed a lucrative offer where [HDFC Bank Infinia](/hdfc-bank-infinia-credit-card-review/) and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/) credit card holders can enjoy a reward rate of whooping 16.5%. However to get maximum benefit, premium amount should be limited to Rs. 12,000 per month for these cards. For HDFC Bank [Regalia](/hdfc-bank-regalia-credit-card-review/) and Diners ClubMiles, the reward rate is 6.5% which is still decent. And in case of these cards, the maximum payment should be limited to Rs. 15,000 per month.
 
 ### Standard Chartered Credit Card
 
