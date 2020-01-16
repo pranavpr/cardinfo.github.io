@@ -106,7 +106,7 @@ Citi World Debit Card comes with many lifestyle benefits which makes it really a
 
 HDFC Bank EasyShop Platinum Debit Card is the most popular debit card from HDFC Bank. This is an allrounder card providing decent reward rate, complimentary domestic airport lounge access and insurance benefits.
 
-- Annual Fee: Rs. 500 + GST, waived off for Classic, Preferred and Imperia customers
+- Annual Fee: Rs. 750 + GST, waived off for Classic, Preferred and Imperia customers
 - Reward Rate
   - 1% cashback on Telecom, Utilities
   - 0.5% cashback on Groceries, Supermarket, Restaurant, Apparels, Entertainment
