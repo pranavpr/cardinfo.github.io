@@ -34,7 +34,7 @@ HDFC Bank Millennia Debit Card is the newest among the bunch and provides handso
   - Checked Baggage Insurance of Rs. 2 Lakhs
 - 1% fuel surcharge waiver
 
-### 2. DCB Bank Cashcack Debit Card
+### 2. DCB Bank Cashback Debit Card
 
 {% include tile.html image="dcb-bank-cashback-debit-card.png" alt="DCB Bank Cashcack Debit Card" reward="1.6%" annualfee="Nil" pros="1.6% cashback on all online and offline transactions <br/> No charges for debit card<br/>Choose your own account number<br />Unlimited free access to all DCB Bank and Visa ATMs in India" cons="Maximum cashback Rs. 2,000 per month <br />Maximum cashback Rs. 20,000 per year" %}
 
