@@ -21,7 +21,7 @@ Is your insurance premium payment due and you are looking for offers to maximize
 - **Fulfillment:** Bonus reward points will be posted within 90 working days from the end date of the offer
 - **Source:** [Website](https://offers.smartbuy.hdfcbank.com/offer_details/13771)
 
-This is indeed a lucrative offer where [HDFC Bank Infinia](/hdfc-bank-infinia-credit-card-review/) and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/) credit card holders can enjoy a reward rate of whooping 16.5%. However to get maximum benefit, premium amount should be limited to Rs. 12,000 per month for these cards. For HDFC Bank [Regalia](/hdfc-bank-regalia-credit-card-review/) and Diners ClubMiles, the reward rate is 6.5% which is still decent. And in case of these cards, the maximum payment should be limited to Rs. 15,000 per month.
+This is indeed a lucrative offer where [HDFC Bank Infinia](/hdfc-bank-infinia-credit-card-review/) and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/) credit card holders can enjoy a reward rate of whooping 16.5%. However to get maximum benefit, premium amount should be limited to Rs. 12,000 per month for these cards. For [HDFC Bank Regalia](/hdfc-bank-regalia-credit-card-review/) and [Diners ClubMiles](/hdfc-diners-club-clubmiles-credit-card-review/), the reward rate is 6.5% which is still decent. And in case of these cards, the maximum payment should be limited to Rs. 15,000 per month.
 
 ### Standard Chartered Credit Card
 
