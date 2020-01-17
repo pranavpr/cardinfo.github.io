@@ -3,7 +3,7 @@ layout: post
 title: 'Insurance premium payment offers: Q1 2020'
 date: 2020-01-08 22:52 +0530
 seo:
-  date_modified: 2020-01-16 17:30 +0530
+  date_modified: 2020-01-17 17:30 +0530
 categories: [Card Offers]
 image: /assets/images/insurance-premium-payment-offers-q1-2020.jpg
 ---
@@ -22,6 +22,21 @@ Is your insurance premium payment due and you are looking for offers to maximize
 - **Source:** [Website](https://offers.smartbuy.hdfcbank.com/offer_details/13771)
 
 This is indeed a lucrative offer where [HDFC Bank Infinia](/hdfc-bank-infinia-credit-card-review/) and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/) credit card holders can enjoy a reward rate of whooping 16.5%. However to get maximum benefit, premium amount should be limited to Rs. 12,000 per month for these cards. For [HDFC Bank Regalia](/hdfc-bank-regalia-credit-card-review/) and [Diners ClubMiles](/hdfc-diners-club-clubmiles-credit-card-review/), the reward rate is 6.5% which is still decent. And in case of these cards, the maximum payment should be limited to Rs. 15,000 per month.
+
+### American Express Card
+
+- **Offer:** Get 10 Membership Rewards points for every Rs. 100 spent on insurance transactions
+- **Period:** 17th January 2020 to 31st March 2020
+- **Maximum Reward Points**: 5,000 Membership Rewards points
+- **Excluded Cards:** Corporate Cards
+- **Type:** Open for all, registration required
+- **Fulfillment:** Bonus reward points will be credited by 30 June 2020
+- **Other T&C:**
+  - Offer valid only on registration.
+  - Register [here](https://iforms.americanexpress.com/iFormsSecure/un/iforms.do?cuid=enrollment_en_IN&evtsrc=link&evttype=0&campaignId=Insurance%20Points%20Campaign&TermsCondition=http://amex.kapsad.in/tnc/All-card-Insurance-inactive.pdf)
+- **Source:** Email, [Website](https://amex.kapsad.in/tnc/All-card-Insurance-inactive.pdf)
+
+Amex generally doesn't provide any reward points on insurance spends. However this offer provides a reward rate of 5% on insurance spends which is fantastic. Even though I didn't receive the offer email, I was able to enroll by filling the form. I got a confirmation email too after enrolling in to the offer. Hence it appears that it's not a targeted offer.
 
 ### Standard Chartered Credit Card
 
