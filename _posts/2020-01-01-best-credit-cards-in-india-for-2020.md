@@ -63,9 +63,9 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 #### 4. Amazon Pay ICICI Bank Credit Card
 
-{% include tile.html image="amazon-pay-icici-bank-credit-card.jpg" alt="Amazon Pay ICICI Bank Credit Card" reward="1%- 5%" annualfee="Nil" reviewurl="/amazon-pay-icici-bank-credit-card-review/" pros="No joining/annual fee <br />5% cashback on Amazon for Prime members<br />3% cashback on Amazon for Non Prime members<br />2% cashback on paying through Amazon Pay <br />1% cashbak on others" cons="Invite only <br />No airport lounge access<br />Amazon Prime Membership required for maximum benefit" %}
+{% include tile.html image="amazon-pay-icici-bank-credit-card.jpg" alt="Amazon Pay ICICI Bank Credit Card" reward="1%- 5%" annualfee="Nil" reviewurl="/amazon-pay-icici-bank-credit-card-review/" pros="No joining/annual fee <br />5% cashback on Amazon for Prime members<br />3% cashback on Amazon for Non Prime members<br />2% cashback on paying through Amazon Pay <br />1% cashbak on others" cons="No airport lounge access<br />Amazon Prime Membership required for maximum benefit" %}
 
-[Amazon Pay ICICI Bank Credit Card](/amazon-pay-icici-bank-credit-card-review/) gives 5% cashback on Amazon if you're a prime member which is a sweet deal if you spend a lot on Amazon. However at this point of time, this card is available by invitation only. Your chance for invite increases if you hold an existing credit card from ICICI.
+[Amazon Pay ICICI Bank Credit Card](/amazon-pay-icici-bank-credit-card-review/) gives 5% cashback on Amazon if you're a prime member which is a sweet deal if you spend a lot on Amazon. Recently Amazon has extended invitation for this credit card to majority of Amazon India customers.
 
 - Joining Fee: Nil
 - Renewal Fee: Life time free
