@@ -177,7 +177,7 @@ Citi Premiermiles Credit Card, though appears to be an air miles card, it's not.
 
 #### 5. Indusind Iconia Credit Card (Amex)
 
-{% include tile.html image="indusind-iconia-amex-credit-card.jpg" alt="Indusind Iconia Credit Card (Amex)" reward="0.7%-2%" annualfee="Nil<sup>*</sup>" reviewurl="/best-credit-cards-in-india-for-2020/" pros="No renewal fees<br/>2X rewards on weekends<br/>Complimentary domestic lounge access<br />Rewards can be redeemed for statement cash<br/>Golf privileges<br/>Buy 1 Get 1 on BookMyShow<br/>Attractive merchant offers from Amex" cons="High joining fees" %}
+{% include tile.html image="indusind-iconia-amex-credit-card.jpg" alt="Indusind Iconia Credit Card (Amex)" reward="0.7%-2%" annualfee="Nil<sup>*</sup>" reviewurl="/indusind-iconia-american-express-credit-card-review/" pros="No renewal fees<br/>2X rewards on weekends<br/>Complimentary domestic lounge access<br />Rewards can be redeemed for statement cash<br/>Golf privileges<br/>Buy 1 Get 1 on BookMyShow<br/>Attractive merchant offers from Amex" cons="High joining fees" %}
 
 If you spend a lot on weekends, this is the card for you. It provides accelerated rewards during weekends which you can redeem for statement credit. This card also gives you access to access to domestic airport lounges. However, recently IndusInd Bank has [reduced the reward rate](/indusind-credit-card-reward-rate-getting-reduced-from-1st-august-2019/) on insurance and utility bill payments on their credit cards which is a little disappointing.
 
