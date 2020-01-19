@@ -168,7 +168,7 @@ The discount and benefits varies across partners and more information can be fou
 #### Other benefits
 
 - 15% discount at partner restaurants
-- 1% cashback on international transactions using Global Value Program (annual fee of Rs. 199)
+- 1% cashback on international transactions using [Global Value Program](/hdfc-global-value-program-everything-you-need-to-know/) (annual fee of Rs. 199)
 
 ### Drawbacks
 
