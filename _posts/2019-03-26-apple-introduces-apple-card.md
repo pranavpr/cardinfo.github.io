@@ -2,6 +2,8 @@
 layout: post
 title: 'Apple introduces Apple Card'
 date: 2019-03-26 15:35 +0530
+seo:
+  date_modified: 2019-03-26 15:35 +0530
 categories: [News]
 image: /assets/images/apple-credit-card.jpg
 ---

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 'Yes Bank Credit Cards rewards reduced'
+date: 2019-03-15 16:32 +0530
+seo:
+  date_modified: 2019-03-15 16:32 +0530
 categories: [Yes Bank]
 image: /assets/images/yes-bank-credit-card-rewards-reduced.jpg
 ---
