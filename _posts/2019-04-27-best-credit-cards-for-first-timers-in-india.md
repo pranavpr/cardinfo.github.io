@@ -167,6 +167,7 @@ RBL Bank Shoprite Credit Card provides 5% reward rate on groceries and 2.5% rewa
 - Other Benefits:
   - 10% discount on movie tickets at BookMyShow
   - 1% fuel surcharge waiver, maximum Rs. 100 per month for transactions between Rs. 500 to Rs. 4,000
+- Apply [here](https://l.cardinfo.in/rblshoprite)
 
 ### 10. Standard Chartered DigiSmart Credit Card
 
