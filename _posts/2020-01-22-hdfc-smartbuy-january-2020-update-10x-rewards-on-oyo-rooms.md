@@ -60,7 +60,7 @@ Below table summarizes the reward rate of some popular HDFC Bank credit cards wi
 <table width="100%" border="1" cellspacing="0" cellpadding="5" style="border: 1px #dee2e6; border-collapse: collapse; margin-bottom: 2rem;display: block;overflow-x: auto;">
 <tbody>
 <tr bgcolor="#03a87c">
-    <td rowspan="2" align="center" style="color: #ffffff;font-weight: bold;" scope="col">Crdit Card</td>
+    <td rowspan="2" align="center" style="color: #ffffff;font-weight: bold;" scope="col">Credit Card</td>
 	<td colspan="2" align="center" style="color: #ffffff;font-weight: bold;" scope="col"> SmartBuy 10X</td>
     <td colspan="2" align="center" style="color: #ffffff;font-weight: bold;" scope="col"> Diners 10X</td>
 </tr>
