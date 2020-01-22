@@ -46,7 +46,7 @@ HSBC has become really aggressive recently and has been pushing out many offers 
 
 One thing to note here is that eligibility of cardmembers' to first two offers is considered only from the month onwards in which he/she registers. However a cardholder registering for any of the months (i.e. anytime between Offer Period), would be eligible for the bumper prize and spend across all three months would be considered. Below table summarizes the same:
 
-<table width="100%" border="1" cellspacing="0" cellpadding="5" style="border: 1px #dee2e6; border-collapse: collapse; margin-bottom: 2rem;">
+<table width="100%" border="1" cellspacing="0" cellpadding="5" style="border: 1px #dee2e6; border-collapse: collapse; margin-bottom: 2rem;display: block;overflow-x: auto;">
   <tbody>
     <tr bgcolor="#03a87c">
       <td rowspan="2" style="color: #ffffff;font-weight: bold;">Registration month</td>
