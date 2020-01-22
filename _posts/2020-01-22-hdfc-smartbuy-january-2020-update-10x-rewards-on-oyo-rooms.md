@@ -2,7 +2,7 @@
 layout: post
 title: 'HDFC SmartBuy January 2020 Update: 10X Rewards on OYO Rooms'
 date: 2020-01-22 21:17 +0530
-categories: [HDFC, Reviews]
+categories: [HDFC, Card Offers]
 image: /assets/images/oyo-rooms-on-hdfc-smartbuy.jpg
 ---
 
