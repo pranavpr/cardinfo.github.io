@@ -3,7 +3,7 @@ layout: post
 title: 'HDFC SmartBuy January 2020 Update: 10X Rewards on OYO Rooms'
 date: 2020-01-22 21:17 +0530
 categories: [HDFC, Card Offers]
-image: /assets/images/oyo-rooms-on-hdfc-smartbuy.jpg
+image: /assets/images/oyo-rooms-on-hdfc-smartbuy-new.jpg
 ---
 
 HDFC Bank, in a pleasant surprise, has enabled the [OYO Rooms on SmartBuy](https://offers.smartbuy.hdfcbank.com/oyo-room-stay) portal today. The older option to book hotels on SmartBuy portal is powered by Cleartrip and it indeed lists the OYO hotels. But this option also includes all other hotels too. With this new addition, budget conscious travelers can exclusively search among OYO hotels without getting distracted by other options.
