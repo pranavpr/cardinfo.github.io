@@ -6,7 +6,7 @@ categories: [SC, News]
 image: /assets/images/standard-chartered-landmark-rewards-and-digismart-credit-card.jpg
 ---
 
-Standard Chartered has announced a couple of updates on it's credit cards this month. Firstly they are replacing their Landmark Rewards Credit Card with DigiSmart Credit Card. Secondly they have added and amended some clauses in Credit Card Terms & Condition. Let's look into each of these in detail.
+Standard Chartered has announced a couple of updates on their credit cards this month. Firstly they are replacing their Landmark Rewards Credit Card with DigiSmart Credit Card. Secondly they have added and amended some clauses in Credit Card Terms & Condition. Let's look into each of these in detail.
 
 <!-- prettier-ignore -->
 * TOC
