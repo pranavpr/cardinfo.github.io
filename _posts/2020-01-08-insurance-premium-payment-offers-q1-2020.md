@@ -21,7 +21,7 @@ Is your insurance premium payment due and you are looking for offers to maximize
 - **Maximum Cap**: 2,000 reward points per month
 - **Maximum Capping Reset**: Every calendar month
 - **Excluded Cards:** Corporate Cards, Commercial Cards, Dealer Cards, Distributor Cards, Business Cards & Value Plus Cards
-- **Type:** Open for all
+- **Type:** Targeted, not valid if communication is not received from HDFC Bank
 - **Fulfillment:** Bonus reward points will be posted within 90 working days from the end date of the offer
 - **Source:** [Website](https://offers.smartbuy.hdfcbank.com/offer_details/13771)
 

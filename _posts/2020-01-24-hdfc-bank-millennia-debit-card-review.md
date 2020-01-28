@@ -15,7 +15,7 @@ In this article I will not only be reviewing HDFC Bank Millennia Debit Card in d
 
 {% include image.html image="hdfc-bank-millennia-debit-card-design.jpg" alt="HDFC Bank Millennia Debit Card Design" class="img-center mb-3" %}
 
-HDFC Bank Millennia Debit Card comes with a blue background and minimalistic design. Unlike other debit cards, the card number and expiry date are printed at the back. Though the card looks decent, it lacks the premium feeling. HDFC Bank Millennia Debit Card is available on MasterCard World, Visa Signature and Diners Club platforms and is enabled for contactless transactions.
+HDFC Bank Millennia Debit Card comes with a blue background and minimalistic design. Unlike other debit cards, the card number and expiry date are printed at the back. Though the card looks decent, it lacks the premium feeling. HDFC Bank Millennia Debit Card is available on MasterCard platform in World tier and is enabled for contactless transactions.
 
 <!-- prettier-ignore -->
 * TOC
