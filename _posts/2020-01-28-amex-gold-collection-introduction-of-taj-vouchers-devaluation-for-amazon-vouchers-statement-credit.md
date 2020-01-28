@@ -9,7 +9,7 @@ image: /assets/images/american-express-gold-collection-introduction-of-taj-vouch
 
 American Express (Amex) is refreshing the 18 Karat and 24 Karat Gold Collection starting 1 February 2020. With this change, Amex has introduced Taj Vouchers as a redemption option under 18K and 24K Gold Collection. Along with this, it has also devalued the Membership Reward Points for redemption against Amazon voucher and Statement Credit.
 
-Those who are not aware, Gold Collection is a special reward catalog for certain American Express cards like Amex Gold Card and [Amex Membership Reward Credit Card](/american-express-membership-rewards-credit-card-mrcc-review/) which enable redemption of 18,000 and 24,000 Membership Reward Points for higher value. These options include statement credit, Amazon vouchers, travel vouchers, Tanishq vouchers etc. These options almost double the value of Amex Membership Reward Points and hence are very popular among the card holders.
+{% include faq.html question="What is American Express (Amex) Gold Collection?" answer= "Gold Collection is a special reward catalog for certain American Express cards like Amex Gold Card and Amex Membership Rewards Credit Card which enable redemption of 18,000 and 24,000 Membership Reward Points for higher value. These options include statement credit, Amazon vouchers, travel vouchers, Tanishq vouchers etc. These options almost double the value of Amex Membership Reward Points and hence are very popular among the card holders." %}
 
 Let's look into the new changes announced by American Express in detail.
 
