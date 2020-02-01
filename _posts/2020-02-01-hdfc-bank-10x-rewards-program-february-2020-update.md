@@ -53,7 +53,7 @@ Diners 10X Rewards program has been renewed till 29 February 2020.
 
 ### Bottomline
 
-Removal of Swiggy, BookMyShow and Godrej Nature’s Basket from Diners 10X Program is a huge blow. With continuous removal of partner brands, it's becoming really hard to extract benefits from this program. Given that HDFC Bank has [introduced milestone benefits on Diners Black Club Cards](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/) recently, I anticipate that Diners 10X program has only few days left before HDFC Bank kills it.
+Removal of Swiggy, BookMyShow and Godrej Nature’s Basket from Diners 10X Program is a huge blow. With continuous removal of partner brands, it's becoming really hard to extract benefits from this program. Given that HDFC Bank has [introduced milestone benefits on Diners Club Credit Cards](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/) recently, I anticipate that Diners 10X program has only few days left before HDFC Bank kills it.
 
 Extension of SmartBuy 10X program is a welcome move. HDFC Bank has been enabling new merchants ([Gyftr](/10x-rewards-on-gift-vouchers-using-hdfc-bank-credit-cards/), [IRCTC](/10x-rewards-on-train-tickets-using-hdfc-bank-credit-cards/), [Oyo](/hdfc-smartbuy-january-2020-update-10x-rewards-on-oyo-rooms/)) on SmartBuy portal steadily and I feel this program will continue for some more time.
 
