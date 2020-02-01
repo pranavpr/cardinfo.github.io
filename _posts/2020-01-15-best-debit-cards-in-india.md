@@ -2,6 +2,8 @@
 layout: post
 title: Best Debit Cards in India (2020)
 date: 2020-01-15 11:05 +0530
+seo:
+  date_modified: 2020-01-30 23:10 +0530
 categories: [Reviews]
 image: /assets/images/best-debit-cards-in-india.jpg
 ---
@@ -208,7 +210,8 @@ SBI Platinum Debit Card is the only card you should have from SBI. Though the de
 - Reward Rate:
   - 1 RP = Rs. 0.25
   - 2 RP per Rs. 200 spent, 0.25% reward rate
-  - Max RP per transaction: 1000
+  - Max RP per transaction: 100
+  - Max RP per month: 1,000
   - 2X RP on birthday, 0.50% reward rate
   - Max bonus RP in birthday month: 200
 - 2 complimentary domestic airport lounge access per quarter
