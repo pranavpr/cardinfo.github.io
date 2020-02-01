@@ -118,4 +118,6 @@ Below table summarizes the reward rate of some popular HDFC Bank credit cards wi
 
 33% reward rate on HDFC Bank Infinia and Diners Club Black credit card is insane and undoubtedly one of the best in the world. Hence keep reaping the benefits of 10X Program till it's active.
 
+**Update:** HDFC Bank has disabled OYO Rooms from the SmartBuy portal.
+
 _What do you think of addition of OYO Rooms to SmartBuy portal? Which other partners would you like to see on SmartBuy platform? Let me know in comments below._
