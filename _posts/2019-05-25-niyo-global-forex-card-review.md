@@ -9,8 +9,8 @@ product: NiYO Global Forex Card
 
 NiYO Global Card is a next generation forex card which eliminates the many pain points of current generation forex cards. To start with, it's an INR card, which can be used globally (150+ countries), including in India and card can be loaded via any bank account using IMPS/NEFT without any charges. The card comes with NiYO Global app which lets you manage your card on the move and offers bunch of other useful features.
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ### Features
 
@@ -127,6 +127,8 @@ I also used it for withdrawing money in ATMs and it worked seamlessly. There wer
 This is a fantastic card which simplifies the forex transactions to a great extent. Given that company is not charging anything for this card, I don't see a reason for not using this card. Ability to transfer excess funds back to your bank account is cherry on the top.
 
 {% include star-rating-single.html rating=5 %}
+
+<a href="https://l.cardinfo.in/niyo" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
 
 **PS**: You can save even more using a combination of NiYO Global Card and credit card. Read about most rewarding credit cards with low forex markup fee for foreign travel & spends [here](/best-credit-cards-in-india-with-low-forex-currency-markup-for-international-travel-spends/).
 
