@@ -1,0 +1,25 @@
+<script>
+  var trendingHTML = '<ol class="list-featured">';
+  $.ajax({
+    type: 'GET',
+    url: 'https://api.cardinfo.in/trending',
+    cache: false,
+    dataType: 'json',
+    success: function(data) {
+      var posts = data.trendingArticles;
+      for (post of posts) {
+        trendingHTML =
+          trendingHTML +
+          '<li class="mb-4"><span><h6 class="font-weight-bold"> <a href="//' +
+          post.url +
+          '" class="text-dark">' +
+          post.title +
+          '</a></h6></span></li>';
+      }
+      trendingHTML = trendingHTML + '</ol>';
+      $('#trending').html(trendingHTML);
+    }
+  });
+</script>
+<h4 class="font-weight-bold spanborder"><span>Trending</span></h4>
+<div id="trending"></div>
