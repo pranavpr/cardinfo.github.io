@@ -91,4 +91,4 @@ This is a fantastic offer to squeeze extra value from your credit card reward po
 
 If you stay in metro cities where connectivity of [Air Vistara](https://l.cardinfo.in/vistara) is quite good, it's a no brainer to go for this offer. However note that CV Points are valid only for 3 years and make sure you utilize them within this period.
 
-_How has been your experience of flying with Air Vistara? Are you planning to transfer your credit card points to CV Points? Let me know by leaving a comment below._
+_How has been your experience of flying with [Air Vistara](https://l.cardinfo.in/vistara)? Are you planning to transfer your credit card points to CV Points? Let me know by leaving a comment below._
