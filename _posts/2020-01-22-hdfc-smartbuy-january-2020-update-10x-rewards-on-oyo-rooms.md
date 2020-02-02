@@ -6,9 +6,9 @@ categories: [HDFC, Card Offers]
 image: /assets/images/oyo-rooms-on-hdfc-smartbuy-new.jpg
 ---
 
-HDFC Bank, in a pleasant surprise, has enabled the [OYO Rooms on SmartBuy](https://offers.smartbuy.hdfcbank.com/oyo-room-stay) portal today. The older option to book hotels on SmartBuy portal is powered by Cleartrip and it indeed lists the OYO hotels. But this option also includes all other hotels too. With this new addition, budget conscious travelers can exclusively search among OYO hotels without getting distracted by other options.
+HDFC Bank, in a pleasant surprise, has enabled the [OYO Rooms on SmartBuy](https://offers.smartbuy.hdfcbank.com/oyo-room-stay) portal today. The older option to book hotels on SmartBuy portal is powered by Cleartrip and it indeed lists the [OYO](https://l.cardinfo.in/oyo) hotels. But this option also includes all other hotels too. With this new addition, budget conscious travelers can exclusively search among [OYO](https://l.cardinfo.in/oyo) hotels without getting distracted by other options.
 
-HDFC Bank has also extended the SmartBuy 10X program till end of this month. Hence HDFC Bank Credit Card holders can now enjoy 10X rewards on OYO too. Let's look in to the benefits and different partners of 10X Program in detail.
+HDFC Bank has also extended the SmartBuy 10X program till end of this month. Hence HDFC Bank Credit Card holders can now enjoy 10X rewards on [OYO](https://l.cardinfo.in/oyo) too. Let's look in to the benefits and different partners of 10X Program in detail.
 
 <!-- prettier-ignore -->
 * TOC
@@ -21,7 +21,7 @@ The validity of Smartbuy 10X program has been further extended till 31 January 2
 - **Offer**
   - 10X Reward Points on HDFC Bank Infinia, Diners Club and Regalia credit cards
   - 5% cash back on other HDFC Credit and Debit cards up to maximum of Rs. 1,000 per calendar month
-  - This covers Flipkart, Amazon, Flights, Hotels, Buses, Trains, Gift Vouchers, OYO Rooms and Compare & Shop on [Smartbuy](https://offers.smartbuy.hdfcbank.com)
+  - This covers Flipkart, Amazon, Flights, Hotels, Buses, Trains, Gift Vouchers, [OYO Rooms](https://l.cardinfo.in/oyo) and Compare & Shop on [Smartbuy](https://offers.smartbuy.hdfcbank.com)
 - **Period**: 1 January 2020 to 31 January 2020
 - **Maximum Cap**:
   - HDFC Infinia: 25,000 reward points
@@ -53,7 +53,7 @@ Diners 10X Rewards program has been renewed till 31 January 2020.
 
 ### Bottomline
 
-Addition of OYO Rooms on SmartBuy portal is a welcome move by HDFC Bank. In October 2019 only, they have enabled [Gyfter on SmartBuy](/10x-rewards-on-gift-vouchers-using-hdfc-bank-credit-cards/) platform. This clearly shows that HDFC Bank is quite serious about SmartBuy program and I speculate that many more brands would be added under soon.
+Addition of [OYO Rooms](https://l.cardinfo.in/oyo) on SmartBuy portal is a welcome move by HDFC Bank. In October 2019 only, they have enabled [Gyfter on SmartBuy](/10x-rewards-on-gift-vouchers-using-hdfc-bank-credit-cards/) platform. This clearly shows that HDFC Bank is quite serious about SmartBuy program and I speculate that many more brands would be added under soon.
 
 Below table summarizes the reward rate of some popular HDFC Bank credit cards with 10X Program.
 
@@ -118,6 +118,6 @@ Below table summarizes the reward rate of some popular HDFC Bank credit cards wi
 
 33% reward rate on HDFC Bank Infinia and Diners Club Black credit card is insane and undoubtedly one of the best in the world. Hence keep reaping the benefits of 10X Program till it's active.
 
-**Update:** HDFC Bank has disabled OYO Rooms from the SmartBuy portal.
+**Update:** HDFC Bank has disabled [OYO Rooms](https://l.cardinfo.in/oyo) from the SmartBuy portal.
 
-_What do you think of addition of OYO Rooms to SmartBuy portal? Which other partners would you like to see on SmartBuy platform? Let me know in comments below._
+_What do you think of addition of [OYO Rooms](https://l.cardinfo.in/oyo) to SmartBuy portal? Which other partners would you like to see on SmartBuy platform? Let me know in comments below._
