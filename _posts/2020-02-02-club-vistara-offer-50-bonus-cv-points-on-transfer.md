@@ -8,9 +8,9 @@ image: /assets/images/club-vistara-points-transfer-offer.jpg
 
 Club Vistara has announced Points Transfer Offer wherein it's providing up to 50% bonus CV points on transferring points from their points transfer partners. The current points transfer partners include American Express (Amex), Axis Bank, HDFC Bank (Diners Club Credit Cards only), IndusInd Bank and Yes Bank.
 
-Club Vistara is emerging as the most prominent airline loyalty program in India after the sad demise of Jet Airways. Though the domestic connectivity is Air Vistara is not that great, it's improving steadily day by day. Their connectivity is quite good from Delhi and Mumbai and they are working on other sectors.
+Club Vistara is emerging as the most prominent airline loyalty program in India after the sad demise of Jet Airways. Though the domestic connectivity is [Air Vistara](https://l.cardinfo.in/vistara) is not that great, it's improving steadily day by day. Their connectivity is quite good from Delhi and Mumbai and they are working on other sectors.
 
-Air Vistara has been expanding the points transfer partners too and last quarter only they added American Express and Yes Bank Credit Cards.
+[Air Vistara](https://l.cardinfo.in/vistara) has been expanding the points transfer partners too and last quarter only they added American Express and Yes Bank Credit Cards.
 
 {% include image.html image="club-vistara-points-transfer-partners.jpg" alt="Club Vistara Points Transfer Partners" class="img-center mb-3" %}
 
@@ -89,6 +89,6 @@ If you hold credit cards of above conversion partners, you can seamlessly conver
 
 This is a fantastic offer to squeeze extra value from your credit card reward points. As illustrated [here](/new-restriction-on-hdfc-bank-regalia-and-diners-clubmiles-credit-card-rewards-redemption/#air-miles-vs-reward-points), it very easy to extract value up to Rs. 1 from 1 CV Point. This offers further enhances the value of 1 CV point to Rs. 1.50 which is quite amazing.
 
-If you stay in metro cities where connectivity of Vistara is quite good, it's a no brainer to go for this offer. However note that CV Points are valid only for 3 years and make sure you utilize them within this period.
+If you stay in metro cities where connectivity of [Air Vistara](https://l.cardinfo.in/vistara) is quite good, it's a no brainer to go for this offer. However note that CV Points are valid only for 3 years and make sure you utilize them within this period.
 
 _How has been your experience of flying with Air Vistara? Are you planning to transfer your credit card points to CV Points? Let me know by leaving a comment below._
