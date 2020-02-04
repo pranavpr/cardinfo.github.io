@@ -69,7 +69,7 @@ Those who are not aware, HDFC Infinia and Diners Club Black, both are super prem
   <tr>
     <td> 10X reward points </td>
   	<td> SmartBuy Portal </td>
-    <td> SmartBuy Portal and partner brands <ul><li>Myntra</li><li> Swiggy</li><li> BookMyShow</li><li> Zoomcar</li><li> Godrej Nature’s Basket</li><li> Ola </li><li> FirstCry </li></ul></td>
+    <td> SmartBuy Portal and partner brands <ul><li>Myntra</li><li> [Swiggy](https://l.cardinfo.in/swiggy)</li><li> Zoomcar</li><li> Ola </li><li> FirstCry </li></ul></td>
   </tr>
   <tr>
     <td> 2X reward points </td>

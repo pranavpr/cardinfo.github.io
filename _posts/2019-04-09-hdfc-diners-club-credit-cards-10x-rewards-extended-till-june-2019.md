@@ -6,7 +6,7 @@ image: /assets/images/hdfc-diners-club-credit-card-10x-rewards.jpg
 tags: [expired]
 ---
 
-HDFC has, yet again, extended the 10X reward points on Diners Club Credit Cards till 30 June 2019. However this time they have replaced Zomato with Swiggy and Furlenco with Redbus for 10X partners. Spends on HDFC SmartBuy portal continue to earn 10X points as usual.
+HDFC has, yet again, extended the 10X reward points on Diners Club Credit Cards till 30 June 2019. However this time they have replaced Zomato with [Swiggy](https://l.cardinfo.in/swiggy) and Furlenco with Redbus for 10X partners. Spends on HDFC SmartBuy portal continue to earn 10X points as usual.
 
 ## Offer Details
 

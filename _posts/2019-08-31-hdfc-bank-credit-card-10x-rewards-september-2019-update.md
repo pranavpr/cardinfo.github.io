@@ -9,6 +9,7 @@ tags: [card-offers]
 
 HDFC Bank has made some changes to Smartbuy and Diners 10X rewards program for September 2019. Let's see what those changes are.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -39,7 +40,7 @@ Payzapp, which was added in [August 2019](/hdfc-diners-club-10x-rewards-program-
 
 - **Offer**: 10X reward points on HDFC Diners Club Credit Cards for purchases made on 10X partners
 - **Period**: 1 September 2019 to 31 December 2019
-- **Partners**: Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry
+- **Partners**: Myntra, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry
 - **Maximum Reward Points**:
   - Diners Rewardz: 2,000
   - Diners Clubmiles/Premium: 5,000

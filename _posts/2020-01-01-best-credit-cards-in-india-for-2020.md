@@ -122,7 +122,7 @@ Newly launched [HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-dine
 - Annual Memberships of Zomato Gold, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star on spending Rs. 5 Lakhs in previous year
 - Reward Rate:
   - 4 reward points per Rs. 150 spent, 1.3% reward rate
-  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
+  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
 - Monthly Benefits: Ola Select membership, BookMyShow or TataCLiQ voucher worth Rs. 500 on achieving a monthly spend of Rs. 40,000
 - Lounge Access: 12 complimentary airport lounge access to 1000+ Lounges in India and worldwide for primary and add-on card members
 - 2 complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around the world

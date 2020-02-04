@@ -61,7 +61,7 @@ You can make this card lifetime free by opting for one of the follwoing while ap
 
 {% include image.html image="american-express-smartearn-credit-card.jpg" alt="American Express SmartEarn Credit Card" class="cc-center mb-3" %}
 
-American Express SmartEarn Credit Card provides 10X Membership Rewards Points on Flipkart and Uber and earn 5X Membership Rewards Points on Amazon, Swiggy, BookMyShow and more. Amex keeps on running lucrative merchant offers from time to time. However note that acceptance of Amex is still not that great and you should always carry a backup Visa/MasterCard.
+American Express SmartEarn Credit Card provides 10X Membership Rewards Points on Flipkart and Uber and earn 5X Membership Rewards Points on Amazon, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow and more. Amex keeps on running lucrative merchant offers from time to time. However note that acceptance of Amex is still not that great and you should always carry a backup Visa/MasterCard.
 
 - Eligibility:
   - Salaried: Annual income > Rs. 4.5 Lakhs
@@ -69,7 +69,7 @@ American Express SmartEarn Credit Card provides 10X Membership Rewards Points on
 - Annual Fee: Rs. 495 + GST, waived on spending Rs. 40,000 or more in previous year
 - Reward Rate:
   - 10X Membership Rewards Points on Flipkart and Uber, 5% reward rate
-  - 5X Membership Rewards Points on Amazon, Swiggy, BookMyShow, PVR, Myntra, Jabong, Grofers, Big Bazaar, 2.5% reward rate
+  - 5X Membership Rewards Points on Amazon, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PVR, Myntra, Jabong, Grofers, Big Bazaar, 2.5% reward rate
   - 1 Membership Rewards Point for every Rs. 50 spent on other merchants
 
 ### 4. HSBC Cashback Credit Card
@@ -82,11 +82,11 @@ HSBC Cashback Credit Card provides unlimited cashback of 1.5% on online transact
 - Joining Fee: Nil
 - Renewal Fee: Rs. 750, reversed on annual spends on Rs. 1 Lakh
 - Introductory Offers:
-  - 20% off on Swiggy orders above Rs. 400 (Discount up to Rs. 100, valid once per month per user)
+  - 20% off on [Swiggy](https://l.cardinfo.in/swiggy) orders above Rs. 400 (Discount up to Rs. 100, valid once per month per user)
   - 5% discount on Amazon spends of Rs. 1,000 or above (Maximum discount of Rs. 250 per card per month, no restriction on number of transactions)
 - Welcome Benefits:
   - 2 Airport Lounge Access to Domestic and International lounges or 2 Meal vouchers of INR400 each for use at Airport restaurants
-  - Rs. 250 Swiggy voucher within 60 days of completing first transaction on the HSBC Credit Card
+  - Rs. 250 [Swiggy](https://l.cardinfo.in/swiggy) voucher within 60 days of completing first transaction on the HSBC Credit Card
 - Reward Rate:
   - 1.5% cashback on online spends, excluding wallet load
   - 1% cashback on offline spends

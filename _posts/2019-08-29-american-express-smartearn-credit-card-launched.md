@@ -30,7 +30,7 @@ American Express SmartEarn Credit Card provides accelerated reward rate of up to
 </tr>
 <tr>
 	<td> 5X Rewards </td>
-	<td> Amazon, Myntra, Swiggy, Jabong, BookMyShow, PVR, Reliance Fresh, More, Big Bazaar, DMart & Grofers </td>
+	<td> Amazon, Myntra, [Swiggy](https://l.cardinfo.in/swiggy), Jabong, BookMyShow, PVR, Reliance Fresh, More, Big Bazaar, DMart & Grofers </td>
     <td> ~2.5% </td>
     <td> 250 points per month </td>
 </tr>

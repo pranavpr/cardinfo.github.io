@@ -13,7 +13,7 @@ HDFC has extended the 10X Rewards program on Diners Club Credit Cards till Decem
 
 - **Offer**: 10X reward points on HDFC Diners Club Credit Cards for purchases made on 10X partners
 - **Period**: 1 August 2019 to 31 December 2019
-- **Partners**: Myntra, Swiggy, BookMyShow, PayZapp, Zoomcar & Godrej Nature’s Basket
+- **Partners**: Myntra, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PayZapp, Zoomcar & Godrej Nature’s Basket
 - **Maximum Reward Points**:
   - Diners Rewardz: 2000
   - Diners Clubmiles/Premium: 5000
