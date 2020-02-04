@@ -7,7 +7,7 @@ image: /assets/images/yes-cart.jpg
 tags: [expired]
 ---
 
-Yes Bank launched a compare a buy portal, [Yes Cart](https://yescart.yesbank.in), for Yes Bank credit and debit card holders. Currently there are four partner merchants, _viz._, Amazon, Flipkart, Myntra and Tata Cliq on Yes Cart. Shopping on these partner merchants using your Yes Bank credit and debit card will entitle you for accelerated reward points and cash back.
+Yes Bank launched a compare a buy portal, [Yes Cart](https://yescart.yesbank.in), for Yes Bank credit and debit card holders. Currently there are four partner merchants, _viz._, Amazon, Flipkart, [Myntra](https://l.cardinfo.in/myntra) and Tata Cliq on Yes Cart. Shopping on these partner merchants using your Yes Bank credit and debit card will entitle you for accelerated reward points and cash back.
 
 ### Offer Details
 

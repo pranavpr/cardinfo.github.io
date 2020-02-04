@@ -19,7 +19,7 @@ Many a times I have been asked which credit card is best for someone who has jus
 
 {% include image.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" class="cc-center mb-3" %}
 
-[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) provides 5% cashback on Flipkart, Myntra and 4% cashback on preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
+[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) provides 5% cashback on Flipkart, [Myntra](https://l.cardinfo.in/myntra) and 4% cashback on preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
 
 - Eligibility:
   - Salary account with Axis Bank: Net Monthly income > Rs. 15,000
@@ -28,7 +28,7 @@ Many a times I have been asked which credit card is best for someone who has jus
 - Joining fee: Rs. 500 + GST, Flipkart voucher worth Rs. 500 provided
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
-  - 5% cashback on Flipkart, Myntra and 2GUD
+  - 5% cashback on Flipkart, [Myntra](https://l.cardinfo.in/myntra) and 2GUD
   - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
   - 1.5% cashback on all other merchants
 - 4 complimentary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
@@ -69,7 +69,7 @@ American Express SmartEarn Credit Card provides 10X Membership Rewards Points on
 - Annual Fee: Rs. 495 + GST, waived on spending Rs. 40,000 or more in previous year
 - Reward Rate:
   - 10X Membership Rewards Points on Flipkart and Uber, 5% reward rate
-  - 5X Membership Rewards Points on Amazon, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PVR, Myntra, Jabong, Grofers, Big Bazaar, 2.5% reward rate
+  - 5X Membership Rewards Points on Amazon, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PVR, [Myntra](https://l.cardinfo.in/myntra), Jabong, Grofers, Big Bazaar, 2.5% reward rate
   - 1 Membership Rewards Point for every Rs. 50 spent on other merchants
 
 ### 4. HSBC Cashback Credit Card
@@ -173,12 +173,12 @@ RBL Bank Shoprite Credit Card provides 5% reward rate on groceries and 2.5% rewa
 
 {% include image.html image="standard-chartered-digismart-credit-card.jpg" alt="Standard Chartered DigiSmart Credit Card" class="cc-center mb-3" %}
 
-Standard Chartered generally issues cards very easily and their approval rate is quite high. Standard Chartered DigiSmart Credit Card provides instant discounts and cashbacks on online spends on Myntra, Yatra, Ola, Zomato, Grofers and Inox.
+Standard Chartered generally issues cards very easily and their approval rate is quite high. Standard Chartered DigiSmart Credit Card provides instant discounts and cashbacks on online spends on [Myntra](https://l.cardinfo.in/myntra), Yatra, Ola, Zomato, Grofers and Inox.
 
 - Eligibility: Annual income > Rs. 4 Lakhs
 - Fee: Rs. 49 per month, waived off on spending Rs. 5,000 in previous month
 - Reward Rate:
-  - 20% discount on Myntra, limited to Rs. 700 per month
+  - 20% discount on [Myntra](https://l.cardinfo.in/myntra), limited to Rs. 700 per month
   - 20% discount up to Rs. 750 on Yatra for domestic flights, once per quarter
   - 15% cashback on Ola, limited to Rs. 600 per month
   - 10% discount on Zomato, max. discount Rs. 150 limited to 5 times in a month

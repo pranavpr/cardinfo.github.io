@@ -8,6 +8,7 @@ image: /assets/images/amazon-pay-icici-bank-credit-card-vs-flipkart-axis-bank-cr
 
 The two e-commerce giants of India: [Amazon](/amazon-pay-icici-bank-credit-card-review/) & [Flipkart](/flipkart-axis-bank-credit-card-launched/), both launched their co-branded credit cards recently. Both these cards are entry level cards and provide preferential reward rate on shopping on their respective portals. Being very similar in nature, the card users are confused about choosing the right one. Hence, in this article, let's compare the two to help you decide the one best suited for your lifestyle.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -50,7 +51,7 @@ Amazon Pay ICICI Bank Credit Card has no joining or renewal fees and is life tim
 <tbody>
 <tr>
 	<td> Rs. 700 Amazon Pay gift card for prime members, Rs. 500 Amazon Pay gift card for non-prime members</td>
-	<td> Rs. 500 Flipkart Gift voucher, welcome promo codes for Gaana, Goibibo, Makemytrip, Myntra & Urban Clap </td>
+	<td> Rs. 500 Flipkart Gift voucher, welcome promo codes for Gaana, Goibibo, Makemytrip, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> & Urban Clap </td>
 </tr>
 </tbody>
 </table>
@@ -76,7 +77,7 @@ In this category, both cards are equally good and are tied for the position.
 <tr>
     <td> Other</td>
 	<td> 5%/3% for prime/non-prime on Amazon.in, 2% for digitally fulfilled categories & physical gift cards, 2% on paying through Amazon Pay at partner merchants</td>
-	<td> 5% on Flipkart, Myntra and 2GUD, 4% on MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap</td>
+	<td> 5% on Flipkart, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> and 2GUD, 4% on MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap</td>
 </tr>
 <tr>
     <td> Fulfillment</td>

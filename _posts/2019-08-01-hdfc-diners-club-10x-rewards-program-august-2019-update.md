@@ -7,13 +7,13 @@ image: /assets/images/hdfc-diners-club-10x-rewards-program-august-2019-update.jp
 tags: [expired]
 ---
 
-HDFC has extended the 10X Rewards program on Diners Club Credit Cards till December 2019. This extension comes with introduction of new partners and departure of some old ones. Myntra, PayZapp, Zoomcar & Godrej Nature’s Basket are new additions to this program and Uber, Tata Cliq, BigBasket, SOTC & Furlenco have been removed. Also note that this offer in addition to [SmartBuy 10X Rewards Program](/hdfc-smartbuy-10x-program-july-2019-update/) which has also been extended till 31 August 2019.
+HDFC has extended the 10X Rewards program on Diners Club Credit Cards till December 2019. This extension comes with introduction of new partners and departure of some old ones. [Myntra](https://l.cardinfo.in/myntra), PayZapp, Zoomcar & Godrej Nature’s Basket are new additions to this program and Uber, Tata Cliq, BigBasket, SOTC & Furlenco have been removed. Also note that this offer in addition to [SmartBuy 10X Rewards Program](/hdfc-smartbuy-10x-program-july-2019-update/) which has also been extended till 31 August 2019.
 
 ## Offer Details
 
 - **Offer**: 10X reward points on HDFC Diners Club Credit Cards for purchases made on 10X partners
 - **Period**: 1 August 2019 to 31 December 2019
-- **Partners**: Myntra, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PayZapp, Zoomcar & Godrej Nature’s Basket
+- **Partners**: [Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PayZapp, Zoomcar & Godrej Nature’s Basket
 - **Maximum Reward Points**:
   - Diners Rewardz: 2000
   - Diners Clubmiles/Premium: 5000

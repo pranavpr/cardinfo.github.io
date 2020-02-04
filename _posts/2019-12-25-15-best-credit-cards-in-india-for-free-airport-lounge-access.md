@@ -46,7 +46,7 @@ ICICI Bank HPCL Coral American Express Credit Card, though a fuel card, also pro
 - Annual Fee: Rs. 500
   - Annual fee is waived off on spending Rs. 2 Lakhs
 - Rewards
-  - 5% cashback on Flipkart, Myntra and 2 GUD
+  - 5% cashback on Flipkart, [Myntra](https://l.cardinfo.in/myntra) and 2 GUD
   - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
   - 1.5% on all other merchants
 

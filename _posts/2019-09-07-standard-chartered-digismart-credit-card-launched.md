@@ -10,13 +10,13 @@ Standard Chartered has launched DigiSmart credit card targeting rapidly growing 
 
 ### Benefits
 
-Standard Chartered DigiSmart credit card provides instant discounts and cashbacks on online spends on Myntra, Yatra, Ola, Zomato, Grofers and Inox.
+Standard Chartered DigiSmart credit card provides instant discounts and cashbacks on online spends on [Myntra](https://l.cardinfo.in/myntra), Yatra, Ola, Zomato, Grofers and Inox.
 
 {% include image.html image="standard-chartered-digismart-credit-card-promotion.jpg" alt="Standard Chartered DigiSmart Credit Card Promotion" class="img-center" %}
 
 #### Myntra
 
-- 20% instant discount
+- 20% instant discount on [Myntra](https://l.cardinfo.in/myntra)
 - Minimum transaction size: Not Applicable
 - Frequency: Once per month
 - Maximum discount: Rs. 700 per month

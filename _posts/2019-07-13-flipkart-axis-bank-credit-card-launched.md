@@ -23,7 +23,7 @@ Flipkart in partnership with Axis Bank launched a co-branded credit card, [Flipk
 </thead>
 <tbody>
 <tr>
-	<td> Flipkart, Myntra and 2GUD </td>
+	<td> Flipkart, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> and 2GUD </td>
 	<td> 5% </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ Surprisingly there is no mention of waiver of renewal fee on meeting annual spen
 - Joining Fee: Rs. 500
 - Renewal Fee: Rs. 500
 
-The joining fee is compensated by Rs. 500 Flipkart voucher which they are offering if a transaction is made on card within 30 days of issuance. They are also offering welcome promo codes for Gaana, Goibibo, Makemytrip, Myntra and Urban Clap.
+The joining fee is compensated by Rs. 500 Flipkart voucher which they are offering if a transaction is made on card within 30 days of issuance. They are also offering welcome promo codes for Gaana, Goibibo, Makemytrip, [Myntra](https://l.cardinfo.in/myntra) and Urban Clap.
 
 ### Eligibility
 
@@ -74,6 +74,6 @@ They will call you back within 2 hours and ask your salary details to confirm th
 
 ### Bottomline
 
-I feel this is a decent entry level card from Flipkart & Axis Bank. Default reward rate of 1.5% is better than [Amazon](/amazon-pay-icici-bank-credit-card-review/), [Ola](/ola-in-association-with-sbi-card-launches-ola-money-sbi-credit-card/) and [Paytm](/paytm-launches-paytm-first-credit-card-in-india/) co-branded credit cards. The domestic lounge access is cherry on top which none of the cards in this segment provide. It's a no brainer to go for this card if you're a frequent shopper on Flipkart and Myntra.
+I feel this is a decent entry level card from Flipkart & Axis Bank. Default reward rate of 1.5% is better than [Amazon](/amazon-pay-icici-bank-credit-card-review/), [Ola](/ola-in-association-with-sbi-card-launches-ola-money-sbi-credit-card/) and [Paytm](/paytm-launches-paytm-first-credit-card-in-india/) co-branded credit cards. The domestic lounge access is cherry on top which none of the cards in this segment provide. It's a no brainer to go for this card if you're a frequent shopper on Flipkart and [Myntra](https://l.cardinfo.in/myntra).
 
 _What's your view on Flipkart Axis Bank Credit Card? How does it fare against Amazon Pay ICICI Credit Card? Let me know in comments below._

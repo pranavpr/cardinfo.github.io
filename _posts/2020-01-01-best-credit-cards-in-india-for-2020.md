@@ -20,14 +20,14 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 #### 1. Flipkart Axis Bank Credit Card
 
-{% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%-5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros="Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on Flipkart, Myntra & 2GUD<br />4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access" cons="Not lifetime free <br />Clunky application process" %}
+{% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%-5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros="Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on Flipkart, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> & 2GUD<br />4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access" cons="Not lifetime free <br />Clunky application process" %}
 
-[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) is a lifestyle co-branded credit card which provides accelerated cashback on Flipkart, Myntra and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
+[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) is a lifestyle co-branded credit card which provides accelerated cashback on Flipkart, [Myntra](https://l.cardinfo.in/myntra) and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
 
 - Joining fee: Rs. 500 + GST, Flipkart voucher worth Rs. 500 provided
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
-  - 5% cashback on Flipkart, Myntra and 2GUD
+  - 5% cashback on Flipkart, [Myntra](https://l.cardinfo.in/myntra) and 2GUD
   - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
   - 1.5% cashback on all other merchants
 - 4 complimentary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
@@ -122,7 +122,7 @@ Newly launched [HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-dine
 - Annual Memberships of Zomato Gold, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star on spending Rs. 5 Lakhs in previous year
 - Reward Rate:
   - 4 reward points per Rs. 150 spent, 1.3% reward rate
-  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
+  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
 - Monthly Benefits: Ola Select membership, BookMyShow or TataCLiQ voucher worth Rs. 500 on achieving a monthly spend of Rs. 40,000
 - Lounge Access: 12 complimentary airport lounge access to 1000+ Lounges in India and worldwide for primary and add-on card members
 - 2 complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around the world

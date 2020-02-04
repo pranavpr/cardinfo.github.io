@@ -62,7 +62,7 @@ To know the latest subscription offerings from Time Prime Membership, check [thi
 Times Prime Membership provides exclusive coupons for many partner merchants enabling you to get great deals. The offers are again dynamic in nature and at the time of writing this article, some of the notable offers are listed below:
 
 - Big Basket: Rs. 100 discount every month on minimum order of Rs. 1,000
-- Myntra: 15% discount up to Rs. 750 on minimum order of Rs. 2,000
+- [Myntra](https://l.cardinfo.in/myntra): 15% discount up to Rs. 750 on minimum order of Rs. 2,000
 - 1mg: 30% discount on medicines every month
 - Zoomcar: 20% off on every booking
 - Yatra: Discount of Rs. 3,000 on international flights booking of minimum Rs. 30,000 and 25% off upto Rs. 3,000 on hotel bookings

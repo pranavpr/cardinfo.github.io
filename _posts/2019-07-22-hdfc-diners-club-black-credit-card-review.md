@@ -59,7 +59,7 @@ It's quite evident that HDFC Bank is luring the cardmembers for spending more by
 - 1 reward point ~ Rs. 0.50 if redeemed for cash
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
-- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Train Tickets, Hotels & Flights) and partner brands (Myntra, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
+- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Train Tickets, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
 - Maxcap on bonus reward points
   - 15000 bonus reward points on Smartbuy
   - 25000 bonus reward points on partner brands
