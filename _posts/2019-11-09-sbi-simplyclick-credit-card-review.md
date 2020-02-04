@@ -13,6 +13,7 @@ SBI SimplyCLICK Credit Card is one the [best credit cards for first timers in In
 
 SBI SimplyCLICK Credit Card has an attractive design with light green abstract markings on a deep green background. The card is issued on both Visa and MasterCard platform and is enabled for contactless payments.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -82,7 +83,7 @@ Though SBI SimplyCLICK Credit Card provides great benefits, there are some drawb
 
 ### Verdict
 
-SBI SimplyCLICK Credit Card is really a good card for those who spend a lot online. Bonus reward points on wallet loading is something which not many credit cards provide. SBI Card has been aggressive these days and has partnered with Flipkart and Amazon during their yearly festive sales. I would suggest you to have one SBI Credit Card in your kitty just for these exclusive online offers and there is no better offering than SimplyCLICK for online spends.
+SBI SimplyCLICK Credit Card is really a good card for those who spend a lot online. Bonus reward points on wallet loading is something which not many credit cards provide. SBI Card has been aggressive these days and has partnered with [Flipkart](https://l.cardinfo.in/flipkart) and Amazon during their yearly festive sales. I would suggest you to have one SBI Credit Card in your kitty just for these exclusive online offers and there is no better offering than SimplyCLICK for online spends.
 
 {% include star-rating.html rating=3.5 rewards=4.5 fees=4 features=2 %}
 

@@ -48,7 +48,7 @@ Yes First Exclusive comes with all bells and whistles a super premium credit car
 - 12 reward points per Rs. 100 spent on Travel Agencies & Tour Operators, Domestic Airlines and Dining, 3% reward rate
 - 6 Reward Points per Rs. 100 spent on all other categories, 1.5% reward rate
 - 25,000 bonus reward points on spending Rs. 20 Lakhs in a year
-- 5X reward point on shopping at Amazon/ Flipkart/ [Myntra](https://l.cardinfo.in/myntra)/ TataCLIQ using [Yes Cart](https://yescart.yesbank.in/)
+- 5X reward point on shopping at Amazon/ [Flipkart](https://l.cardinfo.in/flipkart)/ [Myntra](https://l.cardinfo.in/myntra)/ TataCLIQ using [Yes Cart](https://yescart.yesbank.in/)
 
 Reward points can be redeemed on their dedicated reward portal [Yes Rewardz](https://www.yesrewardz.com/CreditCard/). Earlier there was an option to redeem the reward points for Amazon vouchers, which they have disabled now. This was the best redemption option that was available in my opinion. However there are still some good options available like Central, Big Bazaar, Reliance Digital, Crome, Lifestyle, Pentaloons, Cleartrip etc.
 
@@ -95,7 +95,7 @@ YES ASSIST, a dedicated concierge Service for following requests:
 Though this card comes with bunch of features, there are some drawbacks too which are outlined below:
 
 - Low reward rate: Earlier this card used to have a reward rate of 2.5% on all spends, but after [recent devaluation](/yes-bank-credit-cards-rewards-reduced/), they have reduced it significantly. It would be awesome if they reinstate the earlier reward rate.
-- Less redemption options in reward catalog: Their reward catalog is very limited with very few options to redeem from. If they can re-introduce Amazon/ Flipkart vouchers, it would be great.
+- Less redemption options in reward catalog: Their reward catalog is very limited with very few options to redeem from. If they can re-introduce Amazon/ [Flipkart](https://l.cardinfo.in/flipkart) vouchers, it would be great.
 - No travel partner for accelerated rewards on [Yes Cart](https://yescart.yesbank.in/): There are no travel partner for accelerated rewards on [Yes Cart](https://yescart.yesbank.in/). Also there is no option to redeem reward points for booking flights/ hotels. If they really want to compete with other players in market, they should introduce this feature ASAP.
 
 ### Verdict

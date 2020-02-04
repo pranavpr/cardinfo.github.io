@@ -6,7 +6,7 @@ categories: [Axis, News]
 image: /assets/images/flipkart-axis-bank-credit-card-launched.jpg
 ---
 
-Flipkart in partnership with Axis Bank launched a co-branded credit card, [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/), on 11th July 2019. This is the second attempt of both Flipkart and Axis Bank for a co-branded credit card. Their earlier attempt, Axis Bank Buzz Credit Card, has been a failure as this card never gained popularity due to low rewards and limited features.
+Flipkart in partnership with Axis Bank launched a co-branded credit card, [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/), on 11th July 2019. This is the second attempt of both [Flipkart](https://l.cardinfo.in/flipkart) and Axis Bank for a co-branded credit card. Their earlier attempt, Axis Bank Buzz Credit Card, has been a failure as this card never gained popularity due to low rewards and limited features.
 
 {% include image.html image="flipkart-axis-bank-credit-card-launch-event.jpg" alt="Flipkart Axis Bank Credit Card launched" class="img-center" %}
 
@@ -23,7 +23,7 @@ Flipkart in partnership with Axis Bank launched a co-branded credit card, [Flipk
 </thead>
 <tbody>
 <tr>
-	<td> Flipkart, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> and 2GUD </td>
+	<td> <a href="https://l.cardinfo.in/flipkart" target="_blank">Flipkart</a>, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> and 2GUD </td>
 	<td> 5% </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ Surprisingly there is no mention of waiver of renewal fee on meeting annual spen
 - Joining Fee: Rs. 500
 - Renewal Fee: Rs. 500
 
-The joining fee is compensated by Rs. 500 Flipkart voucher which they are offering if a transaction is made on card within 30 days of issuance. They are also offering welcome promo codes for Gaana, Goibibo, Makemytrip, [Myntra](https://l.cardinfo.in/myntra) and Urban Clap.
+The joining fee is compensated by Rs. 500 [Flipkart](https://l.cardinfo.in/flipkart) voucher which they are offering if a transaction is made on card within 30 days of issuance. They are also offering welcome promo codes for Gaana, Goibibo, Makemytrip, [Myntra](https://l.cardinfo.in/myntra) and Urban Clap.
 
 ### Eligibility
 
@@ -74,6 +74,6 @@ They will call you back within 2 hours and ask your salary details to confirm th
 
 ### Bottomline
 
-I feel this is a decent entry level card from Flipkart & Axis Bank. Default reward rate of 1.5% is better than [Amazon](/amazon-pay-icici-bank-credit-card-review/), [Ola](/ola-in-association-with-sbi-card-launches-ola-money-sbi-credit-card/) and [Paytm](/paytm-launches-paytm-first-credit-card-in-india/) co-branded credit cards. The domestic lounge access is cherry on top which none of the cards in this segment provide. It's a no brainer to go for this card if you're a frequent shopper on Flipkart and [Myntra](https://l.cardinfo.in/myntra).
+I feel this is a decent entry level card from [Flipkart](https://l.cardinfo.in/flipkart) & Axis Bank. Default reward rate of 1.5% is better than [Amazon](/amazon-pay-icici-bank-credit-card-review/), [Ola](/ola-in-association-with-sbi-card-launches-ola-money-sbi-credit-card/) and [Paytm](/paytm-launches-paytm-first-credit-card-in-india/) co-branded credit cards. The domestic lounge access is cherry on top which none of the cards in this segment provide. It's a no brainer to go for this card if you're a frequent shopper on [Flipkart](https://l.cardinfo.in/flipkart) and [Myntra](https://l.cardinfo.in/myntra).
 
 _What's your view on Flipkart Axis Bank Credit Card? How does it fare against Amazon Pay ICICI Credit Card? Let me know in comments below._

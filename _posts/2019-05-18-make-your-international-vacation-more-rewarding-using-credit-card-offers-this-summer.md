@@ -9,6 +9,7 @@ tags: [expired]
 
 Are you wondering which credit card is best for your international transactions during your upcoming summer vacation? Are you trying to minimize the impact of foreign currency markup for international transactions? Are you looking to maximize the reward rate on your credit card during your upcoming travel? If your answer to any of these questions is yes, then you have landed on the right webpage. Read on to find some really good offers on international and travel spends.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -175,12 +176,12 @@ Well minimum spend of Rs. 50,000 or more in a single bill is a bummer. Also you 
 
 ### IndusInd Bank Credit Cards
 
-IndusInd Bank is providing Flipkart vouchers worth Rs. 1000 when you spend Rs. 50,000 or more on travel category (Airlines, Railways & Hotel).
+IndusInd Bank is providing [Flipkart](https://l.cardinfo.in/flipkart) vouchers worth Rs. 1000 when you spend Rs. 50,000 or more on travel category (Airlines, Railways & Hotel).
 
-- **Offer**: Rs. 1000 Flipkart vouchers on spend of Rs. 50,000 or more on travel category (Airlines, Railways & Hotel)
+- **Offer**: Rs. 1000 [Flipkart](https://l.cardinfo.in/flipkart) vouchers on spend of Rs. 50,000 or more on travel category (Airlines, Railways & Hotel)
 - **Period**: 1 May 2019 to 31 May 2019
 - **Type**: Targeted, applicable only if you received communication over email or SMS
-- **Fulfillment**: Flipkart vouchers will be emailed by 31 July 2019 to eligible card members
+- **Fulfillment**: [Flipkart](https://l.cardinfo.in/flipkart) vouchers will be emailed by 31 July 2019 to eligible card members
 - **Source**: [Website](https://www.indusind.com/content/dam/indusind/PDF/SummerFiesta-2019-20-MCOTOFV.pdf)
 
 Note that is not a international spend offer and hence you can use this for domestic travel spends too. The T&C says "Summer Fiesta-Mastercard Travel Offer" and hence I believe it's applicable only on Mastercard variant of IndusInd Bank credit cards. This offer is over and above your existing reward rate and hence finally it translates to **2.5%** (assuming 0.5% of base reward rate) or more depending on card you hold.

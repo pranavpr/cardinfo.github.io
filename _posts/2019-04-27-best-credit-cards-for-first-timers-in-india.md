@@ -19,16 +19,16 @@ Many a times I have been asked which credit card is best for someone who has jus
 
 {% include image.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" class="cc-center mb-3" %}
 
-[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) provides 5% cashback on Flipkart, [Myntra](https://l.cardinfo.in/myntra) and 4% cashback on preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
+[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) provides 5% cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and 4% cashback on preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
 
 - Eligibility:
   - Salary account with Axis Bank: Net Monthly income > Rs. 15,000
   - Salary account with other Banks: Net Monthly income > Rs. 25,000
 - Self Employed: Net Monthly income > Rs. 50,000 or ITR > Rs. 6 Lakhs
-- Joining fee: Rs. 500 + GST, Flipkart voucher worth Rs. 500 provided
+- Joining fee: Rs. 500 + GST, [Flipkart](https://l.cardinfo.in/flipkart) voucher worth Rs. 500 provided
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
-  - 5% cashback on Flipkart, [Myntra](https://l.cardinfo.in/myntra) and 2GUD
+  - 5% cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and 2GUD
   - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
   - 1.5% cashback on all other merchants
 - 4 complimentary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)

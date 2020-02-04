@@ -51,7 +51,7 @@ Amazon Pay ICICI Bank Credit Card has no joining or renewal fees and is life tim
 <tbody>
 <tr>
 	<td> Rs. 700 Amazon Pay gift card for prime members, Rs. 500 Amazon Pay gift card for non-prime members</td>
-	<td> Rs. 500 Flipkart Gift voucher, welcome promo codes for Gaana, Goibibo, Makemytrip, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> & Urban Clap </td>
+	<td> Rs. 500 [Flipkart](https://l.cardinfo.in/flipkart) Gift voucher, welcome promo codes for Gaana, Goibibo, Makemytrip, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> & Urban Clap </td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +77,7 @@ In this category, both cards are equally good and are tied for the position.
 <tr>
     <td> Other</td>
 	<td> 5%/3% for prime/non-prime on Amazon.in, 2% for digitally fulfilled categories & physical gift cards, 2% on paying through Amazon Pay at partner merchants</td>
-	<td> 5% on Flipkart, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> and 2GUD, 4% on MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap</td>
+	<td> 5% on <a href="https://l.cardinfo.in/flipkart" target="_blank">Flipkart</a>, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> and 2GUD, 4% on MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap</td>
 </tr>
 <tr>
     <td> Fulfillment</td>
@@ -122,8 +122,8 @@ Flipkart Axis Bank Credit Card changes the game by providing the domestic airpor
 
 ### Bottomline
 
-Filpkart Axis Bank Credit Card wins over Amazon Pay ICICI Bank Credit Card due to higher universal reward rate and airport lounge access. However, before getting the card, you should introspect where you spend most: Amazon or Flipkart? It doesn't makes any sense to get a Flipkart co-branded credit card when you spend more on Amazon and vice-versa.
+Filpkart Axis Bank Credit Card wins over Amazon Pay ICICI Bank Credit Card due to higher universal reward rate and airport lounge access. However, before getting the card, you should introspect where you spend most: Amazon or [Flipkart](https://l.cardinfo.in/flipkart)? It doesn't makes any sense to get a [Flipkart](https://l.cardinfo.in/flipkart) co-branded credit card when you spend more on Amazon and vice-versa.
 
-{% include tip.html tip="If you shop primarily from Flipkart, get both the cards as Amazon Pay ICICI Bank Credit Card is life time free and is super easy to get."%}
+{% include tip.html tip="If you shop primarily from [Flipkart](https://l.cardinfo.in/flipkart), get both the cards as Amazon Pay ICICI Bank Credit Card is life time free and is super easy to get."%}
 
 _So which one you're going to get: Amazon Pay ICICI Bank Credit Card or Filpkart Axis Bank Credit Card? Let me know in comments below._

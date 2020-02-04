@@ -156,7 +156,7 @@ Note that to avail these benefits, credit card should have been used at least on
  
 Even IndusInd Iconia American Express Credit Card offers a great set of benefits and features, there are certain drawbacks too as outlined below:
  
-- Unattractive welcome benefits: Most of the brand gift vouchers offered as part of welcome benefits on this card are not so useful. IndusInd Bank should introduce better brands like Amazon/Flipkart for better redemption options.
+- Unattractive welcome benefits: Most of the brand gift vouchers offered as part of welcome benefits on this card are not so useful. IndusInd Bank should introduce better brands like Amazon/[Flipkart](https://l.cardinfo.in/flipkart) for better redemption options.
 - Limited airport lounge network: The complimentary airport lounge access on this card is limited to metro cities which is quite disappointing. I wish IndusInd Bank should expand it to other cities too for better coverage.
  
 ### Verdict

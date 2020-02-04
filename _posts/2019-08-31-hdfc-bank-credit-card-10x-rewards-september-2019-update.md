@@ -20,7 +20,7 @@ The validity of Smartbuy 10X program has been further extended to ~~31 October 2
 - **Offer**
   - 10X Reward Points on HDFC Bank Infinia, Diners Club and Regalia credit cards
   - 5% cash back on other HDFC Credit and Debit cards up to maximum of Rs. 1,000 per calendar month
-  - This covers Flights, Hotels, Flipkart/Amazon and Compare & Shop on [Smartbuy](https://offers.smartbuy.hdfcbank.com)
+  - This covers Flights, Hotels, [Flipkart](https://l.cardinfo.in/flipkart)/Amazon and Compare & Shop on [Smartbuy](https://offers.smartbuy.hdfcbank.com)
 - **Period**: 1 September 2019 – ~~31 October 2019~~ 30 November 2019
 - **Maximum Cap**:
   - HDFC Infinia: 25,000 reward points

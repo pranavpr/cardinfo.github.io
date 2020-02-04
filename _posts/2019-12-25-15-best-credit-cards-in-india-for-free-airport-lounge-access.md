@@ -42,7 +42,7 @@ ICICI Bank HPCL Coral American Express Credit Card, though a fuel card, also pro
   - Domestic: 4 per year
   - International: Nil
 - Joining Fee: Rs. 500
-  - Rs. 500 Flipkart voucher as welcome benefit
+  - Rs. 500 [Flipkart](https://l.cardinfo.in/flipkart) voucher as welcome benefit
 - Annual Fee: Rs. 500
   - Annual fee is waived off on spending Rs. 2 Lakhs
 - Rewards

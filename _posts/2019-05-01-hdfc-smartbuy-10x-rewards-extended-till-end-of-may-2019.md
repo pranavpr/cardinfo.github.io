@@ -13,7 +13,7 @@ HDFC 10X Reward Points program on [Smartbuy](https://offers.smartbuy.hdfcbank.co
 
 - 10X Reward Points on HDFC Bank Credit Cards
 - 10% Cashback on HDFC Debit Cards
-- This covers Flights, Hotels, Flipkart/Amazon and Compare & Shop on [Smartbuy](https://offers.smartbuy.hdfcbank.com)
+- This covers Flights, Hotels, [Flipkart](https://l.cardinfo.in/flipkart)/Amazon and Compare & Shop on [Smartbuy](https://offers.smartbuy.hdfcbank.com)
 - Offer Validity: 1 May 2019 – 31 May 2019
 - [Terms & Conditions](https://offers.smartbuy.hdfcbank.com/offer_details/409)
 
