@@ -8,6 +8,10 @@ image: /assets/images/american-express-smart-earn-credit-card-launched.jpg
 
 Amex to attract the masses has launched American Express SmartEarn Credit Card. This is an entry level lifestyle credit card with lower joining/renewal fees and lower threshold for spend based annual fee waiver. This is targeted towards beginners who want to add an Amex card to their wallet and yet don't want to spend a lot on fees.
 
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ### Rewards & Benefits
 
 American Express SmartEarn Credit Card provides accelerated reward rate of up to 10X on spends at partner merchants. Below table summarises the reward rate for different partner merchants for accelerated rewards:
