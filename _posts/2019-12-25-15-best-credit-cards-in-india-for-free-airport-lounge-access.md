@@ -47,7 +47,7 @@ ICICI Bank HPCL Coral American Express Credit Card, though a fuel card, also pro
   - Annual fee is waived off on spending Rs. 2 Lakhs
 - Rewards
   - 5% cashback on Flipkart, Myntra and 2 GUD
-  - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
+  - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
   - 1.5% on all other merchants
 
 [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) is one of the newest entrant in the market which provides complimentary domestic airport lounge access. Coupled with decent reward rate, this is a great card to have in your wallet.
@@ -276,7 +276,7 @@ The credit cards listed in this section provide unlimited airport lounge access 
   - Waived off on spending Rs. 15 Lakhs in a year
 - Rewards
   - 12 Axis eDGE reward points per Rs. 200 spent, 1.2% reward rate
-  - 2X Axis eDGE reward points on MakeMyTrip, Yatra & Goibibo, 2.4% reward rate
+  - 2X Axis eDGE reward points on [MakeMyTrip](https://l.cardinfo.in/makemytrip), Yatra & Goibibo, 2.4% reward rate
 - Forex Currency Markup: 2% + GST
 
 [Axis Bank Magnus Credit Card](/axis-bank-magnus-credit-card-launched/) though doesn't provide unlimited international lounge access, complimentary access to guests is noteworthy. This card also provides 8 complimentary VIP Assistance Services which can come in handy during travel.

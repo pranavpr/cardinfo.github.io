@@ -48,7 +48,7 @@ HDFC Diners Club Privilege Credit Card comes with following complimentary annual
 
 - Zomato Gold
 - Amazon Prime
-- MakeMyTrip Double Black
+- [MakeMyTrip](https://l.cardinfo.in/makemytrip) Double Black
 - Times Prime
 - BB Star
 

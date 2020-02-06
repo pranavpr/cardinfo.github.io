@@ -46,7 +46,7 @@ HDFC Diners Club Black Credit Card comes with following complimentary annual mem
 - Forbes Digital subscription
 - Zomato Gold
 - Amazon Prime
-- MakeMyTrip Double Black
+- [MakeMyTrip](https://l.cardinfo.in/makemytrip) Double Black
 - Times Prime
 
 Above annual memberships are part of welcome benefits and can be availed upon completing the first transaction on the card. These memberships would be renewed for card members who achieve an annual spend milestone of Rs. 8 Lakhs at the time of Card Anniversary.

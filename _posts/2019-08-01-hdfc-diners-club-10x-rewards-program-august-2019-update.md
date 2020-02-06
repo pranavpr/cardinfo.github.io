@@ -24,7 +24,7 @@ HDFC has extended the 10X Rewards program on Diners Club Credit Cards till Decem
 - **Fulfillment**: Incremental 9X Rewards will be posted within 2 days from the date of settlement of the transaction
 - **Source**: [Website](https://www.hdfcbankdinersclub.com/privilege)
 
-Addition of PayZapp to 10X program is certainly a welcome move as it can be used to pay utility bills and rent. Also it can be used for payment on other websites also which have PayZapp as payment method enabled e.g. BigBasket, MakeMyTrip, Yatra, PVR, Domino's, Pizza Hut, KFC etc. Removal of Uber, Tata Cliq and BigBasket with no equivalent replacement is certainly disappointing. However the best news is 10X program is going to continue for next five months with it's unmatched reward rate. So make best use of this program while it lasts.
+Addition of PayZapp to 10X program is certainly a welcome move as it can be used to pay utility bills and rent. Also it can be used for payment on other websites also which have PayZapp as payment method enabled e.g. BigBasket, [MakeMyTrip](https://l.cardinfo.in/makemytrip), Yatra, PVR, Domino's, Pizza Hut, KFC etc. Removal of Uber, Tata Cliq and BigBasket with no equivalent replacement is certainly disappointing. However the best news is 10X program is going to continue for next five months with it's unmatched reward rate. So make best use of this program while it lasts.
 
 **Update**: Read about the September 2019 update to this program [here](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/).
 

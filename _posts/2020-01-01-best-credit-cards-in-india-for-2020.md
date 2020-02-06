@@ -20,7 +20,7 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 #### 1. Flipkart Axis Bank Credit Card
 
-{% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%-5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros="Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on Flipkart, Myntra & 2GUD<br />4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access" cons="Not lifetime free <br />Clunky application process" %}
+{% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%-5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros="Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on Flipkart, Myntra & 2GUD<br />4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access" cons="Not lifetime free <br />Clunky application process" %}
 
 [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) is a lifestyle co-branded credit card which provides accelerated cashback on Flipkart, Myntra and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
 
@@ -28,7 +28,7 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
   - 5% cashback on Flipkart, Myntra and 2GUD
-  - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
+  - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
   - 1.5% cashback on all other merchants
 - 4 complimentary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
 
@@ -222,7 +222,7 @@ Super Premium cards are not only hard to get but also require really high relati
 - Reward Rate:
   - 3.3% (normal spends) - 33% (using [HDFC SmartBuy 10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/))
   - 2X reward points on weekend dining, 6.6% reward rate
-- Complimentary annual memberships: Club Marriott, Forbes Digital subscription, Zomato Gold, Amazon Prime, MakeMyTrip Double Black, Times Prime on spending Rs. 8 Lakhs in previous year
+- Complimentary annual memberships: Club Marriott, Forbes Digital subscription, Zomato Gold, Amazon Prime, [MakeMyTrip](https://l.cardinfo.in/makemytrip) Double Black, Times Prime on spending Rs. 8 Lakhs in previous year
 - Monthly Benefits: Vouchers worth Rs. 1,000 on achieving a monthly spend of Rs. 80,000
 - Lounge Access: Unlimited airport lounge access to 1000+ lounges in India and worldwide for primary as well as add-on card members
 - Lower foreign currency markup of 1.99%
@@ -253,8 +253,8 @@ Standard Chartered Ultimate Credit Card is the elitist offering from Standard Ch
 
 - Joining Fee: Rs. 5,000 + GST
 - Renewal Fee: Rs. 5,000 + GST
-- Welcome Bonus: Rs. 10,000 cashback from MakeMyTrip
-- Reward Rate: 3.3%, can be redeemed for gift vouchers of Amazon, Flipkart, Lifestyle, Big Bazaar, MakeMyTrip, BookMyShow etc. (depending upon availability on their reward redemption website)
+- Welcome Bonus: Rs. 10,000 cashback from [MakeMyTrip](https://l.cardinfo.in/makemytrip)
+- Reward Rate: 3.3%, can be redeemed for gift vouchers of Amazon, Flipkart, Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip), BookMyShow etc. (depending upon availability on their reward redemption website)
 - Lounge Access:
   - International: 1 free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
   - Domestic: 4 per quarter through Visa/Mastercard Card Lounge program

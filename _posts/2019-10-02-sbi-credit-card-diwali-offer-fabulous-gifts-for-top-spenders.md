@@ -6,7 +6,7 @@ categories: [SBI Card, Card Offers]
 image: /assets/images/sbi-credit-card-diwali-offer-2019.jpg
 ---
 
-SBI Card announced the "India Ka Diwali Offer" today on their credit cards. Under this offer, SBI Card is providing gifts to top spenders hourly, daily and weekly. Apart from this, there is also a mega prize of MakeMyTrip voucher worth Rs. 1 Lakh for top 12 spenders during the offer period.
+SBI Card announced the "India Ka Diwali Offer" today on their credit cards. Under this offer, SBI Card is providing gifts to top spenders hourly, daily and weekly. Apart from this, there is also a mega prize of [MakeMyTrip](https://l.cardinfo.in/makemytrip) voucher worth Rs. 1 Lakh for top 12 spenders during the offer period.
 
 ### Offer Details
 
@@ -39,7 +39,7 @@ SBI Card announced the "India Ka Diwali Offer" today on their credit cards. Unde
     </tr>
       <tr>
       <td> Mega Prize </td>
-      <td> Holiday Gift Card of Rs. 1,00,000 from Makemytrip.com </td>
+      <td> Holiday Gift Card of Rs. 1,00,000 from <a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a> </td>
       <td> 12 </td>
     </tr>
     </tbody>

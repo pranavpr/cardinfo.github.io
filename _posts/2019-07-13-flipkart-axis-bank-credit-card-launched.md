@@ -27,7 +27,7 @@ Flipkart in partnership with Axis Bank launched a co-branded credit card, [Flipk
 	<td> 5% </td>
 </tr>
 <tr>
-	<td> MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap </td>
+	<td> <a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a>, Goibibo, Uber, PVR, Curefit and UrbanClap </td>
 	<td> 4% </td>
 </tr>
 <tr>

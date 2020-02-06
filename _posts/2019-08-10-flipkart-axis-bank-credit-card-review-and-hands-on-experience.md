@@ -46,7 +46,7 @@ Flipkart Axis Bank Credit Card comes with joining and activations benefits of wo
 
 - Rs. 500 worth Flipkart vouchers on your first transaction within 30 days of card issuance
 - Gaana Plus membership for 6 months, 50% off for the next 6 months subscription
-- Rs. 500 off on domestic hotel on Goibibo and Makemytrip on a minimum booking of Rs. 2,000
+- Rs. 500 off on domestic hotel on Goibibo and [MakeMyTrip](https://l.cardinfo.in/makemytrip) on a minimum booking of Rs. 2,000
 - 15% cashback up to Rs. 500 on first transaction on Myntra
 - 20% instant discount up to Rs. 400 for new Urban Clap customers
 
@@ -69,7 +69,7 @@ Flipkart Axis Bank Credit Card comes with unlimited cashback which would be cred
 	<td> 5% </td>
 </tr>
 <tr>
-	<td> Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap) </td>
+	<td> Preferred Partners (<a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a>, Goibibo, Uber, PVR, Curefit and UrbanClap) </td>
 	<td> 4% </td>
 </tr>
 <tr>

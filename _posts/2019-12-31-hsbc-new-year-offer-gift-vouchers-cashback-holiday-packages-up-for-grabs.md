@@ -6,7 +6,7 @@ categories: [HSBC, Card Offers]
 image: /assets/images/hsbc-new-year-offer-2020.jpg
 ---
 
-HSBC Bank has rolled out yet another fantastic offer on their credit cards starting new year 2020. Under this offer, HSBC is providing gift vouchers, cashacks and bumper prize of MakeMyTrip vouchers to Thailand/Malaysia for top 5 spenders. The gift voucher offer is user specific and spend targets along with gift voucher is communicated to card members over email. Let's delve in to the details of this offer.
+HSBC Bank has rolled out yet another fantastic offer on their credit cards starting new year 2020. Under this offer, HSBC is providing gift vouchers, cashacks and bumper prize of [MakeMyTrip](https://l.cardinfo.in/makemytrip) vouchers to Thailand/Malaysia for top 5 spenders. The gift voucher offer is user specific and spend targets along with gift voucher is communicated to card members over email. Let's delve in to the details of this offer.
 
 ### Offer Details
 
@@ -20,7 +20,7 @@ HSBC Bank has rolled out yet another fantastic offer on their credit cards start
     - Maximum Cap: None
     - Minimum Spends: In multiples of Rs. 1 Lakh
     - Type: Open for all HSBC card members, registration required
-  - **Bumper Prize:** Top 5 spenders get a MakeMyTrip holiday package for 2 pax to Thailand/Malaysia (inclusive of return flights and 4 night/5 day stay at a 4-star deluxe hotel), worth Rs. 1 Lakh
+  - **Bumper Prize:** Top 5 spenders get a [MakeMyTrip](https://l.cardinfo.in/makemytrip) holiday package for 2 pax to Thailand/Malaysia (inclusive of return flights and 4 night/5 day stay at a 4-star deluxe hotel), worth Rs. 1 Lakh
     - Period: 1st January 2020 to 31st March 2020
     - Type: Open for all HSBC card members, registration required
 - **Fulfillment:**

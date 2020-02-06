@@ -10,6 +10,7 @@ The much awaited Festive Treats offer from HDFC Bank is here wherein HDFC Bank p
 
 The offers are unique for each partner merchant and hence let's look in to detail in each each of them.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -69,7 +70,7 @@ The offers are unique for each partner merchant and hence let's look in to detai
 
 ### MakeMyTrip
 
-- **Offer**: Up to Rs. 10,000 instant discount
+- **Offer**: Up to Rs. 10,000 instant discount at [MakeMyTrip](https://l.cardinfo.in/makemytrip)
 - **Applicable On**: HDFC Bank credit cards, debit cards & EasyEMI
 - **Period**: 1 October 2019 to 31 December 2019
 

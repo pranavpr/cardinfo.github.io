@@ -10,6 +10,7 @@ HDFC Bank [Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-re
 
 Starting 1st November 2019, HDFC Bank has introduced new benefits on Diners Club Black Credit Card making it even better. New benefits include memberships to Club Marriott, Zomato Gold, Amazon Prime, MakeMyTrip Double Black, Times Prime etc. Apart from memberships, new annual and monthly benefits have also been introduced. Let's delve into details about all new changes introduced by HDFC Bank in this article.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -28,10 +29,10 @@ Following new memberships have been introduced with HDFC Bank Diners Club Black 
 - Forbes Digital subscription
 - Zomato Gold
 - Amazon Prime
-- MakeMyTrip Double Black
+- [MakeMyTrip](https://l.cardinfo.in/makemytrip) Double Black
 - Times Prime
 
-Above annual memberships are part of welcome benefits and can be availed upon completing the first transaction within the first 90 days from card open date for cards issued from 1st November 2019. 
+Above annual memberships are part of welcome benefits and can be availed upon completing the first transaction within the first 90 days from card open date for cards issued from 1st November 2019.
 
 Existing HDFC Bank Diners Club Black customers can avail complimentary annual membership benefits by:
 

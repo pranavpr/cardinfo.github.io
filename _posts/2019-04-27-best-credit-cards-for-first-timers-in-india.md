@@ -29,7 +29,7 @@ Many a times I have been asked which credit card is best for someone who has jus
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
   - 5% cashback on Flipkart, Myntra and 2GUD
-  - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
+  - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
   - 1.5% cashback on all other merchants
 - 4 complimentary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
 

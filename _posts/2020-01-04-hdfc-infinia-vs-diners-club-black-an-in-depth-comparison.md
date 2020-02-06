@@ -54,7 +54,7 @@ Those who are not aware, HDFC Infinia and Diners Club Black, both are super prem
   <tr>
     <td> Welcome Benefit </td>
   	<td> 10,000 reward points & Club Marriott Membership </td>
-    <td> Yearly Memberships<ul><li>Club Marriott</li><li>Forbes Digital subscription</li><li> Zomato Gold</li><li> Amazon Prime</li><li> MakeMyTrip Double Black</li><li> Times Prime</li></ul> </td>
+    <td> Yearly Memberships<ul><li>Club Marriott</li><li>Forbes Digital subscription</li><li> Zomato Gold</li><li> Amazon Prime</li><li> <a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a> Double Black</li><li> Times Prime</li></ul> </td>
   </tr>
   <tr>
     <td> Renewal Benefit </td>

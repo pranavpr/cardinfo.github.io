@@ -6,7 +6,7 @@ categories: [HSBC, Card Offers]
 image: /assets/images/hsbc-festive-bonanza-2019.jpg
 ---
 
-HSBC has announced the Festive Bonanza offer wherein it's giving away MakeMyTrip gift cards and cash back on meeting the spends target. There is also a bumper reward of Rs. 1 Lakh MakeMyTrip gift card for top 5 spenders during the offer period along with an early bird offer of MakeMyTrip Gift Card worth Rs. 3,000 for first 10 spenders to reach Rs. 1,00,000 mark.
+HSBC has announced the Festive Bonanza offer wherein it's giving away [MakeMyTrip](https://l.cardinfo.in/makemytrip) gift cards and cash back on meeting the spends target. There is also a bumper reward of Rs. 1 Lakh [MakeMyTrip](https://l.cardinfo.in/makemytrip) gift card for top 5 spenders during the offer period along with an early bird offer of [MakeMyTrip](https://l.cardinfo.in/makemytrip) Gift Card worth Rs. 3,000 for first 10 spenders to reach Rs. 1,00,000 mark.
 
 ### Offer Details
 
@@ -25,16 +25,16 @@ HSBC has announced the Festive Bonanza offer wherein it's giving away MakeMyTrip
     </tr>
     <tr>
       <td> Spend Rs. 2,50,000 and above </td>
-    	<td> MakeMyTrip Gift Card
+    	<td> <a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a> Gift Card
   worth Rs. 5,000 + Cashback worth Rs. 2,000 </td>
     </tr>
     <tr>
       <td> Bumper Reward </td>
-    	<td> Top 5 spenders get MakeMyTrip Gift Card worth Rs. 1,00,000 </td>
+    	<td> Top 5 spenders get <a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a> Gift Card worth Rs. 1,00,000 </td>
     </tr>
       <tr>
       <td> Early Bird offer </td>
-    	<td> First 10 customers spending Rs. 1,00,000 and above before 20 October 2019 will get MakeMyTrip Gift Card worth Rs. 3,000 </td>
+    	<td> First 10 customers spending Rs. 1,00,000 and above before 20 October 2019 will get <a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a> Gift Card worth Rs. 3,000 </td>
     </tr>
     </tbody>
     </table>
@@ -51,6 +51,6 @@ HSBC has announced the Festive Bonanza offer wherein it's giving away MakeMyTrip
 
 ### Bottomline
 
-This offer translates to a reward rate of **2.8%** if you're able to spend Rs. 2,50,000, which is decent. And if you are lucky enough to be in top 5 spenders list, the MakeMyTrip gift card of Rs. 1 Lakh will sweeten the deal further. However the problem with this is, there is no perfect way to know your position in spenders' list. Unless HSBC provides a transparent way to know one's position in spenders' list, I wouldn't even consider this.
+This offer translates to a reward rate of **2.8%** if you're able to spend Rs. 2,50,000, which is decent. And if you are lucky enough to be in top 5 spenders list, the [MakeMyTrip](https://l.cardinfo.in/makemytrip) gift card of Rs. 1 Lakh will sweeten the deal further. However the problem with this is, there is no perfect way to know your position in spenders' list. Unless HSBC provides a transparent way to know one's position in spenders' list, I wouldn't even consider this.
 
 _Let me know your thoughts on Festive Bonanza offer from HSBC in comments below._

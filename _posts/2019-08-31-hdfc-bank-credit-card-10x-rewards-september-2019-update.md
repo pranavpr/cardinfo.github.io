@@ -9,6 +9,7 @@ tags: [card-offers]
 
 HDFC Bank has made some changes to Smartbuy and Diners 10X rewards program for September 2019. Let's see what those changes are.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -58,7 +59,7 @@ However it's really sad to see Payzapp being removed from Diners 10X program. No
 
 **Updates**
 
-1. HDFC Bank has introduced [Gyftr as 10X partner](/10x-rewards-on-gift-vouchers-using-hdfc-bank-credit-cards/) in October 2019 and this extends the 10X rewards on many other brands like Ola, Uber, MakeMyTrip, Urban Ladder, Big Bazaar, More etc.
+1. HDFC Bank has introduced [Gyftr as 10X partner](/10x-rewards-on-gift-vouchers-using-hdfc-bank-credit-cards/) in October 2019 and this extends the 10X rewards on many other brands like Ola, Uber, [MakeMyTrip](https://l.cardinfo.in/makemytrip), Urban Ladder, Big Bazaar, More etc.
 
 2. HDFC Bank has made the 10X rewards program even more rewarding starting December 2019. Checkout the new benefits [here](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/).
 
