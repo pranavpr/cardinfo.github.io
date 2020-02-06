@@ -53,12 +53,12 @@ Monthly vouchers can be redeemed directly on BookMyShow website by selecting "RB
 
 #### Reward Points
 
-- 10 reward points per Rs. 100 spent at BookMyShow, Pizza Hut and KFC, ~2.5% reward rate
+- 10 reward points per Rs. 100 spent at BookMyShow, [Pizza Hut](https://l.cardinfo.in/pizzahut) and KFC, ~2.5% reward rate
 - 20 reward points per Rs. 100 spent on dining on Wednesdays, ~5% reward rate
 - 1 reward point per Rs. 100 on all other spends except fuel, ~0.25% reward rate
 - 10% discount on movie tickets at BookMyShow
 
-5% reward rate on dining is really lucrative, only downside being availability on Wednesdays. 2.5% reward rate on Pizza Hut and KFC is also decent and this card help you save some bucks if you're their regular customers.
+5% reward rate on dining is really lucrative, only downside being availability on Wednesdays. 2.5% reward rate on [Pizza Hut](https://l.cardinfo.in/pizzahut) and KFC is also decent and this card help you save some bucks if you're their regular customers.
 
 #### Milestone Benefits
 

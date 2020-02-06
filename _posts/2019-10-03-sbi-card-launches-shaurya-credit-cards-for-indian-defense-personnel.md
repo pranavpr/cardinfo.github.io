@@ -24,7 +24,7 @@ Shaurya Select SBI Card is available on RuPay Select platform and hence would ha
 
 #### Quarterly Milestone Benefit
 
-- Spend Rs. 50,000 or more in a calendar quarter and receive a Pizza Hut e-Gift Voucher worth Rs. 500
+- Spend Rs. 50,000 or more in a calendar quarter and receive a [Pizza Hut](https://l.cardinfo.in/pizzahut) e-Gift Voucher worth Rs. 500
 
 #### Reward Points
 
