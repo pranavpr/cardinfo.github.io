@@ -16,7 +16,7 @@ You need to save the offer to your card in order to avail them. Once you save th
 
 {% include image.html image="amex-saved-offers.jpg" alt="Amex Saved Offers Section" class="img-center mb-3" %}
 
-As you can see, Amex is offering attractive offers on [Flipkart](https://l.cardinfo.in/flipkart), Uber, BookMyShow, BigBasket, [Swiggy](https://l.cardinfo.in/swiggy) etc. Also the "Redeemed" tab shows all your used offers and total savings made so far. Cool, isn't?
+As you can see, Amex is offering attractive offers on [Flipkart](https://l.cardinfo.in/flipkart), Uber, BookMyShow, [BigBasket](https://l.cardinfo.in/bigbasket), [Swiggy](https://l.cardinfo.in/swiggy) etc. Also the "Redeemed" tab shows all your used offers and total savings made so far. Cool, isn't?
 
 {% include image.html image="amex-offers-redeemed.jpg" alt="Amex Redeemed Offers Section" class="img-center mb-3" %}
 

@@ -97,7 +97,7 @@ If you love cashback then this card is for you. Citi Cashback Credit Card provid
   - 5% cashback on movie ticket purchases, telephone bill payments & utility bill payments via Citibank Online Bill Pay
   - 0.5% cashback on other spends
 - Cashback is automatically credited as statement credit in multiples of Rs. 500
-- 20% cashback on [BigBasket](https://www.bigbasket.com/citibank/) on minimum purchase of Rs. 2,000, maximum cashback Rs. 500 per month, valid during the first 5 days of the month
+- 20% cashback on [BigBasket](https://l.cardinfo.in/bigbasket) on minimum purchase of Rs. 2,000, maximum cashback Rs. 500 per month, valid during the first 5 days of the month
 - Apply [here](https://www.online.citibank.co.in/portal/newgen/cards/tab/apply-now.htm?campaign_id=CardNTB1&referralCode=Pr51CC01&Section=MGM)
 
 ## Best Premium Credit Cards
@@ -159,7 +159,7 @@ SBI Prime Credit Card gives you 5% back on standing instructions of Utility Bill
 - Renewal Fee: Rs. 2,999, waived on spending Rs 3,00,000 in a year
 - Reward Rate:
   - 5% back on standing instructions of Utility Bills payments
-  - 3.75% back on Bigbasket
+  - 3.75% back on [BigBasket](https://l.cardinfo.in/bigbasket)
   - 2.5% on Dining, Groceries, Departmental stores and Movies
   - 0.5% on other spends
 - Lounge access
