@@ -36,11 +36,11 @@ Clearly nothing much has changed in comparison to [July 2019](/hdfc-smartbuy-10x
 
 ### Diners 10X Rewards
 
-Payzapp, which was added in [August 2019](/hdfc-diners-club-10x-rewards-program-august-2019-update/) to Diners 10X Rewards program, has been removed now. Ola & FirstCry are new additions in October 2019.
+Payzapp, which was added in [August 2019](/hdfc-diners-club-10x-rewards-program-august-2019-update/) to Diners 10X Rewards program, has been removed now. Ola & [FirstCry](https://l.cardinfo.in/firstcry) are new additions in October 2019.
 
 - **Offer**: 10X reward points on HDFC Diners Club Credit Cards for purchases made on 10X partners
 - **Period**: 1 September 2019 to 31 December 2019
-- **Partners**: [Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Zoomcar](https://l.cardinfo.in/zoomcar), Godrej Nature’s Basket, Ola & FirstCry
+- **Partners**: [Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Zoomcar](https://l.cardinfo.in/zoomcar), Godrej Nature’s Basket, Ola & [FirstCry](https://l.cardinfo.in/firstcry)
 - **Maximum Reward Points**:
   - Diners Rewardz: 2,000
   - Diners Clubmiles/Premium: 5,000
