@@ -11,11 +11,11 @@ Yes Bank is back with their spend based targeted offers wherein you'll get Amazo
 
 ### Offer Details
 
-- **Offer:** Get Amazon e-Voucher 1 on reaching spend Target 1 or get Amazon e-Voucher 2 on reaching spend Target 2
+- **Offer:** Get [Amazon](https://l.cardinfo.in/amazon) e-Voucher 1 on reaching spend Target 1 or get [Amazon](https://l.cardinfo.in/amazon) e-Voucher 2 on reaching spend Target 2
 - **Period:** 15th May 2019 to 31st May 2019 (inclusive of both days)
 - **Excluded Transactions:** Cash withdrawals done on Yes Bank Credit Card
 - **Type:** Targeted, not valid if communication is not received from Yes Bank
-- **Fulfillment:** Amazon e-Voucher will be communicated to the eligible card members by 30th June 2019
+- **Fulfillment:** [Amazon](https://l.cardinfo.in/amazon) e-Voucher will be communicated to the eligible card members by 30th June 2019
 - **Source:** SMS & Email
 - [Terms & Conditions](https://www.yesbank.in/pdf/terms_conditions_amazon_voucher_on_credit_card_spends_may19_pdf)
 

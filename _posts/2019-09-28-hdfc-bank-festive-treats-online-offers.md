@@ -71,6 +71,6 @@ Let's look in to each of those offers in detail.
   - Offer valid only on Retail Credit Cards, not valid on Corporate, Commercial Credit cards
   - [Detailed T&C](https://offers.smartbuy.hdfcbank.com/offer_details/13260)
 
-HDFC Bank is on roll and above online offers are indeed exciting. However, I wish they should have partnered with some more main stream e-commerce sites like [Flipkart](https://l.cardinfo.in/flipkart) and Amazon so that we could have enjoyed more discounts. However, note that [10X rewards program on Smartbuy](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) is still active for [Flipkart](https://l.cardinfo.in/flipkart) and Amazon and one can still enjoy reward rate up to 33% using Diners Club Black and Infinia Credit Cards.
+HDFC Bank is on roll and above online offers are indeed exciting. However, I wish they should have partnered with some more main stream e-commerce sites like [Flipkart](https://l.cardinfo.in/flipkart) and [Amazon](https://l.cardinfo.in/amazon) so that we could have enjoyed more discounts. However, note that [10X rewards program on Smartbuy](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) is still active for [Flipkart](https://l.cardinfo.in/flipkart) and Amazon and one can still enjoy reward rate up to 33% using Diners Club Black and Infinia Credit Cards.
 
 _What do you think of these additions in Festive Treats offer from HDFC Bank? Let me know in comments below._

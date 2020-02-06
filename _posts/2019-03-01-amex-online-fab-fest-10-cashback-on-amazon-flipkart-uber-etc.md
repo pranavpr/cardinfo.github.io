@@ -15,7 +15,7 @@ Amex is back with **O.F.F (Online Fab Fest)** where you can enjoy 10% cashback a
 
 ### Offer Details
 
-- **Offer:** 10% cashback on Amazon, [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra), Ola, Uber, Uber Eats, BigBasket, Grofers & BookMyShow.
+- **Offer:** 10% cashback on [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra), Ola, Uber, Uber Eats, BigBasket, Grofers & BookMyShow.
 - **Period:** 8th February 2019 to 30th April 2019 (inclusive of both days)
 - **Maximum Cashback:** Rs. 1000/- per card
 - **Excluded Cards:** Everyday Spend American Express Gold Credit Card, American Express Corporate Cards, Supplementary Cards or Account Cards

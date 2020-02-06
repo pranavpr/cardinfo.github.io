@@ -6,7 +6,7 @@ categories: [IndusInd, Card Offers]
 image: /assets/images/indusind-bank-american-express-crdit-cards.jpg
 ---
 
-IndusInd Bank has rolled out spend based targeted offer on their American Express Credit Cards this month. The offer, known as "Amazing Offer", will enable card holders to qualify for Amazon vouchers on meeting the spend target. The spend targets are multi-leveled and are open to all eligible customers, which is a good news.
+IndusInd Bank has rolled out spend based targeted offer on their American Express Credit Cards this month. The offer, known as "Amazing Offer", will enable card holders to qualify for [Amazon](https://l.cardinfo.in/amazon) vouchers on meeting the spend target. The spend targets are multi-leveled and are open to all eligible customers, which is a good news.
 
 ### Offer Details
 
@@ -16,7 +16,7 @@ IndusInd Bank has rolled out spend based targeted offer on their American Expres
     <tr>
       <th scope="col"> Level </th>
       <th scope="col"> Minimum Spend</th>
-      <th scope="col"> Amazon Voucher Amount</th>
+      <th scope="col"> <a href="https://l.cardinfo.in/amazon" target="_blank">Amazon</a> Voucher Amount</th>
       <th scope="col"> Reward Rate</th>
     </tr>
     </thead>

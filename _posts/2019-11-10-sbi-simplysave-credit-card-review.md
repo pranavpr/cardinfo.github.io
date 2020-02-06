@@ -60,7 +60,7 @@ SBI SimplySAVE Credit Card is tailored for offline spends and hence the rewards 
 
 {% include tip.html tip="Redeem reward points only after accumulating a good amount to minimize the loss due to redemption fee." %}
 
-The reward catalog of SBI Card is decent and you can redeem reward points for e-vouchers of [Flipkart](https://l.cardinfo.in/flipkart), Amazon, BigBazaar, Central etc as well as physical goods.
+The reward catalog of SBI Card is decent and you can redeem reward points for e-vouchers of [Flipkart](https://l.cardinfo.in/flipkart), [Amazon](https://l.cardinfo.in/amazon), BigBazaar, Central etc as well as physical goods.
 
 #### Finance Charges
 

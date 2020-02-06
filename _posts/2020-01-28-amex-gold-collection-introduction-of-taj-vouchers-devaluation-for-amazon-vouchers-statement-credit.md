@@ -107,7 +107,7 @@ Amex Gold Collection comes in two flavors: 18 Karat and 24 Karat.
  
 ### Bottomline
  
-Introduction of Taj Vouchers is a fantastic move by Amex and it will please those who like Taj properties. Redemption of reward points for Taj Vouchers fetches a value of Rs. 0.58 per Membership Reward Point which is quite amazing. However it's also evident that Amex doesn't want you to redeem reward points for statement credits and Amazon vouchers. The value if reward points in case of Amazon voucher plummets to Rs. 0.38 per Membership Reward Point which is 34% depreciation compared to Taj Vouchers.
+Introduction of Taj Vouchers is a fantastic move by Amex and it will please those who like Taj properties. Redemption of reward points for Taj Vouchers fetches a value of Rs. 0.58 per Membership Reward Point which is quite amazing. However it's also evident that Amex doesn't want you to redeem reward points for statement credits and [Amazon](https://l.cardinfo.in/amazon) vouchers. The value if reward points in case of [Amazon](https://l.cardinfo.in/amazon) voucher plummets to Rs. 0.38 per Membership Reward Point which is 34% depreciation compared to Taj Vouchers.
  
 Note that these changes go in effect from 1 February 2020 and hence you have 3 days to redeem reward points at the current rate. I just redeemed my reward points for Amazon vouchers and the vouchers were emailed to me instantly.
  

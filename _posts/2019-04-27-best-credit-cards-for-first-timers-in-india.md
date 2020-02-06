@@ -61,7 +61,7 @@ You can make this card lifetime free by opting for one of the follwoing while ap
 
 {% include image.html image="american-express-smartearn-credit-card.jpg" alt="American Express SmartEarn Credit Card" class="cc-center mb-3" %}
 
-American Express SmartEarn Credit Card provides 10X Membership Rewards Points on Flipkart and Uber and earn 5X Membership Rewards Points on Amazon, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow and more. Amex keeps on running lucrative merchant offers from time to time. However note that acceptance of Amex is still not that great and you should always carry a backup Visa/MasterCard.
+American Express SmartEarn Credit Card provides 10X Membership Rewards Points on Flipkart and Uber and earn 5X Membership Rewards Points on [Amazon](https://l.cardinfo.in/amazon), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow and more. Amex keeps on running lucrative merchant offers from time to time. However note that acceptance of Amex is still not that great and you should always carry a backup Visa/MasterCard.
 
 - Eligibility:
   - Salaried: Annual income > Rs. 4.5 Lakhs
@@ -69,7 +69,7 @@ American Express SmartEarn Credit Card provides 10X Membership Rewards Points on
 - Annual Fee: Rs. 495 + GST, waived on spending Rs. 40,000 or more in previous year
 - Reward Rate:
   - 10X Membership Rewards Points on Flipkart and Uber, 5% reward rate
-  - 5X Membership Rewards Points on Amazon, [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PVR, [Myntra](https://l.cardinfo.in/myntra), Jabong, Grofers, Big Bazaar, 2.5% reward rate
+  - 5X Membership Rewards Points on [Amazon](https://l.cardinfo.in/amazon), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PVR, [Myntra](https://l.cardinfo.in/myntra), Jabong, Grofers, Big Bazaar, 2.5% reward rate
   - 1 Membership Rewards Point for every Rs. 50 spent on other merchants
 
 ### 4. HSBC Cashback Credit Card
@@ -83,7 +83,7 @@ HSBC Cashback Credit Card provides unlimited cashback of 1.5% on online transact
 - Renewal Fee: Rs. 750, reversed on annual spends on Rs. 1 Lakh
 - Introductory Offers:
   - 20% off on [Swiggy](https://l.cardinfo.in/swiggy) orders above Rs. 400 (Discount up to Rs. 100, valid once per month per user)
-  - 5% discount on Amazon spends of Rs. 1,000 or above (Maximum discount of Rs. 250 per card per month, no restriction on number of transactions)
+  - 5% discount on [Amazon](https://l.cardinfo.in/amazon) spends of Rs. 1,000 or above (Maximum discount of Rs. 250 per card per month, no restriction on number of transactions)
 - Welcome Benefits:
   - 2 Airport Lounge Access to Domestic and International lounges or 2 Meal vouchers of INR400 each for use at Airport restaurants
   - Rs. 250 [Swiggy](https://l.cardinfo.in/swiggy) voucher within 60 days of completing first transaction on the HSBC Credit Card
@@ -96,13 +96,13 @@ HSBC Cashback Credit Card provides unlimited cashback of 1.5% on online transact
 
 {% include image.html image="amazon-pay-icici-bank-credit-card.jpg" alt="Amazon Pay ICICI Bank Credit Card" class="cc-center mb-3" %}
 
-[Amazon Pay ICICI Bank Credit Card](/amazon-pay-icici-bank-credit-card-review/) gives 5% cashback on Amazon if you're a prime member which is a sweet deal if you spend a lot on Amazon. Recently Amazon has extended invitation for this credit card to majority of Amazon India customers.
+[Amazon Pay ICICI Bank Credit Card](/amazon-pay-icici-bank-credit-card-review/) gives 5% cashback on [Amazon](https://l.cardinfo.in/amazon) if you're a prime member which is a sweet deal if you spend a lot on [Amazon](https://l.cardinfo.in/amazon). Recently [Amazon](https://l.cardinfo.in/amazon) has extended invitation for this credit card to majority of [Amazon](https://l.cardinfo.in/amazon) India customers.
 
 - Eligibility: Invite only
 - Joining Fee: Nil
 - Renewal Fee: Life time free
 - Reward Rate:
-  - 5% for Amazon Prime customers and 3% for others on Amazon
+  - 5% for Amazon Prime customers and 3% for others on [Amazon](https://l.cardinfo.in/amazon)
   - 2% on paying through Amazon Pay
   - 1% on other spends
 - Rewards are credited as Amazon Pay cashback each month after statement generation
@@ -129,10 +129,10 @@ Ola Money SBI Credit Card provides 7% cashback on Ola rides and 1% cashback on a
 SBI SimplyCLICK provides 2.5% back on online spends with their exclusive partners and 1.25% on other online spends. This is a very good card if you spend a lot online.
 
 - Eligibility: Nothing mentioned explicitly on website, however you can get easily if you are salaried
-- Joining Fee: Rs. 499, get equivalent amount of Amazon voucher
+- Joining Fee: Rs. 499, get equivalent amount of [Amazon](https://l.cardinfo.in/amazon) voucher
 - Renewal Fee: Rs. 499, reversed if annual spends for last year >= Rs. 1,00,000
 - Reward Rate:
-  - 2.5% back on online spends with exclusive partners - Amazon, BookMyShow, Cleartrip, Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
+  - 2.5% back on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, Cleartrip, Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
   - 1.25% on other online spends
   - 0.25% on offline spends
 - 1% fuel surcharge waiver for each transaction between Rs. 500 & Rs. 3,000

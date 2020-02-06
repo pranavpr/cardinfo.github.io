@@ -27,7 +27,7 @@ SBI [SimplySAVE](/sbi-simplysave-credit-card-review/) and [SimplyCLICK](/sbi-sim
     <tr>
     <td> 10X Reward Points </td>
     <td> Dining, Movies, Departmental Stores and Grocery Spends </td>
-    <td> Amazon, BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo, UrbanClap </td>
+    <td> <a href="https://l.cardinfo.in/amazon" target="_blank">Amazon</a>, BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo, UrbanClap </td>
   </tr>
   <tr>
     <td> 5X Reward Points </td>
@@ -37,7 +37,7 @@ SBI [SimplySAVE](/sbi-simplysave-credit-card-review/) and [SimplyCLICK](/sbi-sim
   <tr>
     <td> Welcome Benefit </td>
   	<td> 2,000 Bonus Reward Points </td>
-    <td> Amazon gift voucher worth Rs. 500 </td>
+    <td> <a href="https://l.cardinfo.in/amazon" target="_blank">Amazon</a> gift voucher worth Rs. 500 </td>
   </tr>
   <tr>
     <td> Spend Based Milestones </td>

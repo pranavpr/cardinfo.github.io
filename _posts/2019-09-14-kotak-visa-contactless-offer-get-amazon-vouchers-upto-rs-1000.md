@@ -6,17 +6,17 @@ categories: [Kotak, Card Offers]
 image: /assets/images/kotak-visa-contactless-offer.jpg
 ---
 
-Visa is promoting contactless transactions aggressively these days and it has partnered with Kotak to offer Amazon vouchers on credit and debit card spends. Visa has brought the contactless offers in partnership with [HDFC](/earn-2x-reward-points-5-cashback-on-hdfc-visa-contactless-transactions/) & [SBI](/10-cashback-on-contactless-transactions-with-visa-sbi-credit-cards/) in the past too. Those who are not aware, a transaction of up to Rs. 2,000 can be made by tapping on contactless enabled POS terminals without entering the PIN.
+Visa is promoting contactless transactions aggressively these days and it has partnered with Kotak to offer [Amazon](https://l.cardinfo.in/amazon) vouchers on credit and debit card spends. Visa has brought the contactless offers in partnership with [HDFC](/earn-2x-reward-points-5-cashback-on-hdfc-visa-contactless-transactions/) & [SBI](/10-cashback-on-contactless-transactions-with-visa-sbi-credit-cards/) in the past too. Those who are not aware, a transaction of up to Rs. 2,000 can be made by tapping on contactless enabled POS terminals without entering the PIN.
 
 ### Offer Details
 
-- **Offer**: Amazon vouchers for top spenders on Kotak credit and debit cards
-  - Top 200 (100 each from Kotak Visa Debit and Credit card) spenders: Amazon vouchers worth Rs. 1,000 each
-  - Next 1000 (500 each from Kotak Visa Debit and Credit card ) spenders: Amazon vouchers worth Rs. 500 each
-  - Next 5000 (2500 each from Kotak Visa Debit and Credit card) spenders: Amazon vouchers worth Rs. 100 each
+- **Offer**: [Amazon](https://l.cardinfo.in/amazon) vouchers for top spenders on Kotak credit and debit cards
+  - Top 200 (100 each from Kotak Visa Debit and Credit card) spenders: [Amazon](https://l.cardinfo.in/amazon) vouchers worth Rs. 1,000 each
+  - Next 1000 (500 each from Kotak Visa Debit and Credit card ) spenders: [Amazon](https://l.cardinfo.in/amazon) vouchers worth Rs. 500 each
+  - Next 5000 (2500 each from Kotak Visa Debit and Credit card) spenders: [Amazon](https://l.cardinfo.in/amazon) vouchers worth Rs. 100 each
 - **Period**: 1st September 2019 to 30th September 2019
 - **Minimum Transaction**: Minimum 5 contactless transactions of at least Rs. 200
-- **Fulfillment**: Amazon voucher will be sent to the cardholders through SMS/email 90 days after the offer period ends.
+- **Fulfillment**: [Amazon](https://l.cardinfo.in/amazon) voucher will be sent to the cardholders through SMS/email 90 days after the offer period ends.
 - **Other T&C**:
   - Offer is applicable only on transactions completed through the contactless mode.
   - Top spenders would be selected on the basis on their cumulative contactless spends during the offer period.

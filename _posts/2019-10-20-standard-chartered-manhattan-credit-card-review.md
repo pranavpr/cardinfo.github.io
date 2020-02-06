@@ -65,7 +65,7 @@ As evident, there are no additional tangible benefits apart from cashback and re
 Standard Chartered Manhattan Credit Card lacks in many departments when compared with credit cards launched in recent times.
 
 - Low reward rate other than supermarkets and departmental spends
-- Online grocery stores e.g. Big Basket, Grofers, Amazon Pantry etc. don't qualify for 5% cashback
+- Online grocery stores e.g. Big Basket, Grofers, [Amazon](https://l.cardinfo.in/amazon) Pantry etc. don't qualify for 5% cashback
 - No option to redeem reward points for statement cash
 - No fuel surcharge waiver
 - No renewal and milestone benefits

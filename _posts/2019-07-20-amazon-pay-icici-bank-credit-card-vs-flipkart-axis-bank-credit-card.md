@@ -122,7 +122,7 @@ Flipkart Axis Bank Credit Card changes the game by providing the domestic airpor
 
 ### Bottomline
 
-Filpkart Axis Bank Credit Card wins over Amazon Pay ICICI Bank Credit Card due to higher universal reward rate and airport lounge access. However, before getting the card, you should introspect where you spend most: Amazon or [Flipkart](https://l.cardinfo.in/flipkart)? It doesn't makes any sense to get a [Flipkart](https://l.cardinfo.in/flipkart) co-branded credit card when you spend more on Amazon and vice-versa.
+Filpkart Axis Bank Credit Card wins over Amazon Pay ICICI Bank Credit Card due to higher universal reward rate and airport lounge access. However, before getting the card, you should introspect where you spend most: [Amazon](https://l.cardinfo.in/amazon) or [Flipkart](https://l.cardinfo.in/flipkart)? It doesn't makes any sense to get a [Flipkart](https://l.cardinfo.in/flipkart) co-branded credit card when you spend more on Amazon and vice-versa.
 
 {% include tip.html tip="If you shop primarily from [Flipkart](https://l.cardinfo.in/flipkart), get both the cards as Amazon Pay ICICI Bank Credit Card is life time free and is super easy to get."%}
 

@@ -6,7 +6,7 @@ categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-smartbuy-10x-rewards-extended-to-gyftr.jpg
 ---
 
-HDFC Bank has extended the 10X rewards program for purchasing instant gift vouchers at SmartBuy. This offer can be availed at dedicated [Smartbuy portal](https://www.gyftr.com/hdfcsmartbuy/) hosted at Gyftr. Gyftr currently hosts instant gift vouchers of 160+ Partner Brands e.g. [Flipkart](https://l.cardinfo.in/flipkart), Amazon, Ola, Uber, MakeMyTrip, Yatra, Urban Ladder, Big Bazaar, More etc.
+HDFC Bank has extended the 10X rewards program for purchasing instant gift vouchers at SmartBuy. This offer can be availed at dedicated [Smartbuy portal](https://www.gyftr.com/hdfcsmartbuy/) hosted at Gyftr. Gyftr currently hosts instant gift vouchers of 160+ Partner Brands e.g. [Flipkart](https://l.cardinfo.in/flipkart), [Amazon](https://l.cardinfo.in/amazon), Ola, Uber, MakeMyTrip, Yatra, Urban Ladder, Big Bazaar, More etc.
 
 ### Offer Details
 

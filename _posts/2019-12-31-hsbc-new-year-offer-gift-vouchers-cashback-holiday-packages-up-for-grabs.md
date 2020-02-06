@@ -12,7 +12,7 @@ HSBC Bank has rolled out yet another fantastic offer on their credit cards start
 
 - **Offers:**
   - **Offer 1:** Rs. X gift voucher when you spend Rs. Y or more
-    - Gift voucher can be redeemed across BookMyShow, Uber, Shoppers Stop, Taj Experiences, Amazon, Domino's Pizza, Four Fountains De-Stress Spa & [Myntra](https://l.cardinfo.in/myntra)
+    - Gift voucher can be redeemed across BookMyShow, Uber, Shoppers Stop, Taj Experiences, [Amazon](https://l.cardinfo.in/amazon), Domino's Pizza, Four Fountains De-Stress Spa & [Myntra](https://l.cardinfo.in/myntra)
     - Period: Monthly between 1st January 2020 to 31st March 2020
     - Type: Targeted, applicable only if communication received from HSBC Bank, registration required
   - **Offer 2:** Rs. 2,020 cashback for every Rs. 1 Lakh spent, 2% reward rate

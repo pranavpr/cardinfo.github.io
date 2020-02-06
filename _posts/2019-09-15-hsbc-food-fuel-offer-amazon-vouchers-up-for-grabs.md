@@ -6,17 +6,17 @@ categories: [HSBC, Card Offers]
 image: /assets/images/hsbc-food-and-fuel-offer-india.jpg
 ---
 
-HSBC, in order to increase usage of its credit cards on dining and fuel, has come up with Food & Fuel offer wherein it's providing Amazon vouchers up to Rs. 500 on meeting the spend criteria.
+HSBC, in order to increase usage of its credit cards on dining and fuel, has come up with Food & Fuel offer wherein it's providing [Amazon](https://l.cardinfo.in/amazon) vouchers up to Rs. 500 on meeting the spend criteria.
 
 ### Offer Details
 
-- **Offer**: Amazon voucher worth Rs. 500
+- **Offer**: [Amazon](https://l.cardinfo.in/amazon) voucher worth Rs. 500
 - **Period**: 12 September 2019 to 30 September 2019
 - **Minimum Spend**:
   - Minimum 2 transactions of Rs. 2,000 or more on dining for Rs. 250 Amazon voucher
   - Minimum 2 transactions of Rs. 2,000 or more on fuel for Rs. 250 Amazon voucher
 - **Type**: Targeted, not valid if communication is not received from HSBC
-- **Fulfillment**: Amazon Gift Voucher will be sent within 60 days after the Offer Period gets over
+- **Fulfillment**: [Amazon](https://l.cardinfo.in/amazon) Gift Voucher will be sent within 60 days after the Offer Period gets over
 - **Other T&C**:
   - Offer valid only on registration
   - To register, SMS **FOODANDFUEL** to 575750 from registered mobile number

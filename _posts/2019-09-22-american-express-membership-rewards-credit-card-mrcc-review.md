@@ -48,7 +48,7 @@ On realization of joining and annual fee, card members are provided with followi
 - 1 Membership Rewards Point for every Rs. 50 spent except for spend at Fuel, Insurance, Utilities and Cash Transactions
 - Reward rate of 0.5% if points are converted to statement credit
 - 1000 bonus points on for using Card 4 times on transactions of Rs. 1,000 and above every month
-- 18 Karat Gold Collection: 18,000 points can be redeemed for statement credit worth Rs. 7,500, Amazon Gift Card worth Rs. 8,000 or Tanishq Voucher worth Rs. 7,500
+- 18 Karat Gold Collection: 18,000 points can be redeemed for statement credit worth Rs. 7,500, [Amazon](https://l.cardinfo.in/amazon) Gift Card worth Rs. 8,000 or Tanishq Voucher worth Rs. 7,500
 - 24 Karat Gold Collection: 24,000 points can be redeemed for statement credit worth Rs. 10,000, American Express Domestic Travel Online voucher worth Rs. 11,000 or Bose Sound Link Color II Bluetooth Speaker
 
 Though the reward rate looks peltry, this card shines when you redeem the Membership Rewards Points from 18 Karat or 24 Karat Gold collection. Let's do a sample math to calculate the reward rate when you just do 4 transactions of Rs. 1,000 every month and redeem from 18 Karat Gold Collection.

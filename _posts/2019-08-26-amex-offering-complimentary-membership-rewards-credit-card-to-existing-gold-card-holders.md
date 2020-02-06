@@ -17,7 +17,7 @@ Amex is offering complimentary Amex Membership Rewards Credit Card to existing A
 This will accelerate the card members to reach 18K and 24K Gold collection. Those who are not aware, below are the benefits of 18K and 24K Gold collection:
 
 - **18K Gold collection**: Redeem 18,000 reward points for
-  - Amazon voucher worth Rs. 8,000 or
+  - [Amazon](https://l.cardinfo.in/amazon) voucher worth Rs. 8,000 or
   - Tanishq voucher of Rs. 7,500 or
   - Statement credit of Rs. 7,500
 - **24K Gold collection**: Redeem 24,000 reward points for

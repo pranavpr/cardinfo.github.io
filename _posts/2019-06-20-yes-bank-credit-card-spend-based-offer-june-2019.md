@@ -7,15 +7,15 @@ image: /assets/images/yes-bank-spend-based-amazon-voucher-offer.jpg
 tags: [expired]
 ---
 
-Yes Bank, this month again, sent a spend based targeted offer wherein you'll get Amazon vouchers on meeting the target. The target is lower than [previous month](/yes-bank-credit-card-spend-based-offers-may-2019/) and so is reward rate. It seems, many people stopped using Yes Bank credit cards after [Yes Bank devalued their cards](/yes-bank-credit-cards-rewards-reduced/). Hence Yes Bank is desperately trying to retain the customer base using spend based offers and [accelerated rewards](/yes-bank-launches-yes-cart-a-compare-and-buy-portal-for-yes-bank-cards/).
+Yes Bank, this month again, sent a spend based targeted offer wherein you'll get [Amazon](https://l.cardinfo.in/amazon) vouchers on meeting the target. The target is lower than [previous month](/yes-bank-credit-card-spend-based-offers-may-2019/) and so is reward rate. It seems, many people stopped using Yes Bank credit cards after [Yes Bank devalued their cards](/yes-bank-credit-cards-rewards-reduced/). Hence Yes Bank is desperately trying to retain the customer base using spend based offers and [accelerated rewards](/yes-bank-launches-yes-cart-a-compare-and-buy-portal-for-yes-bank-cards/).
 
 ### Offer Details
 
-- **Offer:** Get Amazon e-Voucher on reaching spend target
+- **Offer:** Get [Amazon](https://l.cardinfo.in/amazon) e-Voucher on reaching spend target
 - **Period:** 19th June 2019 to 29th June 2019 (inclusive of both days)
 - **Excluded Transactions:** Cash withdrawals done on Yes Bank Credit Card
 - **Type:** Targeted, not valid if communication is not received from Yes Bank
-- **Fulfillment:** Amazon e-Voucher will be communicated to the eligible card members by 31st July 2019
+- **Fulfillment:** [Amazon](https://l.cardinfo.in/amazon) e-Voucher will be communicated to the eligible card members by 31st July 2019
 - **Source:** SMS & Email
 - [Terms & Conditions](https://www.yesbank.in/pdf/month_end_spends_terms_and_conditions_pdf)
 

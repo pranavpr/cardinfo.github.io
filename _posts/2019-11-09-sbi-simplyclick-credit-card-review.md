@@ -7,7 +7,7 @@ image: /assets/images/sbi-simplyclick-credit-card-review.jpg
 product: SBI SimplyCLICK Credit Card
 ---
 
-SBI SimplyCLICK Credit Card is one the [best credit cards for first timers in India](/best-credit-cards-for-first-timers-in-india/) which provides 10X rewards on shopping at Amazon, BookMyShow, UrbanClap etc. This card also provides 5X rewards on other online spends irrespective of merchant which is quite awesome. With low annual fees and salary requirements, this is a really good card to have in possession if you spend online a lot.
+SBI SimplyCLICK Credit Card is one the [best credit cards for first timers in India](/best-credit-cards-for-first-timers-in-india/) which provides 10X rewards on shopping at [Amazon](https://l.cardinfo.in/amazon), BookMyShow, UrbanClap etc. This card also provides 5X rewards on other online spends irrespective of merchant which is quite awesome. With low annual fees and salary requirements, this is a really good card to have in possession if you spend online a lot.
 
 {% include image.html image="sbi-silplyclick-credit-card-closeup.jpg" alt="SBI SimplyCLICK Credit Card" class="center mb-3" %}
 
@@ -46,7 +46,7 @@ SBI SimplyCLICK Credit Card is tailored for personnels whose major portion of mo
 
 - Amazon gift voucher worth Rs. 500
 
-Amazon voucher code will be sent on customer’s registered mobile number within 30 days from payment of membership fee. It quite evident that SBI Card compensates for joining fees by providing voucher of equivalent amount.
+[Amazon](https://l.cardinfo.in/amazon) voucher code will be sent on customer’s registered mobile number within 30 days from payment of membership fee. It quite evident that SBI Card compensates for joining fees by providing voucher of equivalent amount.
 
 #### Milestone Benefits
 
@@ -58,10 +58,10 @@ That's an additional 2% reward rate on achieving a spend of Rs. 2 Lakhs.
 #### Reward Points
 
 - 1 Reward Point = Rs. 0.25
-- 10 Reward Points per Rs. 100 on online spends with exclusive partners - Amazon, BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
+- 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
 - 5 Reward Points per Rs. 100 on all other online spends, 1.25% reward rate
 - 1 Reward Point per Rs.100 on all other spends, 0.25% reward rate
-- Reward points can be redeemed from rewards catalogue (Amazon & Cleartrip vouchers available)
+- Reward points can be redeemed from rewards catalogue ([Amazon](https://l.cardinfo.in/amazon) & Cleartrip vouchers available)
 - Reward redemption fee of Rs. 99 + GST applicable on each redemption
 
 {% include tip.html tip="Redeem reward points only after accumulating a good amount to minimize the loss due to redemption fee." %}
@@ -83,7 +83,7 @@ Though SBI SimplyCLICK Credit Card provides great benefits, there are some drawb
 
 ### Verdict
 
-SBI SimplyCLICK Credit Card is really a good card for those who spend a lot online. Bonus reward points on wallet loading is something which not many credit cards provide. SBI Card has been aggressive these days and has partnered with [Flipkart](https://l.cardinfo.in/flipkart) and Amazon during their yearly festive sales. I would suggest you to have one SBI Credit Card in your kitty just for these exclusive online offers and there is no better offering than SimplyCLICK for online spends.
+SBI SimplyCLICK Credit Card is really a good card for those who spend a lot online. Bonus reward points on wallet loading is something which not many credit cards provide. SBI Card has been aggressive these days and has partnered with [Flipkart](https://l.cardinfo.in/flipkart) and [Amazon](https://l.cardinfo.in/amazon) during their yearly festive sales. I would suggest you to have one SBI Credit Card in your kitty just for these exclusive online offers and there is no better offering than SimplyCLICK for online spends.
 
 {% include star-rating.html rating=3.5 rewards=4.5 fees=4 features=2 %}
 
