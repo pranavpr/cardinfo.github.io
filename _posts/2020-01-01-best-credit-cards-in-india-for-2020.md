@@ -28,10 +28,9 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
   - 5% cashback on Flipkart, Myntra and 2GUD
-  - # 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
+  - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), [Goibibo](https://l.cardinfo.in/goibibo), Uber, PVR, Curefit and UrbanClap)
   - 5% cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and 2GUD
-  - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
-    > > > > > > > bc77e5d584731b61b21774ee5832b43c821ef586
+  - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), [Goibibo](https://l.cardinfo.in/goibibo), Uber, PVR, Curefit and UrbanClap)
   - 1.5% cashback on all other merchants
 - 4 complimentary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
 
@@ -125,7 +124,7 @@ Newly launched [HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-dine
 - Annual Memberships of Zomato Gold, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star on spending Rs. 5 Lakhs in previous year
 - Reward Rate:
   - 4 reward points per Rs. 150 spent, 1.3% reward rate
-  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), Zoomcar, Godrej Nature’s Basket, Ola & [FirstCry](https://l.cardinfo.in/firstcry)), 13% reward rate
+  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Zoomcar](https://l.cardinfo.in/zoomcar), Godrej Nature’s Basket, Ola & [FirstCry](https://l.cardinfo.in/firstcry)), 13% reward rate
 - Monthly Benefits: Ola Select membership, [BookMyShow](https://l.cardinfo.in/bookmyshow) or [TataCLIQ](https://l.cardinfo.in/tatacliq) voucher worth Rs. 500 on achieving a monthly spend of Rs. 40,000
 - Lounge Access: 12 complimentary airport lounge access to 1000+ Lounges in India and worldwide for primary and add-on card members
 - 2 complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around the world
