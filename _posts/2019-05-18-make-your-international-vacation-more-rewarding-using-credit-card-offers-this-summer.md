@@ -15,9 +15,9 @@ Are you wondering which credit card is best for your international transactions 
 
 ### American Express Cards
 
-Amex is providing Paytm movie vouchers of Rs. 2,000 on spending Rs. 20,000 or more overseas.
+Amex is providing [Paytm](https://l.cardinfo.in/paytm) movie vouchers of Rs. 2,000 on spending Rs. 20,000 or more overseas.
 
-- **Offer**: Paytm Movie Vouchers worth Rs. 2,000
+- **Offer**: [Paytm](https://l.cardinfo.in/paytm) Movie Vouchers worth Rs. 2,000
 - **Period**: 20 May 2019 to 31 July 2019
 - **Maximum Voucher**: Rs. 2,000
 - **Minimum Spend**: Rs. 20,000

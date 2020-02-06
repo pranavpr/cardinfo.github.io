@@ -6,7 +6,7 @@ categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-bank-festive-treats-online-offers.jpg
 ---
 
-In continuation to [partner merchants offer](/hdfc-bank-festive-treats-partner-merchant-offers/), HDFC Bank has extended the Festive Treats offer to some online merchants too. HDFC Bank is providing flat 10% discount on [Myntra](https://l.cardinfo.in/myntra), [TataCLIQ](https://l.cardinfo.in/tatacliq), Paytm Mall and Xiaomi using HDFC Bank credit cards starting today.
+In continuation to [partner merchants offer](/hdfc-bank-festive-treats-partner-merchant-offers/), HDFC Bank has extended the Festive Treats offer to some online merchants too. HDFC Bank is providing flat 10% discount on [Myntra](https://l.cardinfo.in/myntra), [TataCLIQ](https://l.cardinfo.in/tatacliq), [Paytm](https://l.cardinfo.in/paytm) Mall and Xiaomi using HDFC Bank credit cards starting today.
 
 {% include image.html image="hdfc-bank-festive-treats-offer-on-myntra-tatacliq-paytm-mall-xiaomi.jpg" alt="HDFC Bank Festive Treats offer on Myntra, TataCLIQ, Paytm Mall and Xiaomi" class="img-center" %}
 

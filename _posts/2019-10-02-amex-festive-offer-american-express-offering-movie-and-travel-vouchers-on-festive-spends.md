@@ -12,7 +12,7 @@ Amex is back this year with festive offer wherein it's providing movie and trave
 
 ### Offer Details
 
-- **Offer**: Get Paytm movie/flight voucher or Amex Domestic Travel voucher on meeting the spend target.
+- **Offer**: Get [Paytm](https://l.cardinfo.in/paytm) movie/flight voucher or Amex Domestic Travel voucher on meeting the spend target.
   <table class="table" style="display: block;overflow-x: auto;">
     <thead class="thead-dark">
       <tr>
@@ -57,7 +57,7 @@ Amex is back this year with festive offer wherein it's providing movie and trave
 - **Exclusions**: Not valid on Centurion, Platinum Charge card, Jet/Co-branded card & corporate cards.
 - **Source**: [Email](https://ebm.email.americanexpress.com/c/tag/hBdkZLaAQB6DpB9zvskNwLcPh7Q/doc.html)
 
-I received the spend target of Rs. 1,50,000 for Rs. 8,000 Paytm Flight Voucher on my Amex Gold Card.
+I received the spend target of Rs. 1,50,000 for Rs. 8,000 [Paytm](https://l.cardinfo.in/paytm) Flight Voucher on my Amex Gold Card.
 
 ### Bottomline
 

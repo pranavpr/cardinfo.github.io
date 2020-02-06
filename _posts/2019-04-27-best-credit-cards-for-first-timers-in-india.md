@@ -141,15 +141,15 @@ SBI SimplyCLICK provides 2.5% back on online spends with their exclusive partner
 
 {% include image.html image="paytm-first-credit-card.jpg" alt="Paytm First Credit Card" class="cc-center mb-3" %}
 
-If you love cashback then this card is for you. Paytm First Credit Card provides 1% cashback for all spends which automatically gets credited to card account. Only caveat is this card is invite only and you can apply only when option is enabled in Paytm app.
+If you love cashback then this card is for you. [Paytm](https://l.cardinfo.in/paytm) First Credit Card provides 1% cashback for all spends which automatically gets credited to card account. Only caveat is this card is invite only and you can apply only when option is enabled in [Paytm](https://l.cardinfo.in/paytm) app.
 
 - Eligibility: Invite only
 - Annual Fee: Rs. 500, waived off on spending more than Rs. 50,000 in a membership year
 - Reward Rate: 1% cashback on all spends
 - Other benefits:
-  - Paytm First Membership worth Rs. 750
+  - [Paytm](https://l.cardinfo.in/paytm) First Membership worth Rs. 750
   - 15% discount at Partner Restaurants
-  - Buy 1 Get 1 on movie tickets every Friday at Paytm
+  - Buy 1 Get 1 on movie tickets every Friday at [Paytm](https://l.cardinfo.in/paytm)
 
 ### 9. RBL Bank Shoprite Credit Card
 

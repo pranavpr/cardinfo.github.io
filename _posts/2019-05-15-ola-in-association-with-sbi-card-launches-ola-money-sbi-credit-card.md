@@ -53,4 +53,4 @@ Most probably, they will check your CIBIL score and based on that, they will inv
 
 Ola Money SBI credit card seems to be a well balanced card for beginners. It's definitely better than Paytm First credit card, however I'll still rate [Amazon Pay ICICI Bank credit card](/amazon-pay-icici-bank-credit-card-review/) better than this owing to latter being life time free and better reward rate on Amazon Pay partner merchants.
 
-_How do you compare Amazon Pay ICICI Credit Card, Ola Money SBI Credit Card and Paytm First credit card? Are you planning to apply for this card? Let me know in comments._
+_How do you compare Amazon Pay ICICI Credit Card, Ola Money SBI Credit Card and [Paytm](https://l.cardinfo.in/paytm) First credit card? Are you planning to apply for this card? Let me know in comments._

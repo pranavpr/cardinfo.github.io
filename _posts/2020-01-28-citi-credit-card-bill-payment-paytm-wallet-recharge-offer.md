@@ -35,6 +35,6 @@ Citi Bank has announced cashback offers on bill payment and wallet recharge usin
 
 ### Bottomline
 
-This is a decent offer from Citi Bank and provides a reward rate of 2% on bill payment and 2.5% on wallet recharge. Though the offer on bill payment is underwhelming, the offer on wallet recharge is really exciting. You can recharge your Paytm wallet twice: once in January and once in February to get a total cashback of Rs. 100. Personally I have never seen a cashback offer on wallet recharge and this is certainly new to me.
+This is a decent offer from Citi Bank and provides a reward rate of 2% on bill payment and 2.5% on wallet recharge. Though the offer on bill payment is underwhelming, the offer on wallet recharge is really exciting. You can recharge your [Paytm](https://l.cardinfo.in/paytm) wallet twice: once in January and once in February to get a total cashback of Rs. 100. Personally I have never seen a cashback offer on wallet recharge and this is certainly new to me.
 
-_What do you think of these offers on Citi Credit Cards? Which offer are you going to avail: bill payment, Paytm wallet recharge or both? Let me know in comments below._
+_What do you think of these offers on Citi Credit Cards? Which offer are you going to avail: bill payment, [Paytm](https://l.cardinfo.in/paytm) wallet recharge or both? Let me know in comments below._
