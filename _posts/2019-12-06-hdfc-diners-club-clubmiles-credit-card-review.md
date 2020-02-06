@@ -56,7 +56,7 @@ It's quite evident that HDFC Bank compensates for joining and renewal fee on thi
 - 1 reward point = Rs. 0.20 if [redeemed for cash](/redeem-hdfc-credit-card-reward-points-for-cash/)
 - 1 reward point ~ Rs. 0.20 if used for redeeming from reward catalogue
 - 4 reward points per Rs. 150 spent, 2.6% reward rate for Air Mile redemption, 1.3% reward rate on booking hotels and air tickets at SmartBuy
-- 10X rewards on [Smartbuy](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) (Amazon, Flipkart, Hotels & Flights)
+- 10X rewards on [Smartbuy](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Hotels & Flights)
 - Monthly cap on reward points: 5000 bonus reward points on Smartbuy
 - Reward points can be converted to Air Miles across British Airways Executive Club (Avios), Jet Airways (JPMiles), Singapore Airlines (KrisFlyer Miles) or Club Vistara in 1:1 ratio
 

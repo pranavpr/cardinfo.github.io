@@ -10,13 +10,13 @@ Standard Chartered has launched DigiSmart credit card targeting rapidly growing 
 
 ### Benefits
 
-Standard Chartered DigiSmart credit card provides instant discounts and cashbacks on online spends on Myntra, Yatra, Ola, Zomato, Grofers and Inox.
+Standard Chartered DigiSmart credit card provides instant discounts and cashbacks on online spends on [Myntra](https://l.cardinfo.in/myntra), Yatra, Ola, Zomato, Grofers and Inox.
 
 {% include image.html image="standard-chartered-digismart-credit-card-promotion.jpg" alt="Standard Chartered DigiSmart Credit Card Promotion" class="img-center" %}
 
 #### Myntra
 
-- 20% instant discount
+- 20% instant discount on [Myntra](https://l.cardinfo.in/myntra)
 - Minimum transaction size: Not Applicable
 - Frequency: Once per month
 - Maximum discount: Rs. 700 per month
@@ -108,7 +108,7 @@ Note that existing Standard Chartered credit card holders can't apply for this c
 
 ### Bottomline
 
-Standard Chartered, [just like HDFC](/hdfc-bank-millennia-cards-launched/), is trying to tap the millennial segment which constitute 34% of India's population. The reward rate across the selected merchants is fabulous and low monthly fee and threshold for monthly fee waiver is indeed exciting. Inclusion of Amazon or Flipkart to this list would have made this card even better.
+Standard Chartered, [just like HDFC](/hdfc-bank-millennia-cards-launched/), is trying to tap the millennial segment which constitute 34% of India's population. The reward rate across the selected merchants is fabulous and low monthly fee and threshold for monthly fee waiver is indeed exciting. Inclusion of [Amazon](https://l.cardinfo.in/amazon) or [Flipkart](https://l.cardinfo.in/flipkart) to this list would have made this card even better.
 
 However absence of reward points on spends made using this card is a big bummer. It simply means absolutely no benefit on using this card on merchants apart from their partners. Also no domestic airport lounge access, which is provided by some cards in this segment, is again disappointing.
 

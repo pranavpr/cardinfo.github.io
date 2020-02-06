@@ -6,7 +6,7 @@ categories: [Yes Bank, Card Offers]
 image: /assets/images/10x-rewards-on-yes-bank-credit-card-using-yes-cart.jpg
 ---
 
-Yes Bank recently launched [Yes Cart](/yes-bank-launches-yes-cart-a-compare-and-buy-portal-for-yes-bank-cards/), a compare and buy portal similar to SmartBuy. To tap the festive spends on major e-commerce sites, Yes Bank has unveiled the 10X reward program today. Under this program, Yes Bank Credit Card holders can enjoy 10X bonus reward points by shopping on Flipkart, Amazon, Myntra and TataCLIQ using Yes Cart.
+Yes Bank recently launched [Yes Cart](/yes-bank-launches-yes-cart-a-compare-and-buy-portal-for-yes-bank-cards/), a compare and buy portal similar to SmartBuy. To tap the festive spends on major e-commerce sites, Yes Bank has unveiled the 10X reward program today. Under this program, Yes Bank Credit Card holders can enjoy 10X bonus reward points by shopping on [Flipkart](https://l.cardinfo.in/flipkart), [Amazon](https://l.cardinfo.in/amazon), [Myntra](https://l.cardinfo.in/myntra) and TataCLIQ using Yes Cart.
 
 ### Offer Details
 
@@ -17,7 +17,7 @@ Yes Bank recently launched [Yes Cart](/yes-bank-launches-yes-cart-a-compare-and-
 - **Fulfillment**: Bonus reward points will be credited by 31st December 2019
 - **Other T&C**:
   - Not eligible on purchase of gold, jewelry, gift cards, bill payments, wallet recharge and flight bookings
-  - Applicable only on Flipkart, Amazon, Myntra and TataCLIQ
+  - Applicable only on [Flipkart](https://l.cardinfo.in/flipkart), [Amazon](https://l.cardinfo.in/amazon), [Myntra](https://l.cardinfo.in/myntra) and TataCLIQ
 - **Source**: [Email](https://www.yesbank.in/pdf/festive_offer_shopping_pdf)
 
 ### Bottomline

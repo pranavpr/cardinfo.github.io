@@ -11,13 +11,13 @@ ICICI Bank has rolled out international spends offer on it's Amazon Pay Credit C
 ### Offer Details
 
 - **Offer:** Earn 5% on all international spends
-  - 1% in form of Amazon Pay balance
+  - 1% in form of [Amazon](https://l.cardinfo.in/amazon) Pay balance
   - 4% in form of statement cashback
 - **Period:** 10th December 2019 to 10th February 2020
 - **Maximum Cap**: None
 - **Type:** Open to all Amazon Pay ICICI Bank Credit Card holders
 - **Fulfillment:**
-  - 1% Amazon Pay balance just after generation of monthly statement
+  - 1% [Amazon](https://l.cardinfo.in/amazon) Pay balance just after generation of monthly statement
   - 4% statement cashback by 10th March 2020
 - **Source:** [Website](https://www.icicibank.com/offers/international-spends-amazon-pay-cc.page)
 

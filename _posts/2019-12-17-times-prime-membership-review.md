@@ -52,7 +52,7 @@ Times Prime Membership provides complimentary memberships to many premium subscr
 - **Gourmet Passport by DineOut:** Gourmet Passport by DineOut provides 1+1 on buffets even at 5 star restaurants which is quiet amusing. Plus one gets 25% back as Dineout Cash on settling the restaurant bill using DineOut app. Times Prime Membership provides 1 year subscription to this program which I feel this is the best offering of this program.
 - **Gaana Plus:** Gaana Plus provides unlimited downloads, High Definition streaming and Ad-free experience to music. Times Prime Membership provides 1 year subscription to Gaana Plus which is awesome and my second favorite offering from this program.
 - **TOI+:** TOI+ provides access to exclusive content and ad-free experience to Times of India digital edition for an year. Again this is a good offering and lets you read news without distractions.
-- **Swiggy Super:** Swiggy Super provides unlimited free delivery and freedom from surge fees on Swiggy app. Currently Times Prime Membership is providing 3 Months complimentary membership to Swiggy Super which is nice.
+- **Swiggy Super:** [Swiggy](https://l.cardinfo.in/swiggy) Super provides unlimited free delivery and freedom from surge fees on [Swiggy](https://l.cardinfo.in/swiggy) app. Currently Times Prime Membership is providing 3 Months complimentary membership to [Swiggy](https://l.cardinfo.in/swiggy) Super which is nice.
 - **8PASS PRO from Box8:** 8PASS PRO provides 25% + 10% off, no minimum order criteria and free priority delivery on Box8. Times Prime Membership provides 6 Months subscription up to 20 orders to 8PASS PRO which is a decent value proposition.
 
 To know the latest subscription offerings from Time Prime Membership, check [this](https://www.timesprime.com/membership) webpage.
@@ -62,7 +62,7 @@ To know the latest subscription offerings from Time Prime Membership, check [thi
 Times Prime Membership provides exclusive coupons for many partner merchants enabling you to get great deals. The offers are again dynamic in nature and at the time of writing this article, some of the notable offers are listed below:
 
 - Big Basket: Rs. 100 discount every month on minimum order of Rs. 1,000
-- Myntra: 15% discount up to Rs. 750 on minimum order of Rs. 2,000
+- [Myntra](https://l.cardinfo.in/myntra): 15% discount up to Rs. 750 on minimum order of Rs. 2,000
 - 1mg: 30% discount on medicines every month
 - Zoomcar: 20% off on every booking
 - Yatra: Discount of Rs. 3,000 on international flights booking of minimum Rs. 30,000 and 25% off upto Rs. 3,000 on hotel bookings
@@ -82,7 +82,7 @@ The latest list of experiences and corresponding discount can be viewed [here](h
 
 ### Personal Experience
 
-I have been reaping the benefits of Times Prime Membership for last one year and Times Prime Membership dashboard shows I have saved Rs. 7444 till now which is a staggering amount. Gourmet Passport, Big Basket Offer, Gaana Plus and Swiggy Super are some of the benefits which I use very frequently. So far my experience has been wonderful and have never faced any issue with redemption of memberships and discount coupons. I was able to use Gourmet Passport at Sheraton Grand Whitefield, Bangalore, which is a 5 start hotel, for a free buffet costing Rs. 1,699. I have documented my experience in detail [here](/gourmet-passport-by-dineout-review/).
+I have been reaping the benefits of Times Prime Membership for last one year and Times Prime Membership dashboard shows I have saved Rs. 7444 till now which is a staggering amount. Gourmet Passport, Big Basket Offer, Gaana Plus and [Swiggy](https://l.cardinfo.in/swiggy) Super are some of the benefits which I use very frequently. So far my experience has been wonderful and have never faced any issue with redemption of memberships and discount coupons. I was able to use Gourmet Passport at Sheraton Grand Whitefield, Bangalore, which is a 5 start hotel, for a free buffet costing Rs. 1,699. I have documented my experience in detail [here](/gourmet-passport-by-dineout-review/).
 
 ### Drawbacks
 

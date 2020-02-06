@@ -24,6 +24,6 @@ Some of the major highlights of Apple Card are:
 
 The Apple Card opens for applications in **summer 2019 in USA**.
 
-When compared with competitors for reward rate, [Amazon offers 5 percent](https://www.amazon.in/cbcc/marketpage) cash back on Amazon purchases. [Uber offers 4 percent](https://www.uber.com/en-IN/c/uber-credit-card/) on all dining as well as $100 back when you spend \$500 in the first 90 days. Though the reward rate is little less, the simplicity and tight integration with Apple ecosystem would be major driving factor for this card. However for power users, reward rate matters most and hence they might not switch to this card.
+When compared with competitors for reward rate, [Amazon offers 5 percent](https://www.amazon.in/cbcc/marketpage) cash back on [Amazon](https://l.cardinfo.in/amazon) purchases. [Uber offers 4 percent](https://www.uber.com/en-IN/c/uber-credit-card/) on all dining as well as $100 back when you spend \$500 in the first 90 days. Though the reward rate is little less, the simplicity and tight integration with Apple ecosystem would be major driving factor for this card. However for power users, reward rate matters most and hence they might not switch to this card.
 
 _Given that Apple Pay itself is not available in India, it's a long way for Apple Card to launch in India. When do you think it will launch in India and would you switch to this card once it's available?_

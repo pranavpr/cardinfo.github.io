@@ -63,7 +63,7 @@ Below are some of my experiences with credit limit increase on some of the credi
 
 #### HDFC Bank
 
-HDFC Bank loves it when you spend online especially e-commerce sites like Flipkart & Amazon. I used my [HDFC Regalia Credit Card](/hdfc-bank-regalia-credit-card-review/) for online shopping frequently and was granted a credit limit increase in tunes of 30%-50% every quarter. Even though most of the times I didn't need this, I always accepted the increased limit. This helped me in reducing my credit utilization ratio thereby improving my credit (CIBIL) score.
+HDFC Bank loves it when you spend online especially e-commerce sites like [Flipkart](https://l.cardinfo.in/flipkart) & [Amazon](https://l.cardinfo.in/amazon). I used my [HDFC Regalia Credit Card](/hdfc-bank-regalia-credit-card-review/) for online shopping frequently and was granted a credit limit increase in tunes of 30%-50% every quarter. Even though most of the times I didn't need this, I always accepted the increased limit. This helped me in reducing my credit utilization ratio thereby improving my credit (CIBIL) score.
 
 {% include tip.html tip="Check the eligibility for higher credit limit by logging in to HDFC Net Banking → Cards → Credit Card → Request → Credit Limit Enhancement." %}
 
@@ -99,7 +99,7 @@ RBL Bank has been most miser in providing the credit limit on my [RBL Bank Fun+ 
 
 #### SBI Card
 
-SBI Card has also been generous with me and provided me a credit limit twice my in-hand monthly salary on [SimplyCLICK Credit Card](/sbi-simplyclick-credit-card-review/). I sporadically use this card for online offers on Amazon and Flipkart. SBI Card never offer me a limit enhancement, nor I felt the need of it as existing limit is quite good.
+SBI Card has also been generous with me and provided me a credit limit twice my in-hand monthly salary on [SimplyCLICK Credit Card](/sbi-simplyclick-credit-card-review/). I sporadically use this card for online offers on [Amazon](https://l.cardinfo.in/amazon) and [Flipkart](https://l.cardinfo.in/flipkart). SBI Card never offer me a limit enhancement, nor I felt the need of it as existing limit is quite good.
 
 #### IndusInd Bank
 

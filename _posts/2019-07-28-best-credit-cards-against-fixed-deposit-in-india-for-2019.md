@@ -103,7 +103,7 @@ Axis is known for it's generous credit limit on it's credit cards. Axis Insta Ea
 - 1% fuel surcharge waiver
 - 15% off at restaurants participating in [Dining Delights](https://diningdelights.axisbank.com) program
 
-This card can be your gateway for [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-launched/) which has excellent reward rate on Flipkart and has other benefits too.
+This card can be your gateway for [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-launched/) which has excellent reward rate on [Flipkart](https://l.cardinfo.in/flipkart) and has other benefits too.
 
 ### 6. Yes Prosperity Rewards Plus Credit Card
 

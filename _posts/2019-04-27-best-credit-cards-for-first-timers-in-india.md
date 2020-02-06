@@ -19,17 +19,22 @@ Many a times I have been asked which credit card is best for someone who has jus
 
 {% include image.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" class="cc-center mb-3" %}
 
-[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) provides 5% cashback on Flipkart, Myntra and 4% cashback on preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
+[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) provides 5% cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and 4% cashback on preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
 
 - Eligibility:
   - Salary account with Axis Bank: Net Monthly income > Rs. 15,000
   - Salary account with other Banks: Net Monthly income > Rs. 25,000
 - Self Employed: Net Monthly income > Rs. 50,000 or ITR > Rs. 6 Lakhs
-- Joining fee: Rs. 500 + GST, Flipkart voucher worth Rs. 500 provided
+- Joining fee: Rs. 500 + GST, [Flipkart](https://l.cardinfo.in/flipkart) voucher worth Rs. 500 provided
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
+<<<<<<< HEAD
   - 5% cashback on Flipkart, Myntra and 2GUD
   - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
+=======
+  - 5% cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and 2GUD
+  - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
+>>>>>>> bc77e5d584731b61b21774ee5832b43c821ef586
   - 1.5% cashback on all other merchants
 - 4 complimentary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
 
@@ -61,7 +66,7 @@ You can make this card lifetime free by opting for one of the follwoing while ap
 
 {% include image.html image="american-express-smartearn-credit-card.jpg" alt="American Express SmartEarn Credit Card" class="cc-center mb-3" %}
 
-American Express SmartEarn Credit Card provides 10X Membership Rewards Points on Flipkart and Uber and earn 5X Membership Rewards Points on Amazon, Swiggy, BookMyShow and more. Amex keeps on running lucrative merchant offers from time to time. However note that acceptance of Amex is still not that great and you should always carry a backup Visa/MasterCard.
+American Express SmartEarn Credit Card provides 10X Membership Rewards Points on Flipkart and Uber and earn 5X Membership Rewards Points on [Amazon](https://l.cardinfo.in/amazon), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow and more. Amex keeps on running lucrative merchant offers from time to time. However note that acceptance of Amex is still not that great and you should always carry a backup Visa/MasterCard.
 
 - Eligibility:
   - Salaried: Annual income > Rs. 4.5 Lakhs
@@ -69,7 +74,7 @@ American Express SmartEarn Credit Card provides 10X Membership Rewards Points on
 - Annual Fee: Rs. 495 + GST, waived on spending Rs. 40,000 or more in previous year
 - Reward Rate:
   - 10X Membership Rewards Points on Flipkart and Uber, 5% reward rate
-  - 5X Membership Rewards Points on Amazon, Swiggy, BookMyShow, PVR, Myntra, Jabong, Grofers, Big Bazaar, 2.5% reward rate
+  - 5X Membership Rewards Points on [Amazon](https://l.cardinfo.in/amazon), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PVR, [Myntra](https://l.cardinfo.in/myntra), Jabong, Grofers, Big Bazaar, 2.5% reward rate
   - 1 Membership Rewards Point for every Rs. 50 spent on other merchants
 
 ### 4. HSBC Cashback Credit Card
@@ -82,11 +87,11 @@ HSBC Cashback Credit Card provides unlimited cashback of 1.5% on online transact
 - Joining Fee: Nil
 - Renewal Fee: Rs. 750, reversed on annual spends on Rs. 1 Lakh
 - Introductory Offers:
-  - 20% off on Swiggy orders above Rs. 400 (Discount up to Rs. 100, valid once per month per user)
-  - 5% discount on Amazon spends of Rs. 1,000 or above (Maximum discount of Rs. 250 per card per month, no restriction on number of transactions)
+  - 20% off on [Swiggy](https://l.cardinfo.in/swiggy) orders above Rs. 400 (Discount up to Rs. 100, valid once per month per user)
+  - 5% discount on [Amazon](https://l.cardinfo.in/amazon) spends of Rs. 1,000 or above (Maximum discount of Rs. 250 per card per month, no restriction on number of transactions)
 - Welcome Benefits:
   - 2 Airport Lounge Access to Domestic and International lounges or 2 Meal vouchers of INR400 each for use at Airport restaurants
-  - Rs. 250 Swiggy voucher within 60 days of completing first transaction on the HSBC Credit Card
+  - Rs. 250 [Swiggy](https://l.cardinfo.in/swiggy) voucher within 60 days of completing first transaction on the HSBC Credit Card
 - Reward Rate:
   - 1.5% cashback on online spends, excluding wallet load
   - 1% cashback on offline spends
@@ -96,13 +101,13 @@ HSBC Cashback Credit Card provides unlimited cashback of 1.5% on online transact
 
 {% include image.html image="amazon-pay-icici-bank-credit-card.jpg" alt="Amazon Pay ICICI Bank Credit Card" class="cc-center mb-3" %}
 
-[Amazon Pay ICICI Bank Credit Card](/amazon-pay-icici-bank-credit-card-review/) gives 5% cashback on Amazon if you're a prime member which is a sweet deal if you spend a lot on Amazon. Recently Amazon has extended invitation for this credit card to majority of Amazon India customers.
+[Amazon Pay ICICI Bank Credit Card](/amazon-pay-icici-bank-credit-card-review/) gives 5% cashback on [Amazon](https://l.cardinfo.in/amazon) if you're a prime member which is a sweet deal if you spend a lot on [Amazon](https://l.cardinfo.in/amazon). Recently [Amazon](https://l.cardinfo.in/amazon) has extended invitation for this credit card to majority of [Amazon](https://l.cardinfo.in/amazon) India customers.
 
 - Eligibility: Invite only
 - Joining Fee: Nil
 - Renewal Fee: Life time free
 - Reward Rate:
-  - 5% for Amazon Prime customers and 3% for others on Amazon
+  - 5% for Amazon Prime customers and 3% for others on [Amazon](https://l.cardinfo.in/amazon)
   - 2% on paying through Amazon Pay
   - 1% on other spends
 - Rewards are credited as Amazon Pay cashback each month after statement generation
@@ -129,10 +134,10 @@ Ola Money SBI Credit Card provides 7% cashback on Ola rides and 1% cashback on a
 SBI SimplyCLICK provides 2.5% back on online spends with their exclusive partners and 1.25% on other online spends. This is a very good card if you spend a lot online.
 
 - Eligibility: Nothing mentioned explicitly on website, however you can get easily if you are salaried
-- Joining Fee: Rs. 499, get equivalent amount of Amazon voucher
+- Joining Fee: Rs. 499, get equivalent amount of [Amazon](https://l.cardinfo.in/amazon) voucher
 - Renewal Fee: Rs. 499, reversed if annual spends for last year >= Rs. 1,00,000
 - Reward Rate:
-  - 2.5% back on online spends with exclusive partners - Amazon, BookMyShow, Cleartrip, Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
+  - 2.5% back on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, Cleartrip, Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
   - 1.25% on other online spends
   - 0.25% on offline spends
 - 1% fuel surcharge waiver for each transaction between Rs. 500 & Rs. 3,000
@@ -173,12 +178,12 @@ RBL Bank Shoprite Credit Card provides 5% reward rate on groceries and 2.5% rewa
 
 {% include image.html image="standard-chartered-digismart-credit-card.jpg" alt="Standard Chartered DigiSmart Credit Card" class="cc-center mb-3" %}
 
-Standard Chartered generally issues cards very easily and their approval rate is quite high. Standard Chartered DigiSmart Credit Card provides instant discounts and cashbacks on online spends on Myntra, Yatra, Ola, Zomato, Grofers and Inox.
+Standard Chartered generally issues cards very easily and their approval rate is quite high. Standard Chartered DigiSmart Credit Card provides instant discounts and cashbacks on online spends on [Myntra](https://l.cardinfo.in/myntra), Yatra, Ola, Zomato, Grofers and Inox.
 
 - Eligibility: Annual income > Rs. 4 Lakhs
 - Fee: Rs. 49 per month, waived off on spending Rs. 5,000 in previous month
 - Reward Rate:
-  - 20% discount on Myntra, limited to Rs. 700 per month
+  - 20% discount on [Myntra](https://l.cardinfo.in/myntra), limited to Rs. 700 per month
   - 20% discount up to Rs. 750 on Yatra for domestic flights, once per quarter
   - 15% cashback on Ola, limited to Rs. 600 per month
   - 10% discount on Zomato, max. discount Rs. 150 limited to 5 times in a month

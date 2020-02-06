@@ -25,12 +25,12 @@ Lifestyle cards are general purpose cards suitable for all types of spends e.g. 
 
 {% include image.html image="amazon-pay-icici-bank-credit-card.jpg" alt="Amazon Pay ICICI Bank Credit Card" class="cc-center mb-3" %}
 
-Amazon Pay ICICI Bank Credit Card gives 5% cashback on Amazon if you're a prime member which is a sweet deal if you spend a lot on Amazon. However at this point of time, this card is available by invitation only. Your chance for invitation increases if you hold an existing credit card from ICICI. Below are the main highlights of this card:
+Amazon Pay ICICI Bank Credit Card gives 5% cashback on [Amazon](https://l.cardinfo.in/amazon) if you're a prime member which is a sweet deal if you spend a lot on Amazon. However at this point of time, this card is available by invitation only. Your chance for invitation increases if you hold an existing credit card from ICICI. Below are the main highlights of this card:
 
 - Joining Fee: Nil
 - Renewal Fee: Life time free
 - Reward Rate:
-  - 5% for Amazon Prime customers and 3% for others on Amazon
+  - 5% for Amazon Prime customers and 3% for others on [Amazon](https://l.cardinfo.in/amazon)
   - 2% on paying through Amazon Pay
   - 1% on other spends
 - Rewards are credited as Amazon Pay cashback each month after statement generation
@@ -242,8 +242,13 @@ Standard Chartered Ultimate Credit Card is the latest offering from Standard Cha
 
 - Joining Fee: Rs. 5,000
 - Renewal Fee: Rs. 5,000
+<<<<<<< HEAD
 - Welcome Bonus: Rs. 10,000 cashback from [MakeMyTrip](https://l.cardinfo.in/makemytrip)
 - Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip), BookMyShow etc. (depending upon availability on their reward redemption website)
+=======
+- Welcome Bonus: Rs. 10,000 cashback from MakeMyTrip
+- Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Lifestyle, Big Bazaar, MakeMyTrip, BookMyShow etc. (depending upon availability on their reward redemption website)
+>>>>>>> bc77e5d584731b61b21774ee5832b43c821ef586
 - Lounge Access:
   - International: 1 free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
   - Domestic: 4 per quarter through Visa/Mastercard Card Lounge program

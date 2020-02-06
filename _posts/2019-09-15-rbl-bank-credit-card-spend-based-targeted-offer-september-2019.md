@@ -10,7 +10,7 @@ RBL Bank is trying aggressively to capture the credit card market these days. Th
 
 ### Offer 1: Spend Based Offer
 
-- **Offer**: e-Gift voucher worth Rs. 500, can be redeemed on Amazon, Flipkart, BookMyShow, Croma and Big Bazaar
+- **Offer**: e-Gift voucher worth Rs. 500, can be redeemed on Amazon, [Flipkart](https://l.cardinfo.in/flipkart), BookMyShow, Croma and Big Bazaar
 - **Period**: 1 September 2019 to 28 September 2019
 - **Minimum Spend**: Minimum 5 transactions of Rs. 1,500 or more
 - **Type**: Targeted, not valid if communication is not received from RBL Bank

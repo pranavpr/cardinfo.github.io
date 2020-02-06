@@ -7,7 +7,7 @@ image: /assets/images/flipkart-axis-bank-credit-card-review.jpg
 product: Flipkart Axis Bank Credit Card
 ---
 
-Flipkart Axis Bank Credit Card is a lifestyle co-branded credit card which provides accelerated cashback on Flipkart, Myntra and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which gets credited to card account 3 days before statement generation.
+Flipkart Axis Bank Credit Card is a lifestyle co-branded credit card which provides accelerated cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which gets credited to card account 3 days before statement generation.
 
 <!-- prettier-ignore -->
 * TOC
@@ -50,7 +50,7 @@ Flipkart Axis Bank Credit Card comes with joining and activations benefits of wo
 - 15% cashback up to Rs. 500 on first transaction on Myntra
 - 20% instant discount up to Rs. 400 for new Urban Clap customers
 
-Rs. 500 Flipkart voucher evens out the Rs. 500 joining fee which is great. However, I feel, other welcome offers are gimmicky and are just to inflate the welcome offerings.
+Rs. 500 [Flipkart](https://l.cardinfo.in/flipkart) voucher evens out the Rs. 500 joining fee which is great. However, I feel, other welcome offers are gimmicky and are just to inflate the welcome offerings.
 
 #### Rewards
 
@@ -65,7 +65,7 @@ Flipkart Axis Bank Credit Card comes with unlimited cashback which would be cred
 </thead>
 <tbody>
 <tr>
-	<td> Flipkart, Myntra and 2GUD </td>
+	<td> <a href="https://l.cardinfo.in/flipkart" target="_blank">Flipkart</a>, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> and 2GUD </td>
 	<td> 5% </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ This credit card really shines in this department and 1.5% default reward rate g
 
 - 4 complementary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
 
-Airport Lounge access is uncommon for credit cards in this segment and I really appreciate Flipkart and Axis Bank for making it available on this card. You can easily even out renewal fee on this card from second year onwards by visiting the airport lounge just once in a year.
+Airport Lounge access is uncommon for credit cards in this segment and I really appreciate [Flipkart](https://l.cardinfo.in/flipkart) and Axis Bank for making it available on this card. You can easily even out renewal fee on this card from second year onwards by visiting the airport lounge just once in a year.
 
 #### Other benefits
 
@@ -98,7 +98,7 @@ Airport Lounge access is uncommon for credit cards in this segment and I really 
 Though Flipkart Axis Bank Credit Card is a fantastic lifestyle credit card, there are some downsides too.
 
 - No waiver of renewal fee on meeting annual spend criteria like other credit cards
-- No seamless online process for applying and getting the card as of now. However, it seems Flipkart & Axis Bank are working on the same and are claiming to have a virtual card issued in 3 minutes (!) in coming future.
+- No seamless online process for applying and getting the card as of now. However, it seems [Flipkart](https://l.cardinfo.in/flipkart) & Axis Bank are working on the same and are claiming to have a virtual card issued in 3 minutes (!) in coming future.
 
 ### Experience
 
@@ -112,7 +112,7 @@ Overall I had pleasant experience in acquiring this card. I believe this was mai
 
 The default reward rate of 1.5% on Flipkart Axis Bank Credit Card is best in it's segment right now and statement credit of cash back is cherry on the cake. Access to domestic airport lounges is another great feature which comes in handy during travel.
 
-This card is ideal for first timers owing to it's simplified reward program and low joining & renewal fee. I'll also recommend this card to heavy online shoppers of Flipkart & Myntra as they get maximum reward rate of 5% on this card.
+This card is ideal for first timers owing to it's simplified reward program and low joining & renewal fee. I'll also recommend this card to heavy online shoppers of [Flipkart](https://l.cardinfo.in/flipkart) & [Myntra](https://l.cardinfo.in/myntra) as they get maximum reward rate of 5% on this card.
 
 {% include star-rating.html rating=4 rewards=5 fees=3 features=4 %}
 

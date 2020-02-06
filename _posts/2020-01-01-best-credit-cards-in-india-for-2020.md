@@ -20,15 +20,24 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 #### 1. Flipkart Axis Bank Credit Card
 
+<<<<<<< HEAD
 {% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%-5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros="Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on Flipkart, Myntra & 2GUD<br />4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access" cons="Not lifetime free <br />Clunky application process" %}
+=======
+{% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%-5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros='Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on <a href="https://l.cardinfo.in/flipkart" target="_blank">Flipkart</a>, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> & 2GUD<br />4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access' cons="Not lifetime free <br />Clunky application process" %}
 
-[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) is a lifestyle co-branded credit card which provides accelerated cashback on Flipkart, Myntra and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
+> > > > > > > bc77e5d584731b61b21774ee5832b43c821ef586
 
-- Joining fee: Rs. 500 + GST, Flipkart voucher worth Rs. 500 provided
+[Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) is a lifestyle co-branded credit card which provides accelerated cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
+
+- Joining fee: Rs. 500 + GST, [Flipkart](https://l.cardinfo.in/flipkart) voucher worth Rs. 500 provided
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
+  <<<<<<< HEAD
   - 5% cashback on Flipkart, Myntra and 2GUD
-  - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
+  - # 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
+  - 5% cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and 2GUD
+  - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
+    > > > > > > > bc77e5d584731b61b21774ee5832b43c821ef586
   - 1.5% cashback on all other merchants
 - 4 complimentary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
 
@@ -45,7 +54,7 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 - Reward Rate:
   - 0.5% if points are converted to statement credit
   - 1000 bonus points for using Card 4 times on transactions of Rs. 1,000 and above every month
-  - 18 Karat Gold Collection: 18000 points can be redeemed for statement credit worth Rs. 7,500, Amazon Gift Card worth Rs. 8,000 or Tanishq Voucher worth Rs. 7,500
+  - 18 Karat Gold Collection: 18000 points can be redeemed for statement credit worth Rs. 7,500, [Amazon](https://l.cardinfo.in/amazon) Gift Card worth Rs. 8,000 or Tanishq Voucher worth Rs. 7,500
   - 24 Karat Gold Collection: 24000 points can be redeemed for statement credit worth Rs. 10,000, American Express Domestic Travel Online voucher worth Rs. 11,000 or Bose Sound Link Color II Bluetooth Speaker
 - Apply [here](https://l.cardinfo.in/amex)
 
@@ -65,12 +74,12 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 {% include tile.html image="amazon-pay-icici-bank-credit-card.jpg" alt="Amazon Pay ICICI Bank Credit Card" reward="1%- 5%" annualfee="Nil" reviewurl="/amazon-pay-icici-bank-credit-card-review/" pros="No joining/annual fee <br />5% cashback on Amazon for Prime members<br />3% cashback on Amazon for Non Prime members<br />2% cashback on paying through Amazon Pay <br />1% cashbak on others" cons="No airport lounge access<br />Amazon Prime Membership required for maximum benefit" %}
 
-[Amazon Pay ICICI Bank Credit Card](/amazon-pay-icici-bank-credit-card-review/) gives 5% cashback on Amazon if you're a prime member which is a sweet deal if you spend a lot on Amazon. Recently Amazon has extended invitation for this credit card to majority of Amazon India customers.
+[Amazon Pay ICICI Bank Credit Card](/amazon-pay-icici-bank-credit-card-review/) gives 5% cashback on [Amazon](https://l.cardinfo.in/amazon) if you're a prime member which is a sweet deal if you spend a lot on [Amazon](https://l.cardinfo.in/amazon). Recently [Amazon](https://l.cardinfo.in/amazon) has extended invitation for this credit card to majority of [Amazon](https://l.cardinfo.in/amazon) India customers.
 
 - Joining Fee: Nil
 - Renewal Fee: Life time free
 - Reward Rate:
-  - 5% for Amazon Prime customers and 3% for others on Amazon
+  - 5% for Amazon Prime customers and 3% for others on [Amazon](https://l.cardinfo.in/amazon)
   - 2% on paying through Amazon Pay
   - 1% on other spends
 - Rewards are credited as Amazon Pay cashback each month after statement generation
@@ -95,15 +104,15 @@ HDFC Regalia First Credit Card is an entry level premium card from HDFC. Decent 
 
 {% include tile.html image="sbi-simply-click-credit-card.jpg" alt="SBI SimplyCLICK Credit Card" reward="0.25%- 2.5%" annualfee="Rs. 499" reviewurl="/sbi-simplyclick-credit-card-review/" pros="Rs. 500 Amazon voucher as welcome benefit <br/>2.5% cashback on Amazon, BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo & UrbanClap<br />1.25% cashback on online transactions<br/>Milestone benefits" cons="Low rewards on offline spends<br/>No airport lounge access" %}
 
-[SBI SimplyCLICK Credit Card](/sbi-simplyclick-credit-card-review/) is one the [best credit cards for first timers in India](/best-credit-cards-for-first-timers-in-india/) which provides 10X rewards on shopping at Amazon, BookMyShow, UrbanClap etc. This card also provides 5X rewards on other online spends irrespective of merchant which is quite awesome. With low annual fees and salary requirements, this is a really good card to have in possession if you spend online a lot.
+[SBI SimplyCLICK Credit Card](/sbi-simplyclick-credit-card-review/) is one the [best credit cards for first timers in India](/best-credit-cards-for-first-timers-in-india/) which provides 10X rewards on shopping at [Amazon](https://l.cardinfo.in/amazon), BookMyShow, UrbanClap etc. This card also provides 5X rewards on other online spends irrespective of merchant which is quite awesome. With low annual fees and salary requirements, this is a really good card to have in possession if you spend online a lot.
 
-- Joining fee: Rs. 499 + GST, welcome benefit of Amazon gift voucher worth Rs. 500
+- Joining fee: Rs. 499 + GST, welcome benefit of [Amazon](https://l.cardinfo.in/amazon) gift voucher worth Rs. 500
 - Renewal fee: Rs. 499 + GST, waived off if spend in previous year is more than Rs. 1 Lakh
 - Milestone Benefits:
   - Cleartrip e-voucher worth Rs.2,000 on annual online spends of Rs. 1 Lakh
   - Cleartrip e-voucher worth Rs.2,000 on annual online spends of Rs. 2 Lakhs
 - Reward Rate:
-  - 10 Reward Points per Rs. 100 on online spends with exclusive partners - Amazon, BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
+  - 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
   - 5 Reward Points per Rs. 100 on all other online spends, 1.25% reward rate
   - 1 Reward Point per Rs. 100 on all other spends, 0.25% reward rate
 
@@ -122,7 +131,7 @@ Newly launched [HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-dine
 - Annual Memberships of Zomato Gold, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star on spending Rs. 5 Lakhs in previous year
 - Reward Rate:
   - 4 reward points per Rs. 150 spent, 1.3% reward rate
-  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Hotels & Flights) and partner brands (Myntra, Swiggy, BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
+  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
 - Monthly Benefits: Ola Select membership, BookMyShow or TataCLiQ voucher worth Rs. 500 on achieving a monthly spend of Rs. 40,000
 - Lounge Access: 12 complimentary airport lounge access to 1000+ Lounges in India and worldwide for primary and add-on card members
 - 2 complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around the world
@@ -249,12 +258,12 @@ Super Premium cards are not only hard to get but also require really high relati
 
 {% include tile.html image="standard-chartered-ultimate-credit-card.jpg" alt="Standard Chartered Ultimate Credit Card" reward="3.3%" annualfee="Rs. 5,000" reviewurl="/standard-chartered-ultimate-credit-card-review/" pros="3.3% of default reward rate <br/>Domestic and International airport lounge access<br />Golf privileges<br />1.5% cashbak on international transactions<br />Dineout membership, Concierge services, Travel & Air Accident insurance cover" cons="No unlimited airport lounge access <br />Limited reward redemption options" %}
 
-Standard Chartered Ultimate Credit Card is the elitist offering from Standard Chartered. Though the default reward rate of 3.3% is certainly attractive, lately the reward redemption options have become limited. Amazon vouchers keeps on disappearing from their reward catalog and other options are not so great. To get this card, you should have an annual income of more than Rs. 24 Lakhs or if you have an existing SC credit card then the limit should be more than Rs. 5 Lakhs. Additionally you can this card on basis of your existing card if free limit on existing card is more than Rs. 4.5 Lakhs.
+Standard Chartered Ultimate Credit Card is the elitist offering from Standard Chartered. Though the default reward rate of 3.3% is certainly attractive, lately the reward redemption options have become limited. [Amazon](https://l.cardinfo.in/amazon) vouchers keeps on disappearing from their reward catalog and other options are not so great. To get this card, you should have an annual income of more than Rs. 24 Lakhs or if you have an existing SC credit card then the limit should be more than Rs. 5 Lakhs. Additionally you can this card on basis of your existing card if free limit on existing card is more than Rs. 4.5 Lakhs.
 
 - Joining Fee: Rs. 5,000 + GST
 - Renewal Fee: Rs. 5,000 + GST
-- Welcome Bonus: Rs. 10,000 cashback from [MakeMyTrip](https://l.cardinfo.in/makemytrip)
-- Reward Rate: 3.3%, can be redeemed for gift vouchers of Amazon, Flipkart, Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip), BookMyShow etc. (depending upon availability on their reward redemption website)
+- Welcome Bonus: Rs. 10,000 cashback from MakeMyTrip
+- Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip), BookMyShow etc. (depending upon availability on their reward redemption website)
 - Lounge Access:
   - International: 1 free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
   - Domestic: 4 per quarter through Visa/Mastercard Card Lounge program

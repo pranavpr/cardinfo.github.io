@@ -80,7 +80,7 @@ The credit limit on this card is generally upwards of Rs. 8 Lakhs. However in so
 - 1 reward point = Rs. 0.50 if redeemed for cash
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
-- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy (Amazon, Flipkart, Instant Vouchers, Train Tickets, Hotels & Flights), 33% reward rate
+- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Train Tickets, Hotels & Flights), 33% reward rate
 - Maxcap on bonus reward points at SmartBuy: 25,000
 - 2X rewards on dining, 6.6% reward rate
   - Minimum transaction: Rs. 150
