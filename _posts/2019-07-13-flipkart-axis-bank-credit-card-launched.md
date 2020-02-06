@@ -27,7 +27,7 @@ Flipkart in partnership with Axis Bank launched a co-branded credit card, [Flipk
 	<td> 5% </td>
 </tr>
 <tr>
-	<td> <a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a>, Goibibo, Uber, PVR, Curefit and UrbanClap </td>
+	<td> <a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a>, <a href="https://l.cardinfo.in/goibibo" target="_blank">Goibibo</a>, Uber, PVR, Curefit and UrbanClap </td>
 	<td> 4% </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ Surprisingly there is no mention of waiver of renewal fee on meeting annual spen
 - Joining Fee: Rs. 500
 - Renewal Fee: Rs. 500
 
-The joining fee is compensated by Rs. 500 [Flipkart](https://l.cardinfo.in/flipkart) voucher which they are offering if a transaction is made on card within 30 days of issuance. They are also offering welcome promo codes for Gaana, Goibibo, Makemytrip, [Myntra](https://l.cardinfo.in/myntra) and Urban Clap.
+The joining fee is compensated by Rs. 500 [Flipkart](https://l.cardinfo.in/flipkart) voucher which they are offering if a transaction is made on card within 30 days of issuance. They are also offering welcome promo codes for Gaana, [Goibibo](https://l.cardinfo.in/goibibo), [Makemytrip](https://l.cardinfo.in/makemytrip), [Myntra](https://l.cardinfo.in/myntra) and Urban Clap.
 
 ### Eligibility
 

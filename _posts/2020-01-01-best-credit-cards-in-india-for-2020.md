@@ -20,19 +20,13 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 
 #### 1. Flipkart Axis Bank Credit Card
 
-<<<<<<< HEAD
-{% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%-5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros="Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on Flipkart, Myntra & 2GUD<br />4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access" cons="Not lifetime free <br />Clunky application process" %}
-=======
 {% include tile.html image="flipkart-axis-bank-credit-card.jpg" alt="Flipkart Axis Bank Credit Card" reward="1.5%-5%" annualfee="Rs. 500" reviewurl="/flipkart-axis-bank-credit-card-review-and-hands-on-experience/" pros='Rs. 500 Flipkart voucher as welcome benefit <br/>5% cashback on <a href="https://l.cardinfo.in/flipkart" target="_blank">Flipkart</a>, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> & 2GUD<br />4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)<br />1.5% cashbak on others<br />4 annual complimentary domestic airport lounge access' cons="Not lifetime free <br />Clunky application process" %}
-
-> > > > > > > bc77e5d584731b61b21774ee5832b43c821ef586
 
 [Flipkart Axis Bank Credit Card](/flipkart-axis-bank-credit-card-review-and-hands-on-experience/) is a lifestyle co-branded credit card which provides accelerated cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and preferred partners. The main highlight of this card is default cashback rate of 1.5% with no capping which directly gets credited to the card account in next billing cycle. Another notable feature is complimentary domestic airport lounge access which is uncommon in this category.
 
 - Joining fee: Rs. 500 + GST, [Flipkart](https://l.cardinfo.in/flipkart) voucher worth Rs. 500 provided
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
-  <<<<<<< HEAD
   - 5% cashback on Flipkart, Myntra and 2GUD
   - # 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
   - 5% cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and 2GUD
@@ -300,7 +294,7 @@ Citi Prestige Credit Card is best for those who travel a lot. This card entitles
 
 #### 6. Axis Bank Magnus Credit Card
 
-{% include tile-alt.html image="axis-bank-magnus-credit-card.jpg" alt="Axis Bank Magnus Credit Card" reward="1.2%-2.4%" annualfee="Rs. 10,000" reviewurl="/axis-bank-magnus-credit-card-launched/" pros="8 complimentary VIP Assistance Services<br />8 complimentary international airport lounge access (card member + guest)<br />Unlimited domestic lounge access <br />2X reward points on MakeMyTrip, Yatra & Goibibo <br/>Buy 1 Get 1 at BookMyShow<br/>Complimentary Dineout Plus membership<br/>Reduced foreign currency markup of 2%" cons="Low default reward rate<br />No unlimited international airport lounge access" %}
+{% include tile-alt.html image="axis-bank-magnus-credit-card.jpg" alt="Axis Bank Magnus Credit Card" reward="1.2%-2.4%" annualfee="Rs. 10,000" reviewurl="/axis-bank-magnus-credit-card-launched/" pros="8 complimentary VIP Assistance Services<br />8 complimentary international airport lounge access (card member + guest)<br />Unlimited domestic lounge access <br />2X reward points on MakeMyTrip, Yatra & [Goibibo](https://l.cardinfo.in/goibibo) <br/>Buy 1 Get 1 at BookMyShow<br/>Complimentary Dineout Plus membership<br/>Reduced foreign currency markup of 2%" cons="Low default reward rate<br />No unlimited international airport lounge access" %}
 
 Though the default reward rate on Axis Bank Magnus Credit Card is low, other benefits make it worthwhile. Complimentary VIP assistance services and airport lounge access to guests are some of the unique features of this card. Buy 1 Get 1 on BookMySow 5 times monthly and complimentary Dineout Plus membership is certainly a delight for movie buffs and foodies.
 
@@ -308,7 +302,7 @@ Though the default reward rate on Axis Bank Magnus Credit Card is low, other ben
 - Renewal fee: Rs. 10,000 + GST
 - Reward Points:
   - 12 Axis eDGE reward points per Rs. 200 spent, 1.2% reward rate
-  - 2X Axis eDGE reward points on MakeMyTrip, Yatra & Goibibo, 2.4% reward rate
+  - 2X Axis eDGE reward points on MakeMyTrip, Yatra & [Goibibo](https://l.cardinfo.in/goibibo), 2.4% reward rate
 - 8 complimentary VIP Assistance Services
 - Lounge Access:
   - 8 complimentary international airport lounge access (card member + guest), 4 more on spending Rs. 7 Lakh or more using Priority Pass

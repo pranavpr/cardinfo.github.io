@@ -12,8 +12,8 @@ Axis Bank launched Magnus Credit Card today. This is a super premium credit card
 
 The card looks stunning and vertical clean layout adds to the aesthetics of the card. The minimal design with black background gives it a premium look.
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ### Eligibility Criteria
 
@@ -45,7 +45,7 @@ It's evident that this card compensates joining fees by equivalent amount of com
 #### Reward Points
 
 - 12 Axis eDGE reward points per Rs. 200 spent, 1.2% reward rate
-- 2X Axis eDGE reward points on MakeMyTrip, Yatra & Goibibo, 2.4% reward rate
+- 2X Axis eDGE reward points on MakeMyTrip, Yatra & [Goibibo](https://l.cardinfo.in/goibibo), 2.4% reward rate
 
 The reward rate is just mediocre and it's the weakest point of this credit card. Many cards in this segment provide far superior reward rate than this.
 
