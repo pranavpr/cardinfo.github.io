@@ -11,12 +11,12 @@ The spend based targeted offers have not stopped yet and after [HDFC](/hdfc-cred
 
 ### Offer Details
 
-- **Offer**: Rs. 500 BookMyShow voucher
+- **Offer**: Rs. 500 [BookMyShow](https://l.cardinfo.in/bookmyshow) voucher
 - **Period**: 1 August 2019 to 31 August 2019
 - **Spend Criteria**: Minimum 4 transactions of Rs. 500 or more
 - **Exclusions**: Not valid for void/cancelled transactions
 - **Type**: Targeted, not valid if communication not received
-- **Fulfillment**: BookMyShow voucher will be sent to the eligible customers through SMS/Email within a period of 60 days from the offer end date
+- **Fulfillment**: [BookMyShow](https://l.cardinfo.in/bookmyshow) voucher will be sent to the eligible customers through SMS/Email within a period of 60 days from the offer end date
 - **Source**: Email, [Website](https://www.icicibank.com/campaigns/mailers/July-2018/landing-page-bms/20132863/index.html)
 
 This offer translates to a sweet reward rate of 25%. I received this offer on my ICICI Bank Platinum Credit Card which I stopped using after I received my [Amazon Pay ICICI Bank credit card](/amazon-pay-icici-bank-credit-card-review/).

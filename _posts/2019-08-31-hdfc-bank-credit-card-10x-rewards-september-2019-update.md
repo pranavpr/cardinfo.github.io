@@ -40,7 +40,7 @@ Payzapp, which was added in [August 2019](/hdfc-diners-club-10x-rewards-program-
 
 - **Offer**: 10X reward points on HDFC Diners Club Credit Cards for purchases made on 10X partners
 - **Period**: 1 September 2019 to 31 December 2019
-- **Partners**: [Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry
+- **Partners**: [Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Zoomcar](https://l.cardinfo.in/zoomcar), Godrej Nature’s Basket, Ola & FirstCry
 - **Maximum Reward Points**:
   - Diners Rewardz: 2,000
   - Diners Clubmiles/Premium: 5,000

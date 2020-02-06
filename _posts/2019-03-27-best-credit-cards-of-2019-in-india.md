@@ -77,7 +77,7 @@ HDFC Regalia First Credit Card is an entry level premium card from HDFC. Mostly 
 
 Standard Chartered Manhattan Credit Card provides 5% cashback on grocery spends at supermarkets like DMart, Big Bazaar, More etc. Below are the main highlights of this card:
 
-- Joining Fee: Rs. 999, get BookMyShow vouchers worth Rs. 2,000 if you do a transaction within 90 days of card setup
+- Joining Fee: Rs. 999, get [BookMyShow](https://l.cardinfo.in/bookmyshow) vouchers worth Rs. 2,000 if you do a transaction within 90 days of card setup
 - Renewal Fee: Rs. 999, waived on spending Rs 1,20,000 in a year
 - Reward Rate:
   - 5% cashback on minimum transaction of Rs. 1000 at supermarkets capped to Rs. 150 per transaction & Rs. 500 per month
@@ -146,7 +146,7 @@ If you spend a lot in weekends, this is the card for you. It provides accelerate
 - Renewal Fee: Nil
 - Reward Rate: 1.5% on weekdays, 2% on weekends
 - Lounge Access: 2 domestic lounge access per quarter using American Express Lounge Program
-- Other benefits: Golf, Travel Concierge, Automobile Assistance, Insurance Cover, Buy 1 Get 1 on BookMyShow etc.
+- Other benefits: Golf, Travel Concierge, Automobile Assistance, Insurance Cover, Buy 1 Get 1 on [BookMyShow](https://l.cardinfo.in/bookmyshow) etc.
 - Call 1860 267 7777 to apply
 
 #### 4. SBI Prime Credit Card
@@ -243,7 +243,7 @@ Standard Chartered Ultimate Credit Card is the latest offering from Standard Cha
 - Joining Fee: Rs. 5,000
 - Renewal Fee: Rs. 5,000
 - Welcome Bonus: Rs. 10,000 cashback from [MakeMyTrip](https://l.cardinfo.in/makemytrip)
-- Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip), BookMyShow etc. (depending upon availability on their reward redemption website)
+- Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip), [BookMyShow](https://l.cardinfo.in/bookmyshow) etc. (depending upon availability on their reward redemption website)
 - Lounge Access:
   - International: 1 free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
   - Domestic: 4 per quarter through Visa/Mastercard Card Lounge program

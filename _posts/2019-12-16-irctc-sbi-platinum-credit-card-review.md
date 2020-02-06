@@ -47,7 +47,7 @@ Being a co-branded credit card, IRCTC SBI Platinum Credit Card provides maximum 
 - 350 activation bonus reward points on spending Rs. 500 or more within 45 days of card issuance, ~ Rs. 350
 - Rs. 100 cash back on first ATM cash withdrawal within 30 days of receiving the card, though I wouldn't recommend doing it as it comes with really high interest charges
 
-Also as a limited period offer, if you apply online for this card, you'll get a BookMyShow voucher worth Rs. 250. The welcome benefit sets off the joining fee which is a little relief.
+Also as a limited period offer, if you apply online for this card, you'll get a [BookMyShow](https://l.cardinfo.in/bookmyshow) voucher worth Rs. 250. The welcome benefit sets off the joining fee which is a little relief.
 
 #### Reward Points
 

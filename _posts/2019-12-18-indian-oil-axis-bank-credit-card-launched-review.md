@@ -7,7 +7,7 @@ image: /assets/images/indian-oil-axis-bank-credit-card-launched.jpg
 product: Indian Oil Axis Bank Credit Card
 ---
 
-Axis Bank in partnership with Indian Oil Corporation Limited (IOCL) has launched a co-branded credit card named Indian Oil Axis Bank Credit Card. This new co-branded credit card offers 20X accelerated reward points on fuel spends at IOCL outlets and waiver of fuel surcharge. Additionally, card members can also avail 5X accelerated reward points on online shopping and 10% instant discount on movie ticket bookings via BookMyShow.
+Axis Bank in partnership with Indian Oil Corporation Limited (IOCL) has launched a co-branded credit card named Indian Oil Axis Bank Credit Card. This new co-branded credit card offers 20X accelerated reward points on fuel spends at IOCL outlets and waiver of fuel surcharge. Additionally, card members can also avail 5X accelerated reward points on online shopping and 10% instant discount on movie ticket bookings via [BookMyShow](https://l.cardinfo.in/bookmyshow).
 
 {% include image.html image="indian-oil-axis-bank-credit-card-launch-event.jpg" alt="Indian Oil Axis Bank Credit Card launch event" class="img-center mb-3" %}
 
@@ -64,9 +64,9 @@ There is no mention of maximum fuel surcharge waiver one can avail in a month on
 
 #### BookMyShow Discount
 
-- 10% instant discount on movie tickets booked via BookMyShow website or app
+- 10% instant discount on movie tickets booked via [BookMyShow](https://l.cardinfo.in/bookmyshow) website or app
 
-This offer could have been better as BookMyShow most of the time runs better offer than this.
+This offer could have been better as [BookMyShow](https://l.cardinfo.in/bookmyshow) most of the time runs better offer than this.
 
 #### Other benefits
 
@@ -83,7 +83,7 @@ Though Indian Oil Axis Bank Credit Card tries to be an all rounder card, it miss
 
 ### Verdict
 
-Indian Oil Axis Bank Credit Card, even with it's nuances, is a decent fuel card and hence features in my list of [best credit cards for fuel spends in India](/best-credit-cards-for-fuel-spends-in-india/). 5% reward rate (4% normal + 1% fuel surcharge waiver) on fuel spends is great. Accelerated reward points on online spends and 10% discount on BookMyShow surely adds value to this card. However low default reward rate of 0.20% and low monthly limit of reward points on fuel spends is really a bummer.
+Indian Oil Axis Bank Credit Card, even with it's nuances, is a decent fuel card and hence features in my list of [best credit cards for fuel spends in India](/best-credit-cards-for-fuel-spends-in-india/). 5% reward rate (4% normal + 1% fuel surcharge waiver) on fuel spends is great. Accelerated reward points on online spends and 10% discount on [BookMyShow](https://l.cardinfo.in/bookmyshow) surely adds value to this card. However low default reward rate of 0.20% and low monthly limit of reward points on fuel spends is really a bummer.
 
 {% include star-rating.html rating=3.5 rewards=3.5 fees=4 features=3 %}
 

@@ -9,6 +9,7 @@ product: Standard Chartered Manhattan Credit Card
 
 Standard Chartered Manhattan Credit Card is an entry level lifestyle credit card which provides attractive cashback on grocery spends. This card also provides accelerated rewards on normal spends which can be redeemed from it's rewards catalogue. Apart from providing cashback and rewards, this card also sports a stunning design, probably one the best among credit cards in India at the moment.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -37,9 +38,9 @@ Standard Chartered Manhattan Credit Card is mainly targeted towards common famil
 
 #### Welcome benefits
 
-- BookMyShow vouchers worth Rs. 2,000
+- [BookMyShow](https://l.cardinfo.in/bookmyshow) vouchers worth Rs. 2,000
 
-BookMyShow vouchers are provided after making first transaction within 90 days of card set up. The BookMyshow e-voucher are sent via SMS on the registered mobile number within 120 days of date of transaction.
+[BookMyShow](https://l.cardinfo.in/bookmyshow) vouchers are provided after making first transaction within 90 days of card set up. The [BookMyShow](https://l.cardinfo.in/bookmyshow) e-voucher are sent via SMS on the registered mobile number within 120 days of date of transaction.
 
 #### Reward Points
 

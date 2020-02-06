@@ -98,7 +98,7 @@ HDFC Regalia First Credit Card is an entry level premium card from HDFC. Decent 
 
 {% include tile.html image="sbi-simply-click-credit-card.jpg" alt="SBI SimplyCLICK Credit Card" reward="0.25%- 2.5%" annualfee="Rs. 499" reviewurl="/sbi-simplyclick-credit-card-review/" pros="Rs. 500 Amazon voucher as welcome benefit <br/>2.5% cashback on Amazon, BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo & UrbanClap<br />1.25% cashback on online transactions<br/>Milestone benefits" cons="Low rewards on offline spends<br/>No airport lounge access" %}
 
-[SBI SimplyCLICK Credit Card](/sbi-simplyclick-credit-card-review/) is one the [best credit cards for first timers in India](/best-credit-cards-for-first-timers-in-india/) which provides 10X rewards on shopping at [Amazon](https://l.cardinfo.in/amazon), BookMyShow, UrbanClap etc. This card also provides 5X rewards on other online spends irrespective of merchant which is quite awesome. With low annual fees and salary requirements, this is a really good card to have in possession if you spend online a lot.
+[SBI SimplyCLICK Credit Card](/sbi-simplyclick-credit-card-review/) is one the [best credit cards for first timers in India](/best-credit-cards-for-first-timers-in-india/) which provides 10X rewards on shopping at [Amazon](https://l.cardinfo.in/amazon), [BookMyShow](https://l.cardinfo.in/bookmyshow), UrbanClap etc. This card also provides 5X rewards on other online spends irrespective of merchant which is quite awesome. With low annual fees and salary requirements, this is a really good card to have in possession if you spend online a lot.
 
 - Joining fee: Rs. 499 + GST, welcome benefit of [Amazon](https://l.cardinfo.in/amazon) gift voucher worth Rs. 500
 - Renewal fee: Rs. 499 + GST, waived off if spend in previous year is more than Rs. 1 Lakh
@@ -106,7 +106,7 @@ HDFC Regalia First Credit Card is an entry level premium card from HDFC. Decent 
   - Cleartrip e-voucher worth Rs.2,000 on annual online spends of Rs. 1 Lakh
   - Cleartrip e-voucher worth Rs.2,000 on annual online spends of Rs. 2 Lakhs
 - Reward Rate:
-  - 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
+  - 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Cleartrip](https://l.cardinfo.in/cleartrip), Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
   - 5 Reward Points per Rs. 100 on all other online spends, 1.25% reward rate
   - 1 Reward Point per Rs. 100 on all other spends, 0.25% reward rate
 
@@ -125,8 +125,8 @@ Newly launched [HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-dine
 - Annual Memberships of Zomato Gold, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star on spending Rs. 5 Lakhs in previous year
 - Reward Rate:
   - 4 reward points per Rs. 150 spent, 1.3% reward rate
-  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
-- Monthly Benefits: Ola Select membership, BookMyShow or [TataCLIQ](https://l.cardinfo.in/tatacliq) voucher worth Rs. 500 on achieving a monthly spend of Rs. 40,000
+  - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
+- Monthly Benefits: Ola Select membership, [BookMyShow](https://l.cardinfo.in/bookmyshow) or [TataCLIQ](https://l.cardinfo.in/tatacliq) voucher worth Rs. 500 on achieving a monthly spend of Rs. 40,000
 - Lounge Access: 12 complimentary airport lounge access to 1000+ Lounges in India and worldwide for primary and add-on card members
 - 2 complimentary Golf games (Green fee waiver) per quarter around 18 golf courses in India and 144 golf courses around the world
 
@@ -191,7 +191,7 @@ If you spend a lot on weekends, this is the card for you. It provides accelerate
   - 2% on weekends
   - 0.7% on Utility Bill Payments, Insurance Premium Payments, Government Services/Charges/Payments & Education Institute Fees
 - Lounge Access: 2 domestic airport lounge access per quarter using American Express Lounge Program
-- Other benefits: Golf, Travel Concierge, Automobile Assistance, Insurance Cover, Buy 1 Get 1 on BookMyShow etc.
+- Other benefits: Golf, Travel Concierge, Automobile Assistance, Insurance Cover, Buy 1 Get 1 on [BookMyShow](https://l.cardinfo.in/bookmyshow) etc.
 
 #### 6. American Express Platinum Travel Card
 
@@ -257,7 +257,7 @@ Standard Chartered Ultimate Credit Card is the elitist offering from Standard Ch
 - Joining Fee: Rs. 5,000 + GST
 - Renewal Fee: Rs. 5,000 + GST
 - Welcome Bonus: Rs. 10,000 cashback from MakeMyTrip
-- Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip), BookMyShow etc. (depending upon availability on their reward redemption website)
+- Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip), [BookMyShow](https://l.cardinfo.in/bookmyshow) etc. (depending upon availability on their reward redemption website)
 - Lounge Access:
   - International: 1 free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
   - Domestic: 4 per quarter through Visa/Mastercard Card Lounge program
@@ -307,7 +307,7 @@ Though the default reward rate on Axis Bank Magnus Credit Card is low, other ben
 - Lounge Access:
   - 8 complimentary international airport lounge access (card member + guest), 4 more on spending Rs. 7 Lakh or more using Priority Pass
   - Unlimited domestic lounge access using Mastercard lounge program
-- Buy 1 Get 1 up to Rs. 500 on movie, activities, events etc. at BookMyShow, limited to 5 times in a month
+- Buy 1 Get 1 up to Rs. 500 on movie, activities, events etc. at [BookMyShow](https://l.cardinfo.in/bookmyshow), limited to 5 times in a month
 - Complimentary Dineout Plus membership
 - Reduced foreign currency markup of 2%
 

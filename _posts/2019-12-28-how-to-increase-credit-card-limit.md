@@ -95,7 +95,7 @@ Kotak has been most generous in awarding credit limit on my Royale Credit Card. 
 
 #### RBL Bank
 
-RBL Bank has been most miser in providing the credit limit on my [RBL Bank Fun+ Credit Card](/rbl-bank-movies-more-earlier-fun-plus-credit-card-review/). I regularly use this card up to Rs. 5,000 for BookMyShow tickets worth Rs. 500. However with regular use, RBL never provided me a credit limit enhancement. I sent my salary documents to them and they provided me a limit equal to my in-hand salary which was quite sufficient for me. However, to my surprise, this year they provided a credit limit enhancement of 50% which I accepted happily.
+RBL Bank has been most miser in providing the credit limit on my [RBL Bank Fun+ Credit Card](/rbl-bank-movies-more-earlier-fun-plus-credit-card-review/). I regularly use this card up to Rs. 5,000 for [BookMyShow](https://l.cardinfo.in/bookmyshow) tickets worth Rs. 500. However with regular use, RBL never provided me a credit limit enhancement. I sent my salary documents to them and they provided me a limit equal to my in-hand salary which was quite sufficient for me. However, to my surprise, this year they provided a credit limit enhancement of 50% which I accepted happily.
 
 #### SBI Card
 

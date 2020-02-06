@@ -45,7 +45,7 @@ ICICI Coral Credit Card is a life style credit card with multiple benefits acros
 - Renewal Fee: Rs. 500, waived if annual spends for last year >= Rs. 1,25,000
 - 2 Payback Points per Rs. 100 spent, 0.50% reward rate
 - 4 Payback Points per Rs. 100 spent on dining, groceries and at supermarkets, 1% reward rate
-- Buy 1 Get 1 movie tickets at BookMyShow
+- Buy 1 Get 1 movie tickets at [BookMyShow](https://l.cardinfo.in/bookmyshow)
 - 1 complimentary domestic airport lounge access per quarter
 - 15% discount when dining at restaurants participating in [Culinary Treats](https://www.icicibank.com/offers/brands/culinary-treats.page)
 - 1% fuel surcharge waiver

@@ -140,7 +140,7 @@ Note that to avail these benefits, credit card should have been used at least on
  
 #### Other benefits
  
-- Buy 1 Get 1 at BookMyShow for movie tickets, limited to 1 per month up to Rs. 200 per ticket
+- Buy 1 Get 1 at [BookMyShow](https://l.cardinfo.in/bookmyshow) for movie tickets, limited to 1 per month up to Rs. 200 per ticket
 - Buy 1 Get 1 at Sathyam Cinemas, limited to 2 per month up to Rs. 120 per ticket
 - 1% on fuel surcharge waiver at all fuel station across India
 - Auto assist for roadside assistance
@@ -161,7 +161,7 @@ Even IndusInd Iconia American Express Credit Card offers a great set of benefits
  
 ### Verdict
  
-IndusInd Iconia American Express Credit Card is one of the most rewarding credit cards today. With a default reward rate of 1.5% on weekdays and 2% on weekends, this can easily become your primary driver, unless you have access to super premium credit cards. Complimentary rounds of Golf and free tickets on BookMyShow will take care of your entertainment needs. However, the limited number of lounges in its network is a huge let down.
+IndusInd Iconia American Express Credit Card is one of the most rewarding credit cards today. With a default reward rate of 1.5% on weekdays and 2% on weekends, this can easily become your primary driver, unless you have access to super premium credit cards. Complimentary rounds of Golf and free tickets on [BookMyShow](https://l.cardinfo.in/bookmyshow) will take care of your entertainment needs. However, the limited number of lounges in its network is a huge let down.
  
 {% include star-rating.html rating=3.9 rewards=4.5 fees=3.5 features=3.8 %}
  

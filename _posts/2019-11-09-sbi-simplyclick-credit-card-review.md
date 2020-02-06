@@ -7,7 +7,7 @@ image: /assets/images/sbi-simplyclick-credit-card-review.jpg
 product: SBI SimplyCLICK Credit Card
 ---
 
-SBI SimplyCLICK Credit Card is one the [best credit cards for first timers in India](/best-credit-cards-for-first-timers-in-india/) which provides 10X rewards on shopping at [Amazon](https://l.cardinfo.in/amazon), BookMyShow, UrbanClap etc. This card also provides 5X rewards on other online spends irrespective of merchant which is quite awesome. With low annual fees and salary requirements, this is a really good card to have in possession if you spend online a lot.
+SBI SimplyCLICK Credit Card is one the [best credit cards for first timers in India](/best-credit-cards-for-first-timers-in-india/) which provides 10X rewards on shopping at [Amazon](https://l.cardinfo.in/amazon), [BookMyShow](https://l.cardinfo.in/bookmyshow), UrbanClap etc. This card also provides 5X rewards on other online spends irrespective of merchant which is quite awesome. With low annual fees and salary requirements, this is a really good card to have in possession if you spend online a lot.
 
 {% include image.html image="sbi-silplyclick-credit-card-closeup.jpg" alt="SBI SimplyCLICK Credit Card" class="center mb-3" %}
 
@@ -58,7 +58,7 @@ That's an additional 2% reward rate on achieving a spend of Rs. 2 Lakhs.
 #### Reward Points
 
 - 1 Reward Point = Rs. 0.25
-- 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, [Cleartrip](https://l.cardinfo.in/cleartrip), Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
+- 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Cleartrip](https://l.cardinfo.in/cleartrip), Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
 - 5 Reward Points per Rs. 100 on all other online spends, 1.25% reward rate
 - 1 Reward Point per Rs.100 on all other spends, 0.25% reward rate
 - Reward points can be redeemed from rewards catalogue ([Amazon](https://l.cardinfo.in/amazon) & [Cleartrip](https://l.cardinfo.in/cleartrip) vouchers available)

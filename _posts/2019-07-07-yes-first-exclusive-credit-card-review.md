@@ -87,7 +87,7 @@ YES ASSIST, a dedicated concierge Service for following requests:
 
 #### Other benefits
 
-- 25% discount on movie tickets at BookMyShow
+- 25% discount on movie tickets at [BookMyShow](https://l.cardinfo.in/bookmyshow)
 - Fuel surcharge waiver for transaction between Rs. 400 to Rs. 5,000
 
 ### Drawbacks

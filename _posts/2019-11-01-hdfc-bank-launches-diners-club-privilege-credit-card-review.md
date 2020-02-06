@@ -64,7 +64,7 @@ It's quite evident that HDFC Bank is luring the card members for spending more b
 - 1 reward point = Rs. 0.50 if used for booking hotels and air tickets at [dedicated portal](https://offers.smartbuy.hdfcbank.com/diners)
 - 1 reward point ~ Rs. 0.20 if used for redeeming from reward catalogue or cash
 - 4 reward points per Rs. 150 spent, 1.3% reward rate
-- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
+- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Zoomcar](https://l.cardinfo.in/zoomcar), Godrej Nature’s Basket, Ola & FirstCry), 13% reward rate
 - Maxcap on bonus reward points
   - 5,000 bonus reward points on Smartbuy
   - 10,000 bonus reward points on partner brands
@@ -82,7 +82,7 @@ It's quite evident that HDFC Bank is luring the card members for spending more b
 Card members can select one of following vouchers on achieving a monthly spend of Rs. 40,000:
 
 - Ola Select membership
-- BookMyShow voucher worth Rs. 500
+- [BookMyShow](https://l.cardinfo.in/bookmyshow) voucher worth Rs. 500
 - [TataCLIQ](https://l.cardinfo.in/tatacliq) voucher worth Rs. 500
 
 Customers eligible for Monthly Milestone benefit will be communicated on HDFC bank registered Mobile Number via SMS and Email ID within the following month with instruction on how to avail it.

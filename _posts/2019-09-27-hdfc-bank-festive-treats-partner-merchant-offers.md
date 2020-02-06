@@ -20,7 +20,7 @@ The offers are unique for each partner merchant and hence let's look in to detai
 - **Applicable On**: HDFC Bank credit and debit cards
 - **Period**: 1 October 2019 to 31 March 2020
 - **Terms & Conditions**:
-  - Card members needs to save their card on BookMyShow to avail the offer
+  - Card members needs to save their card on [BookMyShow](https://l.cardinfo.in/bookmyshow) to avail the offer
   - Applicable twice in a calendar month
 
 ### BigBasket

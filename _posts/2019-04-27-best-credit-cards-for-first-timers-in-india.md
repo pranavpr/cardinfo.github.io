@@ -61,7 +61,7 @@ You can make this card lifetime free by opting for one of the follwoing while ap
 
 {% include image.html image="american-express-smartearn-credit-card.jpg" alt="American Express SmartEarn Credit Card" class="cc-center mb-3" %}
 
-American Express SmartEarn Credit Card provides 10X Membership Rewards Points on Flipkart and Uber and earn 5X Membership Rewards Points on [Amazon](https://l.cardinfo.in/amazon), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow and more. Amex keeps on running lucrative merchant offers from time to time. However note that acceptance of Amex is still not that great and you should always carry a backup Visa/MasterCard.
+American Express SmartEarn Credit Card provides 10X Membership Rewards Points on Flipkart and Uber and earn 5X Membership Rewards Points on [Amazon](https://l.cardinfo.in/amazon), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow) and more. Amex keeps on running lucrative merchant offers from time to time. However note that acceptance of Amex is still not that great and you should always carry a backup Visa/MasterCard.
 
 - Eligibility:
   - Salaried: Annual income > Rs. 4.5 Lakhs
@@ -69,7 +69,7 @@ American Express SmartEarn Credit Card provides 10X Membership Rewards Points on
 - Annual Fee: Rs. 495 + GST, waived on spending Rs. 40,000 or more in previous year
 - Reward Rate:
   - 10X Membership Rewards Points on Flipkart and Uber, 5% reward rate
-  - 5X Membership Rewards Points on [Amazon](https://l.cardinfo.in/amazon), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, PVR, [Myntra](https://l.cardinfo.in/myntra), Jabong, Grofers, Big Bazaar, 2.5% reward rate
+  - 5X Membership Rewards Points on [Amazon](https://l.cardinfo.in/amazon), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), PVR, [Myntra](https://l.cardinfo.in/myntra), Jabong, Grofers, Big Bazaar, 2.5% reward rate
   - 1 Membership Rewards Point for every Rs. 50 spent on other merchants
 
 ### 4. HSBC Cashback Credit Card
@@ -132,7 +132,7 @@ SBI SimplyCLICK provides 2.5% back on online spends with their exclusive partner
 - Joining Fee: Rs. 499, get equivalent amount of [Amazon](https://l.cardinfo.in/amazon) voucher
 - Renewal Fee: Rs. 499, reversed if annual spends for last year >= Rs. 1,00,000
 - Reward Rate:
-  - 2.5% back on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, [Cleartrip](https://l.cardinfo.in/cleartrip), Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
+  - 2.5% back on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Cleartrip](https://l.cardinfo.in/cleartrip), Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
   - 1.25% on other online spends
   - 0.25% on offline spends
 - 1% fuel surcharge waiver for each transaction between Rs. 500 & Rs. 3,000
@@ -165,7 +165,7 @@ RBL Bank Shoprite Credit Card provides 5% reward rate on groceries and 2.5% rewa
   - 10 reward points per Rs. 100 spent on fuel, 2.5% reward rate
   - 1 reward point per Rs. 100 spent on other categories, 0.25% reward rate
 - Other Benefits:
-  - 10% discount on movie tickets at BookMyShow
+  - 10% discount on movie tickets at [BookMyShow](https://l.cardinfo.in/bookmyshow)
   - 1% fuel surcharge waiver, maximum Rs. 100 per month for transactions between Rs. 500 to Rs. 4,000
 - Apply [here](https://l.cardinfo.in/rblshoprite)
 

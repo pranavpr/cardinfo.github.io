@@ -9,7 +9,7 @@ product: RBL Bank Popcorn Credit Card
 
 RBL Bank has recently launched Popcorn Credit Card targeted towards movie buffs. RBL Bank Popcorn Credit Card is an entry level card which provides two free movie tickets each month on meeting the monthly spend criteria. This card also provides surprise cashback each week on meeting the weekly spend criteria.
 
-RBL Bank already has a movie card in partnership with BookMyShow called [RBL Bank Movies & More Credit Card](/rbl-bank-movies-more-earlier-fun-plus-credit-card-review/) which was earlier known as RBL Bank Fun+ Credit Card. The only major difference between the two is lower monthly spend threshold for movie vouchers on the new card.
+RBL Bank already has a movie card in partnership with [BookMyShow](https://l.cardinfo.in/bookmyshow) called [RBL Bank Movies & More Credit Card](/rbl-bank-movies-more-earlier-fun-plus-credit-card-review/) which was earlier known as RBL Bank Fun+ Credit Card. The only major difference between the two is lower monthly spend threshold for movie vouchers on the new card.
 
 {% include image.html image="rbl-bank-popcorn-credit-card-feature.jpg" alt="RBL Bank Popcorn Credit Card Benefits" class="img-center mb-3" %}
 
@@ -38,17 +38,17 @@ RBL Bank Popcorn Credit Card is targeted solely for avid movie goers. Hence the 
 
 #### Welcome benefits
 
-- 4 movie tickets worth Rs. 250 each at BookMyShow
+- 4 movie tickets worth Rs. 250 each at [BookMyShow](https://l.cardinfo.in/bookmyshow)
 
-BookMyShow vouchers worth Rs. 1,000 are provided which can be redeemed in 2 transactions of Rs. 500 each and maximum of 2 tickets in each transaction. It's quite clear that RBL Bank compensates the joining fee of the card by these vouchers.
+[BookMyShow](https://l.cardinfo.in/bookmyshow) vouchers worth Rs. 1,000 are provided which can be redeemed in 2 transactions of Rs. 500 each and maximum of 2 tickets in each transaction. It's quite clear that RBL Bank compensates the joining fee of the card by these vouchers.
 
 #### Monthly Vouchers
 
-- 2 free movie tickets worth Rs. 250 each at BookMyShow on monthly spends of Rs. 5,000
+- 2 free movie tickets worth Rs. 250 each at [BookMyShow](https://l.cardinfo.in/bookmyshow) on monthly spends of Rs. 5,000
 
 This is really a good value proposition and translates to a reward rate of 10% on spending Rs. 5,000 per month.
 
-Monthly vouchers can be redeemed directly on BookMyShow website by selecting "RBL Bank Monthly Offer" option in "Unlock offers or Apply Promocodes". The amount is deducted instantly based on your offer and you can proceed to pay the discounted amount using RBL Bank Popcorn Credit Card. Also there is no quota and you should be able to redeem the offer against any movie at any time given seats are available.
+Monthly vouchers can be redeemed directly on [BookMyShow](https://l.cardinfo.in/bookmyshow) website by selecting "RBL Bank Monthly Offer" option in "Unlock offers or Apply Promocodes". The amount is deducted instantly based on your offer and you can proceed to pay the discounted amount using RBL Bank Popcorn Credit Card. Also there is no quota and you should be able to redeem the offer against any movie at any time given seats are available.
 
 #### Weekly Cashback
 

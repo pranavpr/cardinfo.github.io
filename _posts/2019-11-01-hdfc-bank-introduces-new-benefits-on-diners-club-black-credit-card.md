@@ -54,8 +54,8 @@ Card members will continue to get renewal fee waiver on achieving a spend of Rs.
 Card members can select two of following vouchers on achieving a monthly spend of Rs. 80,000:
 
 - Ola Select membership
-- BookMyShow voucher worth Rs. 500
-- TataCLiQ voucher worth Rs. 500
+- [BookMyShow](https://l.cardinfo.in/bookmyshow) voucher worth Rs. 500
+- [TataCLiQ](https://l.cardinfo.in/tatacliq) voucher worth Rs. 500
 
 Customers eligible for Monthly Milestone benefit will be communicated on HDFC bank registered Mobile Number via SMS and Email ID within the following month with instruction on how to avail it.
 

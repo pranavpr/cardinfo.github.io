@@ -58,14 +58,14 @@ ICICI Bank HPCL Coral American Express Credit Card is a hidden gem which provide
   - 2.5% cashback + 6 PAYBACK Points per Rs. 100 on fuel spends at HPCL fuel stations, 4% reward rate
   - 2 PAYBACK Points per Rs. 100 spent on all other retail spends, 0.50% reward rate
 - 2 domestic airport lounge access per year
-- Rs. 100 discount on up to 2 movie tickets per month at BookMyShow
+- Rs. 100 discount on up to 2 movie tickets per month at [BookMyShow](https://l.cardinfo.in/bookmyshow)
 - 1% Fuel Surcharge waiver
 
 ### 4. Indian Oil Axis Bank Credit Card
 
 {% include image.html image="indian-oil-axis-bank-credit-card.jpg" alt="Indian Oil Axis Bank Credit Card" class="cc-center mb-3" %}
 
-Indian Oil Axis Bank Credit Card is the newest entrant in this category. This card provides 20X accelerated reward points on fuel spends at Indian Oil outlets and waiver of fuel surcharge. Additionally, card members can also avail 5X accelerated reward points on online shopping and 10% instant discount on movie ticket bookings via BookMyShow.
+Indian Oil Axis Bank Credit Card is the newest entrant in this category. This card provides 20X accelerated reward points on fuel spends at Indian Oil outlets and waiver of fuel surcharge. Additionally, card members can also avail 5X accelerated reward points on online shopping and 10% instant discount on movie ticket bookings via [BookMyShow](https://l.cardinfo.in/bookmyshow).
 
 - Joining Fee: Rs. 500
   - 100% cashback up to Rs. 250 on all fuel transactions within first 30 days of card issuance
@@ -75,7 +75,7 @@ Indian Oil Axis Bank Credit Card is the newest entrant in this category. This ca
   - 20X reward points on fuel transactions at IOCL outlets, 4% reward rate
   - 5X reward points on online shopping, 1% reward rate
   - 1 reward point per Rs. 100 spent on other categories, 0.20% reward rate
-- 10% instant discount on movie ticket bookings via BookMyShow
+- 10% instant discount on movie ticket bookings via [BookMyShow](https://l.cardinfo.in/bookmyshow)
 - 1% Fuel Surcharge waiver
 
 ### 5. SBI BPCL Credit Card
@@ -200,7 +200,7 @@ Below table summarizes the reward rate on various credit cards listed above.
       <td> RBL Bank Platinum Maxima Credit Card </td>
       <td> Rs. 2,000 </td>
       <td> 2.5% </td>
-      <td> 2 domestic airport lounge access/quarter, Buy 1 Get 1 on BookMyShow </td>
+      <td> 2 domestic airport lounge access/quarter, Buy 1 Get 1 on <a href="https://l.cardinfo.in/bookmyshow" target="_blank">BookMyShow</a> </td>
     </tr>
     <tr>
       <td> HDFC Bank Bharat Credit Card </td>

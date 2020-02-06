@@ -59,7 +59,7 @@ It's quite evident that HDFC Bank is luring the cardmembers for spending more by
 - 1 reward point ~ Rs. 0.50 if redeemed for cash
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
-- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Train Tickets, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow, Zoomcar, Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
+- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Train Tickets, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Zoomcar](https://l.cardinfo.in/zoomcar), Godrej Nature’s Basket, Ola & FirstCry), 33% reward rate
 - Maxcap on bonus reward points
   - 15000 bonus reward points on Smartbuy
   - 25000 bonus reward points on partner brands
@@ -77,8 +77,8 @@ It's quite evident that HDFC Bank is luring the cardmembers for spending more by
 Card members can select two of following vouchers on achieving a monthly spend of Rs. 80,000:
 
 - Ola Select membership
-- BookMyShow voucher worth Rs. 500
-- TataCLiQ voucher worth Rs. 500
+- [BookMyShow](https://l.cardinfo.in/bookmyshow) voucher worth Rs. 500
+- [TataCLiQ](https://l.cardinfo.in/tatacliq) voucher worth Rs. 500
 
 That's additional 1.25% reward rate in addition to 3.3% regular reward rate making overall reward rate of 4.55% which is simply amazing. This reward rate is even better than HDFC Bank's most premium card, [HDFC Bank Infinia Credit Card](/hdfc-bank-infinia-credit-card-upgrade-experience/).
 

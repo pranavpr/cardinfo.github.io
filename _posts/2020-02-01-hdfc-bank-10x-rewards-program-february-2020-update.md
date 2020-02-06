@@ -6,7 +6,7 @@ categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-bank-10x-rewards-program.jpg
 ---
 
-HDFC Bank has renewed the SmartBuy 10X program and Diners 10X program for another month. Though this is great news, there have been some subtle changes to this program too. HDFC Bank has removed [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow and Godrej Nature’s Basket from Diners 10X program. However [Myntra](https://l.cardinfo.in/myntra), Ola, [First Cry](https://l.cardinfo.in/firstcry) and [Zoomcar](https://l.cardinfo.in/zoomcar) have been retained for the Diners 10X program. Let's look into the detail to know more.
+HDFC Bank has renewed the SmartBuy 10X program and Diners 10X program for another month. Though this is great news, there have been some subtle changes to this program too. HDFC Bank has removed [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow) and Godrej Nature’s Basket from Diners 10X program. However [Myntra](https://l.cardinfo.in/myntra), Ola, [First Cry](https://l.cardinfo.in/firstcry) and [Zoomcar](https://l.cardinfo.in/zoomcar) have been retained for the Diners 10X program. Let's look into the detail to know more.
 
 <!-- prettier-ignore -->
 * TOC
@@ -53,7 +53,7 @@ Diners 10X Rewards program has been renewed till 29 February 2020.
 
 ### Bottomline
 
-Removal of [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow and Godrej Nature’s Basket from Diners 10X Program is a huge blow. With continuous removal of partner brands, it's becoming really hard to extract benefits from this program. Given that HDFC Bank has [introduced milestone benefits on Diners Club Credit Cards](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/) recently, I anticipate that Diners 10X program has only few days left before HDFC Bank kills it.
+Removal of [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow) and Godrej Nature’s Basket from Diners 10X Program is a huge blow. With continuous removal of partner brands, it's becoming really hard to extract benefits from this program. Given that HDFC Bank has [introduced milestone benefits on Diners Club Credit Cards](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/) recently, I anticipate that Diners 10X program has only few days left before HDFC Bank kills it.
 
 Extension of SmartBuy 10X program is a welcome move. HDFC Bank has been enabling new merchants ([Gyftr](/10x-rewards-on-gift-vouchers-using-hdfc-bank-credit-cards/), [IRCTC](/10x-rewards-on-train-tickets-using-hdfc-bank-credit-cards/), [Oyo](/hdfc-smartbuy-january-2020-update-10x-rewards-on-oyo-rooms/)) on SmartBuy portal steadily and I feel this program will continue for some more time.
 
@@ -120,4 +120,4 @@ Below table summarizes the reward rate of some popular HDFC Bank credit cards wi
  
 It's evident from the table above that HDFC Bank 10X Rewards Program is one of most rewarding programs at present. 33% reward rate is just insane and you shouldn't miss even a single chance to utilize this program.
  
-_What do you think about the removal of [Swiggy](https://l.cardinfo.in/swiggy), BookMyShow and Godrej Nature’s Basket from Diners 10X program? How are you planning to extract maximum benefit from this program now? Let me know by leaving a quick comment below._
+_What do you think about the removal of [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow) and Godrej Nature’s Basket from Diners 10X program? How are you planning to extract maximum benefit from this program now? Let me know by leaving a quick comment below._

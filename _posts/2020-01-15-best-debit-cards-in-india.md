@@ -96,7 +96,7 @@ Citi World Debit Card comes with many lifestyle benefits which makes it really a
 - 8 complimentary international airport lounge access
 - Unlimited domestic airport lounge access
 - Golf Privileges: Green fee waiver 3 times in a year
-- Buy 1 Get 1 on BookMyShow
+- Buy 1 Get 1 on [BookMyShow](https://l.cardinfo.in/bookmyshow)
   - Max discount Rs. 250
   - Can be availed twice in a month
 - 10% discount at Hertz + Free two-car-class upgrade
@@ -128,7 +128,7 @@ ICICI Bank Coral Debit Card is known for it's movie ticket offers. Complimentary
 
 - Annual Fee: Rs. 599 + GST
 - 4 PAYBACK Points per Rs. 200 spent, 0.5% reward rate
-- Buy 1 Get 1 on BookMyShow, Carnival Cinemas and Inox
+- Buy 1 Get 1 on [BookMyShow](https://l.cardinfo.in/bookmyshow), Carnival Cinemas and Inox
 - 2 complimentary domestic airport lounge access per quarter
 - 1% fuel surcharge waiver
 - Insurance coverage
@@ -195,7 +195,7 @@ Central Bank of India RuPay Platinum Debit Card comes with a decent reward rate 
 IDFC Bank after the merger with Capital First recently, launched the IDFC First Visa Signature Debit Card. You need to maintain an average monthly balance of Rs. 25,000 to get this card. Though there is no rewards program on this card yet, flat cashback of Rs. 250 per month will certainly delight movie buffs.
 
 - Annual Fee: Nil
-- Rs. 250 cashback per month on BookMyShow
+- Rs. 250 cashback per month on [BookMyShow](https://l.cardinfo.in/bookmyshow)
 - 2 complimentary domestic airport lounge access per quarter
 - 1% fuel surcharge waiver
 
@@ -226,7 +226,7 @@ Yes Bank Prosperity Platinum Debit Card provides accelerated reward points on in
 - Reward Rate:
   - 1 reward point per Rs. 200 spent, 0.125% reward rate
   - 4X rewards on international spends, 0.5% reward rate
-- Rs. 100 off on BookMyShow, twice in a month
+- Rs. 100 off on [BookMyShow](https://l.cardinfo.in/bookmyshow), twice in a month
 - 1 complimentary domestic airport lounge access per quarter
 
 ### Bottomline

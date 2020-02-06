@@ -12,7 +12,7 @@ HSBC Bank has rolled out yet another fantastic offer on their credit cards start
 
 - **Offers:**
   - **Offer 1:** Rs. X gift voucher when you spend Rs. Y or more
-    - Gift voucher can be redeemed across BookMyShow, Uber, Shoppers Stop, Taj Experiences, [Amazon](https://l.cardinfo.in/amazon), [Domino's Pizza](https://l.cardinfo.in/dominos), Four Fountains De-Stress Spa & [Myntra](https://l.cardinfo.in/myntra)
+    - Gift voucher can be redeemed across [BookMyShow](https://l.cardinfo.in/bookmyshow), Uber, Shoppers Stop, Taj Experiences, [Amazon](https://l.cardinfo.in/amazon), [Domino's Pizza](https://l.cardinfo.in/dominos), Four Fountains De-Stress Spa & [Myntra](https://l.cardinfo.in/myntra)
     - Period: Monthly between 1st January 2020 to 31st March 2020
     - Type: Targeted, applicable only if communication received from HSBC Bank, registration required
   - **Offer 2:** Rs. 2,020 cashback for every Rs. 1 Lakh spent, 2% reward rate
@@ -38,7 +38,7 @@ For Offer 1, people have reported some targets as below:
 - Rs 1,000 gift voucher on spending Rs 50,000 or more
 - Rs 500 gift voucher on spending Rs 15,000 or more
 
-Note that if you are holding HSBC Platinum Credit Card, in addition to this offer, you'll also get BookMyShow voucher worth Rs. 500 on spending Rs. 50,000 or more in a month. For HSBC Smart Value Credit Card, you'll get Rs. 200 BookMyShow voucher on spending Rs. 15,000 or more in a month.
+Note that if you are holding HSBC Platinum Credit Card, in addition to this offer, you'll also get [BookMyShow](https://l.cardinfo.in/bookmyshow) voucher worth Rs. 500 on spending Rs. 50,000 or more in a month. For HSBC Smart Value Credit Card, you'll get Rs. 200 [BookMyShow](https://l.cardinfo.in/bookmyshow) voucher on spending Rs. 15,000 or more in a month.
 
 ### Bottomline
 
@@ -86,7 +86,7 @@ I didn't receive Offer 1 on my HSBC Platinum Visa Credit Card. However I registe
 
 > HSBC: Congratulations on a successful registration! You are now on your way to attractive cashback benefits, gift vouchers of your choice and a chance to win an international holiday package. Shopping, dining and traveling in 2020 become even more grand with your HSBC Credit Card. Click https://hsbc.co.in/offers to know about other exciting offers that will add to your celebrations!
 
-Though this offer is decent, I would be giving it a pass as I didn't receive the targeted offer. Without targeted offer, the reward rate is just 2.5% (2% cashback + 0.5% BookMyShow voucher), that too on a minimum spending of Rs. 1 Lakh. I would continue to use my [HDFC Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) which gives me not only 3.3% default reward rate, but also monthly milestone benefits, pushing overall reward rate to 4.55%.
+Though this offer is decent, I would be giving it a pass as I didn't receive the targeted offer. Without targeted offer, the reward rate is just 2.5% (2% cashback + 0.5% [BookMyShow](https://l.cardinfo.in/bookmyshow) voucher), that too on a minimum spending of Rs. 1 Lakh. I would continue to use my [HDFC Diners Club Black Credit Card](/hdfc-diners-club-black-credit-card-review/) which gives me not only 3.3% default reward rate, but also monthly milestone benefits, pushing overall reward rate to 4.55%.
 
 With targeted offer the overall reward rates pushes to 3.5% (considering Rs. 1,000 gift voucher + 2% cashback + 0.5% BookMyShow voucher) on spends of Rs. 1 Lakh which is quite great. If you received the targeted offer and would be able to spend at-least Rs. 1 Lakh in a month, go for it blindly.
 
