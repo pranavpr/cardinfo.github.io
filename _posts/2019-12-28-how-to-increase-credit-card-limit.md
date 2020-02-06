@@ -107,7 +107,7 @@ IndusInd Bank provided me a limit twice the in-hand monthly salary on Aura Credi
 
 #### HSBC Bank
 
-HSBC Bank is little cautious in providing the limits on their credit cards. They provided me a limit equal to my in-hand salary when I got their Platinum Visa Credit Card. I use this card mostly on Cleartrip for flight bookings because of the Friday offer they have. I was awarded a credit limit increase of around 50%-100% every year. I feel this is mostly because of my prompt payments and frequent usage.
+HSBC Bank is little cautious in providing the limits on their credit cards. They provided me a limit equal to my in-hand salary when I got their Platinum Visa Credit Card. I use this card mostly on [Cleartrip](https://l.cardinfo.in/cleartrip) for flight bookings because of the Friday offer they have. I was awarded a credit limit increase of around 50%-100% every year. I feel this is mostly because of my prompt payments and frequent usage.
 
 #### American Express
 

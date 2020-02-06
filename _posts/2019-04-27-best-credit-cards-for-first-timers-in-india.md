@@ -118,7 +118,7 @@ Ola Money SBI Credit Card provides 7% cashback on Ola rides and 1% cashback on a
 - Reward Rate:
   - 7% cashback on Ola rides
   - 1% cashback on all spends
-  - 5% cashback on flight tickets at Cleartrip
+  - 5% cashback on flight tickets at [Cleartrip](https://l.cardinfo.in/cleartrip)
   - 20% cashback on payment via Dineout, limited to Rs. 200 per month
 - 1% fuel surcharge waiver, up to Rs. 100 per month
 
@@ -132,7 +132,7 @@ SBI SimplyCLICK provides 2.5% back on online spends with their exclusive partner
 - Joining Fee: Rs. 499, get equivalent amount of [Amazon](https://l.cardinfo.in/amazon) voucher
 - Renewal Fee: Rs. 499, reversed if annual spends for last year >= Rs. 1,00,000
 - Reward Rate:
-  - 2.5% back on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, Cleartrip, Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
+  - 2.5% back on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, [Cleartrip](https://l.cardinfo.in/cleartrip), Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
   - 1.25% on other online spends
   - 0.25% on offline spends
 - 1% fuel surcharge waiver for each transaction between Rs. 500 & Rs. 3,000

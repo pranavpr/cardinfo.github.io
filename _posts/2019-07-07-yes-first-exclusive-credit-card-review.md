@@ -48,9 +48,9 @@ Yes First Exclusive comes with all bells and whistles a super premium credit car
 - 12 reward points per Rs. 100 spent on Travel Agencies & Tour Operators, Domestic Airlines and Dining, 3% reward rate
 - 6 Reward Points per Rs. 100 spent on all other categories, 1.5% reward rate
 - 25,000 bonus reward points on spending Rs. 20 Lakhs in a year
-- 5X reward point on shopping at Amazon/ [Flipkart](https://l.cardinfo.in/flipkart)/ [Myntra](https://l.cardinfo.in/myntra)/ TataCLIQ using [Yes Cart](https://yescart.yesbank.in/)
+- 5X reward point on shopping at Amazon/ [Flipkart](https://l.cardinfo.in/flipkart)/ [Myntra](https://l.cardinfo.in/myntra)/ [TataCLIQ](https://l.cardinfo.in/tatacliq) using [Yes Cart](https://yescart.yesbank.in/)
 
-Reward points can be redeemed on their dedicated reward portal [Yes Rewardz](https://www.yesrewardz.com/CreditCard/). Earlier there was an option to redeem the reward points for [Amazon](https://l.cardinfo.in/amazon) vouchers, which they have disabled now. This was the best redemption option that was available in my opinion. However there are still some good options available like Central, Big Bazaar, Reliance Digital, Crome, Lifestyle, Pentaloons, Cleartrip etc.
+Reward points can be redeemed on their dedicated reward portal [Yes Rewardz](https://www.yesrewardz.com/CreditCard/). Earlier there was an option to redeem the reward points for [Amazon](https://l.cardinfo.in/amazon) vouchers, which they have disabled now. This was the best redemption option that was available in my opinion. However there are still some good options available like Central, Big Bazaar, Reliance Digital, Crome, Lifestyle, Pentaloons, [Cleartrip](https://l.cardinfo.in/cleartrip) etc.
 
 #### MasterCard World Golf Programme
 

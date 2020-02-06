@@ -50,18 +50,18 @@ SBI SimplyCLICK Credit Card is tailored for personnels whose major portion of mo
 
 #### Milestone Benefits
 
-- Cleartrip e-voucher worth Rs.2,000 on annual online spends of Rs. 1 Lakh
-- Cleartrip e-voucher worth Rs.2,000 on annual online spends of Rs. 2 Lakhs
+- [Cleartrip](https://l.cardinfo.in/cleartrip) e-voucher worth Rs.2,000 on annual online spends of Rs. 1 Lakh
+- [Cleartrip](https://l.cardinfo.in/cleartrip) e-voucher worth Rs.2,000 on annual online spends of Rs. 2 Lakhs
 
 That's an additional 2% reward rate on achieving a spend of Rs. 2 Lakhs.
 
 #### Reward Points
 
 - 1 Reward Point = Rs. 0.25
-- 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
+- 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), BookMyShow, [Cleartrip](https://l.cardinfo.in/cleartrip), Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
 - 5 Reward Points per Rs. 100 on all other online spends, 1.25% reward rate
 - 1 Reward Point per Rs.100 on all other spends, 0.25% reward rate
-- Reward points can be redeemed from rewards catalogue ([Amazon](https://l.cardinfo.in/amazon) & Cleartrip vouchers available)
+- Reward points can be redeemed from rewards catalogue ([Amazon](https://l.cardinfo.in/amazon) & [Cleartrip](https://l.cardinfo.in/cleartrip) vouchers available)
 - Reward redemption fee of Rs. 99 + GST applicable on each redemption
 
 {% include tip.html tip="Redeem reward points only after accumulating a good amount to minimize the loss due to redemption fee." %}

@@ -6,7 +6,7 @@ categories: [HDFC, Card Offers]
 image: /assets/images/oyo-rooms-on-hdfc-smartbuy-new.jpg
 ---
 
-HDFC Bank, in a pleasant surprise, has enabled the [OYO Rooms on SmartBuy](https://offers.smartbuy.hdfcbank.com/oyo-room-stay) portal today. The older option to book hotels on SmartBuy portal is powered by Cleartrip and it indeed lists the [OYO](https://l.cardinfo.in/oyo) hotels. But this option also includes all other hotels too. With this new addition, budget conscious travelers can exclusively search among [OYO](https://l.cardinfo.in/oyo) hotels without getting distracted by other options.
+HDFC Bank, in a pleasant surprise, has enabled the [OYO Rooms on SmartBuy](https://offers.smartbuy.hdfcbank.com/oyo-room-stay) portal today. The older option to book hotels on SmartBuy portal is powered by [Cleartrip](https://l.cardinfo.in/cleartrip) and it indeed lists the [OYO](https://l.cardinfo.in/oyo) hotels. But this option also includes all other hotels too. With this new addition, budget conscious travelers can exclusively search among [OYO](https://l.cardinfo.in/oyo) hotels without getting distracted by other options.
 
 HDFC Bank has also extended the SmartBuy 10X program till end of this month. Hence HDFC Bank Credit Card holders can now enjoy 10X rewards on [OYO](https://l.cardinfo.in/oyo) too. Let's look in to the benefits and different partners of 10X Program in detail.
 

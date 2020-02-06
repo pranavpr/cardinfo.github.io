@@ -17,7 +17,7 @@ HDFC has, yet again, extended the 10X reward points on Diners Club Credit Cards 
   - Diners Clubmiles/Premium: 5000
   - Diners Black: 25000
 - **Minimum Transaction**: Rs. 150
-- **Exclusions**: Purchase of Gold and Gift Vouchers on TataCLiQ, flight or hotel bookings alone on SOTC, payment done at card swipe machines at Treebo hotels, wallet payments on Uber
+- **Exclusions**: Purchase of Gold and Gift Vouchers on [TataCLIQ](https://l.cardinfo.in/tatacliq), flight or hotel bookings alone on SOTC, payment done at card swipe machines at Treebo hotels, wallet payments on Uber
 - **Fulfillment**: Regular reward points (1X) will be posted in the same statement as the transaction, incremental reward points (9X) will be posted in the next statement.
 - **Source**: [Website](https://www.hdfcbankdinersclub.com/privilege)
 

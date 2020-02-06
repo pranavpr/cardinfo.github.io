@@ -18,9 +18,9 @@ Ola Money SBI credit card has multi-tiered reward rate based on merchants. Rewar
 {% include image.html image="ola-money-sbi-credit-card-benifits.jpg" alt="Ola Money SBI Credit Card Benefits" class="img-center" %}
 
 - 7% on Ola rides up to Rs. 500 per month
-- 5% on flight booking through Cleartrip, up to Rs. 5,000 for domestic and Rs. 15,000 for international
-- 20% on domestic hotel booking through Cleartrip with no upper limit
-- 6% on international hotel booking through Cleartrip
+- 5% on flight booking through [Cleartrip](https://l.cardinfo.in/cleartrip), up to Rs. 5,000 for domestic and Rs. 15,000 for international
+- 20% on domestic hotel booking through [Cleartrip](https://l.cardinfo.in/cleartrip) with no upper limit
+- 6% on international hotel booking through [Cleartrip](https://l.cardinfo.in/cleartrip)
 - 20% on 6K+ restaurants, up to Rs. 200 via Dineout app
 - 1% on all other spends with no upper limit
 
@@ -46,7 +46,7 @@ Right now, you can just express your interest of joining this card on landing pa
 Most probably, they will check your CIBIL score and based on that, they will invite you for this card. In future, you should be able to apply for this card via Ola app too. Also they are running an early bird offer wherein if you join before 30 June 2019, you'll get following extra benefits:
 
 - Rs. 500 as Ola Money, credited after first transaction
-- Rs. 300 Cleartrip flight voucher
+- Rs. 300 [Cleartrip](https://l.cardinfo.in/cleartrip) flight voucher
 - 3 Months Dineout Premium membership
 
 #### Bottomline

@@ -36,7 +36,7 @@ Ola is pushing hard for it's [newly launched Ola Money SBI credit card](/ola-in-
 For all above offers, cashback will be credited into the users Ola Money account within 3 working days after the 1st transaction on Ola Money SBI credit card is done. These offers are applicable only if application form was submitted before 31st July 2019 midnight. Apart from these, Ola is also offering following three additional benefits:
 
 - Rs. 500 as Ola Money, credited after first transaction
-- Rs. 300 instant discount voucher from Cleartrip
+- Rs. 300 instant discount voucher from [Cleartrip](https://l.cardinfo.in/cleartrip)
 - 3 Months Dineout Premium membership
 
 You can apply for Ola Money SBI Credit Card by expressing interest below:

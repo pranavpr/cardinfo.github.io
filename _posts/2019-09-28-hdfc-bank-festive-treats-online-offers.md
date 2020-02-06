@@ -6,7 +6,7 @@ categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-bank-festive-treats-online-offers.jpg
 ---
 
-In continuation to [partner merchants offer](/hdfc-bank-festive-treats-partner-merchant-offers/), HDFC Bank has extended the Festive Treats offer to some online merchants too. HDFC Bank is providing flat 10% discount on Myntra, TataCLIQ, Paytm Mall and Xiaomi using HDFC Bank credit cards starting today.
+In continuation to [partner merchants offer](/hdfc-bank-festive-treats-partner-merchant-offers/), HDFC Bank has extended the Festive Treats offer to some online merchants too. HDFC Bank is providing flat 10% discount on [Myntra](https://l.cardinfo.in/myntra), [TataCLIQ](https://l.cardinfo.in/tatacliq), Paytm Mall and Xiaomi using HDFC Bank credit cards starting today.
 
 {% include image.html image="hdfc-bank-festive-treats-offer-on-myntra-tatacliq-paytm-mall-xiaomi.jpg" alt="HDFC Bank Festive Treats offer on Myntra, TataCLIQ, Paytm Mall and Xiaomi" class="img-center" %}
 
@@ -29,7 +29,7 @@ Let's look in to each of those offers in detail.
 
 ### TataCLIQ
 
-- **Offer**: 10% instant discount at [TataCLIQ](https://tatacliq.com/)
+- **Offer**: 10% instant discount at [TataCLIQ](https://l.cardinfo.in/tatacliq)
 - **Applicable On**: HDFC Bank credit and debit cards
 - **Period**: 29th September 2019 to 4th October 2019
 - **Terms & Conditions**:
@@ -40,7 +40,7 @@ Let's look in to each of those offers in detail.
 
 ### TataCLIQ Luxury
 
-- **Offer**: 10% instant discount at [TataCLIQ Luxury](https://luxury.tatacliq.com/)
+- **Offer**: 10% instant discount at [TataCLIQ Luxury](https://l.cardinfo.in/tatacliq)
 - **Applicable On**: HDFC Bank credit and debit cards
 - **Period**: 29th September 2019 to 4th October 2019
 - **Terms & Conditions**:

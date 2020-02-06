@@ -27,7 +27,7 @@ SBI [SimplySAVE](/sbi-simplysave-credit-card-review/) and [SimplyCLICK](/sbi-sim
     <tr>
     <td> 10X Reward Points </td>
     <td> Dining, Movies, Departmental Stores and Grocery Spends </td>
-    <td> <a href="https://l.cardinfo.in/amazon" target="_blank">Amazon</a>, BookMyShow, Cleartrip, Lenskart, Netmeds, Rentomojo, UrbanClap </td>
+    <td> <a href="https://l.cardinfo.in/amazon" target="_blank">Amazon</a>, BookMyShow, [Cleartrip](https://l.cardinfo.in/cleartrip), Lenskart, Netmeds, Rentomojo, UrbanClap </td>
   </tr>
   <tr>
     <td> 5X Reward Points </td>
@@ -42,7 +42,7 @@ SBI [SimplySAVE](/sbi-simplysave-credit-card-review/) and [SimplyCLICK](/sbi-sim
   <tr>
     <td> Spend Based Milestones </td>
   	<td> - </td>
-    <td> Cleartrip e-vouchers: Rs. 2,000 on spending Rs. 1 Lakh online, Rs. 4,000 on spending Rs. 2 Lakhs online</td>
+    <td> [Cleartrip](https://l.cardinfo.in/cleartrip) e-vouchers: Rs. 2,000 on spending Rs. 1 Lakh online, Rs. 4,000 on spending Rs. 2 Lakhs online</td>
   </tr>
   <tr>
     <td> Reward Redemption to Statement Credit </td>

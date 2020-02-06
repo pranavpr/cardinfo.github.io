@@ -94,7 +94,7 @@ Those who are not aware, HDFC Infinia and Diners Club Black, both are super prem
   <tr>
     <td> Monthly Milestone Benefits</td>
   	<td> Nil </td>
-    <td> BookMyShow voucher, TataCLiQ voucher or Ola Select membership worth Rs. 1,000 on spending Rs. 80,000 in a month</td>
+    <td> BookMyShow voucher, <a href="https://l.cardinfo.in/tatacliq" target="_blank">TataCLiQ</a> voucher or Ola Select membership worth Rs. 1,000 on spending Rs. 80,000 in a month</td>
   </tr>
   <tr>
     <td> International Airport Lounge Access</td>

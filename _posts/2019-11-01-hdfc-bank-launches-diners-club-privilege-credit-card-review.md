@@ -83,7 +83,7 @@ Card members can select one of following vouchers on achieving a monthly spend o
 
 - Ola Select membership
 - BookMyShow voucher worth Rs. 500
-- TataCLiQ voucher worth Rs. 500
+- [TataCLIQ](https://l.cardinfo.in/tatacliq) voucher worth Rs. 500
 
 Customers eligible for Monthly Milestone benefit will be communicated on HDFC bank registered Mobile Number via SMS and Email ID within the following month with instruction on how to avail it.
 
