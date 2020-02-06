@@ -69,7 +69,7 @@ Those who are not aware, HDFC Infinia and Diners Club Black, both are super prem
   <tr>
     <td> 10X reward points </td>
   	<td> SmartBuy Portal </td>
-    <td> SmartBuy Portal and partner brands <ul><li><a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a></li><li> Zoomcar</li><li> Ola </li><li> <a href="https://l.cardinfo.in/firstcry" target="_blank">FirstCry</a> </li></ul></td>
+    <td> SmartBuy Portal and partner brands <ul><li><a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a></li><li> <a href="https://l.cardinfo.in/zoomcar" target="_blank">Zoomcar</a></li><li> Ola </li><li> <a href="https://l.cardinfo.in/firstcry" target="_blank">FirstCry</a> </li></ul></td>
   </tr>
   <tr>
     <td> 2X reward points </td>
@@ -94,7 +94,7 @@ Those who are not aware, HDFC Infinia and Diners Club Black, both are super prem
   <tr>
     <td> Monthly Milestone Benefits</td>
   	<td> Nil </td>
-    <td> BookMyShow voucher, <a href="https://l.cardinfo.in/tatacliq" target="_blank">TataCLiQ</a> voucher or Ola Select membership worth Rs. 1,000 on spending Rs. 80,000 in a month</td>
+    <td> <a href="https://l.cardinfo.in/bookmyshow" target="_blank">BookMyShow</a> voucher, <a href="https://l.cardinfo.in/tatacliq" target="_blank">TataCLiQ</a> voucher or Ola Select membership worth Rs. 1,000 on spending Rs. 80,000 in a month</td>
   </tr>
   <tr>
     <td> International Airport Lounge Access</td>
