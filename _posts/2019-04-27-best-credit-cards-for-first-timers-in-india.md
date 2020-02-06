@@ -28,13 +28,8 @@ Many a times I have been asked which credit card is best for someone who has jus
 - Joining fee: Rs. 500 + GST, [Flipkart](https://l.cardinfo.in/flipkart) voucher worth Rs. 500 provided
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
-<<<<<<< HEAD
-  - 5% cashback on Flipkart, Myntra and 2GUD
-  - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
-=======
   - 5% cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and 2GUD
-  - 4% cashback on Preferred Partners (MakeMyTrip, Goibibo, Uber, PVR, Curefit and UrbanClap)
->>>>>>> bc77e5d584731b61b21774ee5832b43c821ef586
+  - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), Goibibo, Uber, PVR, Curefit and UrbanClap)
   - 1.5% cashback on all other merchants
 - 4 complimentary Domestic Airport Lounge access per year using [Mastercard India Lounge Program](https://specials.priceless.com/en-in/offers/Mastercard_India_Lounge_Program?Oid=201902180040)
 

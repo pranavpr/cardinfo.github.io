@@ -242,13 +242,8 @@ Standard Chartered Ultimate Credit Card is the latest offering from Standard Cha
 
 - Joining Fee: Rs. 5,000
 - Renewal Fee: Rs. 5,000
-<<<<<<< HEAD
 - Welcome Bonus: Rs. 10,000 cashback from [MakeMyTrip](https://l.cardinfo.in/makemytrip)
 - Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip), BookMyShow etc. (depending upon availability on their reward redemption website)
-=======
-- Welcome Bonus: Rs. 10,000 cashback from MakeMyTrip
-- Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Lifestyle, Big Bazaar, MakeMyTrip, BookMyShow etc. (depending upon availability on their reward redemption website)
->>>>>>> bc77e5d584731b61b21774ee5832b43c821ef586
 - Lounge Access:
   - International: 1 free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
   - Domestic: 4 per quarter through Visa/Mastercard Card Lounge program
