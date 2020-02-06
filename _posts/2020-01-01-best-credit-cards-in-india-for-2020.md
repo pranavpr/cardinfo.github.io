@@ -27,8 +27,6 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 - Joining fee: Rs. 500 + GST, [Flipkart](https://l.cardinfo.in/flipkart) voucher worth Rs. 500 provided
 - Renewal fee: Rs. 500 + GST, waived off on annual spends greater than Rs. 2 Lakhs
 - Reward Rate:
-  - 5% cashback on Flipkart, Myntra and 2GUD
-  - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), [Goibibo](https://l.cardinfo.in/goibibo), Uber, PVR, Curefit and UrbanClap)
   - 5% cashback on [Flipkart](https://l.cardinfo.in/flipkart), [Myntra](https://l.cardinfo.in/myntra) and 2GUD
   - 4% cashback on Preferred Partners ([MakeMyTrip](https://l.cardinfo.in/makemytrip), [Goibibo](https://l.cardinfo.in/goibibo), Uber, PVR, Curefit and UrbanClap)
   - 1.5% cashback on all other merchants
@@ -102,8 +100,8 @@ HDFC Regalia First Credit Card is an entry level premium card from HDFC. Decent 
 - Joining fee: Rs. 499 + GST, welcome benefit of [Amazon](https://l.cardinfo.in/amazon) gift voucher worth Rs. 500
 - Renewal fee: Rs. 499 + GST, waived off if spend in previous year is more than Rs. 1 Lakh
 - Milestone Benefits:
-  - Cleartrip e-voucher worth Rs.2,000 on annual online spends of Rs. 1 Lakh
-  - Cleartrip e-voucher worth Rs.2,000 on annual online spends of Rs. 2 Lakhs
+  - [Cleartrip](https://l.cardinfo.in/cleartrip) e-voucher worth Rs.2,000 on annual online spends of Rs. 1 Lakh
+  - [Cleartrip](https://l.cardinfo.in/cleartrip) e-voucher worth Rs.2,000 on annual online spends of Rs. 2 Lakhs
 - Reward Rate:
   - 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Cleartrip](https://l.cardinfo.in/cleartrip), Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
   - 5 Reward Points per Rs. 100 on all other online spends, 1.25% reward rate
