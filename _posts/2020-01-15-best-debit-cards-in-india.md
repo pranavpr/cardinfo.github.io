@@ -63,7 +63,7 @@ Axis Banks Priority Debit Card is issued to Priority Customers of Axis Bank. Thi
 - Reward Rate:
   - 1 reward point per Rs. 200 spent domestically, 0.1% reward rate
   - 3 reward points per Rs. 200 spent internationally, 0.3% reward rate
-  - 2 complimentary domestic airport lounge access per quarter
+- 2 complimentary domestic airport lounge access per quarter
 - Personal accident insurance cover of Rs. 10 Lakhs
 - Air accident cover of Rs. 1 Crore
 
@@ -85,11 +85,11 @@ IndusInd Bank Signature Exclusive Debit Card is a hidden gem with no forex marku
 - 2 complimentary domestic airport lounge access per quarter
 - Buy 1 Get 1 on BookMyShow
 
-### 5. Citi World Debit Card
+### 5. Citi Priority World Debit Card
 
-{% include tile.html image="citi-world-debit-card.png" alt="Citi World Debit Card" reward="1.33%" annualfee="Nil" pros="2 reward points per Rs. 150 spent<br/>8 complimentary international airport lounge access <br/>Unlimited domestic airport lounge access<br />Golf Privileges<br />Buy 1 Get 1 on BookMyShow<br/>Travel benefits" cons="High NRV requirement of Rs. 15 Lakhs" %}
+{% include tile.html image="citi-world-debit-card.png" alt="Citi Priority World Debit Card" reward="1.33%" annualfee="Nil" pros="2 reward points per Rs. 150 spent<br/>8 complimentary international airport lounge access <br/>Unlimited domestic airport lounge access<br />Golf Privileges<br />Buy 1 Get 1 on BookMyShow<br/>Travel benefits" cons="High NRV requirement of Rs. 15 Lakhs" %}
 
-Citi World Debit Card comes with many lifestyle benefits which makes it really attractive. International airport lounge access and golf privileges are to name a few. If you can maintain a NRV of Rs. 15 Lakhs with a bank, Citi is the one you should go for.
+Citi Priority World Debit Card comes with many lifestyle benefits which makes it really attractive. International airport lounge access and golf privileges are to name a few. If you can maintain a NRV of Rs. 15 Lakhs with a bank, Citi is the one you should go for.
 
 - Annual Fee: Nil
 - 2 reward points per Rs. 150 spent, 1.33% reward rate
