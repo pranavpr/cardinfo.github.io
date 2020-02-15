@@ -1,5 +1,43 @@
 <div id="recent-comments"></div>
 <script>
+  var curTime = new Date().getTime();
+
+  function timeDiff(current, previous) {
+    // Times are defined in milliseconds
+    var msPerSecond = 1000;
+    var msPerMinute = 60 * msPerSecond;
+    var msPerHour = 60 * msPerMinute;
+    var msPerDay = 24 * msPerHour;
+    var msPerMonth = 30 * msPerDay;
+    var msPerYear = 12 * msPerMonth;
+
+    // Time ago thresholds
+    var msJustNow = 5 * msPerSecond; // Up until 5 s
+    var msMinutesAgo = 2 * msPerMinute; // Up until 2 minutes
+    var msHoursAgo = 2 * msPerHour; // Up until 2 hours
+    var msDaysAgo = 2 * msPerDay; // Up until 2 days
+    var msMonthsAgo = 2 * msPerMonth; // Up until 2 months
+    var msYearsAgo = 2 * msPerYear; // Up until 2 years
+
+    var elapsed = current - previous;
+
+    if (elapsed < msJustNow) {
+      return 'just now';
+    } else if (elapsed < msMinutesAgo) {
+      return Math.round(elapsed / msPerSecond) + ' seconds ago';
+    } else if (elapsed < msHoursAgo) {
+      return Math.round(elapsed / msPerMinute) + ' minutes ago';
+    } else if (elapsed < msDaysAgo) {
+      return Math.round(elapsed / msPerHour) + ' hours ago';
+    } else if (elapsed < msMonthsAgo) {
+      return Math.round(elapsed / msPerDay) + ' days ago';
+    } else if (elapsed < msYearsAgo) {
+      return Math.round(elapsed / msPerMonth) + ' months ago';
+    } else {
+      return Math.round(elapsed / msPerYear) + ' years ago';
+    }
+  }
+
   function classAdd(el, cls) {
     el.classList.add('commento-' + cls);
   }
@@ -87,7 +125,9 @@
           comment.commentHex +
           '">' +
           comment.title +
-          '</a></div></div>';
+          '</a> ' +
+          timeDiff(curTime, new Date(comment.creationDate)) +
+          '</div></div>';
       });
       var finalCommentsHTML =
         '<h4 class="font-weight-bold spanborder"><span>Recent Comments</span></h4><div class="comments text-muted">' +
