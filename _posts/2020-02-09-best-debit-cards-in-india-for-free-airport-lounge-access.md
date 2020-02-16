@@ -2,7 +2,7 @@
 layout: post
 title: 25+ Best Debit Cards in India for free Airport Lounge Access (2020)
 date: 2020-02-09 08:22 +0530
-categories: [Reviews]
+categories: [Reviews, Airport Lounges]
 image: /assets/images/best-debit-cards-in-india-for-airport-lounge-access.jpg
 ---
 
