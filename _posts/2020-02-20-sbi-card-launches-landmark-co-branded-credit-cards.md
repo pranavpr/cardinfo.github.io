@@ -6,7 +6,7 @@ categories: [SBI Card, News]
 image: /assets/images/sbi-card-launces-landmark-co-branded-credit-cards.jpg
 ---
 
-SBI Card launched nine new co-branded credit cards with Landmark Group today. The new cards come in three variants: Prime, Select and Base. Each variant is available for three Landmark Group brands: Lifestyle & Home Center, Max & Spar.
+SBI Card launched nine new co-branded credit cards with Landmark Group today. The new cards come in three variants: Prime, Select and Base. Each variant is available for three Landmark Group brands: Lifestyle & Home Centre, Max & Spar.
 
 {% include image.html image="launch-event-of-sbi-card-landmark-group-co-branded-credit-cards.jpg" alt="Launch event of SBI Card Landmark Group Co-branded Credit Card" class="img-center mb-3" %}
 
