@@ -2,6 +2,8 @@
 layout: post
 title: NiYO Global Forex Card Review
 date: 2019-05-25 12:18 +0530
+seo:
+  date_modified: 2020-02-21 23:57 +0530
 categories: [Reviews, Forex]
 image: /assets/images/niyo-global-card.jpg
 product: NiYO Global Forex Card
@@ -19,7 +21,7 @@ NiYO Global Card is a next generation forex card which eliminates the many pain 
 
 NiYO Global Card offers a bunch of features which are outlined below:
 
-- Load via IMPS/NEFT without any charges
+- Load via IMPS/NEFT/UPI without any charges
 - Use it in any currency with **zero forex markup fee**
 - Use at merchant POS terminals worldwide accepting VISA
 - Use it for online transactions in 150+ currencies
