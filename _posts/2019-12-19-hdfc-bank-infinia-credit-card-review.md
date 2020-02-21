@@ -2,6 +2,8 @@
 layout: post
 title: HDFC Bank Infinia Credit Card Review
 date: 2019-12-19 13:17 +0530
+seo:
+  date_modified: 2020-02-22 00:07 +0530
 categories: [HDFC, Reviews]
 image: /assets/images/hdfc-infinia-credit-card-review.jpg
 product: HDFC Bank Infinia Credit Card
@@ -77,7 +79,7 @@ The credit limit on this card is generally upwards of Rs. 8 Lakhs. However in so
 #### Reward Points
 
 - 1 reward point = Rs. 1 if used for booking hotels and air tickets at [dedicated portal](https://offers.smartbuy.hdfcbank.com/infinia)
-- 1 reward point = Rs. 0.50 if redeemed for cash
+- 1 reward point = Rs. 0.30 if redeemed for cash
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
 - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Train Tickets, Hotels & Flights), 33% reward rate

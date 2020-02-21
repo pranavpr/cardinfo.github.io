@@ -2,6 +2,8 @@
 layout: post
 title: HDFC Diners Club Black Credit Card Review
 date: 2019-07-22 00:15 +0530
+seo:
+  date_modified: 2020-02-22 00:07 +0530
 categories: [HDFC, Reviews]
 image: /assets/images/hdfc-diners-club-black-review.jpg
 product: HDFC Diners Club Black Credit Card
@@ -56,7 +58,7 @@ It's quite evident that HDFC Bank is luring the cardmembers for spending more by
 #### Reward Points
 
 - 1 reward point = Rs. 1 if used for booking hotels and air tickets at [dedicated portal](https://offers.smartbuy.hdfcbank.com/diners)
-- 1 reward point ~ Rs. 0.50 if redeemed for cash
+- 1 reward point ~ Rs. 0.30 if redeemed for cash
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
 - [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Train Tickets, Hotels & Flights) and partner brands ([Myntra](https://l.cardinfo.in/myntra), [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Zoomcar](https://l.cardinfo.in/zoomcar), Godrej Nature’s Basket, Ola & [FirstCry](https://l.cardinfo.in/firstcry)), 33% reward rate

@@ -2,6 +2,8 @@
 layout: post
 title: Redeem HDFC Credit Card Reward Points for Cash
 date: 2019-09-08 22:15 +0530
+seo:
+  date_modified: 2020-02-22 00:07 +0530
 categories: [HDFC, News]
 image: /assets/images/redeem-hdfc-credit-card-reward-points-for-cash.jpg
 ---
@@ -23,12 +25,12 @@ The reward points of different HDFC Bank credit cards are valued differently and
 <tbody>
 <tr>
     <td> HDFC Infinia </td>
-	<td> Rs. 0.50 </td>
+	<td> <s>Rs. 0.50</s> Rs. 0.30 </td>
     <td> Rs. 1 </td>
 </tr>
 <tr>
     <td> HDFC Diners Club Black </td>
-	<td> Rs. 0.50 </td>
+	<td> <s>Rs. 0.50</s> Rs. 0.30 </td>
     <td> Rs. 1 </td>
 </tr>
 <tr>
@@ -68,5 +70,7 @@ To redeem reward points for cash, follow the instructions below:
 This is a wonderful move by HDFC Bank and if you are not a frequent traveller, you can redeem your points for cash rather than unwanted gift cards. This would be also helpful in case reward points are expiring and there is no plan for travel in near future. Some value of expiring reward points can be salvaged by redeeming them for cash instantly.
 
 However this shouldn't be primary means of redemption of reward points as it reduces their value by more than 50%. Holders of premium credit cards like Infinia, Diners Club Black, Regalia and Diners ClubMiles should definitely refrain from redeeming their points for cash.
+
+**Update:** HDFC Bank has devalued the reward points of Infinia and Diners Club Black Credit Card for cash redemption. Read the details [here](/hdfc-bank-devalues-infinia-and-diners-club-black-reward-points-for-cash-redemption/).
 
 _What do you this of this move by HDFC Bank? Let me know in comments below if you planning to redeem your reward points for cash._
