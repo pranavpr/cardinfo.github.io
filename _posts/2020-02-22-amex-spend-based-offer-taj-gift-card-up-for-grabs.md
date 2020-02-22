@@ -11,8 +11,11 @@ American Express (Amex) has rolled out a spend based offer on their cards wherei
 ### Offer Details
 
 - **Offer:** Taj Gift Card worth Rs. X on spending Rs. Y and above during offer period
+  - Rs. 20,000 Taj Gift Card on spending Rs. 3 Lakhs
+  - Rs. 30,000 Taj Gift Card on spending Rs. 4.5 Lakhs
+  - Rs. 50,000 Taj Gift Card on spending Rs. 7.5 Lakhs
 - **Period:** 22 February 2020 to 31 March 2020
-- **Excluded Cards:** Consumer Co-brand Card & Corporate Cards
+- **Excluded Cards:** American Express Platinum Card, Consumer Co-brand Card & Corporate Cards
 - **Type:** Targeted, enrollment required
 - **Fulfillment:** Gift Cards will be sent to eligible Cardmembers on their registered email addresses by 30 June 2020
 - **Source:** [Email](https://ebm.email.americanexpress.com/c/tag/hBeUPSbAQB6DpB91On9NwLcPhfG/doc.html)
