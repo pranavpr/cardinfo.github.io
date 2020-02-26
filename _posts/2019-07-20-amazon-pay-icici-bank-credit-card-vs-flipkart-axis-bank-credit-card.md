@@ -77,7 +77,7 @@ In this category, both cards are equally good and are tied for the position.
 <tr>
     <td> Other</td>
 	<td> 5%/3% for prime/non-prime on Amazon.in, 2% for digitally fulfilled categories & physical gift cards, 2% on paying through Amazon Pay at partner merchants</td>
-	<td> 5% on <a href="https://l.cardinfo.in/flipkart" target="_blank">Flipkart</a>, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> and 2GUD, 4% on MakeMyTrip, <a href="https://l.cardinfo.in/goibibo" target="_blank">Goibibo</a>, Uber, PVR, Curefit and UrbanClap</td>
+	<td> 5% on <a href="https://l.cardinfo.in/flipkart" target="_blank">Flipkart</a>, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> and 2GUD, 4% on <a href="https://l.cardinfo.in/goibibo" target="_blank">Goibibo</a>, Uber, PVR, Curefit and UrbanClap</td>
 </tr>
 <tr>
     <td> Fulfillment</td>
