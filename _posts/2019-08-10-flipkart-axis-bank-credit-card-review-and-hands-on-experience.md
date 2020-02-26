@@ -69,7 +69,7 @@ Flipkart Axis Bank Credit Card comes with unlimited cashback which would be cred
 	<td> 5% </td>
 </tr>
 <tr>
-	<td> Preferred Partners (<a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a>, <a href="https://l.cardinfo.in/goibibo" target="_blank">Goibibo</a>, Uber, PVR, Curefit and UrbanClap) </td>
+	<td> Preferred Partners (<a href="https://l.cardinfo.in/goibibo" target="_blank">Goibibo</a>, Uber, PVR, Curefit and UrbanClap) </td>
 	<td> 4% </td>
 </tr>
 <tr>

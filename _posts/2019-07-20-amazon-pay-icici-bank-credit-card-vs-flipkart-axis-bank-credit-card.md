@@ -50,8 +50,8 @@ Amazon Pay ICICI Bank Credit Card has no joining or renewal fees and is life tim
 </thead>
 <tbody>
 <tr>
-	<td> Rs. 700 Amazon Pay gift card for prime members, Rs. 500 Amazon Pay gift card for non-prime members</td>
-	<td> Rs. 500 [Flipkart](https://l.cardinfo.in/flipkart) Gift voucher, welcome promo codes for Gaana, Goibibo, [MakeMyTrip](https://l.cardinfo.in/makemytrip), <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> & Urban Clap </td>
+	<td> Rs. 500 Amazon Pay gift card for prime members, Rs. 400 Amazon Pay gift card for non-prime members</td>
+	<td> Rs. 500 <a href="https://l.cardinfo.in/flipkart" target="_blank">Flipkart</a> Gift voucher, welcome promo codes for Gaana, Goibibo, <a href="https://l.cardinfo.in/makemytrip" target="_blank">MakeMyTrip</a>, <a href="https://l.cardinfo.in/myntra" target="_blank">Myntra</a> & Urban Clap </td>
 </tr>
 </tbody>
 </table>
