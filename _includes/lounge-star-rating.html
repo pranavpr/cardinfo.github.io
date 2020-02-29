@@ -1,0 +1,160 @@
+{% assign num_full_stars = include.rating | floor %} {% assign temp =
+include.rating | minus: num_full_stars %}{% if temp >= 0.5 %} {% assign
+num_half_stars = 1 %} {% else %} {% assign num_half_stars = 0 %} {% endif %} {%
+assign num_empty_stars = 5 | minus: num_full_stars | minus: num_half_stars %} {%
+for i in (1..num_full_stars) %} {% assign stars = stars | append: '<i
+  class="ci-star star"
+></i
+>' %} {% endfor %} {% for i in (1..num_half_stars) %} {% assign stars = stars |
+append: '<i class="ci-star-half-alt star"></i>' %} {% endfor %} {% for i in
+(1..num_empty_stars) %} {% assign stars = stars | append: '<i
+  class="ci-star-regular star"
+></i
+>' %} {% endfor %} {% assign num_full_stars = include.ambiance | floor %} {%
+assign temp = include.ambiance | minus: num_full_stars %}{% if temp >= 0.5 %} {%
+assign num_half_stars = 1 %} {% else %} {% assign num_half_stars = 0 %} {% endif
+%} {% assign num_empty_stars = 5 | minus: num_full_stars | minus: num_half_stars
+%} {% for i in (1..num_full_stars) %} {% assign ambiance_stars = ambiance_stars
+| append: '<i class="ci-star star"></i>' %} {% endfor %} {% for i in
+(1..num_half_stars) %} {% assign ambiance_stars = ambiance_stars | append: '<i
+  class="ci-star-half-alt star"
+></i
+>' %} {% endfor %} {% for i in (1..num_empty_stars) %} {% assign ambiance_stars
+= ambiance_stars | append: '<i class="ci-star-regular star"></i>' %} {% endfor
+%} {% assign num_full_stars = include.amenities | floor %} {% assign temp =
+include.amenities | minus: num_full_stars %}{% if temp >= 0.5 %} {% assign
+num_half_stars = 1 %} {% else %} {% assign num_half_stars = 0 %} {% endif %} {%
+assign num_empty_stars = 5 | minus: num_full_stars | minus: num_half_stars %} {%
+for i in (1..num_full_stars) %} {% assign amenities_stars = amenities_stars |
+append: '<i class="ci-star star"></i>' %} {% endfor %} {% for i in
+(1..num_half_stars) %} {% assign amenities_stars = amenities_stars | append: '<i
+  class="ci-star-half-alt star"
+></i
+>' %} {% endfor %} {% for i in (1..num_empty_stars) %} {% assign amenities_stars
+= amenities_stars | append: '<i class="ci-star-regular star"></i>' %} {% endfor
+%} {% assign num_full_stars = include.food | floor %} {% assign temp =
+include.food | minus: num_full_stars %}{% if temp >= 0.5 %} {% assign
+num_half_stars = 1 %} {% else %} {% assign num_half_stars = 0 %} {% endif %} {%
+assign num_empty_stars = 5 | minus: num_full_stars | minus: num_half_stars %} {%
+for i in (1..num_full_stars) %} {% assign food_stars = food_stars | append: '<i
+  class="ci-star star"
+></i
+>' %} {% endfor %} {% for i in (1..num_half_stars) %} {% assign food_stars =
+food_stars | append: '<i class="ci-star-half-alt star"></i>' %} {% endfor %} {%
+for i in (1..num_empty_stars) %} {% assign food_stars = food_stars | append: '<i
+  class="ci-star-regular star"
+></i
+>' %} {% endfor %}
+<div class="star-rating bg-lightblue">
+  <div class="mb-2">
+    <span
+      class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
+      ><i class="ci-amenities"></i>
+    </span>
+    <strong>Amenities </strong>
+    <span class="ml-2 float-right"
+      ><span>{{ amenities_stars }}</span
+      ><span
+        class="badge {% if include.amenities < 2 %}
+      badge-danger
+    {% endif %}
+    {% if include.amenities >= 2  and include.amenities < 4 %}
+      badge-warning
+    {% endif %}
+    {% if include.amenities >= 4 %}
+      badge-primary
+    {% endif %} ml-2"
+        >{{ include.amenities }}/5</span
+      ></span
+    >
+  </div>
+  <div class="mb-2">
+    <span
+      class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
+      ><i class="ci-ambiance"></i>
+    </span>
+    <strong>Ambiance </strong>
+    <span class="ml-2 float-right"
+      ><span>{{ ambiance_stars }}</span
+      ><span
+        class="badge {% if include.ambiance < 2 %}
+      badge-danger
+    {% endif %}
+    {% if include.ambiance >= 2  and include.ambiance < 4 %}
+      badge-warning
+    {% endif %}
+    {% if include.ambiance >= 4 %}
+      badge-primary
+    {% endif %} ml-2"
+        >{{ include.ambiance }}/5</span
+      ></span
+    >
+  </div>
+  <div class="mb-2">
+    <span
+      class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
+      ><i class="ci-food"></i>
+    </span>
+    <strong>Food </strong>
+    <span class="ml-2 float-right"
+      ><span>{{ food_stars }}</span
+      ><span
+        class="badge {% if include.food < 2 %}
+      badge-danger
+    {% endif %}
+    {% if include.food >= 2  and include.food < 4 %}
+      badge-warning
+    {% endif %}
+    {% if include.food >= 4 %}
+      badge-primary
+    {% endif %} ml-2"
+        >{{ include.food }}/5</span
+      ></span
+    >
+  </div>
+  <div>
+    <span
+      class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
+      ><i class="ci-bullhorn"></i>
+    </span>
+    <strong>Overall </strong>
+    <span class="ml-2 float-right"
+      ><span>{{ stars }}</span
+      ><span
+        class="badge {% if include.rating < 2 %}
+      badge-danger
+    {% endif %}
+    {% if include.rating >= 2  and include.rating < 4 %}
+      badge-warning
+    {% endif %}
+    {% if include.rating >= 4 %}
+      badge-primary
+    {% endif %} ml-2"
+        >{{ include.rating }}/5</span
+      ></span
+    >
+  </div>
+</div>
+{% if page.product %}
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "{{ page.product }}",
+    "review": {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.authors[page.author].name }}"
+      },
+      "datePublished": "{{ page.date }}",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "{{ include.rating }}",
+        "worstRating": "1"
+      }
+    }
+  }
+</script>
+{% endif %}

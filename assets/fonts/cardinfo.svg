@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg">
-<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
 <defs>
 <font id="cardinfo" horiz-adv-x="1000" >
 <font-face font-family="cardinfo" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
@@ -27,6 +27,12 @@
 <glyph glyph-name="twitter" unicode="&#xf099;" d="M904 622q-37-54-90-93 0-8 0-23 0-73-21-145t-64-139-103-117-144-82-181-30q-151 0-276 81 19-2 43-2 126 0 224 77-59 1-105 36t-64 89q19-3 34-3 24 0 48 6-63 13-104 62t-41 115v2q38-21 82-23-37 25-59 64t-22 86q0 49 25 91 68-83 164-133t208-55q-5 21-5 41 0 75 53 127t127 53q79 0 132-57 61 12 115 44-21-64-80-100 52 6 104 28z" horiz-adv-x="928.6" />
 
 <glyph glyph-name="facebook" unicode="&#xf09a;" d="M535 843v-147h-87q-48 0-65-20t-17-60v-106h164l-22-165h-142v-424h-171v424h-142v165h142v122q0 104 58 161t155 57q82 0 127-7z" horiz-adv-x="571.4" />
+
+<glyph glyph-name="food" unicode="&#xf0f5;" d="M357 814v-357q0-34-20-62t-51-39v-435q0-29-21-50t-51-21h-71q-29 0-50 21t-22 50v435q-31 11-51 39t-20 62v357q0 15 11 25t25 11 25-11 10-25v-232q0-14 11-25t25-11 25 11 11 25v232q0 15 11 25t25 11 25-11 10-25v-232q0-14 11-25t25-11 25 11 11 25v232q0 15 10 25t25 11 26-11 10-25z m429 0v-893q0-29-21-50t-51-21h-71q-29 0-50 21t-22 50v286h-125q-7 0-12 5t-5 13v446q0 74 52 127t126 52h143q15 0 25-11t11-25z" horiz-adv-x="785.7" />
+
+<glyph glyph-name="ambiance" unicode="&#xf21d;" d="M786-7q0-35-35-64t-91-45-126-25-141-9-142 9-125 25-92 45-34 64q0 27 18 49t51 37 66 25 73 17q15 2 27-6t14-23q3-15-5-27t-24-15q-32-5-59-13t-42-14-27-13-16-11-5-7q2-6 16-15t40-18 64-18 89-14 113-6 112 6 90 14 64 18 40 19 15 15q0 3-4 7t-16 10-27 13-43 14-59 13q-14 3-23 15t-6 27q3 14 15 23t27 6q39-7 73-17t66-25 50-37 19-49z m-215 500v-214q0-15-10-25t-25-11h-36v-214q0-15-11-25t-25-11h-143q-14 0-25 11t-10 25v214h-36q-14 0-25 11t-11 25v214q0 29 21 50t51 21h214q30 0 51-21t20-50z m-53 214q0-52-37-88t-88-37-89 37-36 88 36 89 89 36 88-36 37-89z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="amenities" unicode="&#xf236;" d="M143 279h964q15 0 25-11t11-25v-250h-143v143h-857v-143h-143v678q0 15 11 26t25 10h71q15 0 25-10t11-26v-392z m321 178q0 59-42 101t-101 42-101-42-41-101 41-101 101-42 101 42 42 101z m679-143v36q0 89-63 152t-151 62h-393q-15 0-25-10t-11-25v-215h643z" horiz-adv-x="1142.9" />
 </font>
 </defs>
 </svg>
