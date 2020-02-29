@@ -33,7 +33,7 @@ Being the only lounge at busy Bangalore Airport, this lounge accepts almost all 
 - Priority Pass
 - Dreamfolks Dragon Pass
 
-This lounge also has tie-ups with almost all major domestic carriers, e.g., Vistara, Air India, [IndiGo](https://l.cardinfo.in/indigo), [Go Air](https://l.cardinfo.in/goair), [Air Asia](https://l.cardinfo.in/airasia), Spice Jet. So you should be able to access the lounge if you have an appropriate class ticket or airline status.
+This lounge also has tie-ups with almost all major domestic carriers, e.g., [Vistara](https://l.cardinfo.in/vistara), Air India, IndiGo, [Go Air](https://l.cardinfo.in/goair), [Air Asia](https://l.cardinfo.in/airasia), Spice Jet. So you should be able to access the lounge if you have an appropriate class ticket or airline status.
 
 BLR Domestic Lounge allows access up to 3 hours and children under 4 years are admitted for free.
 
