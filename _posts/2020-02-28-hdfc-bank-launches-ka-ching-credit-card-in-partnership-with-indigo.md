@@ -6,7 +6,7 @@ categories: [HDFC, News]
 image: /assets/images/hdfc-bank-launches-ka-ching-co-branded-credit-card-in-partnership-with-indigo.jpg
 ---
 
-HDFC Bank in partnership with IndiGo Airlines launched the Ka-Ching Credit Card today. Ka-Ching Credit Card is powered by MasterCard and comes in two variants: 6E Rewards and 6E Rewards XL. While this credit card promises a return of 2.5-5% on spends at IndiGo, the base reward rate ranges from 1%-2%.
+HDFC Bank in partnership with IndiGo Airlines launched the Ka-Ching Credit Card today. Ka-Ching Credit Card is powered by MasterCard and comes in two variants: 6E Rewards and 6E Rewards XL. While this credit card promises a return of 2.5-5% on spends at [IndiGo](https://www.goindigo.in), the base reward rate ranges from 1%-2%.
 
 {% include image.html image="hdfc-bank-ka-ching-launch-event.jpg" alt="HDFC Bank Ka-Ching Credit Card launch event" class="img-center mb-3" %}
 
