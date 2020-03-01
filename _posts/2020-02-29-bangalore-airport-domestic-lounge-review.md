@@ -23,7 +23,7 @@ BLR Domestic Lounge is located on the Mezzanine Level (second floor) after secur
 
 {% include image.html image="bangalore-airport-domestic-lounge-reception.jpg" alt="Bangalore Airport Domestic Lounge Reception Area" class="img-center mb-3" %}
 
-Being the only lounge at busy Bangalore Airport, this lounge accepts almost all credit cards which have lounge access feature. Below is a list of cards which are accepted:
+Being the only lounge at busy Bangalore Airport, this lounge accepts almost all credit cards which have lounge access feature. Below is a list of cards which provide free access:
 
 - Visa
 - MasterCard
