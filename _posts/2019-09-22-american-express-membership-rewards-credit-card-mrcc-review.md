@@ -2,6 +2,8 @@
 layout: post
 title: American Express Membership Rewards Credit Card (MRCC) Review
 date: 2019-09-22 15:35 +0530
+seo:
+  date_modified: 2020-03-01 21:25 +0530
 categories: [Amex, Reviews]
 image: /assets/images/american-express-membership-rewards-credit-card-review.jpg
 product: American Express Membership Rewards Credit Card
@@ -9,6 +11,7 @@ product: American Express Membership Rewards Credit Card
 
 American Express Membership Rewards Credit Card (MRCC) is an entry level lifestyle credit card from Amex. This card targets the lower segment of credit card users with low income criteria, joining & renewal fees. This credit card is counter part of American Express Gold Charge Card and unlike latter it has a preset credit limit and allows you to convert purchases in to EMI.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -48,8 +51,8 @@ On realization of joining and annual fee, card members are provided with followi
 - 1 Membership Rewards Point for every Rs. 50 spent except for spend at Fuel, Insurance, Utilities and Cash Transactions
 - Reward rate of 0.5% if points are converted to statement credit
 - 1000 bonus points on for using Card 4 times on transactions of Rs. 1,000 and above every month
-- 18 Karat Gold Collection: 18,000 points can be redeemed for statement credit worth Rs. 7,500, [Amazon](https://l.cardinfo.in/amazon) Gift Card worth Rs. 8,000 or Tanishq Voucher worth Rs. 7,500
-- 24 Karat Gold Collection: 24,000 points can be redeemed for statement credit worth Rs. 10,000, American Express Domestic Travel Online voucher worth Rs. 11,000 or Bose Sound Link Color II Bluetooth Speaker
+- 18 Karat Gold Collection: 18,000 points can be redeemed for statement credit worth Rs. 6,000, [Amazon](https://l.cardinfo.in/amazon) Gift Card worth Rs. 7,000, Amex Domestic Travel Voucher worth Rs. 7,000 or Taj Voucher worth Rs. 9,000.
+- 24 Karat Gold Collection: 24,000 points can be redeemed for statement credit worth Rs. 9,000, Tanishq voucher worth Rs. 10,000 or Taj Voucher worth Rs. 14,000
 
 Though the reward rate looks peltry, this card shines when you redeem the Membership Rewards Points from 18 Karat or 24 Karat Gold collection. Let's do a sample math to calculate the reward rate when you just do 4 transactions of Rs. 1,000 every month and redeem from 18 Karat Gold Collection.
 
@@ -57,12 +60,12 @@ Though the reward rate looks peltry, this card shines when you redeem the Member
 Regular Membership Rewards Points earned on spending Rs. 4,000 = 80 <br/>
 Bonus Membership Rewards Points earned on spending Rs. 4,000 = 1,000<br/>
 Total Membership Rewards Points earned on spending Rs. 4,000 = 1,080<br/>
-Now, 18,000 Membership Rewards Points = Rs. 8,000 (Amazon voucher)<br/>
-Hence, value of 1,080 Membership Rewards Points = Rs. 480<br/>
-Therefore, Reward Rate = <strong>12%</strong>
+Now, 18,000 Membership Rewards Points = Rs. 9,000 (Taj Vouchers)<br/>
+Hence, value of 1,080 Membership Rewards Points = Rs. 420<br/>
+Therefore, Reward Rate = <strong>13.5%</strong>
 </div>
 
-So on spending just Rs. 4,000 a month, this card provides a whooping reward rate of 12%. Similarly, with 24 Karat Gold collection, the reward rate reaches to 12.38%. Impressive, isn't?
+So on spending just Rs. 4,000 a month, this card provides a whooping reward rate of 13.5%. Similarly, with 24 Karat Gold collection, the reward rate reaches to 15.75% if you redeem for Taj Vouchers. Impressive, isn't?
 
 #### Other benefits
 
@@ -79,7 +82,7 @@ Though acceptability of Amex is increasing day by day in India, still it's not a
 
 ### Verdict
 
-The 12% reward rate on American Express Membership Rewards Credit Card just blows away any competition in this segment. Their world class customer support is a delight to talk to. The network offers run by Amex are way better than competitors.
+The 13.5% reward rate on American Express Membership Rewards Credit Card just blows away any competition in this segment. Their world class customer support is a delight to talk to. The network offers run by Amex are way better than competitors.
 
 {% include star-rating.html rating=3.7 rewards=5 fees=3 features=3 %}
 
