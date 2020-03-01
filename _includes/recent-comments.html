@@ -1,7 +1,31 @@
-<div id="recent-comments"></div>
+<div id="recent-comments">
+  <div id="recent-comments-container"></div>
+  <ul
+    class="pagination justify-content-center"
+    role="navigation"
+    aria-labelledby="pagination-label"
+  >
+    <li id="comment-previous" class="previous">
+      <a
+        class="pagination-item"
+        id="page-prev"
+        style="color:#6c757d"
+        href=""
+        rel="prev"
+        >previous<span class="sr-only"> page</span></a
+      >
+    </li>
+    <li id="comment-next" class="next">
+      <a class="pagination-item" id="page-next" href="" rel="next"
+        >next<span class="sr-only"> page</span></a
+      >
+    </li>
+  </ul>
+</div>
 <script>
   var curTime = new Date().getTime();
-
+  var limit = 10;
+  var offset = 0;
   function timeDiff(current, previous) {
     // Times are defined in milliseconds
     var msPerSecond = 1000;
@@ -69,71 +93,111 @@
 
     return color;
   }
-  var commentsHTML = '';
   var latestComments;
   var latestCommenters;
   var domain = 'cardinfo.in';
   var cdn = 'https://api.cardinfo.in';
-  $.ajax({
-    type: 'GET',
-    url: cdn + '/api/comment/summary',
-    data: { domain: domain, count: 10 },
-    cache: false,
-    dataType: 'json',
-    success: function(data) {
-      latestComments = data.comments;
-      latestCommenters = data.commenters;
-      latestComments.forEach(function(comment) {
-        var avatar;
-        var color = getColor(
-          comment.commenterHex +
-            '-' +
-            latestCommenters[comment.commenterHex].name
-        );
-        if (latestCommenters[comment.commenterHex].photo === 'undefined') {
-          avatar = create('div');
-          avatar.style['background'] = color;
-
-          if (comment.commenterHex === 'anonymous') {
-            avatar.innerHTML = '?';
-            avatar.style['font-weight'] = 'bold';
-          } else {
-            avatar.innerHTML = latestCommenters[
-              comment.commenterHex
-            ].name[0].toUpperCase();
-          }
-
-          classAdd(avatar, 'avatar');
-        } else {
-          avatar = create('img');
-          attrSet(
-            avatar,
-            'src',
-            cdn + '/api/commenter/photo?commenterHex=' + comment.commenterHex
+  function getComments(limit, offset, callback) {
+    var commentsHTML = '';
+    $.ajax({
+      type: 'GET',
+      url: cdn + '/api/comment/summary',
+      data: { domain: domain, limit: limit, offset: offset },
+      cache: false,
+      dataType: 'json',
+      success: function(data) {
+        latestComments = data.comments;
+        latestCommenters = data.commenters;
+        latestComments.forEach(function(comment) {
+          var avatar;
+          var color = getColor(
+            comment.commenterHex +
+              '-' +
+              latestCommenters[comment.commenterHex].name
           );
-          attrSet(avatar, 'alt', latestCommenters[comment.commenterHex].name);
-          classAdd(avatar, 'avatar-img');
-        }
-        commentsHTML +=
-          '<div class="row p-1"><div class="col-2 col-md-4 col-lg-3 avatar">' +
-          avatar.outerHTML +
-          '</div><div class="col-10 col-md-8 col-lg-9 p-0"> ' +
-          latestCommenters[comment.commenterHex].name +
-          ' on <a href="' +
-          comment.url +
-          '#commento-' +
-          comment.commentHex +
-          '">' +
-          comment.title +
-          '</a> ' +
-          timeDiff(curTime, new Date(comment.creationDate)) +
-          '</div></div>';
+          if (latestCommenters[comment.commenterHex].photo === 'undefined') {
+            avatar = create('div');
+            avatar.style['background'] = color;
+
+            if (comment.commenterHex === 'anonymous') {
+              avatar.innerHTML = '?';
+              avatar.style['font-weight'] = 'bold';
+            } else {
+              avatar.innerHTML = latestCommenters[
+                comment.commenterHex
+              ].name[0].toUpperCase();
+            }
+
+            classAdd(avatar, 'avatar');
+          } else {
+            avatar = create('img');
+            attrSet(
+              avatar,
+              'src',
+              cdn + '/api/commenter/photo?commenterHex=' + comment.commenterHex
+            );
+            attrSet(avatar, 'alt', latestCommenters[comment.commenterHex].name);
+            classAdd(avatar, 'avatar-img');
+          }
+          commentsHTML +=
+            '<div class="row p-1"><div class="col-2 col-md-4 col-lg-3 avatar">' +
+            avatar.outerHTML +
+            '</div><div class="col-10 col-md-8 col-lg-9 p-0"> ' +
+            latestCommenters[comment.commenterHex].name +
+            ' on <a href="' +
+            comment.url +
+            '#commento-' +
+            comment.commentHex +
+            '">' +
+            comment.title +
+            '</a> ' +
+            timeDiff(curTime, new Date(comment.creationDate)) +
+            '</div></div>';
+        });
+        callback(commentsHTML);
+      }
+    });
+  }
+
+  getComments(limit, offset, function(commentsHTML) {
+    var finalCommentsHTML =
+      '<h4 class="font-weight-bold spanborder"><span>Recent Comments</span></h4><div class="comments text-muted">' +
+      commentsHTML +
+      '</div>';
+    $('#recent-comments-container').html(finalCommentsHTML);
+  });
+
+  $('#comment-next').click(function(event) {
+    event.preventDefault();
+    if (offset >= 0) {
+      offset += 10;
+      getComments(limit, offset, function(commentsHTML) {
+        var finalCommentsHTML =
+          '<h4 class="font-weight-bold spanborder"><span>Recent Comments</span></h4><div class="comments text-muted">' +
+          commentsHTML +
+          '</div>';
+        $('#recent-comments-container').html(finalCommentsHTML);
       });
-      var finalCommentsHTML =
-        '<h4 class="font-weight-bold spanborder"><span>Recent Comments</span></h4><div class="comments text-muted">' +
-        commentsHTML +
-        '</div>';
-      $('#recent-comments').html(finalCommentsHTML);
+      $('#page-prev').css('color', '#03a87c');
+    }
+  });
+
+  $('#comment-previous').click(function(event) {
+    event.preventDefault();
+    if (offset >= 10) {
+      offset -= 10;
+      getComments(limit, offset, function(commentsHTML) {
+        var finalCommentsHTML =
+          '<h4 class="font-weight-bold spanborder"><span>Recent Comments</span></h4><div class="comments text-muted">' +
+          commentsHTML +
+          '</div>';
+        $('#recent-comments-container').html(finalCommentsHTML);
+      });
+      if (offset > 0) {
+        $('#page-next').css('color', '#03a87c');
+      } else {
+        $('#page-prev').css('color', '#6c757d');
+      }
     }
   });
 </script>
