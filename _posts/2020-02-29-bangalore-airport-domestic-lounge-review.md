@@ -7,7 +7,7 @@ image: /assets/images/bangalore-domestic-airport-lounge-review.jpg
 product: Bangalore Airport Domestic Lounge
 ---
 
-Bangalore Airport (BLR) Domestic Lounge is a makeshift arrangement after Plaza Premium and Above Ground Levell were shut down for refurbishment last year. Both these lounges are handed over to a new operator which is a joint venture between Gate Group and Travel & Food Services (TFS) India. Currently this new group is operating the temporary lounge, BLR Domestic Lounge, in one half where Plaza Premium used to operate.
+Bangalore Airport (BLR) Domestic Lounge is a makeshift arrangement after Plaza Premium and Above Ground Levell lounges were shut down for refurbishment last year. Both these lounges are handed over to a new operator which is a joint venture between Gate Group and Travel & Food Services (TFS) India. Currently this new group is operating the temporary lounge, BLR Domestic Lounge, in one half where Plaza Premium used to operate.
 
 In this article I am reviewing the Bangalore Airport Domestic Lounge in detail. So without further ado, let's get started.
 
