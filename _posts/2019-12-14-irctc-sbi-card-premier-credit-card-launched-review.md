@@ -44,7 +44,7 @@ Being a co-branded credit card, IRCTC SBI Card Premier provides maximum benefits
 
 #### Welcome Benefit
 
-- 1,500 reward points equivalent to Rs. 1,5000 on payment of first annual fee
+- 1,500 reward points equivalent to Rs. 1,500 on payment of first annual fee
 - [BookMyShow](https://l.cardinfo.in/bookmyshow) movie voucher worth Rs. 500 on spending Rs. 2,000 within 60 days of card setup
 
 These are some decent benefits and it's quite evident that SBI Card compensates for joining fee in form of bonus reward points. [BookMyShow](https://l.cardinfo.in/bookmyshow) movie voucher further sweetens the deal making it even more lucrative.
