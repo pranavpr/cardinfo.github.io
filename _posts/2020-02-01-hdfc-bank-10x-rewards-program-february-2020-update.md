@@ -2,6 +2,8 @@
 layout: post
 title: 'HDFC Bank 10X Rewards Program: February 2020 Update'
 date: 2020-02-01 10:10 +0530
+seo:
+  date_modified: 2020-03-01 22:43 +0530
 categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-bank-10x-rewards-program.jpg
 ---
