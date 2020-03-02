@@ -3,7 +3,7 @@ layout: post
 title: 'HDFC Bank 10X Rewards Program: February 2020 Update'
 date: 2020-02-01 10:10 +0530
 seo:
-  date_modified: 2020-03-01 22:43 +0530
+  date_modified: 2020-03-02 19:51 +0530
 categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-bank-10x-rewards-program.jpg
 ---
@@ -35,17 +35,17 @@ The validity of the Smartbuy 10X program has been further extended till ~~29 Feb
 
 ### Diners 10X Rewards
 
-Diners 10X Rewards program has been renewed till 29 February 2020.
+Diners 10X Rewards program has been renewed till ~~29 February 2020~~ 31 March 2020.
 
 {% include image.html image="diners-10x-partners-february-2020.jpg" alt="Diners 10X Rewards Partners" class="img-center mb-3" %}
 
 - **Offer**: 10X reward points on HDFC Diners Club Credit Cards for purchases made on 10X partners
-- **Period**: 1 February 2020 to 29 February 2020
+- **Period**: 1 February 2020 to ~~29 February 2020~~ 31 March 2020
 - **Partners**: [Myntra](https://l.cardinfo.in/myntra), Ola, [First Cry](https://l.cardinfo.in/firstcry) & [Zoomcar](https://l.cardinfo.in/zoomcar)
 - **Maximum Reward Points**:
   - Diners Rewardz: 2,000
   - Diners Clubmiles/Premium: 5,000
-  - Diners Privilege: 10,000
+  - Diners Privilege: ~~10,000~~ 5,000
   - Diners Black: 25,000
 - **Maximum Reward Points Capping Reset**: Every calendar month
 - **Minimum Transaction**: Rs. 150
@@ -93,7 +93,7 @@ Below table summarizes the reward rate of some popular HDFC Bank credit cards wi
    <td> 13% </td>
     <td> 5,000 </td>
    <td> 13% </td>
-    <td> 10,000 </td>
+    <td> <del>10,000</del> 5,000 </td>
 </tr>
 <tr>
    <td> HDFC Bank Diners Club ClubMiles/Premium Credit Card</td>
