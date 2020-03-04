@@ -147,7 +147,7 @@ layout: default
 
       <!-- Author Box -->
       {% if page.author %}
-      <div class="row mt-5">
+      <div class="row mt-5 mb-5">
         <div class="col-md-2 align-self-center">
           {% if author.avatar %} {% assign image_name = author.avatar | split:
           "." %}
@@ -181,6 +181,9 @@ layout: default
         </div>
       </div>
       {% endif %}
+      <!-- Advertisement -->
+      {% include advertisement-post.html %}
+
       <!-- Comments -->
       {% if page.comments != false %} {% include comments.html %} {% endif %}
     </div>
