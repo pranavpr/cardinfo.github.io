@@ -27,4 +27,4 @@ However note that Paytm charges 2% if you try to load more than Rs. 10,000 in wa
 
 I received this offer on my American Express Membership Rewards Credit Card. I am going to utilize this offer in conjugation with 1,000 monthly bonus rewards offer to get maximum out of it.
 
-_Did you receive this offer from Amex? If so, which card? Let me know quickly by leaving a comment below._
+_Did you receive this offer from Amex? If so, on which card? Let me know quickly by leaving a comment below._
