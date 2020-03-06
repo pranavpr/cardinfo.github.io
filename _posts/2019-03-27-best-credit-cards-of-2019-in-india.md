@@ -83,7 +83,7 @@ Standard Chartered Manhattan Credit Card provides 5% cashback on grocery spends 
   - 5% cashback on minimum transaction of Rs. 1000 at supermarkets capped to Rs. 150 per transaction & Rs. 500 per month
   - 3x reward points per Rs. 150 spent on other purchases equivalent to ~0.5%, points can be redeemed from online rewards catalogue only
 - [Special Offers](https://www.sc.com/in/credit-cards/offers/)
-- Apply [here](https://apply.standardchartered.co.in/credit-card?selectedCardId=4)
+- Apply <a target="_blank" href="https://l.cardinfo.in/scmanhattan">here</a>.
 
 #### 5. Citi Cashback Credit Card
 
@@ -98,7 +98,7 @@ If you love cashback then this card is for you. Citi Cashback Credit Card provid
   - 0.5% cashback on other spends
 - Cashback is automatically credited as statement credit in multiples of Rs. 500
 - 20% cashback on [BigBasket](https://l.cardinfo.in/bigbasket) on minimum purchase of Rs. 2,000, maximum cashback Rs. 500 per month, valid during the first 5 days of the month
-- Apply [here](https://www.online.citibank.co.in/portal/newgen/cards/tab/apply-now.htm?campaign_id=CardNTB1&referralCode=Pr51CC01&Section=MGM)
+- Apply <a target="_blank" href="https://l.cardinfo.in/citicasback">here</a>.
 
 ## Best Premium Credit Cards
 

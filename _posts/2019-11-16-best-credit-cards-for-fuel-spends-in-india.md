@@ -44,6 +44,7 @@ The biggest advantage of Standard Chartered Super Value Titanium Credit Card is 
   - 5% cashback on other utility bill payments, minimum transaction Rs. 750, maximum cashback Rs. 100 per month
   - 1 Reward Point per Rs. 150 on other spends
 - Cashback is credited as statement cash
+- Apply <a target="_blank" href="https://l.cardinfo.in/sctitanium">here</a>.
 
 ### 3. ICICI Bank HPCL Coral American Express Credit Card
 
@@ -109,6 +110,7 @@ IndianOil Citi Platinum Credit Card provides 4 turbo points per Rs. 150 of fuel 
   - 2 turbo points per Rs. 150 spent at grocery and supermarkets, 1.33% reward rate
   - 1 turbo points per Rs. 150 spent on other categories, 0.66% reward rate
 - 1% Fuel Surcharge waiver
+- Apply <a target="_blank" href="https://l.cardinfo.in/citiindianoil">here</a>.
 
 ### 7. RBL Bank Platinum Maxima Credit Card
 
