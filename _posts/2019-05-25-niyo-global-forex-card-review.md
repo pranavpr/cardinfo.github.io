@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NiYO Global Forex Card Review
+title: NiYO Global Forex Card Review (2020)
 date: 2019-05-25 12:18 +0530
 seo:
   date_modified: 2020-03-16 18:54 +0530
