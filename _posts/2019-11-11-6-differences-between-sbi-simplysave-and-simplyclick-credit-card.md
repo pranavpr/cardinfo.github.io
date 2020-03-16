@@ -42,7 +42,7 @@ SBI [SimplySAVE](/sbi-simplysave-credit-card-review/) and [SimplyCLICK](/sbi-sim
   <tr>
     <td> Spend Based Milestones </td>
   	<td> - </td>
-    <td> [Cleartrip](https://l.cardinfo.in/cleartrip) e-vouchers: Rs. 2,000 on spending Rs. 1 Lakh online, Rs. 4,000 on spending Rs. 2 Lakhs online</td>
+    <td> <a href="https://l.cardinfo.in/cleartrip" target="_blank">Cleartrip</a> e-vouchers: Rs. 2,000 on spending Rs. 1 Lakh online, Rs. 4,000 on spending Rs. 2 Lakhs online</td>
   </tr>
   <tr>
     <td> Reward Redemption to Statement Credit </td>
