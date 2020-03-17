@@ -173,11 +173,11 @@ Bank of India RuPay Platinum Debit Card provides multi-tiered reward rate and yo
 
 ### 10. Central Bank of India RuPay Platinum Debit Card
 
-{% include tile.html image="central-bank-of-india-rupay-platinum-debit-card.png" alt="Central Bank of India RuPay Platinum Debit Card" reward="0.375%" annualfee="Nil" pros="1.5 reward point per Rs. 100 spent, 0.375% reward rate<br />2 complimentary domestic airport lounge access per quarter<br/>5% cash back on utility bill payments<br/>Insurance cover<br/>Fuel surcharge waiver" cons="Low cap for fuel surcharge waiver" %}
+{% include tile.html image="central-bank-of-india-rupay-platinum-debit-card.png" alt="Central Bank of India RuPay Platinum Debit Card" reward="0.375%" annualfee="Rs. 100" pros="1.5 reward point per Rs. 100 spent, 0.375% reward rate<br />2 complimentary domestic airport lounge access per quarter<br/>5% cash back on utility bill payments<br/>Insurance cover<br/>Fuel surcharge waiver" cons="Low cap for fuel surcharge waiver" %}
 
 Central Bank of India RuPay Platinum Debit Card comes with a decent reward rate of 0.375%. Being on Rupay Platinum platform, this card offers the domestic airport lounge access and cashback on utility bill payments. However the low cap on fuel surcharge and low insurance cover is a little disappointing.
 
-- Annual Fee: Nil
+- Annual Fee: Rs. 100 + GST
 - Reward Rate:
   - 1 RP = Rs. 0.25
   - 1.5 RP per Rs. 100 spent, 0.375% reward rate
