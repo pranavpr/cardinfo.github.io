@@ -128,7 +128,7 @@ You should be able to login to NiYO Global app post KYC approval and card activa
 
 I used this card extensively in Europe and England and I didn't face any issue. Loading money was hassle free and I just used to IMPS the amount to the card account and it used to get credit instantly. The card was accepted by all merchants across Europe and England without any glitches. As soon as the transaction was done, it showed up in the NiYO Global app with an amount in both foreign currency as well as approximate INR. The transactions used to get settled in 2-3 days and hence the exchange rate of that time was applicable. Hence, due to fluctuation in currency exchange rates, there used to be some debit or credit of amount.
 
-{% include image.html image="niyo-global-app-transactions-history.jpg" alt="NiYO Global App Transaction History" class="img-center mb-3" %}
+{% include image.html image="niyo-global-app-transactions-history.png" alt="NiYO Global App Transaction History" class="img-center mb-3" %}
 
 I also used it for withdrawing money in ATMs and it worked seamlessly. There were no extra charges for ATM cash withdrawals and I was able to get Visa exchange rates for this too.
 
