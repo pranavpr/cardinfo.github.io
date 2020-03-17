@@ -10,8 +10,8 @@ SBI Card in association with Air Vistara launched Club Vistara SBI Card today. T
 
 {% include image.html image="club-vistara-sbi-card-launch-event.jpg" alt="Club Vistara SBI Card launch event" class="center mb-3" %}
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ### Club Vistara SBI Card (Regular)
 
@@ -112,7 +112,7 @@ Again, the insurance cover provided by this card is comprehensive and limits are
 
 ### Bottomline
 
-Club Vistara SBI Card is a nice attempt to attract those who like to earn air miles spends on their credit cards. Club Vistara SBI Card PRIME is in same league as Axis Bank Vistara Signature Credit Card fess wise, but former provides way better rewards than latter. It does makes sense to go for Club Vistara SBI Card PRIME instead of Axis Bank Vistara Signature Credit Card.
+Club Vistara SBI Card is a nice attempt to attract those who like to earn air miles spends on their credit cards. Club Vistara SBI Card PRIME is in same league as Axis Bank Vistara Signature Credit Card fees wise, but former provides way better rewards than latter. It does makes sense to go for Club Vistara SBI Card PRIME instead of Axis Bank Vistara Signature Credit Card.
 
 {% include tip.html tip="You may need to cancel your existing co-branded credit card from SBI Card to get this card as it limits maximum two cards per person: one regular and one co-branded."%}
 
