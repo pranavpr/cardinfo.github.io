@@ -204,4 +204,4 @@ Ola Money SBI Credit Card, instead of statement cash, provides cashback in Ola M
  
 Cashback credit cards simplify the reward redemption and are a good option to many. The only caveat of these credit cards is low reward rate. While credit cards which allow redemption for air tickets and hotel stay can offer a reward rate between 5% and 7%, cashback credit cards provide an average reward rate of around 2%. If you are an occasional traveler, consider going for cashback credit cards, otherwise look at other [better credit cards](/best-credit-cards-in-india-for-2020/) to maximize your return.
  
-_Which is your favorite cashback credit card? Did I miss any credit card which should be part of this list? Either way, let me know by leaving a quick comment below._
+_Which is your favorite cashback credit card? Did I miss any credit card which should be part of this list? Let me know by leaving a quick comment below._
