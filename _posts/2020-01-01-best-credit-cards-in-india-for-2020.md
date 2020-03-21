@@ -45,8 +45,8 @@ Lifestyle cards are general purpose cards suitable for almost all types of spend
 - Reward Rate:
   - 0.5% if points are converted to statement credit
   - 1000 bonus points for using Card 4 times on transactions of Rs. 1,000 and above every month
-  - 18 Karat Gold Collection: 18000 points can be redeemed for statement credit worth Rs. 7,500, [Amazon](https://l.cardinfo.in/amazon) Gift Card worth Rs. 8,000 or Tanishq Voucher worth Rs. 7,500
-  - 24 Karat Gold Collection: 24000 points can be redeemed for statement credit worth Rs. 10,000, American Express Domestic Travel Online voucher worth Rs. 11,000 or Bose Sound Link Color II Bluetooth Speaker
+  - 18 Karat Gold Collection: 18,000 points can be redeemed for statement credit worth Rs. 6,000, [Amazon](https://l.cardinfo.in/amazon) Gift Card worth Rs. 7,000, Amex Domestic Travel Voucher worth Rs. 7,000 or Taj Voucher worth Rs. 9,000.
+  - 24 Karat Gold Collection: 24,000 points can be redeemed for statement credit worth Rs. 9,000, Tanishq voucher worth Rs. 10,000 or Taj Voucher worth Rs. 14,000
 - Apply [here](https://l.cardinfo.in/amex)
 
 #### 3. HDFC Diners Club ClubMiles Credit Card

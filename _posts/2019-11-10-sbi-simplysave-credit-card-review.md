@@ -81,4 +81,6 @@ SBI SimplySAVE Credit Card is an offline counterpart of [SBI SimplyCLICK Credit 
 
 {% include star-rating.html rating=3.3 rewards=4 fees=4 features=2 %}
 
+<a href="https://l.cardinfo.in/simplysave" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Apply Now</a>
+
 _How has been your experience with SBI SimplySAVE Credit Card? Let me know in comments below._

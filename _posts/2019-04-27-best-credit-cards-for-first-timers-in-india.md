@@ -90,7 +90,7 @@ HSBC Cashback Credit Card provides unlimited cashback of 1.5% on online transact
 - Reward Rate:
   - 1.5% cashback on online spends, excluding wallet load
   - 1% cashback on offline spends
-- 15% off dining at over 1,000 [restaurants](http://www.simplyindulge.in/) across major cities
+- 15% off on dining at over 1,000 [restaurants](http://www.simplyindulge.in/) across major cities
 
 ### 5. Amazon Pay ICICI Bank Credit Card
 
@@ -132,7 +132,7 @@ SBI SimplyCLICK provides 2.5% back on online spends with their exclusive partner
 - Joining Fee: Rs. 499, get equivalent amount of [Amazon](https://l.cardinfo.in/amazon) voucher
 - Renewal Fee: Rs. 499, reversed if annual spends for last year >= Rs. 1,00,000
 - Reward Rate:
-  - 2.5% back on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Cleartrip](https://l.cardinfo.in/cleartrip), Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
+  - 2.5% back on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Cleartrip](https://l.cardinfo.in/cleartrip), Foodpanda, Lenskart, Netmeds & UrbanClap
   - 1.25% on other online spends
   - 0.25% on offline spends
 - 1% fuel surcharge waiver for each transaction between Rs. 500 & Rs. 3,000
