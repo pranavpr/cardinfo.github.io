@@ -31,7 +31,7 @@ Most of the time credit cards provide reward points which can be redeemed for fl
   - Discounts of up to 20% on [participating restaurants](https://www.americanexpress.com/in/network/offer/dining.html)
   - Emergency Card Replacement
 
-Though the reward rate looks peltry on [American Express Membership Rewards Credit Card](/american-express-membership-rewards-credit-card-mrcc-review/), this card shines when you redeem the Membership Rewards Points from 18 Karat or 24 Karat Gold collection. Let's do a sample math to calculate the reward rate when you just do 4 transactions of Rs. 1,000 every month and redeem from 18 Karat Gold Collection.
+Though the reward rate looks paltry on [American Express Membership Rewards Credit Card](/american-express-membership-rewards-credit-card-mrcc-review/), this card shines when you redeem the Membership Rewards Points from 18 Karat or 24 Karat Gold collection. Let's do a sample math to calculate the reward rate when you just do 4 transactions of Rs. 1,000 every month and redeem from 18 Karat Gold Collection.
 
 <div class="border p-4 mb-4 bg-lightblue article-info">
    Regular Membership Rewards Points earned on spending Rs. 4,000 = 80 <br/>
