@@ -106,6 +106,7 @@ HDFC Regalia First Credit Card is an entry level premium card from HDFC. Decent 
   - 10 Reward Points per Rs. 100 on online spends with exclusive partners - [Amazon](https://l.cardinfo.in/amazon), [BookMyShow](https://l.cardinfo.in/bookmyshow), [Cleartrip](https://l.cardinfo.in/cleartrip), Lenskart, Netmeds, Rentomojo, UrbanClap, 2.5% reward rate
   - 5 Reward Points per Rs. 100 on all other online spends, 1.25% reward rate
   - 1 Reward Point per Rs. 100 on all other spends, 0.25% reward rate
+- Apply [here](https://l.cardinfo.in/simplyclick)
 
 ### Best Premium Credit Cards
 
