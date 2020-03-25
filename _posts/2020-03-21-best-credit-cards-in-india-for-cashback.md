@@ -202,6 +202,8 @@ Ola Money SBI Credit Card, instead of statement cash, provides cashback in Ola M
 
 {% include tip.html tip="Settling Ola Postpaid bills using Ola Money SBI Credit Card also gives a cashback of 15% up to Rs. 1,000 per month. Use Ola Money Postpaid at partner merchants to maximize the benefit." %}
 
+_Thanks [Rishabh Mangal](https://cardinfo.in/best-credit-cards-in-india-for-cashback/#commento-2cf37a28fad0f70bff1941b67dda3593862c4673fce3e9212c710eb771bce4c3) for sharing above tip._
+
 ### Bottomline
 
 Cashback credit cards simplify the reward redemption and are a good option to many. The only caveat of these credit cards is low reward rate. While credit cards which allow redemption for air tickets and hotel stay can offer a reward rate between 5% and 7%, cashback credit cards provide an average reward rate of around 2%. If you are an occasional traveler, consider going for cashback credit cards, otherwise look at other [better credit cards](/best-credit-cards-in-india-for-2020/) to maximize your return.
