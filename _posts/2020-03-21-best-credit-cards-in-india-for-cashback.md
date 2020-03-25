@@ -199,9 +199,11 @@ Paytm First Credit Card is an entry level co-branded card from CitiBank. This ca
   - 1% fuel surcharge waiver
  
 Ola Money SBI Credit Card, instead of statement cash, provides cashback in Ola Money wallet within 3 days of transaction. Ola Money wallet can be used at 1500+ other merchants online.
- 
+
+{% include tip.html tip="Settling Ola Postpaid bills using Ola Money SBI Credit Card also gives a cashback of 15% up to Rs. 1,000 per month. Use Ola Money Postpaid at partner merchants to maximize the benefit." %}
+
 ### Bottomline
- 
+
 Cashback credit cards simplify the reward redemption and are a good option to many. The only caveat of these credit cards is low reward rate. While credit cards which allow redemption for air tickets and hotel stay can offer a reward rate between 5% and 7%, cashback credit cards provide an average reward rate of around 2%. If you are an occasional traveler, consider going for cashback credit cards, otherwise look at other [better credit cards](/best-credit-cards-in-india-for-2020/) to maximize your return.
- 
+
 _Which is your favorite cashback credit card? Did I miss any credit card which should be part of this list? Let me know by leaving a quick comment below._
