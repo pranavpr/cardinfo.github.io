@@ -1,7 +1,7 @@
-{% assign ad_pos = content | number_of_words | modulo: 5 %} {% if ad_pos == 0 %}
+{% assign ad_pos = content | number_of_words | modulo: 2 %} {% if ad_pos == 3 %}
 {% include advertisement-post-sbi-simplyclick.html %} {% endif %} {% if ad_pos
 == 1 %} {% include advertisement-post-sc-super-value-titanium.html %} {% endif
 %} {% if ad_pos == 2 %} {% include advertisement-post-citi-indian-oil.html %} {%
-endif %}{% if ad_pos == 3 %} {% include advertisement-post-sc-manhattan.html %}
+endif %}{% if ad_pos == 0 %} {% include advertisement-post-sc-manhattan.html %}
 {% endif %}{% if ad_pos == 4 %} {% include advertisement-post-citi-rewards.html
 %} {% endif %}

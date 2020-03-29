@@ -10,6 +10,10 @@ HDFC Infinia or Diners Club Black: which one is better? I have been asked this q
 
 Those who are not aware, HDFC Infinia and Diners Club Black, both are super premium credit cards from HDFC Bank. Both these cards feature great reward rate, unlimited airport lounge access, golf privileges, 24x7 concierge, insurance cover and dedicated support line. However there are some subtle differences between the two which I am going to show you in a while. Let's get started!
 
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ### HDFC Infinia vs Diners Club Black
 
 <table class="table" style="display: block;overflow-x: auto;">
