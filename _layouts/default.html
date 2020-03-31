@@ -23,13 +23,6 @@
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css?v=1">
 
-    <!-- Quicklink for fast loading of subsequent pages -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.0.0-alpha/quicklink.umd.js"></script>
-    <script>
-    window.addEventListener('load', () => {
-      quicklink.listen();
-    });
-    </script>
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script defer src="{{site.baseurl}}/assets/js/fingerprint2.js"></script>
@@ -110,6 +103,13 @@
     </footer>
 
     {% include tracking-footer.html %}
+    <!-- Quicklink for fast loading of subsequent pages -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.0.0-alpha/quicklink.umd.js"></script>
+    <script>
+    window.addEventListener('load', () => {
+      quicklink.listen();
+    });
+    </script>
     </body>
 
 </html>
