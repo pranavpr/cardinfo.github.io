@@ -7,7 +7,7 @@ image: /assets/images/bank-of-baroda-premier-credit-card-review.jpg
 product: Bank of Baroda Premier Credit Card
 ---
 
-Bank of Baroda Premier Credit Card is a lifestyle credit card from Bank of Baroda. This credit card provides 5X rewards on travel, dining and foreign spends. Apart from accelerated rewards, this card also provides complimentary access to domestic airport lounges and insurance cover.
+Bank of Baroda (BoB) Premier Credit Card is a lifestyle credit card from Bank of Baroda. This credit card provides 5X rewards on travel, dining and foreign spends. Apart from accelerated rewards, this card also provides complimentary access to domestic airport lounges and insurance cover.
 
 Lately Bank of Baroda has been aggressively running [multiple offers](https://www.bobfinancial.com/bob-festival-campaign.jsp) increasing the interests of masses for their credit cards. Hence I decided to review their Premier Credit Card which I have been holding for the past one year. I will also be talking about my first hand experience with this credit card in this article. So without further ado, let's get started.
 
@@ -55,7 +55,7 @@ Bank of Baroda is providing 6 Months of Gaana Plus subscription if you apply for
 - Maximum cap on 5X reward points = 2,000 per month
 - Reward points can be redeemed for statement credit
 
-2.5% reward rate on travel, dining and international spends is good, however a limit of 2,000 per month is disappointing. Also note that Bank of Baroda charges 3.5% + GST (~ 4.23%) as foreign currency markup fee and hence the benefit of accelerated reward points on international spends is diminished. However one good thing about the reward points is that they can be redeemed for statement credit.
+  2.5% reward rate on travel, dining and international spends is good, however a limit of 2,000 per month is disappointing. Also note that Bank of Baroda charges 3.5% + GST (~ 4.23%) as foreign currency markup fee and hence the benefit of accelerated reward points on international spends is diminished. However one good thing about the reward points is that they can be redeemed for statement credit.
 
 #### Airport Lounge Access
 
