@@ -2,7 +2,7 @@
 layout: post
 title: 'Amex Double Rewards Offer: 2X Points & 2X Value on Amex Platinum Card'
 date: 2020-04-21 16:38 +0530
-categories: [Card Offers, CITI]
+categories: [Card Offers, Amex]
 image: /assets/images/amex-platinum-card-double-rewards-offer.jpg
 ---
 
