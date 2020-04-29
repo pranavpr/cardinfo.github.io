@@ -59,7 +59,7 @@ Below table summarizes the volume of fraudulent transactions for each victim so 
  
 The common pattern that has been observed for these cases is that the card has been used on international sites in early morning India time when the majority of the people are fast asleep.
  
-The victims came to know about each other from [How to handle unauthorized / fraudulent transaction on Credit Card in India?](/how-to-handle-unauthorized-fraudulent-transaction-on-credit-card-in-india/){:target="\_blank"} article on CardInfo and they formed a WhatsApp group to coordinate among themselves. So far, transactions of only one victim have been reversed so far and the fate of others is still hanging in the middle. The stories which follow are shared by the victims to me as a last resort to make everyone aware of their experience and get a speedier resolution from Standard Chartered Bank.
+The victims came to know about each other from [How to handle unauthorized / fraudulent transaction on Credit Card in India?](/how-to-handle-unauthorized-fraudulent-transaction-on-credit-card-in-india/){:target="\_blank"} article on CardInfo and they formed a WhatsApp group to coordinate among themselves. Transactions of only one victim have been reversed so far and the fate of others is still hanging in the middle. The stories which follow are shared by the victims to me as a last resort to make everyone aware of their experience and get a speedier resolution from Standard Chartered Bank.
  
 <!-- prettier-ignore -->
 * TOC
@@ -136,7 +136,7 @@ Further to the same I responded with mail dated 12/01/2020, I would like to ment
    The card should have been active if it was done by a customer only however it means that when hacking happened, your bank system immediately blocked the card, which is really appreciable but it was too late as transactions happened without me sharing the OTP with anyone, WHY?
 
 5. When I woke up in the morning, I observed the following SMS also, to which I immediately responded.
-   
+
    > StanChart: For your account security, please respond urgently to verify your transaction. SMS 1 if you made the transaction; SMS 2 if you did not to +918800475522.
 
    I immediately sent 2 to +918800475522 which you can check from your records that you received sms from my registered mobile number. My number is postpaid and the same is appearing on my mobile bill also.
