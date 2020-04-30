@@ -35,12 +35,12 @@ The validity of the Smartbuy 10X program has been further extended till ~~29 Feb
 
 ### Diners 10X Rewards
 
-Diners 10X Rewards program has been renewed till ~~29 February 2020~~ ~~31 March 2020~~.
+Diners 10X Rewards program has been renewed till ~~29 February 2020~~ 31 March 2020.
 
 {% include image.html image="diners-10x-partners-february-2020.jpg" alt="Diners 10X Rewards Partners" class="img-center mb-3" %}
 
 - **Offer**: 10X reward points on HDFC Diners Club Credit Cards for purchases made on 10X partners
-- **Period**: 1 February 2020 to ~~29 February 2020~~ ~~31 March 2020~~
+- **Period**: 1 February 2020 to ~~29 February 2020~~ 31 March 2020
 - **Partners**: [Myntra](https://l.cardinfo.in/myntra), Ola, [First Cry](https://l.cardinfo.in/firstcry) & [Zoomcar](https://l.cardinfo.in/zoomcar)
 - **Maximum Reward Points**:
   - Diners Rewardz: 2,000
