@@ -16,7 +16,7 @@ HDFC Bank has renewed the SmartBuy 10X program and Diners 10X program for anothe
 
 ### Smartbuy 10X Program
 
-The validity of the Smartbuy 10X program has been further extended till ~~29 February 2020~~ ~~31 March 2020~~ 30 April 2020.
+The validity of the Smartbuy 10X program has been further extended till ~~29 February 2020~~ ~~31 March 2020~~ ~~30 April 2020~~ 31 May 2020.
 
 - **Offer**
   - 10X Reward Points on HDFC Bank Infinia, Diners Club and Regalia credit cards
@@ -35,7 +35,7 @@ The validity of the Smartbuy 10X program has been further extended till ~~29 Feb
 
 ### Diners 10X Rewards
 
-Diners 10X Rewards program has been renewed till ~~29 February 2020~~ 31 March 2020.
+Diners 10X Rewards program has been renewed till ~~29 February 2020~~ ~~31 March 2020~~.
 
 {% include image.html image="diners-10x-partners-february-2020.jpg" alt="Diners 10X Rewards Partners" class="img-center mb-3" %}
 
@@ -121,5 +121,7 @@ Below table summarizes the reward rate of some popular HDFC Bank credit cards wi
 <sup>*</sup>Maximum reward points per calendar month
  
 It's evident from the table above that HDFC Bank 10X Rewards Program is one of most rewarding programs at present. 33% reward rate is just insane and you shouldn't miss even a single chance to utilize this program.
- 
+
+**PS:** HDFC Bank has not renewed the Diners 10X Program after 31 March 2020.
+
 _What do you think about the removal of [Swiggy](https://l.cardinfo.in/swiggy), [BookMyShow](https://l.cardinfo.in/bookmyshow) and Godrej Nature’s Basket from Diners 10X program? How are you planning to extract maximum benefit from this program now? Let me know by leaving a quick comment below._
