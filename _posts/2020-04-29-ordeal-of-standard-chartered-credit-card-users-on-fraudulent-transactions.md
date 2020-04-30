@@ -83,11 +83,13 @@ I asked them to share the VISA chargeback investigation report and facts to prov
 Bank is not able to prove that transaction is legitimate by sharing the details asked above. Sending an OTP doesn’t mean that the OTP has actually been used to carry out these transactions. It is common knowledge that international transactions can be carried out without OTP. The bank is also not able to prove that loss is due to negligence by a customer, such as where he / she has shared the payment credentials.
  
 Even after complaining to the banking ombudsman, their reply and stand remains the same. So far the bank has not produced any investigation report, proving that the transaction was done by me.
- 
+
+_Vaibhav [reported](https://cardinfo.in/ordeal-of-standard-chartered-credit-card-users-on-fraudulent-transactions/#commento-97985b81cd1e0e24e7f9f31980a70d55e22925e846fb319e78e6f436c86df1f8) that his issue has been resolved by Standard Chartered._
+
 ### Kshitij Jha
- 
+
 My name is Kshitij Jha and I hold a Standard Chartered Manhattan Credit Card bearing no: 4541 98xx 6793. On the morning of 5th November 2019, I woke up as usual to get ready for my office at 06:45 AM and checked my mobile first. I was surprised to see a series of various messages received from Standard Chartered Bank for OTPs and transactions done. Below is the list of all messages sent to me by the bank:
- 
+
 ```
 VM-FROMSC 11-5 Tuesday 04:41
 MSE-234108 is your one time password (OTP) for transaction of USD 195.81 at PSP*dmarket.com on your Credit Card ending 6793.Valid till 04:48 AM IST - StanChart.
@@ -103,36 +105,36 @@ Thank you for using StanChart Card No XX6793 on 05/11/19 for USD 3088.24. Call 1
 Thank you for using StanChart Card No XX6793 on 05/11/19 for USD 1.94. Call 18002586465 if you have not done this transaction.
 Thank you for using StanChart Card No XX6793 on 05/11/19 for USD 195.81. Call18002586465 if you have not done this transaction.
 ```
- 
+
 On seeing these SMS, I immediately sent an SMS of 2 to the number +918800475522 as advised by the Bank (StanChart: We appreciate an urgent response to verify your transaction. SMS 1 if you made the transaction; SMS 2 if you did not to +918800475522.) clearly saying these were not done by the customer.
- 
+
 I immediately called Standard Chartered Bank on their Standard Chartered Customer Care number 022- 66014444 and informed them of the fraudulent transactions done. However they told me that since it takes around 48 hours for the Merchant to claim the amount, you need to call the bank after 48 hours in order to raise a dispute with us. I don't understand the logic behind the same. If the money was not claimed by the merchant they should have stopped the same on request raised by the customer. Anyways I blocked the cards immediately. I also immediately checked my Standard Chartered Internet Banking and Mobile Banking app but the same was not reflecting any transaction and messages were coming that the server is temporarily down, please try after some time.
- 
+
 I went to the Bank personally and submitted the dispute form for an amount of INR 2,19,235.56. I also sent the dispute form to the registered mail id with the bank card.services@sc.com, customer.care@sc.com, head.service@sc.com and nodal.officer@sc.com.
- 
+
 Next day on 06/11/2019 after returning from my office in the evening, when I checked my net banking, the actual amount debited was INR 2,42,112.21 on my Standard Chartered Manhattan Credit Card No. 4541 xxxx 6793. So I again called Standard Chartered Customer Care number 022- 66014444 and got Complaint No. 201911031139 from them. Next day on 07/11/2019, I forwarded Standard Chartered Bank Dispute Form for amount of INR 2,42,112.21 to the email id card.services@sc.com, customer.care@sc.com, head.service@sc.com and nodal.officer@sc.com. Same day, I got a call from Bank No. +918039819800 and the caller advised me that they will be giving a temporary credit for the amount of INR 2,42,112.21 within the next 10 working days and the entire investigation will take another 45 days to complete. I also filed the police complaint the very same day.
- 
+
 Bank responded to me via their mail dated 10/12/2019 and 11/01/2020 that the transaction was carried on a secured website and OTP was delivered to your phone, hence the customer has to pay the same. They did not provide me with any detailed investigation report.
- 
+
 To the same, I responded with my following points with my mail dated 11/01/2020:
- 
+
 1. OTP received by me were alphanumeric in nature which is not possible as we always receive the numeric characters only.
 2. All the OTPs involve USD amounts which are amounting to \$1.95, 1.94, 1.16, etc. which is a clear indication that the hacker tried to do the transaction using small amounts first to determine the validity of the card. Once the hacker knew that the transactions were going through, he performed larger transactions.
 3. The OTPs received were for more than around 5-6 transactions but only two amounts totaling upto INR 2,42,112.21 are only appearing in the statement.
 4. The hacker not only fully utilized the full credit limit but also used the buffer limit available with the card.
 5. The merchant named is PSP\*dmarket.com Gibraltar GI which is domiciled outside of India.
- 
+
 **Bank Response - NIL**
- 
+
 Further to the same I responded with mail dated 12/01/2020, I would like to mention following things:
- 
+
 1. The card was with me in my possession at all times during fraudulent transactions. I was not using the card for the last 1.5 years till the date of the fraudulent transactions happened. It means NIL transactions on my card.
 2. I did not click on any spam or phishing link as I am totally aware that I do not need to disclose my card details with any third party.
 3. As per my trail mail, you will find that I have got almost 6 to 7 OTP SMS early in the morning as per trail mail, when I was sleeping which also means I did not share them with anyone, but only two transactions were reported on statement, Why? And please tell me out of these OTPs received, which OTPs were used with evidence.
 4. As per your saying, if these transactions were secured, why did standard chartered block my card as per the SMS I received.
-   
+
    > Dear Client, we have tried calling you. Your Standard Chartered card ending (6793) has been temporarily blocked due to security reasons. Please call 66014444/39404444 for assistance.
-   
+
    The card should have been active if it was done by a customer only however it means that when hacking happened, your bank system immediately blocked the card, which is really appreciable but it was too late as transactions happened without me sharing the OTP with anyone, WHY?
 
 5. When I woke up in the morning, I observed the following SMS also, to which I immediately responded.
