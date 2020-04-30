@@ -22,7 +22,7 @@ The validity of the Smartbuy 10X program has been further extended till ~~29 Feb
   - 10X Reward Points on HDFC Bank Infinia, Diners Club and Regalia credit cards
   - 5% cash back on other HDFC Credit and Debit cards up to maximum of Rs. 1,000 per calendar month
   - This covers [Flipkart](https://l.cardinfo.in/flipkart), [Amazon](https://l.cardinfo.in/amazon), [OYO](https://l.cardinfo.in/oyo), Flights, Hotels, Buses, Trains, Gift Vouchers and Compare & Shop on [Smartbuy](https://offers.smartbuy.hdfcbank.com)
-- **Period**: 1 February 2020 to ~~29 February 2020~~ ~~31 March 2020~~ 30 April 2020
+- **Period**: 1 February 2020 to ~~29 February 2020~~ ~~31 March 2020~~ ~~30 April 2020~~ 31 May 2020
 - **Maximum Cap**:
   - HDFC Infinia: 25,000 reward points
   - HDFC Diners Club Black: 15,000 reward points
@@ -40,7 +40,7 @@ Diners 10X Rewards program has been renewed till ~~29 February 2020~~ ~~31 March
 {% include image.html image="diners-10x-partners-february-2020.jpg" alt="Diners 10X Rewards Partners" class="img-center mb-3" %}
 
 - **Offer**: 10X reward points on HDFC Diners Club Credit Cards for purchases made on 10X partners
-- **Period**: 1 February 2020 to ~~29 February 2020~~ 31 March 2020
+- **Period**: 1 February 2020 to ~~29 February 2020~~ ~~31 March 2020~~
 - **Partners**: [Myntra](https://l.cardinfo.in/myntra), Ola, [First Cry](https://l.cardinfo.in/firstcry) & [Zoomcar](https://l.cardinfo.in/zoomcar)
 - **Maximum Reward Points**:
   - Diners Rewardz: 2,000
