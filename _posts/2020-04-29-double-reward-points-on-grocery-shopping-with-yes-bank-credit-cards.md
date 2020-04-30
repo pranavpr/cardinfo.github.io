@@ -75,6 +75,6 @@ Below table summarizes the new reward rate due to this offer on different Yes Ba
 </table>
 <sup>*</sup> On grocery spends
 
-As evident from table above, [Yes First Exclusive Credit Card](/yes-first-exclusive-credit-card-review/){:target="\_blank"} holders can enjoy a reward rate of 3% on groceries using this offer. Though this still doesn't beat the default reward rate of 3.3% on [HDFC Infinia](/hdfc-bank-infinia-credit-card-review/){:target="\_blank"} and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/){:target="\_blank"}, still it's a decent offer.
+As evident from table above, [Yes First Exclusive Credit Card](/yes-first-exclusive-credit-card-review/){:target="\_blank"} holders can enjoy a reward rate of 3% on groceries using this offer. Though this doesn't beat the default reward rate of 3.3% on [HDFC Infinia](/hdfc-bank-infinia-credit-card-review/){:target="\_blank"} and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/){:target="\_blank"}, still it's a decent offer.
 
 _What is your take on this offer from Yes Bank? Are you planning to utilize this offer for grocery shopping? Let me know in comments below._
