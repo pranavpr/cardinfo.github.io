@@ -84,7 +84,7 @@ Bank is not able to prove that transaction is legitimate by sharing the details 
  
 Even after complaining to the banking ombudsman, their reply and stand remains the same. So far the bank has not produced any investigation report, proving that the transaction was done by me.
 
-_Vaibhav [reported](https://cardinfo.in/ordeal-of-standard-chartered-credit-card-users-on-fraudulent-transactions/#commento-97985b81cd1e0e24e7f9f31980a70d55e22925e846fb319e78e6f436c86df1f8) that his issue has been resolved by Standard Chartered._
+_Vaibhav [reported](https://cardinfo.in/ordeal-of-standard-chartered-credit-card-users-on-fraudulent-transactions/#commento-97985b81cd1e0e24e7f9f31980a70d55e22925e846fb319e78e6f436c86df1f8) that his issue has been resolved by Standard Chartered on 30 April 2020._
 
 ### Kshitij Jha
 
