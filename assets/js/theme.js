@@ -114,5 +114,6 @@ window.supportsWebP.then(supported => {
   if (!supported) {
     $('#highlight').removeClass('webp');
     $('#categories').removeClass('webp');
+    $('#firstimage').removeClass('webp');
   }
 });
