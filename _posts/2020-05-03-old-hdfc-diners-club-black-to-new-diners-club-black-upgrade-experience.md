@@ -40,7 +40,7 @@ I started waiting for the same and then COVID-19 lockdown happened. I was not ho
 
 {% include image.html image="hdfc-diners-club-black-annual-membership-mailer.jpg" alt="HDFC Diners Club Black annual membership mailer" class="img-center mb-3" %}
 
-I clicked the "Redeem Now" button in excitement to avail the benefits. It landed me on to the [rewards portal](https://hdfcbankdinersclub.poshvine.com/){:target="\_blank"} where I needed to sign in using my mobile number and first and last three digits of my card. After signing in, I was presented with all annual benefits available on my Diners Club Black card as shown below:
+I clicked the "Redeem Now" button in excitement to avail the benefits. It landed me on to the [rewards portal](https://hdfcbankdinersclub.poshvine.com/){:target="\_blank"} where I needed to sign in using my mobile number and first and last four digits of my card. After signing in, I was presented with all annual benefits available on my Diners Club Black card as shown below:
 
 {% include image.html image="hdfc-diners-club-black-annual-milestone-benefits-redemption-portal.jpg" alt="HDFC Diners Club Black Annual Milestone Benefits Redemption Portal" class="img-center mb-3" %}
 
