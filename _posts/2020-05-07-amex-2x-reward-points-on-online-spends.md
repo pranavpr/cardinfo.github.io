@@ -2,7 +2,7 @@
 layout: post
 title: 'Amex: 2X reward points on Online Spends'
 date: 2020-05-07 17:24 +0530
-categories: [Amex]
+categories: [Card Offers, Amex]
 image: /assets/images/amex-2x-reward-points-on-online-spends.jpg
 ---
 
