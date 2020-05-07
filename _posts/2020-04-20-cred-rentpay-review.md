@@ -2,7 +2,7 @@
 layout: post
 title: 'CRED RentPay is here to maximize interest free period on Credit Card: A review'
 date: 2020-04-20 17:44 +0530
-categories: [Reviews, CRED]
+categories: [Reviews, FinTech]
 image: /assets/images/cred-rentpay-review.jpg
 product: Cred RentPay
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 'CRED launches instant credit line Stash: A review'
 date: 2020-04-20 18:05 +0530
-categories: [Reviews, CRED]
+categories: [Reviews, FinTech]
 image: /assets/images/cred-stash-review.jpg
 product: Cred Stash
 ---
