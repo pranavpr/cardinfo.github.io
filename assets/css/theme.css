@@ -2,6 +2,13 @@
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
 
+/**
+ * Enable smooth scrolling on the whole document
+ */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   overflow-x: hidden;
   padding-top: 69.75px;
@@ -197,9 +204,18 @@ a.text-dark:hover {
   border-radius: 0px 30px 30px 0px;
 }
 .navbar {
-  transition: top 0.2s ease-in-out;
+  will-change: transform;
+  transition: transform 0.2s ease-in-out;
   font-weight: 400;
 }
+
+.navbar-unpin {
+  transform: translateY(-70px);
+}
+.navbar-pin {
+  transform: translateY(0);
+}
+
 .navbar .highlight .nav-link {
   color: #03a87c !important;
   border: 1px solid #03a87c;

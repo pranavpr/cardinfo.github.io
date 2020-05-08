@@ -193,55 +193,6 @@ layout: default
     </div>
   </div>
 </div>
-
-<!-- Aletbar Prev/Next -->
-<div class="alertbar">
-  <div class="container">
-    <div class="row prevnextlinks small font-weight-bold">
-      {% if page.previous.url %}
-      <div class="col-md-6 rightborder pl-0">
-        <a class="text-dark" href="{{ page.previous.url }}"
-          >{% if page.previous.image %} {% assign image_name =
-          page.previous.image | split: "." %}
-          <picture>
-            <source
-              data-srcset="{{ image_name.first }}.webp"
-              type="image/webp"
-            />
-            <img
-              height="30px"
-              class="mr-1 lazy"
-              alt="{{ page.previous.title }}"
-              data-src="{{ page.previous.image }}"
-            />
-          </picture>
-          {% endif %} {{ page.previous.title }}</a
-        >
-      </div>
-      {% endif %} {% if page.next.url %}
-      <div class="col-md-6 text-right pr-0">
-        <a class="text-dark" href="{{ page.next.url }}">
-          {{ page.next.title }} {% if page.next.image %} {% assign image_name =
-          page.next.image | split: "." %}
-          <picture>
-            <source
-              data-srcset="{{ image_name.first }}.webp"
-              type="image/webp"
-            />
-            <img
-              height="30px"
-              class="ml-1 lazy"
-              alt="{{ page.next.title }}"
-              data-src="{{ page.next.image }}"
-            />
-          </picture>
-          {% endif %}</a
-        >
-      </div>
-      {% endif %}
-    </div>
-  </div>
-</div>
 {% include related.html %}
 <!-- Categories -->
 <div id="categories" class="jumbotron fortags webp">

@@ -1,33 +1,61 @@
 <script src="{{ site.baseurl }}/assets/js/lunr.min.js"></script>
 
 <script>
-  $(function () {
-    $('#lunrsearchresults').on('click', '#btnx', function () {
-      $('#lunrsearchresults').hide(1000);
-      $('body').removeClass('modal-open');
-    });
+  document.addEventListener('DOMContentLoaded', function (event) {
+    document.getElementById('lunrsearchresults').addEventListener(
+      'click',
+      function (e) {
+        for (
+          var target = e.target;
+          target && target != this;
+          target = target.parentNode
+        ) {
+          if (target.matches('#btnx')) {
+            document.getElementById('lunrsearchresults').style.display = 'none';
+            document.querySelector('body').classList.remove('modal-open');
+            break;
+          }
+        }
+      },
+      false
+    );
   });
 
   var idx;
   if (!sessionStorage.getItem('lunrIndex')) {
-    $.getJSON('/content.json').done(function (data) {
-      sessionStorage.setItem('actualData', JSON.stringify(data.documents));
-      idx = lunr(function () {
-        this.ref('id');
-        this.field('title');
-        this.field('body');
+    var request = new XMLHttpRequest();
+    request.open('GET', '/content.json', true);
 
-        data.documents.forEach(function (doc) {
-          this.add(doc);
-        }, this);
-      });
-      sessionStorage.setItem('lunrIndex', JSON.stringify(idx));
-    });
+    request.onload = function () {
+      if (this.status >= 200 && this.status < 400) {
+        var data = JSON.parse(this.response);
+        sessionStorage.setItem('actualData', JSON.stringify(data.documents));
+        idx = lunr(function () {
+          this.ref('id');
+          this.field('title');
+          this.field('body');
+
+          data.documents.forEach(function (doc) {
+            this.add(doc);
+          }, this);
+        });
+        sessionStorage.setItem('lunrIndex', JSON.stringify(idx));
+      } else {
+        console.log('Server error in fetching search index');
+      }
+    };
+
+    request.onerror = function () {
+      console.log('Connection error in fetching search index');
+    };
+
+    request.send();
   }
   function lunr_search(term) {
     event.preventDefault();
-    $('#lunrsearchresults').show(1000);
-    $('body').addClass('modal-open');
+    document.getElementById('lunrsearchresults').style.display =
+      '' | 'inline' | 'inline-block' | 'inline-table' | 'block';
+    document.querySelector('body').classList.add('modal-open');
 
     document.getElementById('lunrsearchresults').innerHTML =
       '<div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow-lg" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0"> </ul>    </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-primary btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
@@ -43,7 +71,6 @@
       var results = lunr.Index.load(savedIndexData).search(term);
       if (results.length > 0) {
         for (var i = 0; i < results.length; i++) {
-          // more statements
           var ref = results[i]['ref'];
           var url = documents[ref]['url'];
           var title = documents[ref]['title'];

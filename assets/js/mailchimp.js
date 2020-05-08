@@ -2,7 +2,7 @@ var mailchimpConfig = {
   baseUrl: 'cardinfo.us20.list-manage.com',
   uuid: 'ff4082dcfa8fb2e1fd3cd3901',
   lid: '9eec8b2c19',
-  uniqueMethods: true
+  uniqueMethods: true,
 };
 
 var chimpPopupLoader = document.createElement('script');
@@ -27,10 +27,9 @@ chimpPopup.appendChild(
       '"})});'
   )
 );
-
-jQuery(function($) {
+document.addEventListener('DOMContentLoaded', function () {
   document.body.appendChild(chimpPopupLoader);
-  $(window).on('load', function() {
+  window.onload = function () {
     document.body.appendChild(chimpPopup);
-  });
+  };
 });

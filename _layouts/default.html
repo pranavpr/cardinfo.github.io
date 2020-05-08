@@ -22,11 +22,8 @@
     <noscript><link rel="stylesheet" href="{{site.baseurl}}/assets/css/applause-button.css"></noscript>
 
     <!-- Theme Stylesheet -->
-    <link rel="preload" href="{{site.baseurl}}/assets/css/theme.css?v=1" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css?v=1"></noscript>
-
-    <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="preload" href="{{site.baseurl}}/assets/css/theme.css?v=2" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css?v=2"></noscript>
     <script defer src="{{site.baseurl}}/assets/js/fingerprint2.js"></script>
     <script defer src="{{site.baseurl}}/assets/js/applause-button.js"></script>
 
@@ -38,7 +35,7 @@
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
 
     <!-- Navbar -->
-    <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
+    <nav id="navbar" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
         <a class="navbar-brand" href="{{ site.baseurl }}/">
             <picture>
@@ -80,9 +77,9 @@
     </script>
 
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/12.0.0/lazyload.min.js"></script>
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.min.js"></script>
-    <script defer src="{{site.baseurl}}/assets/js/theme.min.js?v=1"></script>
-    <script defer src="{{site.baseurl}}/assets/js/mailchimp.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.27/bootstrap-native-v4.min.js"></script>
+    <script defer src="{{site.baseurl}}/assets/js/theme.js?v=2"></script>
+    <script defer src="{{site.baseurl}}/assets/js/mailchimp.js?v=2"></script>
 
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">

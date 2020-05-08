@@ -9,7 +9,7 @@
       <a
         class="pagination-item"
         id="page-prev"
-        style="color:#6c757d"
+        style="color: #6c757d;"
         href=""
         rel="prev"
         >previous<span class="sr-only"> page</span></a
@@ -82,7 +82,7 @@
       '#cc2529',
       '#922428',
       '#6b4c9a',
-      '#535154'
+      '#535154',
     ];
 
     var total = 0;
@@ -99,16 +99,25 @@
   var cdn = 'https://api.cardinfo.in';
   function getComments(limit, offset, callback) {
     var commentsHTML = '';
-    $.ajax({
-      type: 'GET',
-      url: cdn + '/api/comment/summary',
-      data: { domain: domain, limit: limit, offset: offset },
-      cache: false,
-      dataType: 'json',
-      success: function(data) {
+    var request = new XMLHttpRequest();
+    request.open(
+      'GET',
+      cdn +
+        '/api/comment/summary?domain=' +
+        domain +
+        '&limit=' +
+        limit +
+        '&offset=' +
+        offset,
+      true
+    );
+
+    request.onload = function () {
+      if (this.status >= 200 && this.status < 400) {
+        var data = JSON.parse(this.response);
         latestComments = data.comments;
         latestCommenters = data.commenters;
-        latestComments.forEach(function(comment) {
+        latestComments.forEach(function (comment) {
           var avatar;
           var color = getColor(
             comment.commenterHex +
@@ -155,49 +164,62 @@
             '</div></div>';
         });
         callback(commentsHTML);
+      } else {
+        console.log('Server error in fetching data.');
       }
-    });
+    };
+
+    request.onerror = function () {
+      console.log('Connection error in fetching data.');
+    };
+    request.send();
   }
 
-  getComments(limit, offset, function(commentsHTML) {
+  getComments(limit, offset, function (commentsHTML) {
     var finalCommentsHTML =
       '<h4 class="font-weight-bold spanborder"><span>Recent Comments</span></h4><div class="comments text-muted">' +
       commentsHTML +
       '</div>';
-    $('#recent-comments-container').html(finalCommentsHTML);
+    document.getElementById(
+      'recent-comments-container'
+    ).innerHTML = finalCommentsHTML;
   });
 
-  $('#comment-next').click(function(event) {
+  document.getElementById('comment-next').onclick = function (event) {
     event.preventDefault();
     if (offset >= 0) {
       offset += 10;
-      getComments(limit, offset, function(commentsHTML) {
+      getComments(limit, offset, function (commentsHTML) {
         var finalCommentsHTML =
           '<h4 class="font-weight-bold spanborder"><span>Recent Comments</span></h4><div class="comments text-muted">' +
           commentsHTML +
           '</div>';
-        $('#recent-comments-container').html(finalCommentsHTML);
+        document.getElementById(
+          'recent-comments-container'
+        ).innerHTML = finalCommentsHTML;
       });
-      $('#page-prev').css('color', '#03a87c');
+      document.getElementById('page-prev').style.color = '#03a87c';
     }
-  });
+  };
 
-  $('#comment-previous').click(function(event) {
+  document.getElementById('comment-previous').onclick = function (event) {
     event.preventDefault();
     if (offset >= 10) {
       offset -= 10;
-      getComments(limit, offset, function(commentsHTML) {
+      getComments(limit, offset, function (commentsHTML) {
         var finalCommentsHTML =
           '<h4 class="font-weight-bold spanborder"><span>Recent Comments</span></h4><div class="comments text-muted">' +
           commentsHTML +
           '</div>';
-        $('#recent-comments-container').html(finalCommentsHTML);
+        document.getElementById(
+          'recent-comments-container'
+        ).innerHTML = finalCommentsHTML;
       });
       if (offset > 0) {
-        $('#page-next').css('color', '#03a87c');
+        document.getElementById('page-next').style.color = '#03a87c';
       } else {
-        $('#page-prev').css('color', '#6c757d');
+        document.getElementById('page-prev').style.color = '#6c757d';
       }
     }
-  });
+  };
 </script>
