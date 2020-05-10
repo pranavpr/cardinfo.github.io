@@ -2,6 +2,8 @@
 layout: post
 title: Best Credit Cards in India for 2020 (Review & Comparison)
 date: 2020-01-01 15:00 +0530
+seo:
+  date_modified: 2020-05-10 15:27 +0530
 categories: [Reviews]
 image: /assets/images/best-credit-cards-in-india-for-2020.jpg
 ---
@@ -308,6 +310,43 @@ Though the default reward rate on Axis Bank Magnus Credit Card is low, other ben
 - Buy 1 Get 1 up to Rs. 500 on movie, activities, events etc. at [BookMyShow](https://l.cardinfo.in/bookmyshow), limited to 5 times in a month
 - Complimentary Dineout Plus membership
 - Reduced foreign currency markup of 2%
+
+### FAQs
+
+<div itemscope itemtype="https://schema.org/FAQPage">
+ <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+   <h5 itemprop="name">Which is the best credit card in India?</h5>
+   <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+     <div itemprop="text">
+     There isn't one perfect card suitable for all needs. The spending pattern, income range, willingness to pay annual fees etc. varies from person to person and play a vital role in the selection of a credit card. You can choose a card best suitable for your needs from the list above.
+     </div>
+   </div>
+ </div>
+ <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+   <h5 itemprop="name">How many credit cards I can have?</h5>
+   <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+     <div itemprop="text">
+     You can have as many credit cards as you want. However don't apply for all credit cards in short span of time as it will impact your credit (CIBIL) score. Keeping a gap of 6 months for applying new credit card is a good strategy.
+   </div>
+ </div>
+</div>
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+ <h5 itemprop="name">Which bank is best for credit card in India?</h5>
+ <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+   <div itemprop="text">
+   HDFC Bank is currently the leader in credit card market of India. They provide wide range of credit cards suitable for your needs.
+   </div>
+ </div>
+</div>
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+ <h5 itemprop="name">Which is the most rewarding credit card in India?</h5>
+ <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+   <div itemprop="text">
+   HDFC Bank Infinia, Diners Club Black and Standard Chartered Ultimate provide best reward rate of 3.3% currently. American Express Membership Rewards Credit Card provides reward rate as high as 13.5% if you use it effectively.
+   </div>
+ </div>
+</div>
+</div>
 
 ### Bottomline
 
