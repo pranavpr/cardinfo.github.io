@@ -105,7 +105,7 @@ One advantage of using PaisaBazzar is that you can track the credit scores acros
  
 <div itemscope itemtype="https://schema.org/FAQPage">
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-  <h5 itemprop="name">Will my CIBIL Score reduce if after I access through any of the methods above?</h5>
+  <h5 itemprop="name">Will my CIBIL Score reduce after I access through any of the methods above?</h5>
   <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
     <div itemprop="text">
     No, your CIBIL score won't be impacted if you access your score through any of the methods listed above. CIBIL Score is impacted only when a financial institution accesses your score for approving a loan or credit card.
