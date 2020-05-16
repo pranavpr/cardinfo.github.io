@@ -4,7 +4,7 @@ title: HDFC Diners Club Black Credit Card Review
 date: 2019-07-22 00:15 +0530
 seo:
   date_modified: 2020-02-22 00:07 +0530
-categories: [HDFC, Reviews]
+categories: [HDFC, Credit Card Reviews]
 image: /assets/images/hdfc-diners-club-black-review.jpg
 product: HDFC Diners Club Black Credit Card
 ---

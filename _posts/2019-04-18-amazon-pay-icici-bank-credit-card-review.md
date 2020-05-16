@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazon Pay ICICI Bank Credit Card Review
-categories: [Reviews, ICICI]
+categories: [Credit Card Reviews, ICICI]
 image: /assets/images/amazon-pay-icici-bank-credit-card-review.jpg
 date: 2019-04-18 14:44 +0530
 product: Amazon Pay ICICI Bank Credit Card
@@ -9,6 +9,7 @@ product: Amazon Pay ICICI Bank Credit Card
 
 Amazon in collaboration with ICICI Bank launched Amazon Pay ICICI Bank Credit Card in October 2018. This card makes your shopping on [Amazon](https://l.cardinfo.in/amazon) more rewarding by providing a reward rate of up to 5% if you are a Amazon Prime member.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 

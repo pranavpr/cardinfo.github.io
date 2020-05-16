@@ -2,7 +2,7 @@
 layout: post
 title: Bank of Baroda Premier Credit Card Review
 date: 2020-02-15 10:24 +0530
-categories: [BOB, Reviews]
+categories: [BOB, Credit Card Reviews]
 image: /assets/images/bank-of-baroda-premier-credit-card-review.jpg
 product: Bank of Baroda Premier Credit Card
 ---
@@ -55,7 +55,7 @@ Bank of Baroda is providing 6 Months of Gaana Plus subscription if you apply for
 - Maximum cap on 5X reward points = 2,000 per month
 - Reward points can be redeemed for statement credit
 
-2.5% reward rate on travel, dining and international spends is good, however a limit of 2,000 per month is disappointing. Also note that Bank of Baroda charges 3.5% + GST (~ 4.23%) as foreign currency markup fee and hence the benefit of accelerated reward points on international spends is diminished. However one good thing about the reward points is that they can be redeemed for statement credit.
+  2.5% reward rate on travel, dining and international spends is good, however a limit of 2,000 per month is disappointing. Also note that Bank of Baroda charges 3.5% + GST (~ 4.23%) as foreign currency markup fee and hence the benefit of accelerated reward points on international spends is diminished. However one good thing about the reward points is that they can be redeemed for statement credit.
 
 #### Airport Lounge Access
 

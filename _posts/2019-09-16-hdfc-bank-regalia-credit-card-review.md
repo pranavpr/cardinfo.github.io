@@ -4,7 +4,7 @@ title: HDFC Bank Regalia Credit Card Review
 date: 2019-09-16 17:41 +0530
 seo:
   date_modified: 2019-12-22 11:15 +0530
-categories: [HDFC, Reviews]
+categories: [HDFC, Credit Card Reviews]
 image: /assets/images/hdfc-bank-regalia-credit-card-review.jpg
 product: HDFC Bank Regalia Credit Card
 ---

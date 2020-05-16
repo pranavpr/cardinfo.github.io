@@ -2,7 +2,7 @@
 layout: post
 title: 'IRCTC SBI Card Premier Credit Card Launched - Review'
 date: 2019-12-14 15:30 +0530
-categories: [SBI Card, Reviews]
+categories: [SBI Card, Credit Card Reviews]
 image: /assets/images/irctc-sbi-card-premier-credit-card-launched.jpg
 product: IRCTC SBI Card Premier Credit Card
 ---

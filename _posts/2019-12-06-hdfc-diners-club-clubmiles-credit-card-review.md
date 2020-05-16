@@ -2,7 +2,7 @@
 layout: post
 title: HDFC Diners Club ClubMiles Credit Card Review
 date: 2019-12-06 14:32 +0530
-categories: [HDFC, Reviews]
+categories: [HDFC, Credit Card Reviews]
 image: /assets/images/hdfc-bank-diners-club-clubmiles-credit-card-review.jpg
 product: HDFC Diners Club ClubMiles Credit Card
 ---

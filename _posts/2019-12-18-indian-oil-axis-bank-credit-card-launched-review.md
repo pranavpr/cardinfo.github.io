@@ -2,7 +2,7 @@
 layout: post
 title: Indian Oil Axis Bank Credit Card Launched - Review
 date: 2019-12-18 15:30 +0530
-categories: [Axis, Reviews]
+categories: [Axis, Credit Card Reviews]
 image: /assets/images/indian-oil-axis-bank-credit-card-launched.jpg
 product: Indian Oil Axis Bank Credit Card
 ---

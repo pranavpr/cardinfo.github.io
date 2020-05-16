@@ -2,7 +2,7 @@
 layout: post
 title: SBI SimplySAVE Credit Card Review
 date: 2019-11-10 12:29 +0530
-categories: [SBI Card, Reviews]
+categories: [SBI Card, Credit Card Reviews]
 image: /assets/images/sbi-simplysave-credit-card-review.jpg
 product: SBI SimplySAVE Credit Card
 ---

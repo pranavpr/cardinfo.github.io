@@ -1,0 +1,63 @@
+---
+title: 'Card Reviews'
+layout: default
+permalink: '/credit-card-reviews'
+description: Credit Card reviews by CardInfo.
+comments: false
+---
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <h1 class="font-weight-bold title h6 text-uppercase mb-4">
+        Credit Card Reviews
+      </h1>
+      {% assign sorted_categories = site.categories["Credit Card Reviews"] |
+      map: "categories" | sort %} {% assign uniq_sorted_categories =
+      sorted_categories | uniq %} {% for category in uniq_sorted_categories %}
+      {% if category != "Credit Card Reviews" %}
+      <h4
+        class="font-weight-bold spanborder text-capitalize"
+        id="{{ category | downcase | replace: ' ', '-'}}"
+      >
+        <span>{{ category }}</span>
+      </h4>
+
+      {% assign pages_list = site.categories[category] %} {% for post in
+      pages_list %} {% if post.title != null and post.categories contains
+      "Credit Card Reviews" %} {% include main-loop-card.html %} {% endif %} {%
+      endfor %} {% assign pages_list = nil %} {% assign group = nil %} {% endif
+      %} {% endfor %}
+    </div>
+
+    <div class="col-md-4">
+      <div class="d-none d-md-block pb-5">
+        <h4 class="font-weight-bold spanborder"><span>Categories</span></h4>
+        {% assign categories_list = uniq_sorted_categories %} {% if
+        categories_list.first[0] == null %} {% for category in categories_list
+        %} {% if category != "Credit Card Reviews" %}
+        <h2 class="mb-2 h6 font-weight-bold">
+          <a
+            class="text-dark"
+            href="{{
+              site.baseurl
+            }}/credit-card-reviews#{{ category | downcase | url_escape | strip | replace: ' ', '-' }}"
+            >{{ category | camelcase }}</a
+          >
+        </h2>
+        {% endif %} {% endfor %} {% else %} {% for category in categories_list
+        %} {% if category != "Credit Card Reviews" %}
+        <h2 class="mb-2 h6 font-weight-bold">
+          <a
+            class="text-dark"
+            href="{{
+              site.baseurl
+            }}/credit-card-reviews#{{ category | downcase |  url_escape | strip | replace: ' ', '-' }}"
+            >{{ category | camelcase }}</a
+          >
+        </h2>
+        {% endif %}{% endfor %} {% endif %} {% assign categories_list = nil %}
+      </div>
+    </div>
+  </div>
+</div>

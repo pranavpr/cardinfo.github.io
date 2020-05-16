@@ -2,7 +2,7 @@
 layout: post
 title: RBL Bank Popcorn Credit Card Review
 date: 2020-01-09 22:11 +0530
-categories: [RBL, Reviews]
+categories: [RBL, Credit Card Reviews]
 image: /assets/images/rbl-bank-popcorn-credit-card-review.jpg
 product: RBL Bank Popcorn Credit Card
 ---

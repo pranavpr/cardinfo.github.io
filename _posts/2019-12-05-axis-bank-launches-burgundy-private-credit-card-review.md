@@ -2,7 +2,7 @@
 layout: post
 title: Axis Bank launches Burgundy Private Credit Card - Review
 date: 2019-12-05 23:31 +0530
-categories: [Axis, Reviews]
+categories: [Axis, Credit Card Reviews]
 image: /assets/images/axis-bank-launches-burgundy-private-credit-card.jpg
 product: Axis Bank Burgundy Private Credit Card
 ---
@@ -13,6 +13,7 @@ Axis Bank has launched the Burgundy Private program for ultra rich individuals w
 
 Axis Bank Burgundy Private Credit Card comes in metal form factor with minimalistic design which gives it a premium look. This card is available on Visa Infinite platform and is enabled for contact-less transactions.
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -43,7 +44,7 @@ Axis Bank Burgundy Private Credit Card focuses more on convenience than rewards.
 - 1 reward point = Rs. 0.20
 - 15 reward points per Rs. 200 spent, 1.5% reward rate
 
-1.5% reward rate is little disappointing, but I believe, the targeted segment doesn't care much about reward points.
+  1.5% reward rate is little disappointing, but I believe, the targeted segment doesn't care much about reward points.
 
 #### Transaction Benefits
 

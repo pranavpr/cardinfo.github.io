@@ -2,7 +2,7 @@
 layout: post
 title: HDFC Bank Millennia Debit Card Review
 date: 2020-01-24 21:03 +0530
-categories: [HDFC, Reviews]
+categories: [HDFC, Credit Card Reviews]
 image: /assets/images/hdfc-millenia-debit-card-review.jpg
 product: HDFC Bank Millennia Debit Card
 ---

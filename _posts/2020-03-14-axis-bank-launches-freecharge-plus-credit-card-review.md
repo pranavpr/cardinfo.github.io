@@ -2,7 +2,7 @@
 layout: post
 title: Axis Bank launches Freecharge Plus Credit Card - Review
 date: 2020-03-14 15:48 +0530
-categories: [News, Axis]
+categories: [Credit Card Reviews, Axis]
 image: /assets/images/axis-bank-launches-freecharge-plus-credit-card.jpg
 product: Axis Bank Freecharge Plus Credit Card
 ---

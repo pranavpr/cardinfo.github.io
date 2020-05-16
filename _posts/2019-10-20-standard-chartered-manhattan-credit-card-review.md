@@ -2,7 +2,7 @@
 layout: post
 title: Standard Chartered Manhattan Credit Card Review
 date: 2019-10-20 19:53 +0530
-categories: [SC, Reviews]
+categories: [SC, Credit Card Reviews]
 image: /assets/images/standard-chartered-manhattan-credit-card-review.jpg
 product: Standard Chartered Manhattan Credit Card
 ---

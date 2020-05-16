@@ -2,7 +2,7 @@
 layout: post
 title: IndusInd Iconia American Express Credit Card Review
 date: 2020-01-19 16:28 +0530
-categories: [IndusInd, Reviews]
+categories: [IndusInd, Credit Card Reviews]
 image: /assets/images/indusind-iconia-amex-credit-card-review.jpg
 product: IndusInd Iconia American Express Credit Card
 ---

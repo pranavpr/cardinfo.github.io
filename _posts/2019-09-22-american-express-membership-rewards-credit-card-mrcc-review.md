@@ -4,7 +4,7 @@ title: American Express Membership Rewards Credit Card (MRCC) Review
 date: 2019-09-22 15:35 +0530
 seo:
   date_modified: 2020-03-01 21:25 +0530
-categories: [Amex, Reviews]
+categories: [Amex, Credit Card Reviews]
 image: /assets/images/american-express-membership-rewards-credit-card-review.jpg
 product: American Express Membership Rewards Credit Card
 ---

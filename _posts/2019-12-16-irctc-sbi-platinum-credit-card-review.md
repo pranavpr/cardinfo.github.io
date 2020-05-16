@@ -2,7 +2,7 @@
 layout: post
 title: IRCTC SBI Platinum Credit Card Review
 date: 2019-12-16 01:31 +0530
-categories: [SBI Card, Reviews]
+categories: [SBI Card, Credit Card Reviews]
 image: /assets/images/irctc-sbi-platinum-credit-card-review.jpg
 product: IRCTC SBI Platinum Credit Card
 ---

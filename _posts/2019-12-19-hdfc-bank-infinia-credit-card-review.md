@@ -4,7 +4,7 @@ title: HDFC Bank Infinia Credit Card Review
 date: 2019-12-19 13:17 +0530
 seo:
   date_modified: 2020-02-22 00:07 +0530
-categories: [HDFC, Reviews]
+categories: [HDFC, Credit Card Reviews]
 image: /assets/images/hdfc-infinia-credit-card-review.jpg
 product: HDFC Bank Infinia Credit Card
 ---

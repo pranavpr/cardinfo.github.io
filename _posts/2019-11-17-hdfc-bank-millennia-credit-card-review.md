@@ -2,7 +2,7 @@
 layout: post
 title: HDFC Bank Millennia Credit Card Review
 date: 2019-11-17 08:56 +0530
-categories: [HDFC, Reviews]
+categories: [HDFC, Credit Card Reviews]
 image: /assets/images/hdfc-bank-millennia-credit-card-review.jpg
 product: HDFC Bank Millennia Credit Card
 ---

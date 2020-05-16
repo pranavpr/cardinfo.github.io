@@ -2,7 +2,7 @@
 layout: post
 title: Yes First Exclusive Credit Card Review
 date: 2019-07-07 15:49 +0530
-categories: [Yes Bank, Reviews]
+categories: [Yes Bank, Credit Card Reviews]
 image: /assets/images/yes-first-exclusive-credit-card-review.jpg
 product: Yes First Exclusive Credit Card
 ---

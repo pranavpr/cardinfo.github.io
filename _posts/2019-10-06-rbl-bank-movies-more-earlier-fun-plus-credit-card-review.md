@@ -2,7 +2,7 @@
 layout: post
 title: RBL Bank Movies & More (earlier Fun Plus) Credit Card Review
 date: 2019-10-06 11:21 +0530
-categories: [RBL, Reviews]
+categories: [RBL, Credit Card Reviews]
 image: /assets/images/rbl-bank-movies-and-more-credit-card-review.jpg
 product: RBL Bank Movies & More Credit Card
 ---
