@@ -90,9 +90,9 @@
       </div>
     </div>
     {% endif %} {% endif %} {% assign maxRelatedCounter = maxRelatedCounter |
-    plus: 1 %} {% if maxRelatedCounter >= maxRelated %} {% break %} {% endif %}
-    {% assign postCount = postCount | plus: 1 %} {% endif %} {% endfor %} {% if
-    postCount == 0 or postCount == 1 or postCount == 2 or postCount == 3 %}
+    plus: 1 %} {% if maxRelatedCounter >= maxRelated %} {% assign done = true %} {% break %} {% endif %}
+    {% assign postCount = postCount | plus: 1 %} {% endif %} {% endfor %}{% if
+    postCount == 0 or postCount == 1 or postCount == 2 or postCount == 3 and done != true %}
       {% for post in site.posts %}
       {% if post.url != page.url %}
       {% if postCount == 0 %}
