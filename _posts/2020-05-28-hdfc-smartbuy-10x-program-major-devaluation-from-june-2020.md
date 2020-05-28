@@ -262,5 +262,7 @@ HDFC Bank, though has retained the 33% reward rate for premium credit cards like
 Diners Club and [Regalia](/hdfc-bank-regalia-credit-card-review/) variants of credit cards have been impacted most. Earlier these cards used to fetch 13% reward rate, but now they have been restricted to just 5%. The maximum cap of Rs. 2,000 on cashback per calendar month is a nail in the coffin. Certainly these cards have lost their sheen due to this wave of devaluation.
  
 The devaluation of SmartBuy 10X program was imminent owing to the high cost structure associated with it. The 13%-33% reward is not sustainable for long term and given that the current economical situation is not so great either due to COVID-19, this devaluation makes sense. However note that you still have time till the end of this month to utilize the older SmartBuy 10X program to squeeze out the maximum benefits.
- 
+
+**PS**: Thanks [Amit](https://cardinfo.in/hdfc-bank-infinia-credit-card-review/#commento-cb788e2c10ecbcf250e09d5b4e6497de7de3881dde1f4f47b37cfaef67845905) for sharing this information.
+
 _What do you think of this round of devaluation to SmartBuy 10X Program? Which category you're going to miss most for 10X reward points? Let me know by leaving a quick comment below._
