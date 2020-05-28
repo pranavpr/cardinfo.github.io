@@ -40,56 +40,56 @@ HDFC Bank's famous and most rewarding program, SmartBuy 10X Program, is slated f
          <td>2.5% cashback</td>
          <td>2.5% cashback</td>
          <td>5% cashback</td>
-         <td>10X RP</td>
+         <td>10X Reward Points</td>
       </tr>
       <tr>
          <td>Hotels</td>
          <td>2.5% cashback</td>
          <td>2.5% cashback</td>
          <td>5% cashback</td>
-         <td>10X RP</td>
+         <td>10X Reward Points</td>
       </tr>
       <tr>
          <td>Bus</td>
          <td>2.5% cashback</td>
          <td>2.5% cashback</td>
          <td>5% cashback</td>
-         <td>10X RP</td>
+         <td>10X Reward Points</td>
       </tr>
       <tr>
          <td>Instant Vouchers</td>
          <td>2.5% cashback</td>
          <td>2.5% cashback</td>
          <td>5% cashback</td>
-         <td>10X RP</td>
+         <td>10X Reward Points</td>
       </tr>
       <tr>
          <td>Rail&nbsp;</td>
          <td>2.5% cashback</td>
          <td>2.5% cashback</td>
          <td>5% cashback</td>
-         <td>5X RP</td>
+         <td>5X Reward Points</td>
       </tr>
       <tr>
          <td>Amazon</td>
          <td>2.5% cashback</td>
          <td>2.5% cashback</td>
          <td>5% cashback</td>
-         <td>5X RP</td>
+         <td>5X Reward Points</td>
       </tr>
       <tr>
          <td>Flipkart</td>
          <td>1% cashback</td>
          <td>N/A</td>
          <td>1% cashback</td>
-         <td>3X RP</td>
+         <td>3X Reward Points</td>
       </tr>
       <tr>
          <td>Compare &amp; Shop</td>
          <td>1% cashback</td>
          <td>N/A</td>
          <td>1% cashback</td>
-         <td>3X RP</td>
+         <td>3X Reward Points</td>
       </tr>
    </tbody>
   </table>
