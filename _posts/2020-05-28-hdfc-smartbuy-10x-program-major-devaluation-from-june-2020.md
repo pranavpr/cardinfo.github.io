@@ -137,7 +137,7 @@ HDFC Bank's famous and most rewarding program, SmartBuy 10X Program, is slated f
 - **Maximum Capping Reset**: Every calendar month
 - **Excluded Cards**: Corporate Credit Cards, Commercial Credit Cards, Dealer Credit Cards, Distributor Credit Cards, Value Plus Credit Cards, Virtual cards, Jet Privilege Debit card and Times Points Debit card
 - **Fulfillment**: Reward Points or cash back will be posted within 90 working days from the last date of transaction month
-- **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/15278)
+- **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/15282)
 
 ### What changed?
 
@@ -263,6 +263,6 @@ Diners Club and [Regalia](/hdfc-bank-regalia-credit-card-review/) variants of cr
  
 The devaluation of SmartBuy 10X program was imminent owing to the high cost structure associated with it. The 13%-33% reward is not sustainable for long term and given that the current economical situation is not so great either due to COVID-19, this devaluation makes sense. However note that you still have time till the end of this month to utilize the older SmartBuy 10X program to squeeze out the maximum benefits.
 
-**PS**: Thanks [Amit](https://cardinfo.in/hdfc-bank-infinia-credit-card-review/#commento-cb788e2c10ecbcf250e09d5b4e6497de7de3881dde1f4f47b37cfaef67845905) for sharing this information.
+**PS**: Thanks [Amit](https://cardinfo.in/hdfc-bank-infinia-credit-card-review/#commento-cb788e2c10ecbcf250e09d5b4e6497de7de3881dde1f4f47b37cfaef67845905) for sharing this information. Thanks [Pranav](https://cardinfo.in/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/#commento-c3167805f0638befecd2b6f70721d2d81fa51ecec3c084e652c8f055cc377eb1) for providing the updated URL for T&C.
 
 _What do you think of this round of devaluation to SmartBuy 10X Program? Which category you're going to miss most for 10X reward points? Let me know by leaving a quick comment below._
