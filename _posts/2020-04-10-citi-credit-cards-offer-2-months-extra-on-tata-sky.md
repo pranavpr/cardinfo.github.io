@@ -2,7 +2,7 @@
 layout: post
 title: Citi Credit Cards offer 2 months extra on Tata Sky
 date: 2020-04-10 23:41 +0530
-categories: [Card Offers, CITI]
+categories: [Card Offers, Citi]
 image: /assets/images/citi-credit-cards-tata-sky-offer.jpg
 ---
 
