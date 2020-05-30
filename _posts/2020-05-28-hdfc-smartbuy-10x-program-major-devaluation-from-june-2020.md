@@ -143,7 +143,7 @@ HDFC Bank's famous and most rewarding program, SmartBuy 10X Program, is slated f
 - **Maximum Capping Reset**: Every calendar month
 - **Excluded Cards**: Corporate Credit Cards, Commercial Credit Cards, Dealer Credit Cards, Distributor Credit Cards, Value Plus Credit Cards, Virtual cards, Jet Privilege Debit card and Times Points Debit card
 - **Fulfillment**: Reward Points or cash back will be posted within 90 working days from the last date of transaction month
-- **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/15282)
+- **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/15282){:target="\_blank"}
 
 ### What changed?
 
