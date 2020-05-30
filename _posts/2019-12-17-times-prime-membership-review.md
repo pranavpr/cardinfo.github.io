@@ -48,20 +48,27 @@ Let's look into each of these in detail.
 Times Prime Membership provides complimentary memberships to many premium subscription programs. The list is dynamic and at the time of writing this article, following memberships were included:
 
 - **Gourmet Passport by DineOut:** Gourmet Passport by DineOut provides 1+1 on buffets even at 5 star restaurants which is quite amusing. Plus one gets 25% back as DineOut Cash on settling the restaurant bill using DineOut app. Times Prime Membership provides a 1 year subscription to this program which I feel is the best offering of this program.
+- **8PASS PRO from Box8:** 8PASS PRO provides 25% off, no minimum order criteria and free priority delivery on Box8. Times Prime Membership provides 6 Months subscription up to 20 orders to 8PASS PRO which is a decent value proposition.
+- **Zee5**: Zee5 subscription enables you to watch premium content on Zee5 app. Times Prime comes with 6 months membership of Zee5 to keep you entertained.
+- **MUBI**: MUBI is subscription-based streaming OTT service which offers online streaming of a curated selection of films just like Netflix. However their content catalogue is no where near Netflix. Times Prime provides 3 months access to MUBI with its membership.
 - **Gaana Plus:** Gaana Plus provides unlimited downloads, High Definition streaming and Ad-free experience to music. Times Prime Membership provides a 1 year subscription to Gaana Plus which is awesome and my second favorite offering from this program.
 - **TOI+:** TOI+ provides access to exclusive content and ad-free experience to Times of India digital edition for an year. Again this is a good offering and lets you read news without distractions.
+- **OYO Wizard**: Times Prime bundles 6 months of OYO Wizard Blue Membership which enables you to save up to 10% on OYO Rooms.
 - **Fitcoach:** Fitcoach enables you to workout from your home at your convenience. Times Prime is bundled with 3 month complimentary membership of Fitcoach.
 
-Out of the above, I feel only Gourmet Passport and Gaana Plus subscription is worthwhile. Rest are just okayish and are there for name sake. To know the latest subscription offerings from Time Prime Membership, check [this](https://www.timesprime.com/membership) webpage.
+Out of the above, I feel only Gourmet Passport, Zee5, Gaana Plus subscriptions are worthwhile. Rest are just okayish and are there for name sake. To know the latest subscription offerings from Time Prime Membership, check [this](https://www.timesprime.com/membership) webpage.
 
 #### Exclusive Offers
 
 Times Prime Membership provides exclusive coupons for many partner merchants enabling you to get great deals. The offers are again dynamic in nature and at the time of writing this article, some of the notable offers are listed below:
 
+- Uber: 25% discount up to Rs. 50 on Uber premier riders once in a month
+- Eatfit: Rs. 50 discount on food and grocery up to two orders per month
 - [Myntra](https://l.cardinfo.in/myntra): 15% discount up to Rs. 750 on minimum order of Rs. 2,000
 - 1mg: 25% discount on medicines every month
 - Zoomcar: 30% off on every booking
 - Yatra: Discount of Rs. 3,000 on international flights booking of minimum Rs. 30,000 and 25% off upto Rs. 3,000 on hotel bookings
+- PVR: 4 F&B vouchers worth Rs. 1,000 in a year
 - WorldWide Media: Unlimited access to all magazines from WorldWide Media like Femina, Filmfare etc. and ability to download them in PDF format.
 
 You can check the full list of current offers [here](https://www.timesprime.com/offers). The offers bucketed with Times Prime Membership are great.
@@ -81,16 +88,16 @@ I was reaping the benefits of Times Prime Membership for a year. Times Prime Mem
 
 ### Drawbacks
 
-Removal of many membership programs like Swiggy Super, BB Star and removal of monthly discount offers on Bigbasket made me not to renew the membership. The only worthwhile subscriptions remaining now are Gourmet Passport and Gaana Plus. Given the conditions prevailing now, I highly doubt anyone can utilize the Gourmet Passport benefits. Gaana Plus is available at a significantly lower rate and it doesn't make any sense to obtain that via Times Prime route. Times Prime should introduce new memberships and offers to make this program great and relevant again.
+Removal of many membership programs like Swiggy Super, BB Star and removal of monthly discount offers on Bigbasket made me not to renew the membership. The only worthwhile memberships remaining now are Gourmet Passport, Zee5 and Gaana Plus. Given the conditions prevailing now, I highly doubt anyone can utilize the Gourmet Passport benefits. Times Prime should introduce new memberships and offers to make this program great and relevant again.
 
 ### Verdict
 
-Times Prime Membership is one of its kind and is a great initiative on consolidating the multiple memberships. It certainly removes the hassle of managing multiple accounts and subscriptions making members' life simpler. However removal of many fantastic subscriptions like Swiggy Super, BB Star has made this program less attractive. Absence of lucrative partner discounts and experience offers has rendered this program unattractive. Times Prime should look out for new partnerships and introduce new memberships and offers to make this program great again. Until then, I am downgrading the rating from 4.5 to 3.
+Times Prime Membership is one of its kind and is a great initiative on consolidating the multiple memberships. It certainly removes the hassle of managing multiple accounts and subscriptions making members' life simpler. However removal of many fantastic subscriptions like Swiggy Super, BB Star has made this program less attractive. Absence of lucrative partner discounts and experience offers has pushed this program on back foot. Times Prime should look out for new partnerships and introduce new memberships and offers to make this program great again. Until then, I am downgrading the rating from 4.5 to 4.
 
-{% include star-rating-single.html rating=3.0 %}
+{% include star-rating-single.html rating=4.0 %}
 
 If you're still interested in getting Times Prime membership, use coupon code **TP003** after clicking on URL below to get a discount of Rs. 50.
 
 <a href="https://l.cardinfo.in/timesprime" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Join Times Prime</a>
 
-_What do you think of Times Prime membership program? Let me know your experience in comments below._
+_What do you think of the Times Prime membership program? Let me know your experience in comments below._
