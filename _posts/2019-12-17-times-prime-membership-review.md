@@ -96,7 +96,7 @@ Times Prime Membership is one of its kind and is a great initiative on consolida
 
 {% include star-rating-single.html rating=4.0 %}
 
-If you're still interested in getting Times Prime membership, use coupon code **TP003** after clicking on URL below to get a discount of Rs. 50.
+If you're interested in getting Times Prime membership, use coupon code **TP003** after clicking on URL below to get a discount of Rs. 50.
 
 <a href="https://l.cardinfo.in/timesprime" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2" rel="noopener"><i class="ci-pen"></i> Join Times Prime</a>
 
