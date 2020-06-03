@@ -19,8 +19,8 @@ American Express (Amex) India just rolled out the Double Rewards offer on Americ
 - **Type**: Available for all Amex Platinum (Metal) Card, no enrollment required
 - **Fulfillment**: Bonus reward points would be credited along with normal points
 - **Other T&C**:
-- The Offer is applicable only on American Express Platinum (Metal) Cards issued in India.
-- Not valid on American Express Corporate Cards.
+  - The Offer is applicable only on American Express Platinum (Metal) Cards issued in India.
+  - Not valid on American Express Corporate Cards.
 - **Source:** [Email](http://f.email.americanexpress.com/i/45/268935401/IND_ICSS_Platinum2XRewards_centraltemplate_02_16Apr2020_105101_Amex_TnCs_Plat.pdf)
 
 #### Double Reward Points Offer
