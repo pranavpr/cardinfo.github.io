@@ -8,6 +8,10 @@ image: /assets/images/hdfc-bank-credit-cards-spend-based-targeted-offer-june-202
 
 HDFC Bank just sent out spend based targeted offers to their card holders. Under this offer, HDFC Bank is providing vouchers of Flipkart, Amazon, Big Bazaar, Big Basket and Myntra on meeting the spend target. To get these vouchers, card holders need to spend the threshold amount communicated by the HDFC Bank in the email. Let's delve into the details of the offer.
 
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ### Offer Details
 
 - **Offer**: Spend Rs. X to get vouchers worth Rs. Y
