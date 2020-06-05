@@ -17,7 +17,7 @@ HDFC Bank just sent out spend based targeted offers to their card holders. Under
 - **Type:** Targeted, not valid if communication is not received from HDFC Bank
 - **Excluded Cards:** Corporate Cards, Commercial Cards, Dealer Cards, Distributor Cards, Business Cards, Value Plus Cards and Staff Cards
 - **Fulfillment**: Vouchers will be sent to eligible customers by 30th September 2020
-- **Source**: Email, [Website](https://offers.smartbuy.hdfcbank.com/offer_details/15296)
+- **Source**: Email, [Website](https://offers.smartbuy.hdfcbank.com/offer_details/15296){:target="\_blank"}
 
 ### FAQs
 
@@ -59,7 +59,7 @@ HDFC Bank just sent out spend based targeted offers to their card holders. Under
  
 ### Bottomline
  
-I received this offer on my Diners Club Black which I have stopped using after receiving Infinia. I received a spend target of Rs. 21,000 for a voucher of Rs. 1,000. Some users reported a spend target of Rs. 64,000 for a voucher worth Rs. 2,000 on Infinia credit card.
+I received this offer on my [Diners Club Black](/hdfc-diners-club-black-credit-card-review/){:target="\_blank"} which I have stopped using after receiving [Infinia](/hdfc-bank-infinia-credit-card-upgrade-experience/){:target="\_blank"}. I received a spend target of Rs. 21,000 for a voucher of Rs. 1,000. Some users reported a spend target of Rs. 64,000 for a voucher worth Rs. 2,000 on [Infinia credit card](/hdfc-bank-infinia-credit-card-review/){:target="\_blank"}.
  
 Overall it's a nice offer and, in my case, it translates to an incremental reward rate of 4.76% making the overall reward rate around 8% which is amazing. I am definitely going to utilize this offer to maximize the benefits.
  
