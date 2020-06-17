@@ -358,7 +358,7 @@ IndusInd Bank Signature Exclusive Debit Card is a hidden gem with no forex marku
 
 ### 22. IndusInd Bank Pioneer World Debit Card
 
-{% include image.html image="indusind-bank-pioneer-world-debit-card-banner.jpg" alt="IndusInd Bank Pioneer World Debit Card" class="cc-center mb-3" %}
+{% include image.html image="indusind-bank-pioneer-world-debit-card.jpg" alt="IndusInd Bank Pioneer World Debit Card" class="cc-center mb-3" %}
 
 - Limit:
   - Domestic: 2 per quarter
