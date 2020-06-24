@@ -8,7 +8,7 @@ categories: [HDFC, News]
 image: /assets/images/hdfc-bank-infinia-diners-club-black-smartbuy-restrictions.jpg
 ---
 
-HDFC Bank just announced new restrictions on their super premium credit cards, Infinia and Diners Club Black, for redeeming rewards on SmartBuy portal for flight, hotels & travel experiences. In the email sent to the customers, HDFC not only restricted the amount of points that can be redeemed for flight, hotels & travel experiences, but also introduced dynamic convenience fee for flight bookings. Let's look into the details to understand the impact better.
+HDFC Bank just announced new restrictions on their super premium credit cards, [Infinia](/hdfc-bank-infinia-credit-card-review/){:target="\_blank"} and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/){:target="\_blank"}, for redeeming rewards on SmartBuy portal for flight, hotels & travel experiences. In the email sent to the customers, HDFC not only restricted the amount of points that can be redeemed for flight, hotels & travel experiences, but also introduced dynamic convenience fee for flight bookings. Let's look into the details to understand the impact better.
 
 <!-- prettier-ignore -->
 * TOC
@@ -20,7 +20,7 @@ Starting 25 July 2020, you can redeem only 70% of booking value through Reward P
 
 So if you are booking a flight worth Rs. 10,000, you can utilize only 7,000 reward points (~ Rs. 7,000) and rest Rs. 3,000 needs to be paid via Credit Card.
 
-However there is a workaround if you want to book flights only via reward points. You can convert reward points to Air Miles and use those Air Miles for booking flight. This is sometimes better than directly redeeming rewards points at SmartBuy portal for flights. Below table summarizes the conversion ratio from reward points to air miles for Infinia and Diners Club Black.
+However there is a workaround if you want to book flights only via reward points. You can convert reward points to Air Miles and use those Air Miles for booking flight. This is sometimes better than directly redeeming rewards points at SmartBuy portal for flights. Below table summarizes the conversion ratio from reward points to air miles for [Infinia](/hdfc-bank-infinia-credit-card-review/){:target="\_blank"} and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/){:target="\_blank"}.
 
 <table class="table" style="display: block;overflow-x: auto;">
  <thead class="thead-dark">
@@ -87,8 +87,8 @@ HDFC Bank has also introduced a dynamic convenience fee for flight bookings at S
  
 ### Bottomline
  
-HDFC Bank introduced similar [restriction on HDFC Bank Regalia and Diners ClubMiles Credit Cards](new-restriction-on-hdfc-bank-regalia-and-diners-clubmiles-credit-card-rewards-redemption){:target="\_blank"} in November last year. Now HDFC Bank has introduced the same restriction for Infinia and Diners Club Black Credit Cards. I was neither sure at that time about the rationale behind restricting the redemption of reward points to 70% for flights and hotel booking, nor I am now. I wish HDFC Bank should introduce more Air Miles partners for Infinia and Diners Club Black to provide more options to customers.
+HDFC Bank introduced similar [restriction on HDFC Bank Regalia and Diners ClubMiles Credit Cards](new-restriction-on-hdfc-bank-regalia-and-diners-clubmiles-credit-card-rewards-redemption){:target="\_blank"} in November last year. Now HDFC Bank has introduced the same restriction for [Infinia](/hdfc-bank-infinia-credit-card-review/){:target="\_blank"} and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/){:target="\_blank"} Credit Cards. I was neither sure at that time about the rationale behind restricting the redemption of reward points to 70% for flights and hotel booking, nor I am now. I wish HDFC Bank should introduce more Air Miles partners for Infinia and Diners Club Black to provide more options to customers.
  
-Also dynamic convenience fee is really a bad move and it seems HDFC Bank is trying really hard to cut down the costs. Fixed convenience fee was one of the reasons I used to book flights on SmartBuy even after hitting my monthly SmartBuy 10X cap. I wish HDFC Bank should have continued with this for a little longer.
+Also dynamic convenience fee is really a bad move and it seems HDFC Bank is trying really hard to cut down the costs. Fixed convenience fee was one of the reasons I used to book flights on SmartBuy even after hitting my monthly SmartBuy 10X cap. I wish HDFC Bank should have continued with this for a little longer, especially for super premium credit cards.
  
 _What are your views on these new restrictions by HDFC Bank on redemption of reward points for flights and hotel booking? Let me know by leaving a quick comment below._
