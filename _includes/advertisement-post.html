@@ -1,4 +1,5 @@
-{% assign ad_pos = content | number_of_words | modulo: 3 %} {% if ad_pos == 0 %}
+{% assign ad_pos = content | number_of_words | modulo: 4 %} {% if ad_pos == 0 %}
 {% include advertisement-post-citi-cashback.html %} {% endif %}{% if ad_pos == 2
 %} {% include advertisement-post-citi-rewards.html %} {% endif %} {% if ad_pos
-== 1 %} {% include advertisement-post-citi-indian-oil.html %} {% endif %}
+== 1 %} {% include advertisement-post-citi-indian-oil.html %} {% endif %}{% if
+ad_pos == 3 %} {% include advertisement-post-sbi-simplyclick.html %} {% endif %}
