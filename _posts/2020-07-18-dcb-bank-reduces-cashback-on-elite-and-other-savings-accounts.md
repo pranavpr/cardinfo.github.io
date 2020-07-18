@@ -63,4 +63,4 @@ Financial institutions are struggling with slowdown caused due to COVID19 and al
  
 I had a [DCB Elite Savings Account](/dcb-elite-savings-account-review-and-experience/){:target="\_blank"} and I used to settle my credit card bills using the DCB Cashback Debit Card on CRED to earn the cashback. However, when CRED stopped accepting Debit Cards for amounts less than Rs. 1 Lakh, I started utilizing DCB Cashback Debit Card for Mutual Funds purchase to enjoy 1.6% cashback. However the reduction in reward rate to 0.5% has really made me rethink this strategy. Maybe I will close my relationship with them as 0.5% cashback is really not worth the hassle of maintaining the account.
  
-_What are your views on this devaluation on DCB Bank Savings Accounts? What are you planning to do with your savings account with DCB Bank? What's going to be your alternate strategy? Let me know in comments below._
+_What are your views on this devaluation on DCB Bank Savings Accounts? What are you planning to do with your savings account with DCB Bank? What's going to be your new strategy? Let me know in the comments below._
