@@ -3,7 +3,7 @@ layout: post
 title: 'HDFC SmartBuy 10X Program: Major devaluation from June 2020'
 date: 2020-05-28 13:40 +0530
 seo:
-  date_modified: 2020-05-30 13:00 +0530
+  date_modified: 2020-08-01 14:00 +0530
 categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-bank-smartbuy-10x-devaluaion-june-2020.jpg
 ---
