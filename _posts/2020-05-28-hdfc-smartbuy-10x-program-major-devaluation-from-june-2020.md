@@ -95,7 +95,7 @@ HDFC Bank's famous and most rewarding program, SmartBuy 10X Program, is slated f
       </tr>
    </tbody>
   </table>
-- **Period**: 1 June 2020 to 30 June 2020
+- **Period**: 1 June 2020 to ~~30 June 2020~~ 31 August 2020
 - **Maximum Cap**: Maximum cap applicable per calendar month is tabulated below:
   <table width="100%" border="1" cellspacing="0" cellpadding="5" style="border: 1px #dee2e6; border-collapse: collapse; margin-top: 2rem; margin-bottom: 2rem;display: block;overflow-x: auto;">
   <thead bgcolor="#03a87c">
