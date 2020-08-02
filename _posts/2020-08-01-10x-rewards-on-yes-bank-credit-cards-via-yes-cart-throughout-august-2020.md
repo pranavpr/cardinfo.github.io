@@ -16,10 +16,10 @@ Yes Bank is giving 10X reward points on spends done through Yes Cart on partner 
   - Yes Private
   - Yes First Exclusive
   - Yes First Preferred
-  - Yes First Prima
+  - Yes Prima
 - **Maximum Reward Points**:
   - Yes Private: 2,500
-  - Yes First Exclusive, Yes First Preferred, Yes First Prima: 10,000
+  - Yes First Exclusive, Yes First Preferred, Yes Prima: 10,000
 - **Fulfillment**: Bonus reward points will be credited within 90 working days from the offer end date
 - **Other T&C**:
   - Not eligible on purchase of gold, jewelry, gift cards, bill payments, wallet recharge and flight bookings on e-comm merchants
