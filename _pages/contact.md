@@ -50,7 +50,7 @@ function submitForm() {
                         var result = JSON.parse(request.responseText);
                         document.getElementById('send').disabled = false;
                         document.getElementById('send').innerHTML = "Send";
-                        document.getElementById("alert").innerHTML = '<div class="alert alert-success alert-dismissible fade show" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button><span class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"><i class="ci-bullhorn"></i></span>' + result.message + '</div>''
+                        document.getElementById("alert").innerHTML = '<div class="alert alert-success alert-dismissible fade show" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button><span class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"><i class="ci-bullhorn"></i></span>' + result.message + '</div>';
                         if(result.success) {
                             document.getElementById('comment_form').reset();
                         }
