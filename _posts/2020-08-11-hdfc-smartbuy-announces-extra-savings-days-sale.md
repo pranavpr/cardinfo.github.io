@@ -57,7 +57,7 @@ HDFC Bank announced extra savings days sale on [SmartBuy](https://offers.smartbu
    </tbody>
   </table>
 - **Period**: 12th August 2020 to 14th August 2020
-- **Eligibility**: Available on all HDFC Bank debit and credit cards except business cards
+- **Eligibility**: Available on all HDFC Bank debit and credit cards except corporate cards
 - **Fulfillment**: SmartBuy vouchers will be sent to eligible card members within 90 working days from the offer end date
 - **Other T&C**:
 - Applicable only on full payment via card
