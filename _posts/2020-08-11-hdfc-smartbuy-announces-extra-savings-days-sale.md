@@ -69,4 +69,6 @@ HDFC Bank announced extra savings days sale on [SmartBuy](https://offers.smartbu
 
 This is a terrific offer from HDFC Bank which enables you to get extra 10% discount over and above [SmartBuy 10X program](https://cardinfo.in/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/){:target="\_blank"}. With this, the overall reward rate for travel and instant vouchers pushes to 43% (33% SmartBuy 10X Program + 10% this offer) for [Infinia](/hdfc-bank-infinia-credit-card-review/) and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/) credit cards which is quite amazing. However the low limit of discount up to Rs. 500 is a huge let down and kills all the joy. I am definitely going to utilize this offer for purchasing instant vouchers on SmartBuy to get the extra benefit.
 
+**PS:** Thanks [Abin](https://cardinfo.in/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/#commento-627031932838a95d925adc5a67f2b8a247f5479cd9feee96b944b613ec85b9b7){:target="\_blank"} for sharing the offer T&C.
+
 _Are you excited about this offer from HDFC Bank? Which all categories you're planning to spend on SmartBuy to utilize this offer? Let me know in comments below?_
