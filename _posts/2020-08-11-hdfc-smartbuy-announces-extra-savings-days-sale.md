@@ -60,9 +60,9 @@ HDFC Bank announced extra savings days sale on [SmartBuy](https://offers.smartbu
 - **Eligibility**: Available on all HDFC Bank debit and credit cards except corporate cards
 - **Fulfillment**: SmartBuy vouchers will be sent to eligible card members within 90 working days from the offer end date
 - **Other T&C**:
-- Applicable only on full payment via card
-- Also applicable on credit and debit card Easy EMI transactions for Flights/Hotels/Bus/Trains/Instant Vouchers
-- Offer is applicable on Pay with PayZapp option too.
+  - Applicable only on full payment via card
+  - Also applicable on credit and debit card Easy EMI transactions for Flights/Hotels/Bus/Trains/Instant Vouchers
+  - Offer is applicable on Pay with PayZapp option too.
 - **Source**: [Website](https://offers.smartbuy.hdfcbank.com/offer_details/15491){:target="\_blank"}
 
 ### Bottomline
