@@ -8,6 +8,10 @@ image: /assets/images/hsbc-online-spends-offer.jpg
 
 HSBC rolled out a targeted offer on their credit cards for online spends. Under this offer, eligible card holders will get Amazon vouchers on meeting the spending target. Let dig deep in the details of this offer.
 
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ### Offer Details
 
 - **Offer:** Amazon vouchers on online spends using HSBC Credit Cards

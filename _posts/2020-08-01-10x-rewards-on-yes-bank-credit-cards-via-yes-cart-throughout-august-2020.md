@@ -8,6 +8,10 @@ image: /assets/images/10x-rewards-on-yes-cart-august-2020.jpg
 
 Yes Bank is giving 10X reward points on spends done through Yes Cart on partner merchants. The partner merchants include [Flipkart](https://l.cardinfo.in/flipkart){:target="\_blank"}, [Amazon](https://l.cardinfo.in/amazon){:target="\_blank"}, [Myntra](https://l.cardinfo.in/myntra){:target="\_blank"}, [TataCLIQ](https://l.cardinfo.in/tatacliq){:target="\_blank"}, [Cleartrip](https://l.cardinfo.in/cleartrip){:target="\_blank"}, Yatra and Unimoni. Let's dive into the details of this offer to know more.
 
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ### Offer Details
 
 - **Offer**: 10X reward points on Yes Bank credit cards on spends made using [Yes Cart](https://yescart.yesbank.in/){:target="\_blank"}
