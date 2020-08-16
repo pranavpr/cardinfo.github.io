@@ -2,7 +2,7 @@
 layout: post
 title: 'Amex spends based offer: Amazon vouchers up for grabs'
 date: 2020-08-16 13:26 +0530
-categories: [HDFC, Card Offers]
+categories: [Amex, Card Offers]
 image: /assets/images/amex-offer-amazon-vouchers-up-for-grabs.jpg
 ---
 
