@@ -95,7 +95,7 @@ HDFC Bank's famous and most rewarding program, SmartBuy 10X Program, is slated f
       </tr>
    </tbody>
   </table>
-- **Period**: 1 June 2020 to ~~30 June 2020~~ 31 August 2020
+- **Period**: 1 June 2020 to ~~31 August 2020~~ 30 September 2020
 - **Maximum Cap**: Maximum cap applicable per calendar month is tabulated below:
   <table width="100%" border="1" cellspacing="0" cellpadding="5" style="border: 1px #dee2e6; border-collapse: collapse; margin-top: 2rem; margin-bottom: 2rem;display: block;overflow-x: auto;">
   <thead bgcolor="#03a87c">
@@ -147,7 +147,7 @@ HDFC Bank's famous and most rewarding program, SmartBuy 10X Program, is slated f
 
 ### What changed?
 
-The new SmartBuy 10X Program brings major changes to the structure of the program in comparison to [previous](/hdfc-bank-10x-rewards-program-february-2020-update/) one. Let's analyze the impact on each credit/debit card category in detail to understand more.
+The new SmartBuy 10X Program brings major changes to the structure of the program in comparison to [previous](/hdfc-bank-10x-rewards-program-february-2020-update/){:target="\_blank"} one. Let's analyze the impact on each credit/debit card category in detail to understand more.
 
 #### HDFC Bank Infinia & Diners Club Black Credit Cards
 
@@ -193,7 +193,7 @@ Not only the reward rate and scope of earning has been reduced, but the maximum 
  
 Earlier HDFC Diners Club and Regalia Credit Cards used to get 10X reward points. However now these cards will not earn any reward points, but will earn cashback ranging from 1% to 5%. Earlier the reward rate, with 10X reward points on these cards, was around 13%. With this change, there is a reduction of 61%-92% in reward rate which is huge.
 
-Also the maximum cashback one per calendar month has been restricted to Rs. 2,000 for Diners Club Privilege and Regalia Credit Cards. Other Diners Club Credit Cards like [ClubMiles](/hdfc-diners-club-clubmiles-credit-card-review/) / Premium / Rewardz and Regalia First will earn just Rs. 1,000 maximum cashback per month which is a steep devaluation.
+Also the maximum cashback one per calendar month has been restricted to Rs. 2,000 for Diners Club Privilege and Regalia Credit Cards. Other Diners Club Credit Cards like [ClubMiles](/hdfc-diners-club-clubmiles-credit-card-review/){:target="\_blank"} / Premium / Rewardz and Regalia First will earn just Rs. 1,000 maximum cashback per month which is a steep devaluation.
 
 <table width="100%" border="1" cellspacing="0" cellpadding="5" style="border: 1px #dee2e6; border-collapse: collapse; margin-top: 2rem; margin-bottom: 2rem;display: block;overflow-x: auto;">
 <thead bgcolor="#03a87c" style="color: #ffffff;font-weight: bold;">
@@ -279,9 +279,9 @@ For other HDFC Bank Credit and Debit Cards, there has been comparatively less im
  
 ### Bottomline
  
-HDFC Bank, though has retained the 33% reward rate for premium credit cards like [Infinia](/hdfc-bank-infinia-credit-card-review/) and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/), the scope to earn more reward points has been reduced significantly by restricting the categories. Amazon and Flipkart, which were used most frequently for earning 10X rewards, have now been throttled to 5X and 3X respectively which is the major disappointment.
+HDFC Bank, though has retained the 33% reward rate for premium credit cards like [Infinia](/hdfc-bank-infinia-credit-card-review/){:target="\_blank"} and [Diners Club Black](/hdfc-diners-club-black-credit-card-review/){:target="\_blank"}, the scope to earn more reward points has been reduced significantly by restricting the categories. Amazon and Flipkart, which were used most frequently for earning 10X rewards, have now been throttled to 5X and 3X respectively which is the major disappointment.
  
-Diners Club and [Regalia](/hdfc-bank-regalia-credit-card-review/) variants of credit cards have been impacted most. Earlier [Diners Club Privilege](/hdfc-bank-launches-diners-club-privilege-credit-card-review/) and [HDFC Regalia](/hdfc-bank-regalia-credit-card-review/) credit cards used to fetch 13% reward rate, but now they have been restricted to just 5%. The maximum cap of Rs. 2,000 on cashback per calendar month is a nail in the coffin. Also other Diners Club Cards and Regalia First Card, which used to fetch 10X reward points, will now earn cashbback limited to Rs. 1,000 per month just like other ordinary cards. Certainly these cards have lost their sheen in this wave of devaluation.
+Diners Club and [Regalia](/hdfc-bank-regalia-credit-card-review/){:target="\_blank"} variants of credit cards have been impacted most. Earlier [Diners Club Privilege](/hdfc-bank-launches-diners-club-privilege-credit-card-review/){:target="\_blank"} and [HDFC Regalia](/hdfc-bank-regalia-credit-card-review/){:target="\_blank"} credit cards used to fetch 13% reward rate, but now they have been restricted to just 5%. The maximum cap of Rs. 2,000 on cashback per calendar month is a nail in the coffin. Also other Diners Club Cards and Regalia First Card, which used to fetch 10X reward points, will now earn cashbback limited to Rs. 1,000 per month just like other ordinary cards. Certainly these cards have lost their sheen in this wave of devaluation.
  
 The devaluation of SmartBuy 10X program was imminent owing to the high cost structure associated with it. The 13%-33% reward is not sustainable for long term and given that the current economical situation is not so great either due to COVID-19, this devaluation makes sense. However note that you still have time till the end of this month to utilize the older SmartBuy 10X program to squeeze out the maximum benefits.
 
