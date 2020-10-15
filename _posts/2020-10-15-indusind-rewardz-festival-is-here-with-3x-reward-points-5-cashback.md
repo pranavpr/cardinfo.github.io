@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IndusInd Rewardz Festival is here with 3X reward points & 5% cashback
-date: 2020-10-15 12:58 +0100
+date: 2020-10-15 12:59 +0100
 categories: [IndusInd, Card Offers]
 image: /assets/images/indusind-rewardz-festival-2020.jpg
 ---
