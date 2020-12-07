@@ -6,7 +6,7 @@ categories: [Amex, Card Offers]
 image: /assets/images/amex-shop-small-offer-december-2020.jpg
 ---
 
-American Express (Amex) rolled out the Shop Small offer wherein it's offering 50% cashback on spends at Small Business. Under this offer Amex card members can get cashbask up to Rs. 1,00 during the offer period. Let's look into the details of this offer to know more.
+American Express (Amex) rolled out the Shop Small offer wherein it's offering 50% cashback on spends at Small Business. Under this offer Amex card members can get cashbask up to Rs. 1,500 during the offer period. Let's look into the details of this offer to know more.
 
 <!-- prettier-ignore -->
 * TOC
@@ -45,7 +45,7 @@ American Express (Amex) rolled out the Shop Small offer wherein it's offering 50
    </div>
 </div>
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-   <h5 itemprop="name">Which merchants are part of this offer</h5>
+   <h5 itemprop="name">Which merchants are part of this offer?</h5>
    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
       <div itemprop="text">
          The list of participating merchants can be found <a href="https://www.americanexpress.com/en-in/benefits/shop-small/merchants/" target="_blank">here</a>.
