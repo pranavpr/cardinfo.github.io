@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amex Dining Offer: 20% cashback on select restaurants'
+title: 'Amex Dining Offer: 20% cashback on selected restaurants'
 date: 2021-01-17 16:23 +0000
 categories: [Amex, Card Offers]
 image: /assets/images/amex-dining-offer-20-percent-cashback-on-restaurants.jpg
