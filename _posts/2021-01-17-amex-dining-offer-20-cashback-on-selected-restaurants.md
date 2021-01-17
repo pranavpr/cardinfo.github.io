@@ -6,7 +6,7 @@ categories: [Amex, Card Offers]
 image: /assets/images/amex-dining-offer-20-percent-cashback-on-restaurants.jpg
 ---
 
-American Express (Amex) has rolled out dining offer on their credit cards wherein they are offering 20% cashback on select restaurants. The offer is applicable on some of the famous dining restaurant chains in India, e.g., AB's, Barbecue Nation, Beer Cafe, Hard Rock Cafe, Mainland China, Pizza Express, Punjab Grill, Sigree Global Grill etc. Let's dive into offer details to know more.
+American Express (Amex) has rolled out dining offer on their credit cards wherein they are offering 20% cashback on selected restaurants. The offer is applicable on some of the famous dining restaurant chains in India, e.g., AB's, Barbecue Nation, Beer Cafe, Hard Rock Cafe, Mainland China, Pizza Express, Punjab Grill, Sigree Global Grill etc. Let's dive into offer details to know more.
 
 <!-- prettier-ignore -->
 * TOC
