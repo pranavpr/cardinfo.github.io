@@ -234,13 +234,14 @@ Super Premium cards are not only hard to get but also require really high relati
 
 - Joining Fee: Rs. 5,000 + GST
 - Renewal Fee: Rs. 5,000 + GST
-- Welcome Bonus: Rs. 10,000 cashback from MakeMyTrip
+- Welcome Bonus: 6,000 reward points
+- Renewal Benefit: 5,000 reward points
 - Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon){:target="\_blank"}, [Flipkart](https://l.cardinfo.in/flipkart){:target="\_blank"}, Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip){:target="\_blank"}, [BookMyShow](https://l.cardinfo.in/bookmyshow){:target="\_blank"} etc. (depending upon availability on their reward redemption website)
 - Lounge Access:
   - International: 1 free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
   - Domestic: 4 per quarter through Visa/Mastercard Card Lounge program
 - Cashback of 5% at duty free store limited to Rs. 1,000 per month
-- Other benefits: Golf, Dineout membership, Concierge services, Travel & Air Accident insurance cover etc.
+- Other benefits: Golf, Concierge services, Travel & Air Accident insurance cover etc.
 
 #### 4. Citi Prestige Credit Card
 
