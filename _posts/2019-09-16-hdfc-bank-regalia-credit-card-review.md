@@ -53,11 +53,11 @@ HDFC compensates 50% for joining and renewal fee for this card by providing bonu
 - 1 reward point = Rs. 0.20 if [redeemed for cash](/redeem-hdfc-credit-card-reward-points-for-cash/){:target="\_blank"}
 - 1 reward point ~ Rs. 0.20 if used for redeeming from reward catalogue
 - 4 reward points per Rs. 150 spent, 1.3% reward rate
-- Up to 5% cashback on [Smartbuy](/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/){:target="\_blank"} ([Amazon](https://l.cardinfo.in/amazon){:target="\_blank"}, [Flipkart](https://l.cardinfo.in/flipkart){:target="\_blank"}, Hotels & Flights et)
+- Up to 5% cashback on [Smartbuy](/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/){:target="\_blank"} ([Amazon](https://l.cardinfo.in/amazon){:target="\_blank"}, [Flipkart](https://l.cardinfo.in/flipkart){:target="\_blank"}, Hotels & Flights etc.)
 - Monthly cap on cashback: Rs. 2,000
 - Reward points can be converted to AirMiles across Jet Airways (JPMiles) or Singapore Airlines (KrisFlyer Miles) in 2:1 ratio (2 Reward Points = 1 AirMile)
 
-[10X rewards](/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/){:target="\_blank"}, though temporary, keeps on getting extended every month. Also HDFC Bank recently imposed new [restriction](/new-restriction-on-hdfc-bank-regalia-and-diners-clubmiles-credit-card-rewards-redemption/){:target="\_blank"} on flight and hotel bookings wherein HDFC Bank Regalia Credit Card members can redeem only upto maximum of 70% of booking value through reward points. Rest needs to be paid via Credit Card which is a bummer.
+[Smartbuy program](/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/){:target="\_blank"}, though temporary, keeps on getting extended every month. Also HDFC Bank recently imposed new [restriction](/new-restriction-on-hdfc-bank-regalia-and-diners-clubmiles-credit-card-rewards-redemption/){:target="\_blank"} on flight and hotel bookings wherein HDFC Bank Regalia Credit Card members can redeem only upto maximum of 70% of booking value through reward points. Rest needs to be paid via Credit Card which is a bummer.
 
 #### Airport Lounge Access
 
