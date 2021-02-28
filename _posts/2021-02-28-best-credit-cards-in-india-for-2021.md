@@ -105,7 +105,7 @@ Premium cards are one notch above lifestyle cards. These cards not only have a h
 
 - Joining fee: Rs. 2,500 + GST
 - Renewal fee: Rs. 2,500 + GST, waived off if spend in previous year is more than Rs. 3 Lakhs.
-- Annual Memberships of Zomato Gold, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star on spending Rs. 5 Lakhs in previous year
+- Annual Memberships of Zomato Pro, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star on spending Rs. 5 Lakhs in previous year
 - Reward Rate:
   - 4 reward points per Rs. 150 spent, 1.3% reward rate
   - 2X rewards on weekend dining capped to 500 RP per day, 2.6% reward rate
@@ -220,7 +220,7 @@ Super Premium cards are not only hard to get but also require really high relati
 - Reward Rate:
   - 3.3% (normal spends) - 33% (using [HDFC SmartBuy 10X program](/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/){:target="\_blank"}, capped to 7,500 reward points per month)
   - 2X reward points on weekend dining capped to 1,000 reward points, 6.6% reward rate
-- Complimentary annual memberships: Club Marriott, Forbes Digital subscription, Zomato Gold, Amazon Prime, [MakeMyTrip](https://l.cardinfo.in/makemytrip) Double Black, Times Prime on spending Rs. 8 Lakhs in previous year
+- Complimentary annual memberships: Club Marriott, Forbes Digital subscription, Zomato Pro, Amazon Prime, [MakeMyTrip](https://l.cardinfo.in/makemytrip) Double Black, Times Prime on spending Rs. 8 Lakhs in previous year
 - Monthly Benefits: Vouchers worth Rs. 1,000 on achieving a monthly spend of Rs. 80,000
 - Lounge Access: Unlimited airport lounge access to 1000+ lounges in India and worldwide for primary as well as add-on card members
 - Lower foreign currency markup of 1.99%
