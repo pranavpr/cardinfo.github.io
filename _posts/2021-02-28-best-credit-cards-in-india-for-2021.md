@@ -120,7 +120,7 @@ Premium cards are one notch above lifestyle cards. These cards not only have a h
 
 #### 2. HDFC Regalia Credit Card
 
-{% include tile.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" reward="1.3%-13%" annualfee="Nil<sup>*</sup>" reviewurl="/hdfc-bank-regalia-credit-card-review/" pros="1.3% default reward rate<br />5% reward rate using HDFC SmartBuy portal<br/>Zomato Gold Membership for first year<br />Milestone benefits<br/>Domestic and International airport lounge access for primary and add-on card members<br/>Insurance and 24/7 Concierge Services" cons="Restriction on reward point redemption for flights & hotels" %}
+{% include tile.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" reward="1.3%-5%" annualfee="Nil<sup>*</sup>" reviewurl="/hdfc-bank-regalia-credit-card-review/" pros="1.3% default reward rate<br />5% reward rate using HDFC SmartBuy portal<br/>Zomato Gold Membership for first year<br />Milestone benefits<br/>Domestic and International airport lounge access for primary and add-on card members<br/>Insurance and 24/7 Concierge Services" cons="Restriction on reward point redemption for flights & hotels" %}
 
 [HDFC Regalia](/hdfc-bank-regalia-credit-card-review/){:target="\_blank"} is the most popular credit card from HDFC Bank. It comes with a host of benefits like lower foreign currency markup, Priority Pass membership etc. The milestone benefits on this card are added perks which pushes the reward rate even higher. You need to have a monthly income more than Rs. 70,000 to get this card.
 
