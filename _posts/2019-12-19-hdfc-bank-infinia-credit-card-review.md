@@ -3,7 +3,7 @@ layout: post
 title: HDFC Bank Infinia Credit Card Review
 date: 2019-12-19 13:17 +0530
 seo:
-  date_modified: 2020-02-22 00:07 +0530
+  date_modified: 2021-02-28 16:10 +0530
 categories: [HDFC, Credit Card Reviews]
 image: /assets/images/hdfc-infinia-credit-card-review.jpg
 product: HDFC Bank Infinia Credit Card
@@ -11,11 +11,11 @@ product: HDFC Bank Infinia Credit Card
 
 HDFC Bank Infinia Credit Card is a super premium offering from HDFC Bank targeted towards high net-worth individuals. Being an invite only card, one can't lay hands on it unless invited by HDFC Bank. The benefits provided on this card are unparalleled in the industry and matchs the luxurious lifestyle of ultra-rich Indians.
 
-HDFC Bank Infinia Credit Card is one of the [best super premium credit cards](/best-credit-cards-in-india-for-2020/) in India currently and is a dream of every credit card enthusiast. The benefits include, but not limited to, great reward rate, unlimited airport lounge access, golf privileges and no pre-set spending limit (!).
+HDFC Bank Infinia Credit Card is the [best super premium credit card](/best-credit-cards-in-india-for-2021/){:target="\_blank"} in India currently and is a dream of every credit card enthusiast. The benefits include, but not limited to, great reward rate, unlimited airport lounge access, golf privileges and no pre-set spending limit (!).
 
 {% include image.html image="hdfc-bank-infinia-credit-card-design.jpg" alt="HDFC Bank Infinia Credit Card Design" class="img-center mb-3" %}
 
-HDFC Bank Infinia Credit Card comes in dark blue color with design similar to [HDFC Bank Regalia Credit Card](/hdfc-bank-regalia-credit-card-review/). It's available on Visa Infinite as well as MasterCard World platform and is enabled for contactless transactions.
+HDFC Bank Infinia Credit Card comes in dark blue color with design similar to [HDFC Bank Regalia Credit Card](/hdfc-bank-regalia-credit-card-review/){:target="\_blank"}. It's available on Visa Infinite as well as MasterCard World platform and is enabled for contactless transactions.
 
 {% include tip.html tip="Visa Infinite has relatively more benefits than MasterCard World. Given a choice, opt for former over latter." %}
 
@@ -78,12 +78,12 @@ The credit limit on this card is generally upwards of Rs. 8 Lakhs. However in so
 
 #### Reward Points
 
-- 1 reward point = Rs. 1 if used for booking hotels and air tickets at [dedicated portal](https://offers.smartbuy.hdfcbank.com/infinia)
+- 1 reward point = Rs. 1 if used for booking hotels and air tickets at [dedicated portal](https://offers.smartbuy.hdfcbank.com/infinia){:target="\_blank"}
 - 1 reward point = Rs. 0.30 if redeemed for cash
 - 1 reward point ~ Rs. 0.40 if used for redeeming from reward catalogue
 - 5 reward points per Rs. 150 spent, 3.3% reward rate
-- [10X rewards](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) on Smartbuy ([Amazon](https://l.cardinfo.in/amazon), [Flipkart](https://l.cardinfo.in/flipkart), Instant Vouchers, Train Tickets, Hotels & Flights), 33% reward rate
-- Maxcap on bonus reward points at SmartBuy: 25,000
+- [10X rewards](/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/){:target="\_blank"} on Smartbuy ([Amazon](https://l.cardinfo.in/amazon){:target="\_blank"}, [Flipkart](https://l.cardinfo.in/flipkart){:target="\_blank"}, Instant Vouchers, Train Tickets, Hotels & Flights), 33% reward rate
+- Maxcap on bonus reward points at SmartBuy: 15,000
 - 2X rewards on dining, 6.6% reward rate
   - Minimum transaction: Rs. 150
   - Maxcap on dining reward points: None
@@ -116,7 +116,7 @@ Complimentary golf games not only in India, but abroad also, is a great privileg
 - Foreign Currency Markup: 2% + GST (~2.36%)
 - 1% cashback (limited to Rs. 1,000 per month) on international transactions using Global Value Program (annual fee of Rs. 199)
 
-With a reward rate of 3.3%, Infinia card holders can enjoy a net benefit of 0.94% on foreign spends. If you enroll in to Global Value program, the net reward rate pushes to 1.94% which is truly awesome. Solely due to this reason, this card tops the list of [best Indian credit card for international travel and spends](/best-credit-cards-in-india-with-low-forex-currency-markup-for-international-travel-spends/).
+With a reward rate of 3.3%, Infinia card holders can enjoy a net benefit of 0.94% on foreign spends. If you enroll in to Global Value program, the net reward rate pushes to 1.94% which is truly awesome. Solely due to this reason, this card tops the list of [best Indian credit card for international travel and spends](/best-credit-cards-in-india-with-low-forex-currency-markup-for-international-travel-spends/){:target="\_blank"}.
 
 #### Concierge
 
@@ -154,15 +154,15 @@ The emergency hospitalization cover while traveling abroad is a huge relief and 
 
 Though the benefits on Infinia are really great, some recent developments has left Infinia members in a bitter-sweet mood.
 
-- No monthly & annual benefits: Recently HDFC Bank has introduced [monthly and annual benefits on HDFC Diners Club Black Credit Card](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/) on meeting the spend targets. Not sure, why HDFC Bank has left Infinia behind given that they position Infinia a step above Diners Club Black. HDFC Bank must introduce the equivalent benefits on Infinia if it wants to retain its current status.
-- Lack of premium look & feel: Infinia lacks the premium look and feel which puts me off a little bit. Given that it's a super premium credit card, HDFC Bank should replace the plastic card with metal card just like American Express Platinum Charge Card or [Axis Burgundy Private Credit Card](/axis-bank-launches-burgundy-private-credit-card-review/). This is more of a wishlist item than a drawback.
+- No monthly & annual benefits: Recently HDFC Bank has introduced [monthly and annual benefits on HDFC Diners Club Black Credit Card](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/){:target="\_blank"} on meeting the spend targets. Not sure, why HDFC Bank has left Infinia behind given that they position Infinia a step above Diners Club Black. HDFC Bank must introduce the equivalent benefits on Infinia if it wants to retain its current status.
+- Lack of premium look & feel: Infinia lacks the premium look and feel which puts me off a little bit. Given that it's a super premium credit card, HDFC Bank should replace the plastic card with metal card just like American Express Platinum Charge Card or [Axis Burgundy Private Credit Card](/axis-bank-launches-burgundy-private-credit-card-review/){:target="\_blank"}. This is more of a wishlist item than a drawback.
 
 ### Verdict
 
-Needless to say HDFC Bank Infinia Credit Card is currently one of the best credit cards one can get in India. 33% reward rate using [10X program](/hdfc-smartbuy-10x-rewards-even-more-rewarding-with-december-2019-update/) is really phenomenal. Unlimited lounge access worldwide, golf privileges across the globe and a dedicated support line to quickly talk to a human are cherries on the top. If you get invited for this card by HDFC Bank, just accept it without giving a second thought. This card will pay you back, many times the annual fee charged, within no time.
+Needless to say HDFC Bank Infinia Credit Card is currently one of the best credit cards one can get in India. 33% reward rate using [10X program](/hdfc-smartbuy-10x-program-major-devaluation-from-june-2020/){:target="\_blank"} is really phenomenal. Unlimited lounge access worldwide, golf privileges across the globe and a dedicated support line to quickly talk to a human are cherries on the top. If you get invited for this card by HDFC Bank, just accept it without giving a second thought. This card will pay you back, many times the annual fee charged, within no time.
 
 {% include star-rating.html rating=5 rewards=5 fees=5 features=5 %}
 
-Though getting invited for Infinia is tough, it's not impossible. My personal [upgrade journey to Infina](/hdfc-bank-infinia-credit-card-upgrade-experience/) spans across a period of 11 years. If you're finding it hard to get hold of Infinia, consider going for [Diners Club Black](/hdfc-diners-club-black-credit-card-review/). With [recent updates](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/), it has become even better than Infinia in some aspects, however it's international acceptance is still questionable.
+Though getting invited for Infinia is tough, it's not impossible. My personal [upgrade journey to Infina](/hdfc-bank-infinia-credit-card-upgrade-experience/){:target="\_blank"} spans across a period of 11 years. If you're finding it hard to get hold of Infinia, consider going for [Diners Club Black](/hdfc-diners-club-black-credit-card-review/){:target="\_blank"}. With [recent updates](/hdfc-bank-introduces-new-benefits-on-diners-club-black-credit-card/){:target="\_blank"}, it has become even better than Infinia in some aspects, however it's international acceptance is still questionable.
 
 _What is your "Infinia Story"? How you got hold of Infinia? Let me know in comments below._
