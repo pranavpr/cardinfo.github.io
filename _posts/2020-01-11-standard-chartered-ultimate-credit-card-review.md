@@ -2,6 +2,8 @@
 layout: post
 title: Standard Chartered Ultimate Credit Card Review
 date: 2020-01-11 10:51 +0530
+seo:
+  date_modified: 2020-02-28 10:00 +0530
 categories: [SC, Credit Card Reviews]
 image: /assets/images/standard-chartered-ultimate-credit-card-review.jpg
 product: Standard Chartered Ultimate Credit Card
@@ -47,9 +49,9 @@ Standard Chartered Ultimate Credit Card, being a super premium card, sports mult
 
 #### Welcome Benefit
 
-- Rs. 10,000 cashback on first transaction at MakeMyTrip
+- 6,000 reward points
 
-The cashback is valid only for flight and hotel booking and transaction should be done within 90 days of card issuance. The cashback amount would be credited to the card account within 60 days from the date of travel/stay.
+Welcome benefit covers the joining fee along with applicable GST which is quite nice. However this is a downgrade from previous offer where Standard Chartered used to provide Rs. 10,000 cashback on MakeMyTrip as welcome benefit.
 
 #### Renewal Benefit
 
@@ -80,12 +82,11 @@ _Thanks Sharad for sharing above tip._
 
 #### Golf Program
 
-- 2 complimentary Golf games per month
-- 1 complimentary guest game per month
+- 1 complimentary Golf games per month
 - 1 complimentary coaching session per month
 - Booking needs to be made 7 days advance through the Ultimate Concierge
 
-The Golf Program looks comprehensive and the ability to bring guests is an added perk.
+The Golf Program looks comprehensive and availability of coaching sessions is an added perk.
 
 #### Travel Benefits
 
