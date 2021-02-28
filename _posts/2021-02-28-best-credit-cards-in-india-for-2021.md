@@ -99,9 +99,9 @@ Premium cards are one notch above lifestyle cards. These cards not only have a h
 
 #### 1. HDFC Diners Club Privilege Credit Card
 
-{% include tile.html image="hdfc-diners-club-privilege-credit-card.jpg" alt="HDFC Diners Club Privilege Credit Card" reward="1.3%-13%" annualfee="Rs. 2,500" reviewurl="/hdfc-bank-launches-diners-club-privilege-credit-card-review/" pros="Annual Memberships of Zomato Gold, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star <br/>1.3% default reward rate<br />5% reward rate using HDFC SmartBuy portal <br/> 10X rewards using Diners Club 10X program<br />Domestic and International airport lounge access for primary and add-on card members<br/>Golf privileges, Insurance & 24/7 Concierge Services" cons="No renewal benefits <br />Acceptance is not that great, especially international" %}
+{% include tile.html image="hdfc-diners-club-privilege-credit-card.jpg" alt="HDFC Diners Club Privilege Credit Card" reward="1.3%-13%" annualfee="Rs. 2,500" reviewurl="/hdfc-bank-launches-diners-club-privilege-credit-card-review/" pros="Annual Memberships of Zomato Pro, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star <br/>1.3% default reward rate<br />5% reward rate using HDFC SmartBuy portal <br/> 10X rewards using Diners Club 10X program<br />Domestic and International airport lounge access for primary and add-on card members<br/>Golf privileges, Insurance & 24/7 Concierge Services" cons="No renewal benefits <br />Acceptance is not that great, especially international" %}
 
-[HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-diners-club-privilege-credit-card-review/){:target="\_blank"} packs multiple benefits which makes it best premium credit card. This card introduces the benefit of annual memberships of Zomato Gold, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star. This card also provides monthly benefit of vouchers worth Rs. 500 on meeting the spend target of Rs. 40,000 which pushes the overall reward rate to 2.55%.
+[HDFC Diners Club Privilege Credit Card](/hdfc-bank-launches-diners-club-privilege-credit-card-review/){:target="\_blank"} packs multiple benefits which makes it best premium credit card. This card introduces the benefit of annual memberships of Zomato Pro, Amazon Prime, MMT DoubleBlack, Times Prime & BB Star. This card also provides monthly benefit of vouchers worth Rs. 500 on meeting the spend target of Rs. 40,000 which pushes the overall reward rate to 2.55%.
 
 - Joining fee: Rs. 2,500 + GST
 - Renewal fee: Rs. 2,500 + GST, waived off if spend in previous year is more than Rs. 3 Lakhs.
@@ -120,7 +120,7 @@ Premium cards are one notch above lifestyle cards. These cards not only have a h
 
 #### 2. HDFC Regalia Credit Card
 
-{% include tile.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" reward="1.3%-5%" annualfee="Nil<sup>*</sup>" reviewurl="/hdfc-bank-regalia-credit-card-review/" pros="1.3% default reward rate<br />5% reward rate using HDFC SmartBuy portal<br/>Zomato Gold Membership for first year<br />Milestone benefits<br/>Domestic and International airport lounge access for primary and add-on card members<br/>Insurance and 24/7 Concierge Services" cons="Restriction on reward point redemption for flights & hotels" %}
+{% include tile.html image="hdfc-regalia-credit-card.jpg" alt="HDFC Regalia Credit Card" reward="1.3%-5%" annualfee="Nil<sup>*</sup>" reviewurl="/hdfc-bank-regalia-credit-card-review/" pros="1.3% default reward rate<br />5% reward rate using HDFC SmartBuy portal<br/>Complimentary Dineout Passport Membership<br />Milestone benefits<br/>Domestic and International airport lounge access for primary and add-on card members<br/>Insurance and 24/7 Concierge Services" cons="Restriction on reward point redemption for flights & hotels" %}
 
 [HDFC Regalia](/hdfc-bank-regalia-credit-card-review/){:target="\_blank"} is the most popular credit card from HDFC Bank. It comes with a host of benefits like lower foreign currency markup, Priority Pass membership etc. The milestone benefits on this card are added perks which pushes the reward rate even higher. You need to have a monthly income more than Rs. 70,000 to get this card.
 
@@ -137,8 +137,7 @@ Premium cards are one notch above lifestyle cards. These cards not only have a h
   - 10,000 Reward Points on annual spends of Rs. 5 Lakhs
   - Additional 5,000 Reward Points on achieving annual spends of Rs. 8 Lakhs
 - Lower foreign currency markup of 2%
-- Other benefits: Club Vistara Silver membership, Zomato Gold membership, travel concierge, insurance cover etc.
-- Apply [here](https://leads.hdfcbank.com/applications/new_webforms/apply/mobile/Credit-Card_TU.aspx)
+- Other benefits: Dineout Passport Membership, Travel concierge, insurance cover etc.
 
 #### 3. Indusind Iconia Credit Card (Amex)
 
