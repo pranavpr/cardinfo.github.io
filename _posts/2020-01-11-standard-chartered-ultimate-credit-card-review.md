@@ -3,7 +3,7 @@ layout: post
 title: Standard Chartered Ultimate Credit Card Review
 date: 2020-01-11 10:51 +0530
 seo:
-  date_modified: 2020-02-28 10:00 +0530
+  date_modified: 2021-02-28 10:00 +0530
 categories: [SC, Credit Card Reviews]
 image: /assets/images/standard-chartered-ultimate-credit-card-review.jpg
 product: Standard Chartered Ultimate Credit Card
