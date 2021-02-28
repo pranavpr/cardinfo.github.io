@@ -234,8 +234,8 @@ Super Premium cards are not only hard to get but also require really high relati
 
 - Joining Fee: Rs. 5,000 + GST
 - Renewal Fee: Rs. 5,000 + GST
-- Welcome Bonus: 6,000 reward points
-- Renewal Benefit: 5,000 reward points
+- Welcome Bonus: 6,000 reward points, worth ~ Rs. 6,000
+- Renewal Benefit: 5,000 reward points, worth ~ Rs. 5,000
 - Reward Rate: 3.3%, can be redeemed for gift vouchers of [Amazon](https://l.cardinfo.in/amazon){:target="\_blank"}, [Flipkart](https://l.cardinfo.in/flipkart){:target="\_blank"}, Lifestyle, Big Bazaar, [MakeMyTrip](https://l.cardinfo.in/makemytrip){:target="\_blank"}, [BookMyShow](https://l.cardinfo.in/bookmyshow){:target="\_blank"} etc. (depending upon availability on their reward redemption website)
 - Lounge Access:
   - International: 1 free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
