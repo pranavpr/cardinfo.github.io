@@ -8,6 +8,8 @@ categories: [Reviews]
 image: /assets/images/best-credit-cards-in-india-for-2020.jpg
 ---
 
+**New List is out:** Check out the new list of [best credit cards in India for 2021](/best-credit-cards-in-india-for-2021/).
+
 Looking for the best credit card in India which can give you maximum benefit in 2020? Or just evaluating your current credit card portfolio and trying to optimize it? Look no further as you have landed upon the correct article.
 
 I have extensively analyzed 100+ credit cards available in India as of today and compiled the list of 18 best credit cards for 2020. While you review this list, keep in mind that there is no one perfect card suitable for all needs. The spending pattern, income range, willingness to pay annual fees etc. varies from person to person and play a vital role in the selection of a credit card. Now without any further delay, let's look at the credit cards which made it to the list.

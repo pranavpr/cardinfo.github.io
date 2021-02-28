@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Axis Bank launches ACE Credit Card in partnership with Google Pay  - Review
+title: Axis Bank launches ACE Credit Card in partnership with Google Pay - Review
 date: 2020-10-12 19:45 +0100
 categories: [Axis, News]
 image: /assets/images/axis-bank-launches-ace-credit-card.jpg
@@ -43,16 +43,16 @@ Under a limited time launch offer, Axis Bank ACE Credit Card holders can enjoy a
 #### Rewards
 
 - 5% cashback on bill payments via Google Pay. Following categories are covered:
-- Electricity
-- Internet
-- Gas
-- DTH
-- Mobile Recharge
+  - Electricity
+  - Internet
+  - Gas
+  - DTH
+  - Mobile Recharge
 - 4% cashback on Swiggy, Zomato and Ola
 - 2% cashback on all other spends except following:
-- Fuel
-- Wallet Load
-- EMI
+  - Fuel
+  - Wallet Load
+  - EMI
 
 Cashback earned for the purchases during a billing cycle will be credited in the next billing cycle 3 days prior to the statement generation date. 5% unlimited cashback on bill payments is really great and there aren't any cards in the market which provide the same without any cap. The default 2% cashback on other spends is simply amazing and it's highest among entry level credit cards released so far.
 

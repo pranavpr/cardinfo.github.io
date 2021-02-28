@@ -7,7 +7,7 @@ seo:
 image: /assets/images/best-credit-card-india-2019.jpg
 ---
 
-**New List is out:** Check out the new list of [best credit cards in India for 2020](/best-credit-cards-in-india-for-2020/).
+**New List is out:** Check out the new list of [best credit cards in India for 2021](/best-credit-cards-in-india-for-2021/).
 
 Looking for best credit card in India or wondering the one which is in your wallet is best or or not? Look no further as you have stumbled upon the correct webpage.
 
