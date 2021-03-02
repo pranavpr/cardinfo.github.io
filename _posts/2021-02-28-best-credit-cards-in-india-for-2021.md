@@ -156,17 +156,17 @@ If you spend a lot on weekends, this is the card for you. It provides accelerate
 
 #### 4. American Express Platinum Travel Card
 
-{% include tile.html image="american-express-platinum-travel-credit-card.jpg" alt="American Express Platinum Travel Card" reward="0.5%-7%" annualfee="Rs. 4,500" reviewurl="/best-credit-cards-in-india-for-2020/" pros="Welcome benefit of 5,000 rewards points worth Rs. 4,000<br/>  Travel Vouchers worth Rs. 7,700 on annual spend of Rs. 1.90 Lakhs<br/>Travel Vouchers worth Rs. 11,800 on annual spend of Rs. 4 Lakhs<br/>Taj Experiences Gift Card worth Rs. 10,000<br/>4 complimentary domestic airport lounge access in a year" cons="Acceptance is not that great<br/>High joining and renewal fees" %}
+{% include tile.html image="american-express-platinum-travel-credit-card.jpg" alt="American Express Platinum Travel Card" reward="0.5%-4.9%" annualfee="Rs. 4,500" reviewurl="/best-credit-cards-in-india-for-2021/" pros="Welcome benefit of 10,000 rewards points worth Rs. 3,000<br/>15,000 reward points worth Rs. 4,500 on annual spend of Rs. 1.90 Lakhs<br/>25,000 reward points worth Rs. 7,500 on annual spend of Rs. 4 Lakhs<br/>Taj Experiences Gift Card worth Rs. 10,000  on annual spend of Rs. 4 Lakhs<br/>4 complimentary domestic airport lounge access in a year" cons="Acceptance is not that great<br/>High joining and renewal fees" %}
 
 American Express Platinum Travel Card is one of the best travel credit cards at the moment and is suitable for frequent travelers. The handsome reward rate coupled with awesome customer support makes this card really desirable. However acceptance of Amex cards in India is still not great and many merchants don't accept it due to relatively higher MDR charges.
 
 - Joining Fee: Nil if applied via [referral link](https://l.cardinfo.in/amextravel){:target="\_blank"}, Rs. 3,500 + GST otherwise
-- Welcome benefit of 5,000 rewards points worth Rs. 4,000
+- Welcome benefit of 10,000 rewards points worth Rs. 3,000
 - Renewal Fee: Rs 5,000 + GST
 - Reward Rate: 1 Membership Rewards Point for every Rs. 50 spent, 0.50% reward rate if points are converted to statement credit
 - Milestone Benefits:
-  - Travel Vouchers worth Rs. 7,700 on annual spend of Rs. 1.90 Lakhs
-  - Travel Vouchers worth Rs. 11,800 on annual spend of Rs. 4 Lakhs
+  - 15,000 reward points worth Rs. 4,500 on annual spend of Rs. 1.90 Lakhs
+  - 25,000 reward points worth Rs. 7,500 on annual spend of Rs. 4 Lakhs
   - Taj Experiences Gift Card worth Rs. 10,000 on annual spend of Rs. 4 Lakhs
 - Lounge Access: 4 complimentary domestic airport lounge access in a year
 - Apply [here](https://l.cardinfo.in/amextravel){:target="\_blank"}
