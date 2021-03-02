@@ -20,8 +20,8 @@ HDFC Bank Regalia Credit Card is a premium offering from HDFC Bank and is probab
 Regalia is a premium credit card and hence eligibility criteria is also suited for premium segment.
 
 - Age: 21 to 60 Years for salaried, 21 to 65 Years for self employed
-- Salaried: Net Monthly Income > Rs. 1.2 Lakhs per month
-- Self Employed: ITR > Rs. 12 Lakhs per annum
+- Salaried: Net Monthly Income > Rs. 70,000 per month
+- Self Employed: ITR > Rs. 8.4 Lakhs per annum
 
 HDFC is very strict about the eligibility criteria for issuing new cards. However, the exceptions can be made based on your relationship with bank.
 
